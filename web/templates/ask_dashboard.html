@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Atlas Cognitive Amplification Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2em; background: #f8f9fa; }
+        h1 { color: #2c3e50; }
+        nav { margin-bottom: 2em; }
+        nav a { margin-right: 1.5em; text-decoration: none; color: #2980b9; font-weight: bold; }
+        section { margin-bottom: 2em; background: #fff; padding: 1.5em; border-radius: 8px; box-shadow: 0 2px 8px #eee; }
+        h2 { color: #34495e; }
+        ul { padding-left: 1.5em; }
+        .label { font-weight: bold; color: #888; }
+        .question { margin-bottom: 0.5em; }
+        .pattern-list { display: flex; gap: 2em; }
+        .pattern-list ul { margin: 0; }
+    </style>
+</head>
+<body>
+    <h1>Atlas Cognitive Amplification Dashboard</h1>
+    <nav>
+        <a href="/ask/html?feature=proactive">Proactive Surfacer</a>
+        <a href="/ask/html?feature=temporal">Temporal Relationships</a>
+        <a href="/ask/html?feature=socratic">Socratic Questions</a>
+        <a href="/ask/html?feature=recall">Active Recall</a>
+        <a href="/ask/html?feature=patterns">Pattern Detector</a>
+    </nav>
+    {% if feature == 'proactive' %}
+    <section>
+        <h2>Proactive Surfacer</h2>
+        <ul>
+        {% for item in data.forgotten %}
+            <li><span class="label">Title:</span> {{ item.title }}<br><span class="label">Last Updated:</span> {{ item.updated_at }}</li>
+        {% endfor %}
+        </ul>
+    </section>
+    {% elif feature == 'temporal' %}
+    <section>
+        <h2>Temporal Relationships</h2>
+        <ul>
+        {% for rel in data.relationships %}
+            <li><span class="label">From:</span> {{ rel.from }} &rarr; <span class="label">To:</span> {{ rel.to }} ({{ rel.days }} days apart)</li>
+        {% endfor %}
+        </ul>
+    </section>
+    {% elif feature == 'socratic' %}
+    <section>
+        <h2>Socratic Question Generator</h2>
+        <form method="post" action="/ask/html?feature=socratic">
+            <textarea name="content" rows="4" cols="60" placeholder="Paste content here..."></textarea><br>
+            <button type="submit">Generate Questions</button>
+        </form>
+        {% if data and data.questions %}
+        <div style="margin-top:1em;">
+            <h3>Generated Questions:</h3>
+            <ul>
+            {% for q in data.questions %}
+                <li class="question">{{ q }}</li>
+            {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+    </section>
+    {% elif feature == 'recall' %}
+    <section>
+        <h2>Active Recall (Spaced Repetition)</h2>
+        <ul>
+        {% for item in data.due_for_review %}
+            <li><span class="label">Title:</span> {{ item.title }}<br><span class="label">Last Reviewed:</span> {{ item.last_reviewed }}</li>
+        {% endfor %}
+        </ul>
+    </section>
+    {% elif feature == 'patterns' %}
+    <section>
+        <h2>Pattern Detector</h2>
+        <div class="pattern-list">
+            <div>
+                <h4>Top Tags</h4>
+                <ul>
+                {% for tag, count in data.top_tags %}
+                    <li>{{ tag }} ({{ count }})</li>
+                {% endfor %}
+                </ul>
+            </div>
+            <div>
+                <h4>Top Sources</h4>
+                <ul>
+                {% for source, count in data.top_sources %}
+                    <li>{{ source }} ({{ count }})</li>
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </section>
+    {% else %}
+    <section>
+        <h2>Welcome to the Cognitive Amplification Dashboard</h2>
+        <p>Select a feature above to explore cognitive insights from your knowledge base.</p>
+    </section>
+    {% endif %}
+</body>
+</html> 

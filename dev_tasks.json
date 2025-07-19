@@ -1,0 +1,110 @@
+{
+  "FOUNDATION-API-1": {
+    "id": "FOUNDATION-API-1",
+    "content": "Fix MetadataManager constructor parameter mismatch",
+    "status": "completed",
+    "priority": "critical",
+    "dependencies": [],
+    "category": "foundation",
+    "estimated_time": 30,
+    "complexity": 3,
+    "last_attempt": "2025-07-13T01:43:25.511017",
+    "failure_count": 0,
+    "implementation_notes": "Check helpers/metadata_manager.py constructor vs docs/api_documentation.md\nChecked at 2025-07-13 01:43:25.511517: Constructor analysis needed",
+    "git_commits": [
+      "cd03f702641ab4c807afea7015a820bb7ae2ab28"
+    ]
+  },
+  "FOUNDATION-API-2": {
+    "id": "FOUNDATION-API-2",
+    "content": "Fix PathManager method signatures in documentation",
+    "status": "completed",
+    "priority": "critical",
+    "dependencies": [],
+    "category": "foundation",
+    "estimated_time": 20,
+    "complexity": 2,
+    "last_attempt": "2025-07-13T01:43:25.475551",
+    "failure_count": 0,
+    "implementation_notes": "Update docs/api_documentation.md to match helpers/path_manager.py\nChecked at 2025-07-13 01:43:25.475986: Documentation sync needed",
+    "git_commits": [
+      "82f70e6b2bec17c3af3fac559d4c5d7fb31826ff"
+    ]
+  },
+  "FOUNDATION-TEST-1": {
+    "id": "FOUNDATION-TEST-1",
+    "content": "Add comprehensive unit tests for path_manager.py",
+    "status": "pending",
+    "priority": "high",
+    "dependencies": [
+      "FOUNDATION-API-2"
+    ],
+    "category": "foundation",
+    "estimated_time": 60,
+    "complexity": 4,
+    "last_attempt": null,
+    "failure_count": 0,
+    "implementation_notes": "Create tests/unit/test_path_manager.py with 90%+ coverage",
+    "git_commits": []
+  },
+  "FOUNDATION-TEST-2": {
+    "id": "FOUNDATION-TEST-2",
+    "content": "Add unit tests for base_ingestor.py",
+    "status": "completed",
+    "priority": "high",
+    "dependencies": [],
+    "category": "foundation",
+    "estimated_time": 45,
+    "complexity": 3,
+    "last_attempt": "2025-07-13T01:43:25.542133",
+    "failure_count": 0,
+    "implementation_notes": "Create tests/unit/test_base_ingestor.py\nCreated basic test structure at 2025-07-13 01:43:25.542517",
+    "git_commits": [
+      "aec86a479ad388843ac0e073b35cff28f56ee933"
+    ]
+  },
+  "FOUNDATION-MIGRATE-1": {
+    "id": "FOUNDATION-MIGRATE-1",
+    "content": "Migrate article_fetcher.py to use article_strategies.py",
+    "status": "pending",
+    "priority": "medium",
+    "dependencies": [
+      "FOUNDATION-API-1"
+    ],
+    "category": "foundation",
+    "estimated_time": 90,
+    "complexity": 4,
+    "last_attempt": null,
+    "failure_count": 0,
+    "implementation_notes": "Update all references to use new article_strategies architecture",
+    "git_commits": []
+  },
+  "DEV-e1347426": {
+    "id": "DEV-e1347426",
+    "content": "Fix parser regex bug",
+    "status": "completed",
+    "priority": "critical",
+    "dependencies": [],
+    "category": "bug",
+    "estimated_time": 30,
+    "complexity": 3,
+    "implementation_notes": "\nCompleted: Fixed regex pattern in parser.py",
+    "git_commits": [],
+    "last_attempt": null,
+    "failure_count": 0
+  },
+  "DEV-51e4ea9a": {
+    "id": "DEV-51e4ea9a",
+    "content": "Add dark mode support",
+    "status": "pending",
+    "priority": "medium",
+    "dependencies": [],
+    "category": "feature",
+    "estimated_time": 120,
+    "complexity": 3,
+    "implementation_notes": "",
+    "git_commits": [],
+    "last_attempt": null,
+    "failure_count": 0
+  }
+}

@@ -1,0 +1,27 @@
+# Base requirements
+requests
+python-dotenv
+beautifulsoup4
+readability-lxml
+playwright
+playwright-stealth
+rich
+html2text
+feedparser
+pytube
+youtube_transcript_api
+
+# Scheduling system
+apscheduler
+sqlalchemy
+
+# Testing dependencies
+pytest
+pytest-mock
+responses
+
+uvicorn
+
+python-multipart
+fastapi
+jinja2

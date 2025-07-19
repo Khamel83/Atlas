@@ -1,0 +1,17 @@
+{
+  "source_file": "/Volumes/2TB_SSD/Media/Atlas/articles/markdown/d2ae99569eb10c6f.md",
+  "ingestion_timestamp": "2025-07-13T10:04:56.775667+00:00",
+  "evaluations": [
+    {
+      "evaluator_id": "ingestion_v1",
+      "timestamp": "2025-07-13T10:04:56.775682+00:00",
+      "type": "ingestion_check",
+      "result": {
+        "status": "success",
+        "notes": "Content fetched via requests_direct:failed -> playwright_stealth:success"
+      },
+      "feedback": null
+    }
+  ],
+  "user_feedback": []
+}

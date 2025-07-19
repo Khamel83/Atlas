@@ -1,0 +1,56 @@
+# Ignore data and output directories
+/data/
+/output/
+/logs/
+/test_logs/
+# Ignore any collateral, parsed, raw, transcripts, and videos
+**/collateral/
+**/parsed/
+**/raw/
+**/transcripts/
+**/videos/
+# Ignore mp3, md, json, txt files in output and data
+output/**/*.mp3
+output/**/*.md
+output/**/*.json
+output/**/*.txt
+data/**/*.mp3
+data/**/*.md
+data/**/*.json
+data/**/*.txt
+# Ignore retries and other runtime artifacts
+retries.json
+# Allow code, configs, and scripts
+!*.py
+!*.sh
+!*.md
+!requirements.txt
+!setup_test_inputs.sh
+!Atlas.code-workspace 
+# Env
+.env
+config/.env
+
+# Atlas
+output/
+
+# Security and compliance
+.env
+*.key
+*.pem
+compliance.log
+compliance_report.json
+
+# Sensitive data
+personal_data/
+private_notes/
+
+# API keys and credentials
+.env.*
+!.env.example
+secrets/
+credentials/
+
+# Runtime logs with potentially sensitive content
+*.log
+!docs/*.log 

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Sample Podcasts</title>
+  </head>
+  <body>
+    <outline text="The Daily" type="rss" xmlUrl="https://feeds.simplecast.com/54nAGcIl" />
+    <outline text="Planet Money" type="rss" xmlUrl="https://www.npr.org/rss/podcast.php?id=510289" />
+  </body>
+</opml>
