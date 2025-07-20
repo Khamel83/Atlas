@@ -14,7 +14,7 @@ from typing import Optional, Dict, Any
 from bs4 import BeautifulSoup
 from readability import Document
 from playwright.sync_api import sync_playwright
-from playwright_stealth import stealth_sync
+from playwright_stealth import stealth
 from time import sleep
 
 from helpers.utils import log_info, log_error
@@ -299,18 +299,15 @@ class PlaywrightStrategy(ArticleFetchStrategy):
     def fetch(self, url: str, log_path: str = "") -> FetchResult:
         try:
             log_info(log_path, f"Attempting Playwright fetch for {url}")
-            
             with sync_playwright() as p:
-                browser = p.chromium.launch(headless=True)
-                page = browser.new_page()
-                stealth_sync(page)
-                
+                browser = p.chromium.launch()
+                context = browser.new_context()
+                stealth(context)
+                page = context.new_page()
                 page.goto(url, wait_until="domcontentloaded", timeout=30000)
-                sleep(3)  # Wait for dynamic content
-                
+                sleep(3)
                 content = page.content()
                 browser.close()
-                
                 return FetchResult(
                     success=True,
                     content=content,
@@ -320,10 +317,9 @@ class PlaywrightStrategy(ArticleFetchStrategy):
         except Exception as e:
             log_error(log_path, f"Playwright fetch failed for {url}: {e}")
             return FetchResult(success=False, error=str(e), method="playwright")
-    
+
     def get_strategy_name(self) -> str:
         return "playwright"
-
 
 class WaybackMachineStrategy(ArticleFetchStrategy):
     """Internet Archive Wayback Machine strategy."""
