@@ -300,3 +300,33 @@ chmod +x .git/hooks/post-commit
 5. **Commit Descriptions Matter**: Use clear `type: message` format (`chore:`, `docs:`, `test:` etc.)
 
 
+
+## ⚙️ Environment Setup
+
+This project uses [direnv](https://direnv.net/) for isolated configuration. To set up:
+
+```bash
+cp .env.template .env
+direnv allow
+```
+
+## 🧠 Optional: dspy Integration
+
+Future support for agentic workflows using [dspy](https://github.com/stanford-crfm/dspy) is scaffolded under `dspy_hooks/`.
+
+This may enable dynamic routing, multi-step prompt chains, or fallback behaviors in the ingestion pipeline.
+
+## ⚙️ Environment Setup
+
+This project uses [direnv](https://direnv.net/) for isolated configuration. To set up:
+
+```bash
+cp .env.template .env
+direnv allow
+```
+
+## 🧠 Optional: dspy Integration
+
+Future support for agentic workflows using [dspy](https://github.com/stanford-crfm/dspy) is scaffolded under `dspy_hooks/`.
+
+This may enable dynamic routing, multi-step prompt chains, or fallback behaviors in the ingestion pipeline.
