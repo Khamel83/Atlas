@@ -11,11 +11,11 @@
 **Dependencies**: None - These unblock all other phases
 
 ### MetadataManager Foundation
-- [ ] Task 001: Implement get_all_metadata() method
-- [ ] Task 002: Implement get_forgotten_content() method  
-- [ ] Task 003: Implement get_tag_patterns() method
-- [ ] Task 004: Implement get_temporal_patterns() method
-- [ ] Task 005: Implement get_recall_items() method
+- [x] Task 001: Implement get_all_metadata() method
+- [x] Task 002: Implement get_forgotten_content() method  
+- [x] Task 003: Implement get_tag_patterns() method
+- [x] Task 004: Implement get_temporal_patterns() method
+- [x] Task 005: Implement get_recall_items() method
 
 ### Cognitive Feature Integration
 - [ ] Task 006: Update ProactiveSurfacer integration
