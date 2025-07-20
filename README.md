@@ -290,3 +290,13 @@ In your local repo, run:
 ```bash
 cp scripts/post-commit .git/hooks/post-commit
 chmod +x .git/hooks/post-commit
+
+## Git Commit Rules for Atlas
+
+1. **Auto-Sync Required**: All commits must be auto-pushed via post-commit hook.
+2. **Trackable Branches**: Work must occur in a trackable branch (`main`, `git-first-workflow`, or clearly named dev branches).
+3. **Main = Source of Truth**: `main` reflects stable, synced progress. Merge finalized work to `main` regularly.
+4. **No Orphan Work**: No changes live only locally — GitHub must always reflect real state.
+5. **Commit Descriptions Matter**: Use clear `type: message` format (`chore:`, `docs:`, `test:` etc.)
+
+
