@@ -82,3 +82,4 @@ ENV/venv/
 venv/
 venv/
 venv/
+.git/hooks/
