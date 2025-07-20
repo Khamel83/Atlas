@@ -7,7 +7,7 @@ from pathlib import Path
 from readability import Document
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
-from playwright_stealth import stealth_sync
+from playwright_stealth import Stealth
 import re
 from time import sleep
 
@@ -126,25 +126,40 @@ def _fetch_with_12ft(url: str, log_path: str) -> str:
         log_error(log_path, f"12ft.io fetch failed for {url}: {e}")
         return None
 
-def _fetch_with_playwright(url: str, log_path: str) -> str:
-    """
-    Fetches article content using a headless browser with playwright-stealth
-    as a fallback for difficult-to-scrape sites.
-    """
-    log_info(log_path, f"Attempting to fetch {url} with playwright-stealth.")
-    try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
-            stealth_sync(page)
-            page.goto(url, wait_until="domcontentloaded", timeout=30000)
-            content = page.content()
-            browser.close()
-            log_info(log_path, f"Successfully fetched {url} with playwright-stealth.")
-            return content
-    except Exception as e:
-        log_error(log_path, f"Playwright fetch failed for {url}: {e}")
-        return None
+def fetch_and_save_articles(urls, output_dir):
+    from playwright.sync_api import sync_playwright
+    from playwright_stealth import Stealth
+
+    for url in urls:
+        try:
+            with sync_playwright() as p:
+                browser = p.chromium.launch(headless=True)
+                context = browser.new_context()
+                Stealth(context)  # <- apply stealth to the context
+
+                page = context.new_page()
+                page.goto(url, timeout=60000)
+
+                html = page.content()
+                title = page.title()
+
+                # Use readability to extract content
+                doc = Document(html)
+                content = doc.summary()
+                text = markdownify(content)
+
+                # Save to file (adjust as needed)
+                filename = re.sub(r'[^a-zA-Z0-9]+', '-', title).strip('-')[:60] + ".md"
+                filepath = Path(output_dir) / filename
+                with open(filepath, "w", encoding="utf-8") as f:
+                    f.write(text)
+
+                page.close()
+                context.close()
+                browser.close()
+
+        except Exception as e:
+            print(f"[ERROR] Failed to fetch {url}: {e}")
 
 def _fetch_from_wayback_machine(url: str, log_path: str) -> str:
     """

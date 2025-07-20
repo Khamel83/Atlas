@@ -96,17 +96,17 @@ def generate_markdown_summary(title, source, date, tags=None, notes=None, conten
     """
     tags = tags or []
     notes = notes or []
+
     frontmatter = [
-        '---',
-        f'title: "{title}"',
-        f'source: "{source}"',
-        f'date: "{date}"',
-        f'tags: [{", ".join([f"'{t}'" for t in tags])}]',
-        'notes:'
+        f"title: {title}",
+        f"description: {description}",
+	f"tags: [{', '.join([repr(t) for t in tags])}]"
     ]
+
     for note in notes:
-        frontmatter.append(f'  - "{note}"')
+        frontmatter.append(f"- {note}")
     frontmatter.append('---\n')
+
     md = '\n'.join(frontmatter)
     if content:
         md += content.strip() + "\n"
