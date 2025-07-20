@@ -271,3 +271,22 @@ pytest -m integration
 - To submit issues or pull requests, use the GitHub repository (branch protection is enabled; all changes via PR).
 - All contributors are welcome—Atlas is open source and community-driven! 
 # Atlas is synced!
+
+---
+
+## 🔁 GitHub Sync Hook Setup
+
+Atlas enforces GitHub consistency with a `post-commit` Git hook:
+
+After every commit:
+- 🔄 It **automatically pushes** your changes to GitHub
+- 🔍 It **verifies the commit is live** on GitHub by commit hash
+- ❌ It **fails loudly** if not successfully pushed
+
+### ✅ How to enable it
+
+In your local repo, run:
+
+```bash
+cp scripts/post-commit .git/hooks/post-commit
+chmod +x .git/hooks/post-commit
