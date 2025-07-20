@@ -78,4 +78,4 @@ wheels/
 *.egg
 venv/
 env/
-ENV/
+ENV/venv/

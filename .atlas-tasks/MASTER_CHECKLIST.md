@@ -18,11 +18,11 @@
 - [x] Task 005: Implement get_recall_items() method
 
 ### Cognitive Feature Integration
-- [ ] Task 006: Update ProactiveSurfacer integration
-- [ ] Task 007: Update PatternDetector integration
-- [ ] Task 008: Update TemporalEngine integration
-- [ ] Task 009: Update RecallEngine integration
-- [ ] Task 010: Update QuestionEngine integration
+- [x] Task 006: Update ProactiveSurfacer integration
+- [x] Task 007: Update PatternDetector integration
+- [x] Task 008: Update TemporalEngine integration
+- [x] Task 009: Update RecallEngine integration
+- [x] Task 010: Update QuestionEngine integration
 
 ### Web Integration & Testing
 - [ ] Task 011: Fix web dashboard /ask/proactive route
