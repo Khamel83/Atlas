@@ -85,3 +85,5 @@ venv/
 .git/hooks/
 .env
 !.env.template
+.env
+!.env.template
