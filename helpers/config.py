@@ -167,13 +167,29 @@ def load_config() -> dict:
         "enabled": os.getenv("INSTAPAPER_INGESTOR_ENABLED", "true").lower() == "true",
     }
 
-    # Validate the configuration
-    from helpers.validate import validate_config
-    errors = validate_config(config)
-    if errors:
-        print("Configuration Errors:")
-        for error in errors:
-            print(f"- {error}")
+    # Validate the configuration with enhanced validation
+    from helpers.validate import validate_config_enhanced, ConfigValidator
+    try:
+        validator = ConfigValidator()
+        errors, warnings = validator.validate_config(config)
+        
+        if errors or warnings:
+            report = validator.format_validation_report(errors, warnings)
+            print(report)
+            
+            # For backward compatibility, also add simple error messages
+            if errors:
+                print("\nSimple Error Summary:")
+                for error in errors:
+                    print(f"- {error.field}: {error.message}")
+    except ImportError:
+        # Fallback to legacy validation if enhanced validation fails
+        from helpers.validate import validate_config
+        errors = validate_config(config)
+        if errors:
+            print("Configuration Errors:")
+            for error in errors:
+                print(f"- {error}")
 
     return config
 
