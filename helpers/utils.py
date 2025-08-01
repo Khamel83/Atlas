@@ -1,13 +1,16 @@
-import re
-import os
-import requests
-import json
-from datetime import datetime
 import hashlib
+import json
 import logging
+import os
+import re
+from datetime import datetime
+from typing import Optional
+
+import requests
 from markdownify import markdownify as md
 
-def convert_html_to_markdown(html_content: str, base_url: str = None) -> str:
+
+def convert_html_to_markdown(html_content: str, base_url: Optional[str] = None) -> str:
     """
     Converts HTML content to Markdown, optionally preserving links.
     Args:
@@ -20,14 +23,16 @@ def convert_html_to_markdown(html_content: str, base_url: str = None) -> str:
     # e.g., heading_style="ATX"
     return md(html_content, base_url=base_url)
 
+
 def ensure_directory(directory_path: str):
     """
     Ensures a directory exists, creating it if necessary.
-    
+
     Args:
         directory_path (str): Path to the directory to create
     """
     os.makedirs(directory_path, exist_ok=True)
+
 
 def setup_logging(log_path: str):
     """
@@ -35,7 +40,7 @@ def setup_logging(log_path: str):
     """
     log_dir = os.path.dirname(log_path)
     ensure_directory(log_dir)
-    
+
     # Get the root logger
     logger = logging.getLogger()
     logger.setLevel(logging.INFO)
@@ -45,22 +50,24 @@ def setup_logging(log_path: str):
         logger.handlers.clear()
 
     # Create file handler
-    file_handler = logging.FileHandler(log_path, mode='a', encoding='utf-8')
-    file_formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+    file_handler = logging.FileHandler(log_path, mode="a", encoding="utf-8")
+    file_formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
     file_handler.setFormatter(file_formatter)
     logger.addHandler(file_handler)
 
     # Create console handler
     console_handler = logging.StreamHandler()
-    console_formatter = logging.Formatter('%(levelname)s: %(message)s')
+    console_formatter = logging.Formatter("%(levelname)s: %(message)s")
     console_handler.setFormatter(console_formatter)
     logger.addHandler(console_handler)
+
 
 def sanitize_filename(name):
     # Replace spaces and special chars with underscores
     name = re.sub(r"[^\w\s-]", "", name).strip().lower()
     name = re.sub(r"[-\s]+", "_", name)
     return name
+
 
 def extract_video_id(url):
     """
@@ -72,7 +79,7 @@ def extract_video_id(url):
         r"youtube\.com/watch\?v=([^\?&]+)",
         r"youtube\.com/embed/([^\?&]+)",
         r"youtube\.com/v/([^\?&]+)",
-        r"youtube\.com/shorts/([^\?&]+)"
+        r"youtube\.com/shorts/([^\?&]+)",
     ]
 
     for pattern in regex_patterns:
@@ -80,6 +87,7 @@ def extract_video_id(url):
         if match:
             return match.group(1)
     return None
+
 
 def generate_markdown_summary(title, source, date, tags=None, notes=None, content=None):
     """
@@ -100,17 +108,18 @@ def generate_markdown_summary(title, source, date, tags=None, notes=None, conten
     frontmatter = [
         f"title: {title}",
         f"description: {description}",
-	f"tags: [{', '.join([repr(t) for t in tags])}]"
+        f"tags: [{', '.join([repr(t) for t in tags])}]",
     ]
 
     for note in notes:
         frontmatter.append(f"- {note}")
-    frontmatter.append('---\n')
+    frontmatter.append("---\n")
 
-    md = '\n'.join(frontmatter)
+    md = "\n".join(frontmatter)
     if content:
         md += content.strip() + "\n"
     return md
+
 
 def log_message(log_path, level, message):
     """Generic logger for INFO and ERROR messages."""
@@ -126,20 +135,23 @@ def log_message(log_path, level, message):
     # Also print to console
     print(log_line.strip())
 
+
 def log_info(log_path, message):
     if not log_path:
         return
     log_message(log_path, "INFO", message)
+
 
 def log_error(log_path, message):
     if not log_path:
         return
     log_message(log_path, "ERROR", message)
 
+
 def calculate_hash(file_path):
     """Calculates the SHA256 hash of a file's content."""
     hasher = hashlib.sha256()
-    with open(file_path, 'rb') as f:
+    with open(file_path, "rb") as f:
         buf = f.read()
         hasher.update(buf)
     return hasher.hexdigest()
