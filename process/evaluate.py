@@ -23,7 +23,9 @@ def get_llm_model_for_provider(config: dict, task_type: str = "default", require
         return f"ollama/{model}"
     return model
 
-def summarize_text(text: str, config: dict) -> str | None:
+from typing import Optional
+
+def summarize_text(text: str, config: dict) -> Optional[str]:
     """Generates a summary for the given text using the configured LLM."""
     provider = config.get("llm_provider", "openrouter")
     if provider == "openrouter" and not config.get("OPENROUTER_API_KEY"):
@@ -55,7 +57,7 @@ def summarize_text(text: str, config: dict) -> str | None:
         print(f"ERROR: Could not get summary from LLM. Details: {e}")
         return None
 
-def extract_entities(text: str, config: dict) -> dict | None:
+def extract_entities(text: str, config: dict) -> Optional[dict]:
     """Extracts key entities (people, places, topics) from the text."""
     provider = config.get("llm_provider", "openrouter")
     if provider == "openrouter" and not config.get("OPENROUTER_API_KEY"):
@@ -88,7 +90,7 @@ def extract_entities(text: str, config: dict) -> dict | None:
         print(f"ERROR: Could not extract entities from LLM. Details: {e}")
         return None
 
-def classify_content(text: str, config: dict) -> dict | None:
+def classify_content(text: str, config: dict) -> Optional[dict]:
     """Classifies content into the predefined two-tiered taxonomy."""
     provider = config.get("llm_provider", "openrouter")
     if provider == "openrouter" and not config.get("OPENROUTER_API_KEY"):
@@ -140,7 +142,7 @@ Return a JSON object with two keys:
         return None
 
 
-def diarize_speakers(text: str, config: dict) -> str | None:
+def diarize_speakers(text: str, config: dict) -> Optional[str]:
     """Identifies and labels different speakers in a transcript."""
     provider = config.get("llm_provider", "openrouter")
     if provider == "openrouter" and not config.get("OPENROUTER_API_KEY"):

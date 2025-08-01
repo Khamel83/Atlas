@@ -3,7 +3,9 @@ import subprocess
 from pathlib import Path
 from .utils import log_error, log_info
 
-def transcribe_audio(audio_path: str, log_path: str) -> str | None:
+from typing import Optional
+
+def transcribe_audio(audio_path: str, log_path: str) -> Optional[str]:
     """
     Transcribes the given audio file using the local Whisper CLI tool.
 

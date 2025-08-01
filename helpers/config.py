@@ -153,7 +153,9 @@ def get_model_for_task(config: dict, task_type: str = "default") -> str:
 
 # --- Legacy Functions (to be deprecated) ---
 
-def get_config(key: str, default: str = None) -> str | None:
+from typing import Optional
+
+def get_config(key: str, default: str = None) -> Optional[str]:
     """
     Retrieves a configuration value from the environment variables.
     DEPRECATED: Use load_config() instead.
