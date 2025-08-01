@@ -26,6 +26,8 @@ cp .env.example .env
 
 Now, open the `.env` file in a text editor and at a minimum, set the `DATA_DIRECTORY`.
 
+**Important**: For full functionality, especially for AI features, you will need to set `OPENROUTER_API_KEY` in your `.env` file. Refer to the `.env.example` for all available configuration options.
+
 ## 3. Running Atlas
 
 With the configuration in place, you can now run Atlas. To process all content types, use the `--all` flag:
@@ -49,13 +51,7 @@ python3 run.py --podcasts
 
 ## 4. Exploring the Web UI
 
-Atlas also includes a web interface for exploring the cognitive amplification features. To use it, you'll need to install the web-specific dependencies:
-
-```bash
-pip install -r web/requirements.txt
-```
-
-Then, start the web server:
+Atlas includes a web interface for exploring the cognitive amplification features. To start the web server:
 
 ```bash
 uvicorn web.app:app --reload --port 8000

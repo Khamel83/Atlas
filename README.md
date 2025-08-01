@@ -193,7 +193,7 @@ pip install -r requirements.txt
 ### Configuration
 ```bash
 # Copy template and customize
-cp env.template .env
+cp .env.example .env
 ```
 
 ### Minimum .env Configuration
@@ -201,6 +201,8 @@ cp env.template .env
 DATA_DIRECTORY=output
 TRANSCRIBE_ENABLED=false
 ```
+
+**Important**: For full functionality, especially for AI features, you will need to set `OPENROUTER_API_KEY` in your `.env` file. Refer to the `.env.example` for all available configuration options.
 
 ## 🧪 Testing
 
@@ -301,32 +303,4 @@ chmod +x .git/hooks/post-commit
 
 
 
-## ⚙️ Environment Setup
 
-This project uses [direnv](https://direnv.net/) for isolated configuration. To set up:
-
-```bash
-cp .env.template .env
-direnv allow
-```
-
-## 🧠 Optional: dspy Integration
-
-Future support for agentic workflows using [dspy](https://github.com/stanford-crfm/dspy) is scaffolded under `dspy_hooks/`.
-
-This may enable dynamic routing, multi-step prompt chains, or fallback behaviors in the ingestion pipeline.
-
-## ⚙️ Environment Setup
-
-This project uses [direnv](https://direnv.net/) for isolated configuration. To set up:
-
-```bash
-cp .env.template .env
-direnv allow
-```
-
-## 🧠 Optional: dspy Integration
-
-Future support for agentic workflows using [dspy](https://github.com/stanford-crfm/dspy) is scaffolded under `dspy_hooks/`.
-
-This may enable dynamic routing, multi-step prompt chains, or fallback behaviors in the ingestion pipeline.
