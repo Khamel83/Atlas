@@ -27,7 +27,7 @@ def test_full_ingestion_pipeline(dummy_config):
     with patch(
         "helpers.article_fetcher.fetch_and_save_article", return_value=True
     ) as mock_article:
-        result = fetch_and_save_articles(dummy_config, input_file=None)
+        result = fetch_and_save_articles(dummy_config)
         assert result is None or result is True or isinstance(result, dict)
         mock_article.assert_not_called()  # No input file, so nothing processed
 
