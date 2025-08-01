@@ -167,6 +167,14 @@ def load_config() -> dict:
         "enabled": os.getenv("INSTAPAPER_INGESTOR_ENABLED", "true").lower() == "true",
     }
 
+    # Validate the configuration
+    from helpers.validate import validate_config
+    errors = validate_config(config)
+    if errors:
+        print("Configuration Errors:")
+        for error in errors:
+            print(f"- {error}")
+
     return config
 
 
