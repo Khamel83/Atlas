@@ -1,8 +1,14 @@
 import re
-from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
+from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 
 TRACKING_PARAMS = {
-    "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "fbclid", "gclid"
+    "utm_source",
+    "utm_medium",
+    "utm_campaign",
+    "utm_term",
+    "utm_content",
+    "fbclid",
+    "gclid",
 }
 
 
@@ -26,11 +32,15 @@ def normalize_url(url: str) -> str:
     netloc = re.sub(r"^www\.", "", netloc)
 
     # Clean query string
-    query_pairs = [p for p in parse_qsl(parsed.query, keep_blank_values=False) if p[0] not in TRACKING_PARAMS]
+    query_pairs = [
+        p
+        for p in parse_qsl(parsed.query, keep_blank_values=False)
+        if p[0] not in TRACKING_PARAMS
+    ]
     query = urlencode(sorted(query_pairs))
 
     # Normalise path – collapse multiple slashes
     path = re.sub(r"/+", "/", parsed.path) or "/"
 
     canonical = urlunparse((scheme, netloc, path.rstrip("/"), "", query, ""))
-    return canonical 
+    return canonical

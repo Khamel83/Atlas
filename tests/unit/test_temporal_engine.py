@@ -1,24 +1,31 @@
-import pytest
-from unittest.mock import MagicMock
 from datetime import datetime, timedelta
+from unittest.mock import MagicMock
+
+import pytest
+
 from ask.temporal.temporal_engine import TemporalEngine
+
 
 class FakeContentMetadata:
     def __init__(self, title, created_at):
         self.title = title
         self.created_at = created_at
 
+
 @pytest.fixture
 def fake_metadata_manager():
     mgr = MagicMock()
+
     # Simulate ContentType enum
     class FakeContentType:
-        ARTICLE = 'article'
-        PODCAST = 'podcast'
-        YOUTUBE = 'youtube'
-        INSTAPAPER = 'instapaper'
+        ARTICLE = "article"
+        PODCAST = "podcast"
+        YOUTUBE = "youtube"
+        INSTAPAPER = "instapaper"
+
         def __iter__(self):
             return iter([self.ARTICLE, self.PODCAST, self.YOUTUBE, self.INSTAPAPER])
+
     mgr.ContentType = FakeContentType()
     now = datetime.now()
     # 3 items: 0 days, 1 day, 3 days apart
@@ -27,8 +34,9 @@ def fake_metadata_manager():
         FakeContentMetadata("B", (now - timedelta(days=4)).isoformat()),
         FakeContentMetadata("C", (now - timedelta(days=1)).isoformat()),
     ]
-    mgr.get_all_metadata.side_effect = lambda ct: items if ct == 'article' else []
+    mgr.get_all_metadata.side_effect = lambda ct: items if ct == "article" else []
     return mgr
+
 
 def test_get_time_aware_relationships(fake_metadata_manager):
     engine = TemporalEngine(fake_metadata_manager)
@@ -43,4 +51,4 @@ def test_get_time_aware_relationships(fake_metadata_manager):
     assert len(rels) == 2
     assert rels[1][0].title == "B"
     assert rels[1][1].title == "C"
-    assert rels[1][2] == 3 
+    assert rels[1][2] == 3

@@ -1,47 +1,68 @@
-import pytest
 from unittest.mock import MagicMock, patch
-from helpers.base_ingestor import BaseIngestor, IngestionResult
+
+import pytest
+
+from helpers.base_ingestor import BaseIngestor, IngestorResult
+from helpers.metadata_manager import ContentType
+
 
 class TestIngestor(BaseIngestor):
-    def __init__(self, config):
-        super().__init__(config, 'test')
+    def get_content_type(self) -> ContentType:
+        return ContentType.ARTICLE
 
-    def can_ingest(self, url):
-        return "test.com" in url
+    def get_module_name(self) -> str:
+        return "test_ingestor"
 
-    def ingest(self, url):
-        if "error" in url:
-            return IngestionResult(success=False, error_message="Test error")
-        return IngestionResult(success=True, metadata={"title": "Test Title"})
+    def fetch_content(self, source, metadata):
+        if "error" in source:
+            return False, "Test error"
+        return True, "Test content"
+
+    def process_content(self, content, metadata):
+        return True
+
 
 @pytest.fixture
 def config():
     return {
         "data_directory": "output",
-        "test_output_path": "output/test",
+        "article_output_path": "output/articles",
     }
+
 
 @pytest.fixture
 def ingestor(config):
     return TestIngestor(config)
 
-def test_can_ingest(ingestor):
-    assert ingestor.can_ingest("http://test.com/page")
-    assert not ingestor.can_ingest("http://example.com/page")
 
-def test_ingest_success(ingestor):
-    result = ingestor.ingest("http://test.com/page")
+def test_ingest_single_success(ingestor):
+    result = ingestor.ingest_single("http://test.com/page")
     assert result.success
-    assert result.metadata["title"] == "Test Title"
+    assert result.metadata.title is None
 
-def test_ingest_error(ingestor):
-    result = ingestor.ingest("http://test.com/error")
+
+def test_ingest_single_error(ingestor):
+    result = ingestor.ingest_single("http://test.com/error")
     assert not result.success
-    assert result.error_message == "Test error"
+    assert result.error == "Test error"
+
 
 def test_batch_ingest(ingestor):
-    urls = ["http://test.com/1", "http://test.com/2", "http://example.com/3"]
-    results = ingestor.batch_ingest(urls)
+    sources = ["http://test.com/1", "http://test.com/2"]
+    results = ingestor.ingest_batch(sources)
     assert len(results) == 2
-    assert results[0].success
-    assert results[1].success
+    assert results["http://test.com/1"].success
+    assert results["http://test.com/2"].success
+
+
+@patch("helpers.base_ingestor.log_info")
+def test_batch_ingest_logs(mock_log_info, ingestor):
+    sources = ["http://test.com/1", "http://test.com/2"]
+    ingestor.ingest_batch(sources)
+    assert mock_log_info.call_count == 3
+
+
+@patch("helpers.base_ingestor.log_error")
+def test_handle_error_logs(mock_log_error, ingestor):
+    ingestor.handle_error("Test error", "http://test.com/error")
+    assert mock_log_error.call_count == 1

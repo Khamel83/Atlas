@@ -1,5 +1,7 @@
 import pytest
+
 from ask.socratic.question_engine import QuestionEngine
+
 
 def test_generate_questions():
     engine = QuestionEngine()
@@ -12,4 +14,4 @@ def test_generate_questions():
     assert questions[2] == "How does 'The sky is blue' relate to other ideas?"
     assert questions[3] == "Why is 'Water is wet' important?"
     assert questions[4] == "What are the implications of 'Water is wet'?"
-    assert questions[5] == "How does 'Water is wet' relate to other ideas?" 
+    assert questions[5] == "How does 'Water is wet' relate to other ideas?"

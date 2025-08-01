@@ -1,17 +1,27 @@
 # process/evaluate.py
 
-import requests
 import json
-import yaml
-import litellm
-from helpers.config import load_config, get_model_for_task
-from helpers.model_selector import select_model, record_model_usage
 
-def get_llm_model_for_provider(config: dict, task_type: str = "default", require_fast: bool = False, require_quality: bool = False) -> str:
+import litellm
+import requests
+import yaml
+
+from helpers.config import get_model_for_task, load_config
+from helpers.model_selector import record_model_usage, select_model
+
+
+def get_llm_model_for_provider(
+    config: dict,
+    task_type: str = "default",
+    require_fast: bool = False,
+    require_quality: bool = False,
+) -> str:
     """Returns the appropriate model string for the configured LLM provider and task type."""
     provider = config.get("llm_provider", "openrouter")
     # Use enhanced model selector for free-first selection
-    model = select_model(tier=task_type, require_fast=require_fast, require_quality=require_quality)
+    model = select_model(
+        tier=task_type, require_fast=require_fast, require_quality=require_quality
+    )
     if provider == "deepseek":
         if task_type == "reasoner":
             return config.get("llm_model_reasoner", "deepseek-ai/deepseek-reasoner")
@@ -23,7 +33,9 @@ def get_llm_model_for_provider(config: dict, task_type: str = "default", require
         return f"ollama/{model}"
     return model
 
+
 from typing import Optional
+
 
 def summarize_text(text: str, config: dict) -> Optional[str]:
     """Generates a summary for the given text using the configured LLM."""
@@ -42,20 +54,24 @@ def summarize_text(text: str, config: dict) -> Optional[str]:
         response = litellm.completion(
             model=model,
             messages=[
-                {"role": "system", "content": "You are an expert summarizer. Provide a concise summary of the following text."},
-                {"role": "user", "content": text}
+                {
+                    "role": "system",
+                    "content": "You are an expert summarizer. Provide a concise summary of the following text.",
+                },
+                {"role": "user", "content": text},
             ],
             max_tokens=500,
             temperature=0.3,
-            **kwargs
+            **kwargs,
         )
-        tokens_used = response.usage.total_tokens if hasattr(response, 'usage') else 0
+        tokens_used = response.usage.total_tokens if hasattr(response, "usage") else 0
         record_model_usage(model, tokens_used=tokens_used, success=True)
         return response.choices[0].message.content
     except Exception as e:
         record_model_usage(model, success=False)
         print(f"ERROR: Could not get summary from LLM. Details: {e}")
         return None
+
 
 def extract_entities(text: str, config: dict) -> Optional[dict]:
     """Extracts key entities (people, places, topics) from the text."""
@@ -74,21 +90,25 @@ def extract_entities(text: str, config: dict) -> Optional[dict]:
         response = litellm.completion(
             model=model,
             messages=[
-                {"role": "system", "content": "You are an expert entity extractor. Extract key people, organizations, locations, and topics from the following text. Return the result as a JSON object with keys 'people', 'organizations', 'locations', and 'topics'."},
-                {"role": "user", "content": text}
+                {
+                    "role": "system",
+                    "content": "You are an expert entity extractor. Extract key people, organizations, locations, and topics from the following text. Return the result as a JSON object with keys 'people', 'organizations', 'locations', and 'topics'.",
+                },
+                {"role": "user", "content": text},
             ],
             response_format={"type": "json_object"},
             max_tokens=500,
             temperature=0.1,
-            **kwargs
+            **kwargs,
         )
-        tokens_used = response.usage.total_tokens if hasattr(response, 'usage') else 0
+        tokens_used = response.usage.total_tokens if hasattr(response, "usage") else 0
         record_model_usage(model, tokens_used=tokens_used, success=True)
         return json.loads(response.choices[0].message.content)
     except Exception as e:
         record_model_usage(model, success=False)
         print(f"ERROR: Could not extract entities from LLM. Details: {e}")
         return None
+
 
 def classify_content(text: str, config: dict) -> Optional[dict]:
     """Classifies content into the predefined two-tiered taxonomy."""
@@ -126,12 +146,12 @@ Return a JSON object with two keys:
             model=model,
             messages=[
                 {"role": "system", "content": system_prompt},
-                {"role": "user", "content": text}
+                {"role": "user", "content": text},
             ],
             response_format={"type": "json_object"},
             max_tokens=300,
             temperature=0.0,
-            **kwargs
+            **kwargs,
         )
         return json.loads(response.choices[0].message.content)
     except json.JSONDecodeError as e:
@@ -159,14 +179,17 @@ def diarize_speakers(text: str, config: dict) -> Optional[str]:
         response = litellm.completion(
             model=model,
             messages=[
-                {"role": "system", "content": "You are an expert at speaker diarization. Reformat the following transcript, identifying and labeling each speaker (e.g., 'Speaker 1:', 'Speaker 2:', 'Host:')."},
-                {"role": "user", "content": text}
+                {
+                    "role": "system",
+                    "content": "You are an expert at speaker diarization. Reformat the following transcript, identifying and labeling each speaker (e.g., 'Speaker 1:', 'Speaker 2:', 'Host:').",
+                },
+                {"role": "user", "content": text},
             ],
-            max_tokens=4000, # Allow for longer transcripts
+            max_tokens=4000,  # Allow for longer transcripts
             temperature=0.1,
-            **kwargs
+            **kwargs,
         )
         return response.choices[0].message.content
     except Exception as e:
         print(f"ERROR: Could not perform diarization with LLM. Details: {e}")
-        return None 
+        return None

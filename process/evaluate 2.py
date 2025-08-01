@@ -1,10 +1,13 @@
 # process/evaluate.py
 
-import requests
 import json
-import yaml
+
 import litellm
+import requests
+import yaml
+
 from helpers.config import load_config
+
 
 def get_llm_model_for_provider(config: dict) -> str:
     """Returns the appropriate model string for the configured LLM provider."""
@@ -14,9 +17,13 @@ def get_llm_model_for_provider(config: dict) -> str:
         return f"ollama/{model}"
     return model
 
+
 def summarize_text(text: str, config: dict) -> str | None:
     """Generates a summary for the given text using the configured LLM."""
-    if not config.get("OPENROUTER_API_KEY") and config.get("llm_provider") == "openrouter":
+    if (
+        not config.get("OPENROUTER_API_KEY")
+        and config.get("llm_provider") == "openrouter"
+    ):
         return None
 
     model = get_llm_model_for_provider(config)
@@ -24,8 +31,11 @@ def summarize_text(text: str, config: dict) -> str | None:
         response = litellm.completion(
             model=model,
             messages=[
-                {"role": "system", "content": "You are an expert summarizer. Provide a concise summary of the following text."},
-                {"role": "user", "content": text}
+                {
+                    "role": "system",
+                    "content": "You are an expert summarizer. Provide a concise summary of the following text.",
+                },
+                {"role": "user", "content": text},
             ],
             max_tokens=500,
             temperature=0.3,
@@ -35,9 +45,13 @@ def summarize_text(text: str, config: dict) -> str | None:
         print(f"ERROR: Could not get summary from LLM. Details: {e}")
         return None
 
+
 def extract_entities(text: str, config: dict) -> dict | None:
     """Extracts key entities (people, places, topics) from the text."""
-    if not config.get("OPENROUTER_API_KEY") and config.get("llm_provider") == "openrouter":
+    if (
+        not config.get("OPENROUTER_API_KEY")
+        and config.get("llm_provider") == "openrouter"
+    ):
         return None
 
     model = get_llm_model_for_provider(config)
@@ -45,8 +59,11 @@ def extract_entities(text: str, config: dict) -> dict | None:
         response = litellm.completion(
             model=model,
             messages=[
-                {"role": "system", "content": "You are an expert entity extractor. Extract key people, organizations, locations, and topics from the following text. Return the result as a JSON object with keys 'people', 'organizations', 'locations', and 'topics'."},
-                {"role": "user", "content": text}
+                {
+                    "role": "system",
+                    "content": "You are an expert entity extractor. Extract key people, organizations, locations, and topics from the following text. Return the result as a JSON object with keys 'people', 'organizations', 'locations', and 'topics'.",
+                },
+                {"role": "user", "content": text},
             ],
             response_format={"type": "json_object"},
             max_tokens=500,
@@ -58,9 +75,13 @@ def extract_entities(text: str, config: dict) -> dict | None:
         print(f"ERROR: Could not extract entities from LLM. Details: {e}")
         return None
 
+
 def classify_content(text: str, config: dict) -> dict | None:
     """Classifies content into the predefined two-tiered taxonomy."""
-    if not config.get("OPENROUTER_API_KEY") and config.get("llm_provider") == "openrouter":
+    if (
+        not config.get("OPENROUTER_API_KEY")
+        and config.get("llm_provider") == "openrouter"
+    ):
         return None
 
     categories_yaml = yaml.dump(config.get("categories", {}))
@@ -89,7 +110,7 @@ Return a JSON object with two keys:
             model=model,
             messages=[
                 {"role": "system", "content": system_prompt},
-                {"role": "user", "content": text}
+                {"role": "user", "content": text},
             ],
             response_format={"type": "json_object"},
             max_tokens=300,
@@ -106,7 +127,10 @@ Return a JSON object with two keys:
 
 def diarize_speakers(text: str, config: dict) -> str | None:
     """Identifies and labels different speakers in a transcript."""
-    if not config.get("OPENROUTER_API_KEY") and config.get("llm_provider") == "openrouter":
+    if (
+        not config.get("OPENROUTER_API_KEY")
+        and config.get("llm_provider") == "openrouter"
+    ):
         return None
 
     model = get_llm_model_for_provider(config)
@@ -114,13 +138,16 @@ def diarize_speakers(text: str, config: dict) -> str | None:
         response = litellm.completion(
             model=model,
             messages=[
-                {"role": "system", "content": "You are an expert at speaker diarization. Reformat the following transcript, identifying and labeling each speaker (e.g., 'Speaker 1:', 'Speaker 2:', 'Host:')."},
-                {"role": "user", "content": text}
+                {
+                    "role": "system",
+                    "content": "You are an expert at speaker diarization. Reformat the following transcript, identifying and labeling each speaker (e.g., 'Speaker 1:', 'Speaker 2:', 'Host:').",
+                },
+                {"role": "user", "content": text},
             ],
-            max_tokens=4000, # Allow for longer transcripts
+            max_tokens=4000,  # Allow for longer transcripts
             temperature=0.1,
         )
         return response.choices[0].message.content
     except Exception as e:
         print(f"ERROR: Could not perform diarization with LLM. Details: {e}")
-        return None 
+        return None

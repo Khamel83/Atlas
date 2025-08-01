@@ -1,9 +1,9 @@
-
-import os
-import requests
-import json
 import csv
+import json
+import os
 from datetime import datetime
+
+import requests
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -11,13 +11,16 @@ load_dotenv()
 # --- Configuration ---
 INSTAPAPER_USERNAME = os.getenv("INSTAPAPER_USERNAME")
 INSTAPAPER_PASSWORD = os.getenv("INSTAPAPER_PASSWORD")
-INSTAPAPER_API_BASE = os.getenv("INSTAPAPER_API_BASE", "https://www.instapaper.com/api/1")
+INSTAPAPER_API_BASE = os.getenv(
+    "INSTAPAPER_API_BASE", "https://www.instapaper.com/api/1"
+)
 
 # --- Paths ---
 RAW_DIR = "inputs/instapaper/raw"
 CLEAN_DIR = "inputs/instapaper/clean"
 HASHES_DIR = "inputs/instapaper/hashes"
 HASH_FILE = os.path.join(HASHES_DIR, "instapaper_hashes.txt")
+
 
 # --- Functions ---
 def get_bookmarks():
@@ -37,6 +40,7 @@ def get_bookmarks():
         print(f"Error fetching bookmarks: {e}")
         return None
 
+
 def save_raw_data(data):
     """Saves the raw JSON data from the Instapaper API."""
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -48,6 +52,7 @@ def save_raw_data(data):
 
     print(f"Raw data saved to {filepath}")
 
+
 def load_seen_hashes():
     """Loads the set of previously seen bookmark hashes."""
     if not os.path.exists(HASH_FILE):
@@ -56,11 +61,13 @@ def load_seen_hashes():
     with open(HASH_FILE, "r") as f:
         return {line.strip() for line in f}
 
+
 def save_new_hashes(hashes):
     """Appends new bookmark hashes to the hash file."""
     with open(HASH_FILE, "a") as f:
         for h in hashes:
             f.write(f"{h}\n")
+
 
 def process_bookmarks(data):
     """Processes the raw bookmark data, deduplicates it, and saves it to a clean CSV file."""
@@ -98,6 +105,7 @@ def process_bookmarks(data):
 
     print(f"{len(new_bookmarks)} new bookmarks saved to {filepath}")
     save_new_hashes(new_hashes)
+
 
 if __name__ == "__main__":
     bookmarks = get_bookmarks()

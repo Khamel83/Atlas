@@ -5,3 +5,13 @@
 {"type": "youtube", "video_id": "dQw4w9WgXcQ", "file_id": "18f573842c0baad9", "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ", "title": null, "error": "HTTP Error 400: Bad Request", "timestamp": "2025-07-13T09:14:47.754596", "attempts": 3, "ytdlp_attempted": false}
 {"type": "youtube", "video_id": "3JZ_D3ELwOQ", "file_id": "66614a1b623214d9", "url": "https://youtu.be/3JZ_D3ELwOQ", "title": null, "error": "HTTP Error 400: Bad Request", "timestamp": "2025-07-13T09:14:48.045372", "attempts": 3, "ytdlp_attempted": false}
 {"type": "youtube", "video_id": "5qap5aO4i9A", "file_id": "ac16550a481634f8", "url": "https://www.youtube.com/watch?v=5qap5aO4i9A", "title": null, "error": "HTTP Error 400: Bad Request", "timestamp": "2025-07-13T09:14:48.339806", "attempts": 3, "ytdlp_attempted": false}
+{"type": "url_dispatch", "url": "https://youtube.com/watch?v=123", "url_type": "youtube", "error": "Can't instantiate abstract class YouTubeIngestor with abstract methods fetch_content, get_content_type, get_module_name, process_content", "timestamp": null}
+{"type": "url_dispatch", "url": "https://youtube.com/watch?v=123", "url_type": "youtube", "error": "Can't instantiate abstract class YouTubeIngestor with abstract methods fetch_content, get_content_type, get_module_name, process_content", "timestamp": null}
+{"type": "url_dispatch", "url": "https://youtube.com/watch?v=123", "url_type": "youtube", "error": "Can't instantiate abstract class YouTubeIngestor with abstract methods fetch_content, get_content_type, get_module_name, process_content", "timestamp": null}
+{"type": "url_dispatch", "url": "https://youtube.com/watch?v=123", "url_type": "youtube", "error": "Can't instantiate abstract class YouTubeIngestor with abstract methods fetch_content, get_content_type, get_module_name, process_content", "timestamp": null}
+{"type": "url_dispatch", "url": "https://youtube.com/watch?v=123", "url_type": "youtube", "error": "'youtube'", "timestamp": null}
+{"type": "url_dispatch", "url": "https://youtube.com/watch?v=123", "url_type": "youtube", "error": "'youtube'", "timestamp": null}
+{"type": "url_dispatch", "url": "https://youtube.com/watch?v=123", "url_type": "youtube", "error": "'youtube'", "timestamp": null}
+{"type": "url_dispatch", "url": "https://youtube.com/watch?v=123", "url_type": "youtube", "error": "'youtube'", "timestamp": null}
+{"type": "url_dispatch", "url": "https://youtube.com/watch?v=123", "url_type": "youtube", "error": "'youtube'", "timestamp": null}
+{"type": "url_dispatch", "url": "https://youtube.com/watch?v=123", "url_type": "youtube", "error": "'str' object has no attribute 'value'", "timestamp": null}

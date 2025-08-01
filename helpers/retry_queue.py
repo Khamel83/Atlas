@@ -23,4 +23,4 @@ def dequeue() -> Optional[dict]:
     first = json.loads(lines[0])
     with QUEUE_PATH.open("w", encoding="utf-8") as f:
         f.write("\n".join(lines[1:]))
-    return first 
+    return first

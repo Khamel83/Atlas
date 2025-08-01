@@ -1,9 +1,10 @@
-import os
-import yaml
-import frontmatter
-from glob import glob
 import argparse
+import os
 from datetime import datetime
+from glob import glob
+
+import frontmatter
+import yaml
 
 
 def load_categories():
@@ -51,4 +52,4 @@ if __name__ == "__main__":
     parser.add_argument("--check", action="store_true")
     parser.add_argument("--diff", action="store_true")
     args = parser.parse_args()
-    main(**vars(args)) 
+    main(**vars(args))
