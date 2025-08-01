@@ -17,7 +17,9 @@ def dummy_config(tmp_path):
 @pytest.fixture
 def ingestor(dummy_config):
     ingestor = YouTubeIngestor(dummy_config)
-    ingestor.path_manager.type_directories[ContentType.YOUTUBE] = dummy_config["youtube_output_path"]
+    ingestor.path_manager.type_directories[ContentType.YOUTUBE] = dummy_config[
+        "youtube_output_path"
+    ]
     return ingestor
 
 
@@ -31,7 +33,9 @@ def test_initialization(ingestor):
 def test_ingest_single_video_success(mock_transcript, mock_youtube, ingestor):
     mock_yt_instance = MagicMock()
     mock_yt_instance.title = "Test Video"
-    mock_yt_instance.streams.filter.return_value.order_by.return_value.desc.return_value.first.return_value.download.return_value = None
+    mock_yt_instance.streams.filter.return_value.order_by.return_value.desc.return_value.first.return_value.download.return_value = (
+        None
+    )
     mock_youtube.return_value = mock_yt_instance
     mock_transcript.get_transcript.return_value = [{"text": "test"}]
 

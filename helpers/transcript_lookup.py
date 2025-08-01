@@ -32,12 +32,14 @@ from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
-from youtube_transcript_api import (NoTranscriptFound, TranscriptsDisabled,
-                                    YouTubeTranscriptApi)
+from youtube_transcript_api import (
+    NoTranscriptFound,
+    TranscriptsDisabled,
+    YouTubeTranscriptApi,
+)
 
 from helpers.transcription import transcribe_audio
-from helpers.transcription_openrouter import \
-    transcribe_audio as transcribe_openrouter
+from helpers.transcription_openrouter import transcribe_audio as transcribe_openrouter
 from helpers.utils import log_error, log_info
 
 

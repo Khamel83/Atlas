@@ -24,12 +24,14 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 
 from helpers.config import load_config
 from helpers.utils import ensure_directory
-from ingest.capture.bulletproof_capture import (BulletproofCapture,
-                                                get_capture_status)
-from ingest.capture.failure_notifier import (log_processing_failure,
-                                             notify_system_error)
-from ingest.queue.processing_queue import (Priority, ProcessingQueue,
-                                           QueueItem, QueueStatus)
+from ingest.capture.bulletproof_capture import BulletproofCapture, get_capture_status
+from ingest.capture.failure_notifier import log_processing_failure, notify_system_error
+from ingest.queue.processing_queue import (
+    Priority,
+    ProcessingQueue,
+    QueueItem,
+    QueueStatus,
+)
 
 logger = logging.getLogger(__name__)
 

@@ -11,12 +11,18 @@ from unittest.mock import MagicMock, Mock, call, patch
 import pytest
 
 # Import the module under test
-from helpers.article_strategies import (ArchiveTodayStrategy, ArticleFetcher,
-                                        ArticleFetchStrategy, ContentAnalyzer,
-                                        DirectFetchStrategy, FetchResult,
-                                        GooglebotStrategy, PlaywrightStrategy,
-                                        TwelveFtStrategy,
-                                        WaybackMachineStrategy)
+from helpers.article_strategies import (
+    ArchiveTodayStrategy,
+    ArticleFetcher,
+    ArticleFetchStrategy,
+    ContentAnalyzer,
+    DirectFetchStrategy,
+    FetchResult,
+    GooglebotStrategy,
+    PlaywrightStrategy,
+    TwelveFtStrategy,
+    WaybackMachineStrategy,
+)
 
 
 class TestFetchResult:

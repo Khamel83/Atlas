@@ -11,8 +11,12 @@ import pytest
 # Add the project root directory to the Python path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from ingest.link_dispatcher import (detect_url_type, dispatch_url,
-                                    is_duplicate, process_url_list)
+from ingest.link_dispatcher import (
+    detect_url_type,
+    dispatch_url,
+    is_duplicate,
+    process_url_list,
+)
 
 
 class TestLinkDispatcher:

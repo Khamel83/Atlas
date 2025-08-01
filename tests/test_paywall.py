@@ -8,8 +8,7 @@ from datetime import datetime, timedelta
 
 import pytest
 
-from helpers.paywall import (LegalComplianceError, PaywallBypass,
-                             PaywallDetector)
+from helpers.paywall import LegalComplianceError, PaywallBypass, PaywallDetector
 
 
 def test_detector_initialization():

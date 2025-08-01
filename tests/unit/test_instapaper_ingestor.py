@@ -66,8 +66,12 @@ def test_ingest_articles_success(mock_playwright, ingestor):
     mock_context.new_page.return_value = mock_page
     mock_page.locator.return_value.all.return_value = []
     ingestor.ingest_articles()
-    mock_page.goto.assert_called_with("https://www.instapaper.com/user/login", timeout=60000)
+    mock_page.goto.assert_called_with(
+        "https://www.instapaper.com/user/login", timeout=60000
+    )
     mock_page.fill.assert_any_call('input[name="username"]', "user")
     mock_page.fill.assert_any_call('input[name="password"]', "pass")
     mock_page.click.assert_called_with('button[type="submit"]')
-    mock_page.wait_for_url.assert_called_with("https://www.instapaper.com/u", timeout=60000)
+    mock_page.wait_for_url.assert_called_with(
+        "https://www.instapaper.com/u", timeout=60000
+    )

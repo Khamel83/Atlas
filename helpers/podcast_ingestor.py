@@ -14,10 +14,19 @@ from helpers.error_handler import AtlasErrorHandler
 from helpers.evaluation_utils import EvaluationFile
 from helpers.retry_queue import enqueue
 from helpers.transcription import transcribe_audio
-from helpers.utils import (calculate_hash, generate_markdown_summary,
-                           log_error, log_info, sanitize_filename)
-from process.evaluate import (classify_content, diarize_speakers,
-                              extract_entities, summarize_text)
+from helpers.utils import (
+    calculate_hash,
+    generate_markdown_summary,
+    log_error,
+    log_info,
+    sanitize_filename,
+)
+from process.evaluate import (
+    classify_content,
+    diarize_speakers,
+    extract_entities,
+    summarize_text,
+)
 
 USER_AGENT = "AtlasIngestor/1.0 (+https://github.com/yourrepo/atlas)"
 
@@ -28,6 +37,7 @@ class PodcastIngestor(BaseIngestor):
 
     def get_module_name(self):
         return "podcast_ingestor"
+
     def __init__(self, config):
         super().__init__(config)
         self.content_type = "podcast"

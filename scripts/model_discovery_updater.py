@@ -24,8 +24,12 @@ import requests  # Added for OpenRouter API calls
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from helpers.config import load_config
-from helpers.model_selector import (EnhancedModelSelector, ModelDiscovery,
-                                    ModelUsageTracker, model_selector)
+from helpers.model_selector import (
+    EnhancedModelSelector,
+    ModelDiscovery,
+    ModelUsageTracker,
+    model_selector,
+)
 
 # Configure logging
 logging.basicConfig(

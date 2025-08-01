@@ -11,18 +11,30 @@ from datetime import datetime
 from typing import Any, Dict, List, Optional, Tuple
 
 from helpers.dedupe import link_uid
-from helpers.error_handler import (AtlasErrorHandler, ErrorCategory,
-                                   ErrorContext, ErrorSeverity,
-                                   create_error_handler)
+from helpers.error_handler import (
+    AtlasErrorHandler,
+    ErrorCategory,
+    ErrorContext,
+    ErrorSeverity,
+    create_error_handler,
+)
 from helpers.evaluation_utils import EvaluationFile
-from helpers.metadata_manager import (ContentMetadata, ContentType,
-                                      MetadataManager, ProcessingStatus,
-                                      create_metadata_manager)
+from helpers.metadata_manager import (
+    ContentMetadata,
+    ContentType,
+    MetadataManager,
+    ProcessingStatus,
+    create_metadata_manager,
+)
 from helpers.path_manager import PathManager, PathType, create_path_manager
 from helpers.retry_queue import enqueue
 from helpers.utils import log_error, log_info
-from process.evaluate import (classify_content, diarize_speakers,
-                              extract_entities, summarize_text)
+from process.evaluate import (
+    classify_content,
+    diarize_speakers,
+    extract_entities,
+    summarize_text,
+)
 
 
 class IngestorResult:

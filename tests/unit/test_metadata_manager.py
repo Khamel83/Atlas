@@ -1,5 +1,6 @@
 import unittest
 from unittest.mock import MagicMock, patch
+
 from helpers.metadata_manager import (
     ContentMetadata,
     ContentType,
@@ -8,6 +9,7 @@ from helpers.metadata_manager import (
     MetadataManager,
     ProcessingStatus,
 )
+
 
 class TestMetadataManager(unittest.TestCase):
 
@@ -35,14 +37,18 @@ class TestMetadataManager(unittest.TestCase):
             source="https://example.com",
             title="Test Article",
         )
-        with patch("builtins.open", unittest.mock.mock_open()) as mock_open, \
-             patch("json.dump") as mock_json_dump, \
-             patch("os.path.exists", return_value=True), \
-             patch("json.load", return_value=metadata.__dict__):
+        with patch("builtins.open", unittest.mock.mock_open()) as mock_open, patch(
+            "json.dump"
+        ) as mock_json_dump, patch("os.path.exists", return_value=True), patch(
+            "json.load", return_value=metadata.__dict__
+        ):
             self.manager.save_metadata(metadata)
-            loaded_metadata = self.manager.load_metadata(metadata.content_type, metadata.uid)
+            loaded_metadata = self.manager.load_metadata(
+                metadata.content_type, metadata.uid
+            )
             # This is a simplified check. A real test would verify the content of the file.
             self.assertIsNotNone(loaded_metadata)
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     unittest.main()

@@ -18,7 +18,7 @@ import logging
 import os
 import platform
 import subprocess
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
@@ -376,9 +376,7 @@ def notify_system_issue(
         logger.error(f"Original system issue - Type: {issue_type}, Message: {message}")
 
 
-def notify_success(
-    operation: str, message: str, details: Dict[str, Any] = {}
-) -> None:
+def notify_success(operation: str, message: str, details: Dict[str, Any] = {}) -> None:
     """
     Notification for successful operations.
 
@@ -423,18 +421,20 @@ def get_notification_history(limit: int = 50) -> List[Dict[str, Any]]:
 
         notifications: List[Dict[str, Any]] = []
 
+        # Calculate cutoff time (last 30 days)
+        cutoff_time = datetime.now() - timedelta(days=30)
+        cutoff_iso = cutoff_time.isoformat()
+
         # Read log file and parse JSON lines
         with open(log_path, "r") as log_file:
-                    for line in log_file:
-                        try:
-                            notification: Dict[str, Any] = json.loads(line.strip())
-                            if notification.get("timestamp", "") > cutoff_iso:
-                                kept_lines.append(line)
-                            else:
-                                removed_count += 1
-                        except json.JSONDecodeError:
-                            # Keep malformed lines
-                            kept_lines.append(line)
+            for line in log_file:
+                try:
+                    notification: Dict[str, Any] = json.loads(line.strip())
+                    if notification.get("timestamp", "") > cutoff_iso:
+                        notifications.append(notification)
+                except json.JSONDecodeError:
+                    # Skip malformed lines
+                    continue
 
         # Sort by timestamp (newest first) and limit
         notifications.sort(key=lambda x: x.get("timestamp", ""), reverse=True)
@@ -462,19 +462,20 @@ def get_failure_history(limit: int = 50) -> List[Dict[str, Any]]:
 
         failures: List[Dict[str, Any]] = []
 
+        # Calculate cutoff time (last 30 days)
+        cutoff_time = datetime.now() - timedelta(days=30)
+        cutoff_iso = cutoff_time.isoformat()
+
         # Read log file and parse JSON lines
         with open(log_path, "r") as log_file:
-            with open(log_path, "r") as log_file:
-                    for line in log_file:
-                        try:
-                            failure: Dict[str, Any] = json.loads(line.strip())
-                            if failure.get("timestamp", "") > cutoff_iso:
-                                kept_lines.append(line)
-                            else:
-                                removed_count += 1
-                        except json.JSONDecodeError:
-                            # Keep malformed lines
-                            kept_lines.append(line)
+            for line in log_file:
+                try:
+                    failure: Dict[str, Any] = json.loads(line.strip())
+                    if failure.get("timestamp", "") > cutoff_iso:
+                        failures.append(failure)
+                except json.JSONDecodeError:
+                    # Skip malformed lines
+                    continue
 
         # Sort by timestamp (newest first) and limit
         failures.sort(key=lambda x: x.get("timestamp", ""), reverse=True)
@@ -505,8 +506,7 @@ def get_notification_statistics() -> Dict[str, Any]:
         }
 
         # Process notifications
-        for notification_item in notifications:
-            notification: Dict[str, Any] = notification_item
+        for notification in notifications:
             # Count by level
             level = notification.get("level", "unknown")
             stats["by_level"][level] = stats["by_level"].get(level, 0) + 1
@@ -565,8 +565,6 @@ def clear_old_notifications(days_old: int = 30) -> Dict[str, Any]:
         Dictionary with cleanup results
     """
     try:
-        from datetime import timedelta
-
         cutoff_date = datetime.now() - timedelta(days=days_old)
         cutoff_iso = cutoff_date.isoformat()
 

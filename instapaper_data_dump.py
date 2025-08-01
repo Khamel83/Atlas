@@ -7,10 +7,8 @@ import requests
 from dotenv import load_dotenv
 
 from helpers.instapaper_api_client import InstapaperAPIClient
-from helpers.metadata_manager import (ContentType, MetadataManager,
-                                      ProcessingStatus)
-from helpers.utils import (calculate_hash, convert_html_to_markdown, log_error,
-                           log_info)
+from helpers.metadata_manager import ContentType, MetadataManager, ProcessingStatus
+from helpers.utils import calculate_hash, convert_html_to_markdown, log_error, log_info
 
 
 def instapaper_data_dump():

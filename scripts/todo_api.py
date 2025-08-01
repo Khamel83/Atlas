@@ -22,8 +22,12 @@ from pathlib import Path
 # Add parent directory to path for imports
 sys.path.append(str(Path(__file__).parent.parent))
 
-from scripts.unified_todo_manager import (TodoPriority, TodoSource, TodoStatus,
-                                          UnifiedTodoManager)
+from scripts.unified_todo_manager import (
+    TodoPriority,
+    TodoSource,
+    TodoStatus,
+    UnifiedTodoManager,
+)
 
 
 def main():

@@ -19,7 +19,9 @@ def dummy_config(tmp_path):
 @pytest.fixture
 def ingestor(dummy_config):
     ingestor = PodcastIngestor(dummy_config)
-    ingestor.path_manager.type_directories[ContentType.PODCAST] = dummy_config["podcast_output_path"]
+    ingestor.path_manager.type_directories[ContentType.PODCAST] = dummy_config[
+        "podcast_output_path"
+    ]
     return ingestor
 
 
@@ -33,6 +35,8 @@ def test_process_feed_success(mock_parse, ingestor):
     mock_feed = MagicMock()
     mock_feed.entries = [MagicMock()]
     mock_parse.return_value = mock_feed
-    with patch.object(ingestor, "process_content", return_value=True) as mock_process_content:
+    with patch.object(
+        ingestor, "process_content", return_value=True
+    ) as mock_process_content:
         ingestor.process_feed("http://example.com/feed")
         mock_process_content.assert_called_once()

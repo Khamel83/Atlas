@@ -15,8 +15,7 @@ from readability import Document
 from helpers.article_strategies import ArticleFetcher
 from helpers.config import load_config
 from helpers.evaluation_utils import EvaluationFile
-from helpers.utils import (calculate_hash, generate_markdown_summary,
-                           log_error, log_info)
+from helpers.utils import calculate_hash, generate_markdown_summary, log_error, log_info
 from process.evaluate import classify_content, extract_entities, summarize_text
 
 # --- Constants ---
@@ -479,8 +478,11 @@ def fetch_and_save_article(url: str, config: dict) -> bool:
         # Run evaluations
         try:
             from helpers.evaluation_utils import EvaluationFile
-            from process.evaluate import (classify_content, extract_entities,
-                                          summarize_text)
+            from process.evaluate import (
+                classify_content,
+                extract_entities,
+                summarize_text,
+            )
 
             eval_file = EvaluationFile(source_file_path=md_path, config=config)
             eval_file.add_evaluation(

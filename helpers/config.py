@@ -168,15 +168,16 @@ def load_config() -> dict:
     }
 
     # Validate the configuration with enhanced validation
-    from helpers.validate import validate_config_enhanced, ConfigValidator
+    from helpers.validate import ConfigValidator, validate_config_enhanced
+
     try:
         validator = ConfigValidator()
         errors, warnings = validator.validate_config(config)
-        
+
         if errors or warnings:
             report = validator.format_validation_report(errors, warnings)
             print(report)
-            
+
             # For backward compatibility, also add simple error messages
             if errors:
                 print("\nSimple Error Summary:")
@@ -185,6 +186,7 @@ def load_config() -> dict:
     except ImportError:
         # Fallback to legacy validation if enhanced validation fails
         from helpers.validate import validate_config
+
         errors = validate_config(config)
         if errors:
             print("Configuration Errors:")

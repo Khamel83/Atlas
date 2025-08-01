@@ -17,9 +17,16 @@ from unittest.mock import MagicMock, Mock, patch
 import pytest
 
 # Import test utilities
-from tests import (PROJECT_ROOT, SAMPLE_METADATA, SAMPLE_URLS, TestEnvironment,
-                   create_mock_response, create_sample_article_html,
-                   create_sample_opml, create_sample_rss_feed)
+from tests import (
+    PROJECT_ROOT,
+    SAMPLE_METADATA,
+    SAMPLE_URLS,
+    TestEnvironment,
+    create_mock_response,
+    create_sample_article_html,
+    create_sample_opml,
+    create_sample_rss_feed,
+)
 
 # Add project root to path
 sys.path.insert(0, str(PROJECT_ROOT))

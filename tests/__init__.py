@@ -6,10 +6,10 @@ for the Atlas testing framework.
 """
 
 import os
-import tempfile
 import shutil
+import tempfile
 from pathlib import Path
-from typing import Dict, List, Any
+from typing import Any, Dict, List
 from unittest.mock import MagicMock
 
 # Project constants
@@ -19,9 +19,9 @@ TEST_DATA_DIR = PROJECT_ROOT / "tests" / "data"
 # Sample test data
 SAMPLE_URLS = [
     "https://example.com/article1",
-    "https://example.com/article2", 
+    "https://example.com/article2",
     "https://www.youtube.com/watch?v=test123",
-    "https://feeds.example.com/podcast.rss"
+    "https://feeds.example.com/podcast.rss",
 ]
 
 SAMPLE_METADATA = {
@@ -32,34 +32,34 @@ SAMPLE_METADATA = {
     "category": "Technology",
     "tags": ["test", "article"],
     "word_count": 500,
-    "read_time": 2
+    "read_time": 2,
 }
 
 
 class TestEnvironment:
     """Manages isolated test environment with temporary directories."""
-    
+
     def __init__(self):
         self.temp_dir = None
         self.original_cwd = None
-        
+
     def setup(self) -> Path:
         """Set up temporary test environment."""
         self.temp_dir = Path(tempfile.mkdtemp(prefix="atlas_test_"))
         self.original_cwd = os.getcwd()
-        
+
         # Create essential directories
         (self.temp_dir / "output").mkdir()
         (self.temp_dir / "config").mkdir()
         (self.temp_dir / "logs").mkdir()
-        
+
         return self.temp_dir
-        
+
     def teardown(self):
         """Clean up test environment."""
         if self.original_cwd:
             os.chdir(self.original_cwd)
-            
+
         if self.temp_dir and self.temp_dir.exists():
             shutil.rmtree(self.temp_dir)
 
