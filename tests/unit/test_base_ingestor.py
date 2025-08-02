@@ -23,10 +23,15 @@ class TestIngestor(BaseIngestor):
 
 
 @pytest.fixture
-def config():
+def config(tmp_path):
+    data_dir = tmp_path / "output"
+    data_dir.mkdir(parents=True, exist_ok=True)
+    (data_dir / "articles").mkdir(parents=True, exist_ok=True)
+    (data_dir / "retries").mkdir(parents=True, exist_ok=True)
     return {
-        "data_directory": "output",
-        "article_output_path": "output/articles",
+        "data_directory": str(data_dir),
+        "article_output_path": str(data_dir / "articles"),
+        "retry_queue_path": str(tmp_path / "retries" / "queue.jsonl"),
     }
 
 

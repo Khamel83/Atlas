@@ -5,6 +5,7 @@ import pytest
 
 from helpers.metadata_manager import ContentType
 from helpers.podcast_ingestor import PodcastIngestor
+from helpers.metadata_manager import ContentType
 
 
 @pytest.fixture
