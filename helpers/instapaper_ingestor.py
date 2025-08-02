@@ -7,7 +7,7 @@ from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 from playwright.sync_api import sync_playwright
 
 from helpers.base_ingestor import BaseIngestor, IngestorResult
-from helpers.error_handler import AtlasErrorHandler
+from helpers.error_handler import AtlasErrorHandler, ErrorCategory, ErrorContext
 from helpers.metadata_manager import ContentType
 
 from .utils import (
@@ -179,10 +179,19 @@ class InstapaperIngestor(BaseIngestor):
                                 f"Timeout loading content for '{title}'. Skipping.",
                             )
                         except Exception as e:
-                            self.error_handler.handle_error(
-                                Exception(f"Error processing article '{title}': {e}"),
-                                self.log_path,
+                            context = ErrorContext(
+                                module=self.get_module_name(),
+                                function="ingest_articles",
+                                url=original_url,
+                                metadata={"title": title},
                             )
+                            error = self.error_handler.create_error(
+                                message=f"Error processing article '{title}': {e}",
+                                category=ErrorCategory.PROCESSING,
+                                context=context,
+                                original_exception=e,
+                            )
+                            self.error_handler.handle_error(error, self.log_path)
                     if limit > 0 and processed_count >= limit:
                         break
                     next_button = page.locator('a:has-text("Next")')
@@ -205,20 +214,35 @@ class InstapaperIngestor(BaseIngestor):
                             "No 'Next' button found. Reached the end of articles.",
                         )
                         break
-            except PlaywrightTimeoutError:
-                log_error(
-                    self.log_path,
-                    "Timeout during login or navigation. Check credentials or network.",
+            except PlaywrightTimeoutError as e:
+                context = ErrorContext(
+                    module=self.get_module_name(),
+                    function="ingest_articles",
+                    metadata={"error_type": "PlaywrightTimeoutError"},
                 )
+                error = self.error_handler.create_error(
+                    message=f"Timeout during login or navigation. Check credentials or network: {e}",
+                    category=ErrorCategory.NETWORK,
+                    severity=ErrorSeverity.HIGH, # Added severity
+                    context=context,
+                    original_exception=e,
+                )
+                self.error_handler.handle_error(error, self.log_path)
                 page.screenshot(path="instapaper_error.png")
                 log_info(self.log_path, "Screenshot saved to instapaper_error.png")
             except Exception as e:
-                self.error_handler.handle_error(
-                    Exception(
-                        f"An unexpected error occurred during the Instapaper scrape: {e}"
-                    ),
-                    self.log_path,
+                context = ErrorContext(
+                    module=self.get_module_name(),
+                    function="ingest_articles",
+                    metadata={"error_type": "UnexpectedError"},
                 )
+                error = self.error_handler.create_error(
+                    message=f"An unexpected error occurred during the Instapaper scrape: {e}",
+                    category=ErrorCategory.UNKNOWN,
+                    context=context,
+                    original_exception=e,
+                )
+                self.error_handler.handle_error(error, self.log_path)
             finally:
                 if "browser" in locals() and browser.is_connected():
                     browser.close()
