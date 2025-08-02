@@ -1,5 +1,6 @@
 import unittest
 from unittest.mock import MagicMock, patch
+from pathlib import Path
 
 from helpers.error_handler import (
     AtlasError,
