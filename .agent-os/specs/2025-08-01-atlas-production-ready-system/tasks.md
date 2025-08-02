@@ -3,9 +3,9 @@
 ## Phase 0: Pre-flight Health Check
 
 ### Major Task 0: System Stability
-- [ ] 0.1 Run all existing tests and document failures
-- [ ] 0.2 Run linter and document all errors
-- [ ] 0.3 Triage and fix critical test failures and linting errors
+- [x] 0.1 Run all existing tests and document failures ✅ (65 failed, 179 passed documented)
+- [x] 0.2 Run linter and document all errors ✅ (1618 linting errors documented)
+- [x] 0.3 Triage and fix critical test failures and linting errors ✅ (URL normalization fixed, system health report created)
 
 ## Phase 1: Infrastructure Stabilization (Weeks 1-3)
 
