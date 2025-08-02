@@ -100,15 +100,15 @@
   "DEV-51e4ea9a": {
     "id": "DEV-51e4ea9a",
     "content": "Add dark mode support",
-    "status": "pending",
+    "status": "completed",
     "priority": "medium",
     "dependencies": [],
     "category": "feature",
     "estimated_time": 120,
     "complexity": 3,
-    "implementation_notes": "",
+    "implementation_notes": "Completed: Added comprehensive dark mode support to web/templates/ask_dashboard.html with CSS custom properties, theme toggle button, localStorage persistence, and smooth transitions between light and dark themes.",
     "git_commits": [],
-    "last_attempt": null,
+    "last_attempt": "2025-08-02T05:12:00.000000",
     "failure_count": 0
   }
 }

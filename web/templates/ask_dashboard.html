@@ -3,27 +3,141 @@
 <head>
     <title>Atlas Cognitive Amplification Dashboard</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 2em; background: #f8f9fa; }
-        h1 { color: #2c3e50; }
-        nav { margin-bottom: 2em; }
-        nav a { margin-right: 1.5em; text-decoration: none; color: #2980b9; font-weight: bold; }
-        section { margin-bottom: 2em; background: #fff; padding: 1.5em; border-radius: 8px; box-shadow: 0 2px 8px #eee; }
-        h2 { color: #34495e; }
+        :root {
+            --bg-primary: #f8f9fa;
+            --bg-secondary: #fff;
+            --text-primary: #2c3e50;
+            --text-secondary: #34495e;
+            --text-muted: #888;
+            --link-color: #2980b9;
+            --shadow: 0 2px 8px #eee;
+            --border-radius: 8px;
+        }
+
+        [data-theme="dark"] {
+            --bg-primary: #1a1a1a;
+            --bg-secondary: #2d2d2d;
+            --text-primary: #e1e1e1;
+            --text-secondary: #c1c1c1;
+            --text-muted: #999;
+            --link-color: #64b5f6;
+            --shadow: 0 2px 8px rgba(0,0,0,0.3);
+        }
+
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 2em; 
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+        
+        h1 { color: var(--text-primary); }
+        
+        nav { 
+            margin-bottom: 2em; 
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center;
+        }
+        
+        nav .nav-links a { 
+            margin-right: 1.5em; 
+            text-decoration: none; 
+            color: var(--link-color); 
+            font-weight: bold; 
+        }
+        
+        .theme-toggle {
+            background: var(--bg-secondary);
+            border: 1px solid var(--text-muted);
+            color: var(--text-primary);
+            padding: 0.5em 1em;
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .theme-toggle:hover {
+            background: var(--text-muted);
+            color: var(--bg-primary);
+        }
+        
+        section { 
+            margin-bottom: 2em; 
+            background: var(--bg-secondary); 
+            padding: 1.5em; 
+            border-radius: var(--border-radius); 
+            box-shadow: var(--shadow);
+            transition: background-color 0.3s ease;
+        }
+        
+        h2 { color: var(--text-secondary); }
         ul { padding-left: 1.5em; }
-        .label { font-weight: bold; color: #888; }
+        .label { font-weight: bold; color: var(--text-muted); }
         .question { margin-bottom: 0.5em; }
         .pattern-list { display: flex; gap: 2em; }
         .pattern-list ul { margin: 0; }
+        
+        textarea, input {
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+            border: 1px solid var(--text-muted);
+            border-radius: var(--border-radius);
+            padding: 0.5em;
+            transition: all 0.3s ease;
+        }
+        
+        button {
+            background: var(--link-color);
+            color: var(--bg-primary);
+            border: none;
+            padding: 0.5em 1em;
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        button:hover {
+            opacity: 0.9;
+        }
     </style>
+    <script>
+        // Dark mode toggle functionality
+        function toggleTheme() {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            
+            document.documentElement.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            
+            // Update button text
+            const button = document.querySelector('.theme-toggle');
+            button.textContent = newTheme === 'dark' ? '☀️ Light Mode' : '🌙 Dark Mode';
+        }
+        
+        // Initialize theme on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            document.documentElement.setAttribute('data-theme', savedTheme);
+            
+            // Update button text based on current theme
+            const button = document.querySelector('.theme-toggle');
+            button.textContent = savedTheme === 'dark' ? '☀️ Light Mode' : '🌙 Dark Mode';
+        });
+    </script>
 </head>
 <body>
     <h1>Atlas Cognitive Amplification Dashboard</h1>
     <nav>
-        <a href="/ask/html?feature=proactive">Proactive Surfacer</a>
-        <a href="/ask/html?feature=temporal">Temporal Relationships</a>
-        <a href="/ask/html?feature=socratic">Socratic Questions</a>
-        <a href="/ask/html?feature=recall">Active Recall</a>
-        <a href="/ask/html?feature=patterns">Pattern Detector</a>
+        <div class="nav-links">
+            <a href="/ask/html?feature=proactive">Proactive Surfacer</a>
+            <a href="/ask/html?feature=temporal">Temporal Relationships</a>
+            <a href="/ask/html?feature=socratic">Socratic Questions</a>
+            <a href="/ask/html?feature=recall">Active Recall</a>
+            <a href="/ask/html?feature=patterns">Pattern Detector</a>
+        </div>
+        <button class="theme-toggle" onclick="toggleTheme()">🌙 Dark Mode</button>
     </nav>
     {% if feature == 'proactive' %}
     <section>
