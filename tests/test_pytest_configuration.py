@@ -258,7 +258,9 @@ def test_environment():
 '''
         
         # Write temporary test file
-        temp_test = Path("temp_pytest_test.py")
+        output_dir = Path("output")
+        output_dir.mkdir(exist_ok=True)
+        temp_test = output_dir / "temp_pytest_test.py"
         temp_test.write_text(simple_test)
         
         try:
