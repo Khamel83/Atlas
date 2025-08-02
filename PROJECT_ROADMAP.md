@@ -166,6 +166,22 @@ Transform how users interact with and derive insights from their personal knowle
    - Circuit breaker patterns
    - Comprehensive failure tracking
 
+#### Offshoot Project: Podclean - Advanced Podcast Processing (Separate Timeline)
+**Objective**: Develop a specialized, two-pass podcast processing system for ad-cutting and high-quality transcription. This is a related but independent project.
+
+**Deliverables**:
+1. **Fast Ad Cut (Pass A)**: Implement rapid ad detection and removal for playable cleaned audio files (target latency 5-30 min).
+   - Chapters-based ad detection (Podcasting 2.0 spec)
+   - Fast transcription model (e.g., small Whisper) with text rules for ad phrase detection
+   - `ffmpeg` integration for non-destructive (skip chapters) and destructive cuts
+   - Generated RSS feed for cleaned media.
+2. **Full Transcription (Pass B)**: Implement slower, higher-quality transcription and cleanup for detailed analysis.
+   - Larger Whisper model with better settings for accuracy
+   - Optional LLM-based cleanup for transcripts
+   - Storage of full transcripts and cleaned text for external consumption (e.g., by Atlas).
+3. **Correction Mechanisms**: Implement API endpoints for manual ad segment marking and re-processing.
+4. **Robust Failure Handling**: Define policies for confidence thresholds, excessive cuts, and original file retention.
+
 ### **Phase 3: Advanced Intelligence (Weeks 8-11)**
 *Priority: Cognitive amplification and insights*
 

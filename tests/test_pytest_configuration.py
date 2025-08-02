@@ -166,7 +166,7 @@ class TestPytestDiscovery:
     def test_pytest_can_run_individual_test_files(self):
         """Test that pytest can run individual test files."""
         # Try running a known working test file
-        test_file = "tests/test_enhanced_validation.py"
+        test_file = Path(__file__).parent.parent / "tests" / "test_enhanced_validation.py"
         if Path(test_file).exists():
             result = subprocess.run([
                 sys.executable, "-m", "pytest", test_file, "-v", "--tb=short"
@@ -258,7 +258,7 @@ def test_environment():
 '''
         
         # Write temporary test file
-        output_dir = Path("output")
+        output_dir = Path.cwd() / "output"
         output_dir.mkdir(exist_ok=True)
         temp_test = output_dir / "temp_pytest_test.py"
         temp_test.write_text(simple_test)

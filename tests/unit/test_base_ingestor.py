@@ -37,7 +37,7 @@ def config(tmp_path):
 
 @pytest.fixture
 def ingestor(config):
-    return TestIngestor(config)
+    return MockIngestor(config)
 
 
 def test_ingest_single_success(ingestor):
