@@ -18,14 +18,14 @@ def normalize_url(url: str) -> str:
         return url
     parsed = urlparse(url.strip())
 
-    # Lower-case scheme + host
-    scheme = parsed.scheme.lower() or "http"
+    # Lower-case scheme + host, normalize to http for comparison
+    scheme = "http"  # Always normalize to http for deduplication
     netloc = parsed.netloc.lower()
 
-    # Remove default ports
-    if netloc.endswith(":80") and scheme == "http":
+    # Remove default ports (both 80 and 443 since we normalize to http)
+    if netloc.endswith(":80"):
         netloc = netloc[:-3]
-    if netloc.endswith(":443") and scheme == "https":
+    if netloc.endswith(":443"):
         netloc = netloc[:-4]
 
     # Remove "www." prefix

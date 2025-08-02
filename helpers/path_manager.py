@@ -103,7 +103,7 @@ class PathManager:
 
     def get_base_directory(self, content_type: ContentType) -> str:
         """Get the base directory for a content type."""
-        return self.type_directories[content_type.value]
+        return self.type_directories[content_type]
 
     def get_path_set(self, content_type: ContentType, uid: str) -> PathSet:
         """Get complete path set for a content item."""

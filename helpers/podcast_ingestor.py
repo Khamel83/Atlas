@@ -9,6 +9,8 @@ import feedparser
 import requests
 
 from helpers.base_ingestor import BaseIngestor, IngestorResult
+from helpers.metadata_manager import ContentType
+from helpers.metadata_manager import ContentType
 from helpers.dedupe import link_uid
 from helpers.error_handler import AtlasErrorHandler
 from helpers.evaluation_utils import EvaluationFile
@@ -40,7 +42,7 @@ class PodcastIngestor(BaseIngestor):
 
     def __init__(self, config):
         super().__init__(config)
-        self.content_type = "podcast"
+        
         self.user_agent = USER_AGENT
         self._post_init()
 

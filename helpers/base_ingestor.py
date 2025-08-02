@@ -63,8 +63,8 @@ class BaseIngestor(ABC):
         self.error_handler = create_error_handler(config)
 
         # Each subclass must define these
-        self.content_type = None
-        self.module_name = None
+        self.content_type: ContentType = self.get_content_type()
+        self.module_name = self.get_module_name()
 
         # Initialize after subclass sets content_type
         self._post_init()
