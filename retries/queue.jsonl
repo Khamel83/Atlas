@@ -88,3 +88,4 @@
 {"type": "test_ingestor", "error": "Test error", "category": "processing", "severity": "medium", "timestamp": "2025-08-01T21:54:17.791349", "retry_count": 0, "metadata": {"content_type": "article"}, "url": "http://test.com/error"}
 {"type": "test_ingestor", "error": "Test error", "category": "processing", "severity": "medium", "timestamp": "2025-08-01T21:54:33.973770", "retry_count": 0, "metadata": {"content_type": "article"}, "url": "http://test.com/error"}
 {"type": "test_ingestor", "error": "Test error", "category": "processing", "severity": "medium", "timestamp": "2025-08-01T22:03:58.631407", "retry_count": 0, "metadata": {"content_type": "article"}, "url": "http://test.com/error"}
+{"type": "test_ingestor", "error": "Test error", "category": "processing", "severity": "medium", "timestamp": "2025-08-01T22:26:04.554420", "retry_count": 0, "metadata": {"content_type": "article"}, "url": "http://test.com/error"}
