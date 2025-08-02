@@ -153,13 +153,13 @@ Based on insights from [RemovePaywalls.com](https://removepaywalls.com/blog/):
 ### Maintenance Schedule
 - **Weekly**: Review new paywall implementations
 - **Monthly**: Update URL pattern database
-- **Quarterly**: Refine heuristic weights based on accuracy metrics 
+- **Quarterly**: Refine heuristic weights based on accuracy metrics
 
 ## Bypass Paywalls Clean Integration (gitflic.ru/magnolia1234)
 
 ### Source Attribution
-**Project**: Bypass Paywalls Clean by magnolia1234  
-**Source**: [gitflic.ru/user/magnolia1234](https://gitflic.ru/user/magnolia1234)  
+**Project**: Bypass Paywalls Clean by magnolia1234
+**Source**: [gitflic.ru/user/magnolia1234](https://gitflic.ru/user/magnolia1234)
 **Components**:
 - [Chrome Extension](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean)
 - [Firefox Extension](https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean)
@@ -185,7 +185,7 @@ paywall_bypass:
     bloomberg.com: false
   filters: []  # Active filter rules (empty by default)
   legal_notice: |
-    Paywall bypass disabled by default. 
+    Paywall bypass disabled by default.
     Enable per-site only with explicit consent.
     Usage is logged for compliance purposes.
 ```
@@ -231,4 +231,4 @@ paywall_bypass:
 - **Weekly**: Update filters from upstream source
 - **Monthly**: Legal compliance review of all bypass methods
 - **Quarterly**: Comprehensive audit of bypass usage
-- **Annually**: Full legal review of bypass capabilities 
+- **Annually**: Full legal review of bypass capabilities

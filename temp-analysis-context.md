@@ -15,13 +15,13 @@
 ## Technical Preferences
 - **Philosophy**: Open source, self-hosted
 - **LLM Access**: OpenRouter API
-- **Deployment Target**: Raspberry Pi (preferred) 
+- **Deployment Target**: Raspberry Pi (preferred)
 - **Fallback**: Mac Mini M4 with 16GB RAM + Thunderbolt storage for intensive tasks (transcription, etc.)
 - **Storage**: Tons of spinning disks available for significant data
 - **Scope**: Personal reading/content only - "not draining the ocean"
 
 ## Licensing & Usage
-- **License**: MIT 
+- **License**: MIT
 - **Intent**: Personal use or single-person use only
 - **Commercial**: No commercial intent expected/allowed (but MIT allows legal use)
 

@@ -14,8 +14,6 @@ from youtube_transcript_api import (
 )
 
 from helpers.base_ingestor import BaseIngestor
-from helpers.metadata_manager import ContentType
-from helpers.metadata_manager import ContentType
 from helpers.dedupe import link_uid
 from helpers.error_handler import AtlasErrorHandler
 from helpers.evaluation_utils import EvaluationFile
@@ -57,7 +55,7 @@ class YouTubeIngestor(BaseIngestor):
 
     def __init__(self, config):
         super().__init__(config)
-        
+
         self.ytdlp_available = is_ytdlp_installed()
         self._post_init()
 
@@ -87,9 +85,7 @@ class YouTubeIngestor(BaseIngestor):
                 video_id = url
                 full_url = f"https://www.youtube.com/watch?v={video_id}"
             file_id = link_uid(full_url)
-            meta = self.create_metadata(
-                source=full_url, title=None, video_id=video_id
-            )
+            meta = self.create_metadata(source=full_url, title=None, video_id=video_id)
 
             paths = self.path_manager.get_path_set(self.content_type, file_id)
             transcript_path = paths.get_path("transcript")

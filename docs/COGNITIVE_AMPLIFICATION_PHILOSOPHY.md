@@ -158,4 +158,4 @@ Ask shouldn't just answer questions - it should **make you a better thinker**. I
 
 This is why the Ask subsystem is the most important part of Atlas. Without it, you're building another Evernote - a sophisticated way to never use information you save. With it, you're building something that actually makes people smarter.
 
-**The implementation priority should always be:** Features that change how you think > Features that store what you read. 
+**The implementation priority should always be:** Features that change how you think > Features that store what you read.

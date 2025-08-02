@@ -76,12 +76,25 @@ class AtlasErrorHandler:
     def __init__(self, config: Dict[str, Any]):
         self.config = config
         self.data_directory = config.get("data_directory", "output")
-        self.error_log_path = os.path.join(self.data_directory, "error_log.jsonl")
+        self.environment = config.get("environment", "development")
+        self.log_level = config.get("log_level", "INFO").upper()
+
+        # Environment-specific error log paths
+        log_subdir = (
+            "logs" if self.environment == "production" else f"logs/{self.environment}"
+        )
+        error_log_dir = os.path.join(self.data_directory, log_subdir)
+        self.error_log_path = os.path.join(error_log_dir, "error_log.jsonl")
+        self.validation_log_path = os.path.join(
+            error_log_dir, "validation_errors.jsonl"
+        )
+
         self._setup_error_logging()
 
     def _setup_error_logging(self):
         """Set up error logging infrastructure."""
         os.makedirs(os.path.dirname(self.error_log_path), exist_ok=True)
+        os.makedirs(os.path.dirname(self.validation_log_path), exist_ok=True)
 
     def handle_error(self, error: AtlasError, log_path: str) -> bool:
         """
@@ -265,6 +278,109 @@ class AtlasErrorHandler:
                 return None
 
         return wrapper
+
+    def log_validation_errors(self, errors, warnings):
+        """
+        Log configuration validation errors and warnings to a dedicated log.
+
+        Args:
+            errors: List of ValidationError objects (critical issues)
+            warnings: List of ValidationError objects (suggestions)
+        """
+        import json
+
+        if not errors and not warnings:
+            return
+
+        log_entry = {
+            "timestamp": datetime.now().isoformat(),
+            "environment": self.environment,
+            "validation_results": {
+                "error_count": len(errors),
+                "warning_count": len(warnings),
+                "errors": [
+                    {
+                        "field": error.field,
+                        "message": error.message,
+                        "severity": error.severity,
+                        "guidance": error.guidance,
+                        "fix_command": error.fix_command,
+                        "documentation_url": error.documentation_url,
+                    }
+                    for error in errors
+                ],
+                "warnings": [
+                    {
+                        "field": warning.field,
+                        "message": warning.message,
+                        "severity": warning.severity,
+                        "guidance": warning.guidance,
+                        "fix_command": warning.fix_command,
+                        "documentation_url": warning.documentation_url,
+                    }
+                    for warning in warnings
+                ],
+            },
+        }
+
+        with open(self.validation_log_path, "a", encoding="utf-8") as f:
+            f.write(json.dumps(log_entry) + "\n")
+
+    def get_error_summary(self, days: int = 7) -> Dict[str, Any]:
+        """
+        Get a summary of recent errors for monitoring and diagnostics.
+
+        Args:
+            days: Number of days to look back (default: 7)
+
+        Returns:
+            Dictionary with error statistics and trends
+        """
+        import json
+        from datetime import datetime, timedelta
+
+        if not os.path.exists(self.error_log_path):
+            return {"total_errors": 0, "error_categories": {}, "recent_errors": []}
+
+        cutoff_date = datetime.now() - timedelta(days=days)
+        recent_errors = []
+        category_counts = {}
+        severity_counts = {}
+
+        try:
+            with open(self.error_log_path, "r", encoding="utf-8") as f:
+                for line in f:
+                    try:
+                        error_record = json.loads(line.strip())
+                        error_date = datetime.fromisoformat(error_record["timestamp"])
+
+                        if error_date >= cutoff_date:
+                            recent_errors.append(error_record)
+
+                            category = error_record.get("category", "unknown")
+                            severity = error_record.get("severity", "unknown")
+
+                            category_counts[category] = (
+                                category_counts.get(category, 0) + 1
+                            )
+                            severity_counts[severity] = (
+                                severity_counts.get(severity, 0) + 1
+                            )
+
+                    except (json.JSONDecodeError, ValueError, KeyError):
+                        continue  # Skip malformed entries
+
+        except FileNotFoundError:
+            pass
+
+        return {
+            "total_errors": len(recent_errors),
+            "error_categories": category_counts,
+            "severity_distribution": severity_counts,
+            "recent_errors": recent_errors[-10:],  # Last 10 errors
+            "analysis_period_days": days,
+            "environment": self.environment,
+        }
 
 
 class NetworkErrorHandler:

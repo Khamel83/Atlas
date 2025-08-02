@@ -116,7 +116,7 @@ Everything else is polish, monitoring, and layering AI on top.
 - **Errors and retries:**
   - See the end-of-run error summary, or check `<data_dir>/*/ingest.log` and `retries.json`.
 
-For more, see the README or open an issue. 
+For more, see the README or open an issue.
 
 ## 🧠 Categorization Philosophy for Atlas
 
@@ -165,7 +165,7 @@ Each content file can track:
   "source_hash": "abc123...",
   "tag_confidence": 0.92
 }
-``` 
+```
 
 ## Guiding Principles
 
@@ -192,4 +192,4 @@ These principles guide the architecture of Atlas.
   - See the end-of-run error summary, or check `output/*/ingest.log` and `retries.json`.
 
 ## Future-Proofing
-The file-based, stateless design makes Atlas adaptable. Future changes, like adding a new data source or changing the AI models, can be implemented with minimal disruption to the existing archive. The `process/recategorize.py` script is an example of this, allowing for bulk updates without re-fetching any source content. 
+The file-based, stateless design makes Atlas adaptable. Future changes, like adding a new data source or changing the AI models, can be implemented with minimal disruption to the existing archive. The `process/recategorize.py` script is an example of this, allowing for bulk updates without re-fetching any source content.

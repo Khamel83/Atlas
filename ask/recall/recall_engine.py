@@ -92,7 +92,7 @@ class RecallEngine:
         """
         Calculate review urgency based on spaced repetition principles.
         """
-        from datetime import datetime, timedelta, timedelta
+        from datetime import datetime, timedelta
 
         urgency = 1.0
 
@@ -134,7 +134,7 @@ class RecallEngine:
         """
         Mark a content item as reviewed with enhanced feedback tracking.
         """
-        from datetime import datetime, timedelta, timedelta
+        from datetime import datetime, timedelta
 
         if (
             not hasattr(content_metadata, "type_specific")

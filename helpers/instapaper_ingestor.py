@@ -223,7 +223,7 @@ class InstapaperIngestor(BaseIngestor):
                 error = self.error_handler.create_error(
                     message=f"Timeout during login or navigation. Check credentials or network: {e}",
                     category=ErrorCategory.NETWORK,
-                    severity=ErrorSeverity.HIGH, # Added severity
+                    severity=ErrorSeverity.HIGH,  # Added severity
                     context=context,
                     original_exception=e,
                 )

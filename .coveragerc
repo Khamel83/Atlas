@@ -1,6 +1,6 @@
 [run]
 source = helpers, ask, web, scripts
-omit = 
+omit =
     */tests/*
     */test_*
     */__pycache__/*

@@ -125,11 +125,11 @@ class TestContentAnalyzer:
 
 @pytest.fixture
 def mock_requests():
-    with patch("requests.get") as mock_get, \
-         patch("requests.post") as mock_post, \
-         patch("requests.head") as mock_head, \
-         patch("requests.put") as mock_put, \
-         patch("requests.delete") as mock_delete:
+    with patch("requests.get") as mock_get, patch("requests.post") as mock_post, patch(
+        "requests.head"
+    ) as mock_head, patch("requests.put") as mock_put, patch(
+        "requests.delete"
+    ) as mock_delete:
         mock_response = Mock()
         mock_response.raise_for_status.return_value = None
         mock_response.headers = MagicMock(spec=dict)
@@ -148,6 +148,7 @@ def mock_requests():
             "response": mock_response,
         }
 
+
 @pytest.fixture
 def mock_playwright():
     with patch("helpers.article_strategies.sync_playwright") as mock_sync_playwright:
@@ -156,7 +157,9 @@ def mock_playwright():
         mock_context = MagicMock()
         mock_page = MagicMock()
 
-        mock_sync_playwright.return_value.__enter__.return_value = mock_playwright_instance
+        mock_sync_playwright.return_value.__enter__.return_value = (
+            mock_playwright_instance
+        )
         mock_playwright_instance.chromium.launch.return_value = mock_browser
         mock_browser.new_context.return_value = mock_context
         mock_context.new_page.return_value = mock_page
@@ -167,6 +170,7 @@ def mock_playwright():
             "context": mock_context,
             "page": mock_page,
         }
+
 
 @pytest.fixture
 def sample_article_html():
@@ -188,6 +192,7 @@ def sample_article_html():
     </body>
     </html>
     """
+
 
 class TestDirectFetchStrategy:
     """Test the DirectFetchStrategy class."""

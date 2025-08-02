@@ -49,4 +49,4 @@ For security vulnerabilities or legal concerns:
 If using Atlas internationally:
 - **Local laws apply**: Follow laws in your jurisdiction
 - **Export restrictions**: Be aware of software export restrictions
-- **Data transfer laws**: Consider if any data crosses borders via APIs 
+- **Data transfer laws**: Consider if any data crosses borders via APIs

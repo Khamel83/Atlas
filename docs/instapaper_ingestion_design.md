@@ -109,4 +109,4 @@ input/
 - [ ] Implement `instapaper_api_export.py` following this spec
 - [ ] Add incremental sync flag & hash storage
 - [ ] Decide on folder→tag mapping strategy
-- [ ] Wire export output into main ingest dispatcher 
+- [ ] Wire export output into main ingest dispatcher

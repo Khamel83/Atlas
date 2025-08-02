@@ -6,7 +6,6 @@ with detailed error messages and specific guidance for resolution.
 """
 
 import os
-import re
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
@@ -54,6 +53,12 @@ class ConfigValidator:
         self._validate_model_configuration(config)
         self._validate_security_settings(config)
         self._validate_performance_settings(config)
+
+        # Advanced validation checks
+        self._validate_environment_consistency(config)
+        self._validate_feature_dependencies(config)
+        self._validate_resource_availability(config)
+        self._validate_configuration_completeness(config)
 
         return self.errors, self.warnings
 
@@ -363,6 +368,223 @@ class ConfigValidator:
                         fix_command="echo 'MODEL_BUDGET=mistralai/mistral-7b-instruct:free' >> config/.env",
                     )
                 )
+
+        # Validate memory and processing limits
+        episode_limit = config.get("PODCAST_EPISODE_LIMIT", 0)
+        if episode_limit > 500:
+            self.warnings.append(
+                ValidationError(
+                    field="PODCAST_EPISODE_LIMIT",
+                    message=f"Very high podcast episode limit ({episode_limit}) may cause memory issues",
+                    severity="warning",
+                    guidance="Processing hundreds of episodes simultaneously can consume significant memory and processing time. "
+                    + "Consider processing in smaller batches or implementing streaming processing.",
+                    fix_command=f"sed -i 's/PODCAST_EPISODE_LIMIT={episode_limit}/PODCAST_EPISODE_LIMIT=100/' config/.env",
+                )
+            )
+
+        # Check for inefficient model configuration
+        models = [
+            config.get("llm_model"),
+            config.get("llm_model_premium"),
+            config.get("llm_model_budget"),
+            config.get("llm_model_fallback"),
+        ]
+        unique_models = set(filter(None, models))
+        if len(unique_models) == 1 and len([m for m in models if m]) > 1:
+            self.warnings.append(
+                ValidationError(
+                    field="model_tier_configuration",
+                    message="All model tiers use the same model - no cost optimization",
+                    severity="warning",
+                    guidance="Using the same model for all tiers (premium/budget/fallback) doesn't provide cost optimization. "
+                    + "Consider using a cheaper model for budget tasks and a more capable model for premium tasks.",
+                    fix_command="echo 'MODEL_BUDGET=mistralai/mistral-7b-instruct:free' >> config/.env",
+                )
+            )
+
+    def _validate_environment_consistency(self, config: Dict):
+        """Validate consistency between different configuration values."""
+        # Check provider-model consistency
+        provider = config.get("llm_provider")
+        model = config.get("llm_model", "")
+
+        if provider == "deepseek" and not model.startswith("deepseek"):
+            self.warnings.append(
+                ValidationError(
+                    field="provider_model_mismatch",
+                    message=f"Provider '{provider}' doesn't match model '{model}'",
+                    severity="warning",
+                    guidance="Using a non-DeepSeek model with DeepSeek provider may cause issues. "
+                    + "Either change the provider to match your model or use a DeepSeek model.",
+                    fix_command="echo 'LLM_MODEL=deepseek-ai/deepseek-chat' >> config/.env",
+                )
+            )
+
+        # Check data directory consistency
+        data_dir = config.get("data_directory", "output")
+
+        expected_paths = {
+            "article_output_path": os.path.join(data_dir, "articles"),
+            "podcast_output_path": os.path.join(data_dir, "podcasts"),
+            "youtube_output_path": os.path.join(data_dir, "youtube"),
+        }
+
+        for path_key, expected_path in expected_paths.items():
+            if config.get(path_key) != expected_path:
+                self.warnings.append(
+                    ValidationError(
+                        field=path_key,
+                        message="Output path inconsistent with data directory",
+                        severity="warning",
+                        guidance=f"The {path_key} should be under {data_dir} for consistency. "
+                        + f"Expected: {expected_path}, got: {config.get(path_key)}",
+                        fix_command="# Update configuration to use consistent paths",
+                    )
+                )
+
+    def _validate_feature_dependencies(self, config: Dict):
+        """Validate dependencies between enabled features."""
+        # YouTube ingestor requires API key
+        if config.get("youtube_ingestor", {}).get("enabled", True) and not config.get(
+            "YOUTUBE_API_KEY"
+        ):
+            self.warnings.append(
+                ValidationError(
+                    field="youtube_feature_dependency",
+                    message="YouTube ingestor enabled but no API key provided",
+                    severity="warning",
+                    guidance="YouTube ingestor requires YOUTUBE_API_KEY to function. Either provide the key or disable the ingestor.",
+                    fix_command="echo 'YOUTUBE_INGESTOR_ENABLED=false' >> config/.env",
+                )
+            )
+
+        # Transcription requires either API key or local setup
+        if config.get("TRANSCRIBE_ENABLED", "false").lower() == "true":
+            backend = config.get("TRANSCRIBE_BACKEND", "local")
+            if backend == "api" and not config.get("OPENROUTER_API_KEY"):
+                self.errors.append(
+                    ValidationError(
+                        field="transcription_dependency",
+                        message="API transcription enabled but no API key provided",
+                        severity="error",
+                        guidance="When using 'api' transcription backend, OPENROUTER_API_KEY is required. "
+                        + "Either provide the key or switch to local transcription.",
+                        fix_command="echo 'TRANSCRIBE_BACKEND=local' >> config/.env",
+                    )
+                )
+            elif backend == "local" and not os.path.exists(
+                config.get("WHISPER_PATH", "/usr/local/bin/whisper")
+            ):
+                self.warnings.append(
+                    ValidationError(
+                        field="local_transcription_dependency",
+                        message="Local transcription enabled but Whisper not found",
+                        severity="warning",
+                        guidance="Local transcription requires Whisper to be installed. "
+                        + "Install with: pip install openai-whisper",
+                        fix_command="pip install openai-whisper",
+                    )
+                )
+
+    def _validate_resource_availability(self, config: Dict):
+        """Validate system resources and external dependencies."""
+        import shutil
+
+        # Check for required system commands
+        required_commands = ["ffmpeg", "yt-dlp"]
+        for cmd in required_commands:
+            if not shutil.which(cmd):
+                self.warnings.append(
+                    ValidationError(
+                        field=f"{cmd}_availability",
+                        message=f"Required command '{cmd}' not found in PATH",
+                        severity="warning",
+                        guidance=f"The {cmd} command is required for audio/video processing. "
+                        + f"Install it using your system package manager.",
+                        fix_command=f"# Install {cmd} using your package manager (brew/apt install {cmd})",
+                    )
+                )
+
+        # Check disk space
+        data_dir = config.get("data_directory", "output")
+        try:
+            statvfs = os.statvfs(data_dir if os.path.exists(data_dir) else ".")
+            free_space_gb = (statvfs.f_bavail * statvfs.f_frsize) / (1024**3)
+            if free_space_gb < 1:
+                self.warnings.append(
+                    ValidationError(
+                        field="disk_space",
+                        message=f"Low disk space: {free_space_gb:.1f}GB available",
+                        severity="warning",
+                        guidance="Atlas may consume significant disk space for downloaded content. "
+                        + "Ensure adequate free space for operation.",
+                        fix_command="# Free up disk space or choose a different data directory",
+                    )
+                )
+        except (OSError, AttributeError):
+            # Skip disk space check on systems where it's not available
+            pass
+
+    def _validate_configuration_completeness(self, config: Dict):
+        """Validate configuration completeness and provide suggestions."""
+        # Check for commonly missed configurations
+        if not config.get("LOG_LEVEL"):
+            self.warnings.append(
+                ValidationError(
+                    field="LOG_LEVEL",
+                    message="No log level specified",
+                    severity="warning",
+                    guidance="Setting a log level helps with debugging. Recommended values: INFO for normal use, DEBUG for troubleshooting.",
+                    fix_command="echo 'LOG_LEVEL=INFO' >> config/.env",
+                )
+            )
+
+        # Check for processing timeout configuration
+        timeout = config.get("PROCESSING_TIMEOUT")
+        if not timeout:
+            self.warnings.append(
+                ValidationError(
+                    field="PROCESSING_TIMEOUT",
+                    message="No processing timeout configured",
+                    severity="warning",
+                    guidance="Setting a processing timeout prevents stuck operations. Recommended: 30-60 minutes for most use cases.",
+                    fix_command="echo 'PROCESSING_TIMEOUT=30' >> config/.env",
+                )
+            )
+        elif timeout and int(timeout) < 5:
+            self.warnings.append(
+                ValidationError(
+                    field="PROCESSING_TIMEOUT",
+                    message=f"Very short processing timeout ({timeout} minutes)",
+                    severity="warning",
+                    guidance="Short timeouts may cause legitimate operations to fail. Consider 15-30 minutes minimum.",
+                    fix_command="echo 'PROCESSING_TIMEOUT=30' >> config/.env",
+                )
+            )
+
+        # Check for max retries configuration
+        max_retries = config.get("MAX_RETRIES")
+        if not max_retries:
+            self.warnings.append(
+                ValidationError(
+                    field="MAX_RETRIES",
+                    message="No retry limit configured",
+                    severity="warning",
+                    guidance="Setting retry limits prevents infinite retry loops. Recommended: 3-5 retries.",
+                    fix_command="echo 'MAX_RETRIES=3' >> config/.env",
+                )
+            )
+        elif max_retries and int(max_retries) > 10:
+            self.warnings.append(
+                ValidationError(
+                    field="MAX_RETRIES",
+                    message=f"Very high retry limit ({max_retries})",
+                    severity="warning",
+                    guidance="Too many retries can cause long delays. Consider 3-5 retries for most use cases.",
+                    fix_command="echo 'MAX_RETRIES=3' >> config/.env",
+                )
+            )
 
     def _is_valid_openrouter_key(self, key: str) -> bool:
         """Validate OpenRouter API key format."""

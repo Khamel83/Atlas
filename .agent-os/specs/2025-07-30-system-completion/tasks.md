@@ -2,7 +2,7 @@
 
 ## Tasks
 
-- [x] 1. **Recording Reliability Foundation** 
+- [x] 1. **Recording Reliability Foundation**
   - [x] 1.1 Fix LaunchAgent service configuration paths to point to workspace/ directory
   - [x] 1.2 Test and verify audio recording service starts correctly on boot
   - [x] 1.3 Implement automatic restart on service failure with exponential backoff

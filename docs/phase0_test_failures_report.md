@@ -1,9 +1,9 @@
 # Phase 0 Test Failures Report
 
-**Date**: August 1, 2025  
-**Phase**: 0 - Pre-flight Health Check  
-**Task**: 0.1 - Run all existing tests and document failures  
-**Total Tests**: 200 tests  
+**Date**: August 1, 2025
+**Phase**: 0 - Pre-flight Health Check
+**Task**: 0.1 - Run all existing tests and document failures
+**Total Tests**: 200 tests
 **Results**: 130 PASSED | 59 FAILED | 9 ERRORS | 2 SKIPPED
 
 ## 📊 Executive Summary
@@ -24,7 +24,7 @@ The existing Atlas test suite reveals significant issues that need to be address
 
 ```
 FAILED tests/test_enhanced_validation.py::TestConfigValidator::test_placeholder_credential_detection
-FAILED tests/test_environment_validation.py::TestConfigurationLoading::test_deepseek_api_priority  
+FAILED tests/test_environment_validation.py::TestConfigurationLoading::test_deepseek_api_priority
 FAILED tests/test_environment_validation.py::TestIngestorConfiguration::test_ingestor_defaults
 FAILED tests/test_validation.py::TestValidation::test_missing_api_keys
 ```
@@ -104,7 +104,7 @@ FAILED tests/integration/test_full_ingestion_pipeline 2.py::test_full_ingestion_
 
 ```
 ERROR tests/unit/test_base_ingestor.py::* (5 different test methods)
-ERROR tests/unit/test_podcast_ingestor.py::* (2 different test methods)  
+ERROR tests/unit/test_podcast_ingestor.py::* (2 different test methods)
 ERROR tests/unit/test_youtube_ingestor.py::* (2 different test methods)
 ```
 

@@ -17,7 +17,7 @@ As a remote worker, I want TrojanHorse to reliably capture all my audio conversa
 
 The system must start recording on boot, survive crashes, and provide simple local/cloud analysis choices. I should be able to search all my conversations by keyword or concept without any technical complexity.
 
-### System Reliability User  
+### System Reliability User
 
 As someone who depends on context capture, I want the audio recording to work 100% of the time it's supposed to work, so that I never lose conversations due to technical failures.
 
@@ -30,7 +30,7 @@ As a knowledge worker building context over months, I want to search through all
 ## Spec Scope
 
 1. **Search Engine** - SQLite + FTS5 for fast keyword search across all transcripts
-2. **Semantic Search** - Vector embeddings using sentence-transformers for conceptual queries  
+2. **Semantic Search** - Vector embeddings using sentence-transformers for conceptual queries
 3. **Web Interface** - Clean browser-based search, browsing, and timeline view
 4. **Batch Indexing** - Retroactively index all existing transcripts and analysis results
 5. **Timeline Analysis** - Date-based filtering and conversation pattern visualization
@@ -39,7 +39,7 @@ As a knowledge worker building context over months, I want to search through all
 ## Out of Scope
 
 - Multi-device synchronization (Phase 4)
-- Advanced analytics dashboard (Phase 4)  
+- Advanced analytics dashboard (Phase 4)
 - Workflow integration APIs (Phase 4)
 - Real-time collaboration features
 - External tool integrations beyond basic search

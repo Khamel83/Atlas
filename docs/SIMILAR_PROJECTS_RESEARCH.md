@@ -7,7 +7,7 @@ This document summarizes research into similar projects and identifies enhanceme
 ## Projects Analyzed
 
 ### 1. Wallabag - Read-it-later Service
-**Repository**: https://github.com/wallabag/wallabag  
+**Repository**: https://github.com/wallabag/wallabag
 **Key Strength**: Superior article extraction and content parsing
 
 #### Current Atlas Gap
@@ -22,7 +22,7 @@ This document summarizes research into similar projects and identifies enhanceme
 - **Content quality validation** with length and ratio checks
 
 ### 2. Miniflux - Minimalist Feed Reader
-**Repository**: https://github.com/miniflux/v2  
+**Repository**: https://github.com/miniflux/v2
 **Key Strength**: Intelligent duplicate detection and content management
 
 #### Current Atlas Gap
@@ -36,7 +36,7 @@ This document summarizes research into similar projects and identifies enhanceme
 - **Efficient storage**: Prevent duplicate content storage
 
 ### 3. FreshRSS - Self-hosted RSS Feed Aggregator
-**Repository**: https://github.com/FreshRSS/FreshRSS  
+**Repository**: https://github.com/FreshRSS/FreshRSS
 **Key Strength**: Automatic content categorization
 
 #### Current Atlas Gap
@@ -50,7 +50,7 @@ This document summarizes research into similar projects and identifies enhanceme
 - **Scoring system**: Multi-dimensional category scoring
 
 ### 4. RSS-Bridge - Website to RSS Converter
-**Repository**: https://github.com/RSS-Bridge/rss-bridge  
+**Repository**: https://github.com/RSS-Bridge/rss-bridge
 **Key Strength**: Smart feed discovery and website conversion
 
 #### Current Atlas Gap
@@ -64,7 +64,7 @@ This document summarizes research into similar projects and identifies enhanceme
 - **Platform support**: YouTube, Medium, Substack, etc.
 
 ### 5. Logseq - Local-first Knowledge Management
-**Repository**: https://github.com/logseq/logseq  
+**Repository**: https://github.com/logseq/logseq
 **Key Strength**: Block-based knowledge organization
 
 #### Current Atlas Gap
@@ -373,7 +373,7 @@ ACTIVITYWATCH_URL=http://localhost:5600
 extraction_methods = [
     extract_with_readability,     # Current method
     extract_with_newspaper3k,     # Add this
-    extract_with_goose3,          # Add this  
+    extract_with_goose3,          # Add this
     extract_with_custom_rules,    # Site-specific rules
     extract_with_fallback        # Basic HTML parsing
 ]
@@ -457,7 +457,7 @@ class IngestorPlugin(ABC):
     @abstractmethod
     def can_handle(self, input_data: Any) -> bool:
         pass
-    
+
     @abstractmethod
     def process(self, input_data: Any) -> Dict:
         pass
@@ -542,5 +542,5 @@ difflib                # Text similarity (built-in)
 
 ---
 
-*Research conducted: [Current Date]*  
-*Last updated: [Current Date]* 
+*Research conducted: [Current Date]*
+*Last updated: [Current Date]*

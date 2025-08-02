@@ -39,7 +39,7 @@ class PaywallSystem:
     def __init__(self):
         self.enabled = False  # Hardcoded default
         self.require_legal_review = True
-        
+
     def enable_for_domain(self, domain):
         if not self._validate_consent(domain):
             raise LegalComplianceError("Missing consent documentation")
@@ -86,4 +86,4 @@ def check_jurisdiction(url):
     tld = extract_tld(url)
     if tld in HIGH_RISK_JURISDICTIONS:
         require_extra_consent()
-``` 
+```

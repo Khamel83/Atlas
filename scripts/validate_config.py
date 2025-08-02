@@ -20,7 +20,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from helpers.config import load_config
-from helpers.validate import ConfigValidator, validate_config_enhanced
+from helpers.error_handler import create_error_handler
+from helpers.validate import ConfigValidator
 
 
 def main():
@@ -38,12 +39,36 @@ def main():
         action="store_true",
         help="Quiet mode - only output if there are issues",
     )
+    parser.add_argument(
+        "--security",
+        action="store_true",
+        help="Run security-specific validation checks",
+    )
+    parser.add_argument(
+        "--summary",
+        action="store_true",
+        help="Show error trend analysis and statistics",
+    )
+    parser.add_argument(
+        "--days",
+        type=int,
+        default=7,
+        help="Number of days for error summary (default: 7)",
+    )
 
     args = parser.parse_args()
 
     try:
         # Load configuration
         config = load_config()
+
+        # Handle special modes
+        if args.security:
+            run_security_validation(args)
+            return
+        elif args.summary:
+            show_error_summary(config, args)
+            return
 
         # Validate configuration
         validator = ConfigValidator()
@@ -144,6 +169,79 @@ def output_report(validator, errors, warnings, errors_only=False, quiet=False):
             print(f"   • Status: ⚠️  Configuration works but has recommendations")
         else:
             print(f"   • Status: ✅ Configuration is optimal")
+
+
+def run_security_validation(args):
+    """Run security-specific validation checks."""
+    try:
+        from helpers.config import load_config
+        from helpers.security import validate_security
+
+        config = load_config()
+        security_results, security_report = validate_security(config)
+
+        if args.json:
+            result = {
+                "security_check_count": len(security_results),
+                "checks": [
+                    {
+                        "check": result.check,
+                        "status": result.status,
+                        "severity": result.severity,
+                        "message": result.message,
+                        "recommendation": result.recommendation,
+                        "fix_command": result.fix_command,
+                    }
+                    for result in security_results
+                ],
+            }
+            print(json.dumps(result, indent=2))
+        else:
+            print(security_report)
+
+    except ImportError:
+        print("❌ Security validation not available (helpers.security not found)")
+    except Exception as e:
+        print(f"❌ Security validation failed: {e}")
+
+
+def show_error_summary(config, args):
+    """Show error trend analysis and statistics."""
+    try:
+        error_handler = create_error_handler(config)
+        summary = error_handler.get_error_summary(days=args.days)
+
+        if args.json:
+            print(json.dumps(summary, indent=2))
+            return
+
+        print(f"📊 Error Summary ({args.days} days)")
+        print("=" * 40)
+        print(f"Environment: {summary['environment']}")
+        print(f"Total Errors: {summary['total_errors']}")
+
+        if summary["error_categories"]:
+            print("\n📈 Error Categories:")
+            for category, count in sorted(summary["error_categories"].items()):
+                print(f"  {category}: {count}")
+
+        if summary["severity_distribution"]:
+            print("\n🚨 Severity Distribution:")
+            for severity, count in sorted(summary["severity_distribution"].items()):
+                print(f"  {severity}: {count}")
+
+        if summary["recent_errors"]:
+            print(f"\n🕐 Recent Errors (last {len(summary['recent_errors'])}):")
+            for error in summary["recent_errors"]:
+                timestamp = error.get("timestamp", "unknown")
+                category = error.get("category", "unknown")
+                message = error.get("message", "no message")
+                print(f"  {timestamp[:19]} [{category}] {message}")
+        else:
+            print("\n✅ No recent errors found")
+
+    except Exception as e:
+        print(f"❌ Error summary failed: {e}")
 
 
 if __name__ == "__main__":

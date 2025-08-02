@@ -40,7 +40,7 @@ URL → bulletproof capture (always succeeds) → processing queue → eventual 
 def capture_url(url: str, user_context: dict = None) -> dict:
     """NEVER FAILS. Immediately saves URL with metadata to multiple locations."""
     # Generate unique capture_id with timestamp
-    # Save to primary + backup locations atomically  
+    # Save to primary + backup locations atomically
     # Return capture confirmation with tracking info
 
 def capture_file(file_path: str, user_context: dict = None) -> dict:
@@ -88,16 +88,16 @@ def validate_capture(capture_id: str) -> dict:
 class ProcessingQueue:
     def add_to_queue(self, capture_id: str, item_type: str, priority: int = 0):
         """Add captured item to processing queue."""
-        
+
     def get_next_item(self) -> dict:
         """Get next item for processing."""
-        
+
     def mark_complete(self, capture_id: str, result_paths: dict):
         """Mark item as successfully processed."""
-        
+
     def mark_failed(self, capture_id: str, error: str, retry_count: int):
         """Mark item as failed, handle retry logic."""
-        
+
     def get_queue_status(self) -> dict:
         """Return comprehensive queue statistics."""
 ```
@@ -108,10 +108,10 @@ class ProcessingQueue:
 class QueueProcessor:
     def process_next_batch(self, batch_size: int = 5) -> dict:
         """Process next batch of items from queue."""
-        
+
     def retry_failed_items(self, max_retries: int = 3) -> dict:
         """Retry processing for failed items."""
-        
+
     def cleanup_completed_items(self, older_than_days: int = 30) -> dict:
         """Clean up old completed items."""
 ```
@@ -125,7 +125,7 @@ class QueueProcessor:
 - Maintain existing processing logic but with capture-aware status updates
 
 #### Modify `helpers/podcast_ingestor.py`
-- Add `process_captured_podcast(capture_id)` function  
+- Add `process_captured_podcast(capture_id)` function
 - Process captured OPML files from queue
 - Same pattern as articles
 
@@ -161,13 +161,13 @@ def setup_comprehensive_logging():
 ```python
 def show_capture_status():
     """Display all captured items and processing status."""
-    
-def show_failed_items(): 
+
+def show_failed_items():
     """Show items that failed processing and why."""
-    
+
 def retry_failed_items():
     """Retry processing for failed items."""
-    
+
 def show_queue_statistics():
     """Display comprehensive queue and processing statistics."""
 ```
@@ -177,7 +177,7 @@ def show_queue_statistics():
 ```python
 def retry_specific_item(capture_id: str):
     """Retry processing for specific failed item."""
-    
+
 def retry_all_failed(max_age_hours: int = 24):
     """Retry all failed items within time window."""
 ```
@@ -187,10 +187,10 @@ def retry_all_failed(max_age_hours: int = 24):
 ```python
 def pause_processing():
     """Pause queue processing."""
-    
+
 def resume_processing():
     """Resume queue processing."""
-    
+
 def clear_queue(confirm: bool = False):
     """Clear processing queue (with confirmation)."""
 ```
@@ -255,7 +255,7 @@ def process_queue(max_items: int = None) -> dict:
     """Process items from queue separately."""
     # Process using existing logic
     # Handle retries and failures gracefully
-    
+
 def get_ingest_status() -> dict:
     """Return comprehensive ingest system status."""
 ```
@@ -357,4 +357,4 @@ After implementation, users should be able to:
 
 ---
 
-**This architecture change is foundational** - every other Atlas feature depends on users trusting the system with their data. Focus on reliability over features to enable everything else to be built safely on top. 
+**This architecture change is foundational** - every other Atlas feature depends on users trusting the system with their data. Focus on reliability over features to enable everything else to be built safely on top.

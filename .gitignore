@@ -26,7 +26,7 @@ retries.json
 !*.md
 !requirements.txt
 !setup_test_inputs.sh
-!Atlas.code-workspace 
+!Atlas.code-workspace
 # Env
 .env
 config/.env
@@ -53,7 +53,7 @@ credentials/
 
 # Runtime logs with potentially sensitive content
 *.log
-!docs/*.log 
+!docs/*.log
 
 # Python cache and virtual environments
 __pycache__/

@@ -41,7 +41,7 @@ The solution involved two key steps:
 ### Lessons Learned
 
 - Do not assume the project structure is static. If `ImportError`s occur, re-verify the current file structure and intended entrypoints before debugging logic.
-- A single, unambiguous entrypoint script (`run.py`) should be maintained to avoid confusion. The presence of multiple potential entrypoints complicated the debugging process significantly. 
+- A single, unambiguous entrypoint script (`run.py`) should be maintained to avoid confusion. The presence of multiple potential entrypoints complicated the debugging process significantly.
 
 ---
 
@@ -76,4 +76,4 @@ This error is typically caused by attempting to pickle (serialize) an object tha
 ### Status
 
 - Jobs persist and are listed after restart, but the error should be resolved for robustness.
-- Further investigation required if job execution or persistence is affected. 
+- Further investigation required if job execution or persistence is affected.

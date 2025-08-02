@@ -107,4 +107,4 @@ Atlas job scheduling is managed via the web UI and CLI:
 ## 📝 Notes
 - All endpoints return JSON unless otherwise noted.
 - The dashboard UI provides the best user experience for cognitive features.
-- For full technical details, see [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md). 
+- For full technical details, see [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md).

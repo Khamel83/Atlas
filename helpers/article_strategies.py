@@ -441,7 +441,9 @@ class ArticleFetcher:
             WaybackMachineStrategy(),
         ]
 
-    def fetch_article(self, url: str, strategy: str = None, log_path: str = "") -> FetchResult:
+    def fetch_article(
+        self, url: str, strategy: str = None, log_path: str = ""
+    ) -> FetchResult:
         """
         Public method to fetch an article using the orchestrated strategies.
         If a specific strategy is provided, it will attempt to use only that strategy.
@@ -451,7 +453,7 @@ class ArticleFetcher:
                 if s.get_strategy_name() == strategy:
                     return s.fetch(url, log_path=log_path)
             raise ValueError(f"Unknown strategy: {strategy}")
-        
+
         return self.fetch_with_fallbacks(url, log_path=log_path)
 
     def fetch_with_fallbacks(self, url: str, log_path: str) -> FetchResult:

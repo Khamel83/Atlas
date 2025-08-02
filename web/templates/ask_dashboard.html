@@ -24,30 +24,30 @@
             --shadow: 0 2px 8px rgba(0,0,0,0.3);
         }
 
-        body { 
-            font-family: Arial, sans-serif; 
-            margin: 2em; 
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2em;
             background: var(--bg-primary);
             color: var(--text-primary);
             transition: background-color 0.3s ease, color 0.3s ease;
         }
-        
+
         h1 { color: var(--text-primary); }
-        
-        nav { 
-            margin-bottom: 2em; 
-            display: flex; 
-            justify-content: space-between; 
+
+        nav {
+            margin-bottom: 2em;
+            display: flex;
+            justify-content: space-between;
             align-items: center;
         }
-        
-        nav .nav-links a { 
-            margin-right: 1.5em; 
-            text-decoration: none; 
-            color: var(--link-color); 
-            font-weight: bold; 
+
+        nav .nav-links a {
+            margin-right: 1.5em;
+            text-decoration: none;
+            color: var(--link-color);
+            font-weight: bold;
         }
-        
+
         .theme-toggle {
             background: var(--bg-secondary);
             border: 1px solid var(--text-muted);
@@ -57,28 +57,28 @@
             cursor: pointer;
             transition: all 0.3s ease;
         }
-        
+
         .theme-toggle:hover {
             background: var(--text-muted);
             color: var(--bg-primary);
         }
-        
-        section { 
-            margin-bottom: 2em; 
-            background: var(--bg-secondary); 
-            padding: 1.5em; 
-            border-radius: var(--border-radius); 
+
+        section {
+            margin-bottom: 2em;
+            background: var(--bg-secondary);
+            padding: 1.5em;
+            border-radius: var(--border-radius);
             box-shadow: var(--shadow);
             transition: background-color 0.3s ease;
         }
-        
+
         h2 { color: var(--text-secondary); }
         ul { padding-left: 1.5em; }
         .label { font-weight: bold; color: var(--text-muted); }
         .question { margin-bottom: 0.5em; }
         .pattern-list { display: flex; gap: 2em; }
         .pattern-list ul { margin: 0; }
-        
+
         textarea, input {
             background: var(--bg-secondary);
             color: var(--text-primary);
@@ -87,7 +87,7 @@
             padding: 0.5em;
             transition: all 0.3s ease;
         }
-        
+
         button {
             background: var(--link-color);
             color: var(--bg-primary);
@@ -97,7 +97,7 @@
             cursor: pointer;
             transition: all 0.3s ease;
         }
-        
+
         button:hover {
             opacity: 0.9;
         }
@@ -107,20 +107,20 @@
         function toggleTheme() {
             const currentTheme = document.documentElement.getAttribute('data-theme');
             const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-            
+
             document.documentElement.setAttribute('data-theme', newTheme);
             localStorage.setItem('theme', newTheme);
-            
+
             // Update button text
             const button = document.querySelector('.theme-toggle');
             button.textContent = newTheme === 'dark' ? '☀️ Light Mode' : '🌙 Dark Mode';
         }
-        
+
         // Initialize theme on page load
         document.addEventListener('DOMContentLoaded', function() {
             const savedTheme = localStorage.getItem('theme') || 'light';
             document.documentElement.setAttribute('data-theme', savedTheme);
-            
+
             // Update button text based on current theme
             const button = document.querySelector('.theme-toggle');
             button.textContent = savedTheme === 'dark' ? '☀️ Light Mode' : '🌙 Dark Mode';
@@ -213,4 +213,4 @@
     </section>
     {% endif %}
 </body>
-</html> 
+</html>

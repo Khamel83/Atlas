@@ -163,7 +163,7 @@ from scripts.todo_helpers import add_todo
 def health_check_callback(issue):
     """Automatically add health check issues as TODOs"""
     todo_id = add_todo(
-        f"Health Check Issue: {issue['description']}", 
+        f"Health Check Issue: {issue['description']}",
         priority="high",
         category="health"
     )
@@ -401,4 +401,4 @@ jobs:
 }
 ```
 
-The Atlas TODO Management System ensures that no task is ever lost or forgotten, providing a comprehensive, unified approach to project task management with seamless integration across all development workflows. 
+The Atlas TODO Management System ensures that no task is ever lost or forgotten, providing a comprehensive, unified approach to project task management with seamless integration across all development workflows.

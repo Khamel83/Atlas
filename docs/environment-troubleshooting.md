@@ -20,8 +20,8 @@ This will identify most configuration issues with specific fix instructions.
 ```bash
 python3 --version
 ```
-**Requirement**: Python 3.9 or higher  
-**Issue**: `ImportError` or syntax errors  
+**Requirement**: Python 3.9 or higher
+**Issue**: `ImportError` or syntax errors
 **Fix**: Install Python 3.9+ from https://python.org
 
 #### System Dependencies

@@ -1,9 +1,9 @@
 # Phase 0 Linting Report
 
-**Date**: August 1, 2025  
-**Phase**: 0 - Pre-flight Health Check  
-**Task**: 0.2 - Run linter and document all errors  
-**Tools Used**: Black, isort, mypy  
+**Date**: August 1, 2025
+**Phase**: 0 - Pre-flight Health Check
+**Task**: 0.2 - Run linter and document all errors
+**Tools Used**: Black, isort, mypy
 
 ## 📊 Executive Summary
 
@@ -11,15 +11,15 @@ The Atlas codebase has significant code quality issues that need attention. Whil
 
 ### 🎯 Overall Code Quality Assessment
 - **Formatting**: 1 file needs Black formatting (minor issue)
-- **Import Organization**: 21 files have import ordering issues (moderate issue)  
+- **Import Organization**: 21 files have import ordering issues (moderate issue)
 - **Type Safety**: 274 type errors across codebase (major issue)
 
 ## 📈 Linting Results by Tool
 
 ### ✅ Black (Code Formatting) - MOSTLY CLEAN
-**Status**: 1 file needs formatting  
-**Severity**: LOW  
-**Files Affected**: 1  
+**Status**: 1 file needs formatting
+**Severity**: LOW
+**Files Affected**: 1
 
 **Issues Found**:
 - `demo_validation.py` needs minor formatting adjustments
@@ -28,10 +28,10 @@ The Atlas codebase has significant code quality issues that need attention. Whil
 
 **Impact**: Minimal - mostly cosmetic issues that don't affect functionality
 
-### ⚠️ isort (Import Organization) - MODERATE ISSUES  
-**Status**: 21 files have import sorting issues  
-**Severity**: MEDIUM  
-**Files Affected**: 21  
+### ⚠️ isort (Import Organization) - MODERATE ISSUES
+**Status**: 21 files have import sorting issues
+**Severity**: MEDIUM
+**Files Affected**: 21
 
 **Problem Areas**:
 - Test files (multiple files in `tests/`)
@@ -48,23 +48,23 @@ The Atlas codebase has significant code quality issues that need attention. Whil
 **Impact**: Affects code readability and maintainability but not functionality
 
 ### 🚨 mypy (Type Safety) - MAJOR ISSUES
-**Status**: 274 type errors  
-**Severity**: HIGH  
-**Files Affected**: Multiple core modules  
+**Status**: 274 type errors
+**Severity**: HIGH
+**Files Affected**: Multiple core modules
 
 ## 🔴 Critical Type Safety Issues
 
 ### 1. Missing Type Stubs (Library Dependencies)
-**Count**: ~20 errors  
+**Count**: ~20 errors
 **Issue**: Missing type stubs for external libraries
 ```
 error: Library stubs not installed for "requests"
-error: Library stubs not installed for "yaml" 
+error: Library stubs not installed for "yaml"
 ```
 **Fix**: Install type stubs: `pip install types-requests types-PyYAML`
 
 ### 2. Undefined Variables (Code Bugs)
-**Count**: ~15 errors  
+**Count**: ~15 errors
 **Severity**: CRITICAL - These are actual bugs
 ```
 ingest/capture/failure_notifier.py:431: error: Name "cutoff_iso" is not defined
@@ -73,7 +73,7 @@ ingest/capture/failure_notifier.py:432: error: Name "kept_lines" is not defined
 **Impact**: Runtime errors - these variables are used but not defined
 
 ### 3. Optional Type Issues (PEP 484 Violations)
-**Count**: ~30 errors  
+**Count**: ~30 errors
 **Issue**: Implicit Optional types no longer allowed
 ```
 error: Incompatible default for argument "error" (default has type "None", argument has type "str")
@@ -81,7 +81,7 @@ error: Incompatible default for argument "error" (default has type "None", argum
 **Fix**: Use explicit `Optional[str]` or `str | None` typing
 
 ### 4. Attribute Access Errors
-**Count**: ~20 errors  
+**Count**: ~20 errors
 **Issue**: Trying to access attributes/methods on generic objects
 ```
 error: "object" has no attribute "append"
@@ -89,7 +89,7 @@ error: "object" has no attribute "get"
 ```
 **Impact**: Potential runtime AttributeError exceptions
 
-### 5. Index Assignment Errors  
+### 5. Index Assignment Errors
 **Count**: ~10 errors
 **Issue**: Trying to assign to unsupported object types
 ```
@@ -115,7 +115,7 @@ error: Incompatible return value type (got "object", expected "SupportsDunderLT[
 **Impact**: Type system violations, potential runtime errors
 
 ### 8. Function Call Argument Errors
-**Count**: ~30 errors  
+**Count**: ~30 errors
 **Issue**: Wrong argument types passed to functions
 ```
 error: Argument "key" to "sort" has incompatible type
@@ -125,21 +125,21 @@ error: Argument "key" to "sort" has incompatible type
 ## 📁 Most Problematic Files
 
 ### 1. `ingest/capture/failure_notifier.py`
-**Issues**: 15+ errors including undefined variables  
-**Severity**: CRITICAL  
-**Problems**: Undefined variables, object attribute access errors  
+**Issues**: 15+ errors including undefined variables
+**Severity**: CRITICAL
+**Problems**: Undefined variables, object attribute access errors
 **Status**: Likely broken at runtime
 
-### 2. `helpers/metadata_manager.py`  
-**Issues**: 20+ errors  
-**Severity**: HIGH  
-**Problems**: Optional type issues, missing annotations, type mismatches  
+### 2. `helpers/metadata_manager.py`
+**Issues**: 20+ errors
+**Severity**: HIGH
+**Problems**: Optional type issues, missing annotations, type mismatches
 **Status**: Functional but type-unsafe
 
 ### 3. Various Helper Modules
-**Issues**: 5-10 errors each  
-**Severity**: MEDIUM  
-**Problems**: Missing type annotations, library stub issues  
+**Issues**: 5-10 errors each
+**Severity**: MEDIUM
+**Problems**: Missing type annotations, library stub issues
 **Status**: Functional but need type improvements
 
 ## 🚨 Critical Bugs Found by Linter
@@ -165,7 +165,7 @@ These indicate design issues and potential runtime errors:
 2. **Install Type Stubs**: `pip install types-requests types-PyYAML`
 3. **Fix Object Attribute Errors**: Code trying to access attributes on generic objects
 
-### Future Phases: Code Quality (Should Do)  
+### Future Phases: Code Quality (Should Do)
 1. **Fix Optional Type Issues**: Add proper Optional typing
 2. **Add Missing Type Annotations**: Improve type coverage
 3. **Fix Return Type Mismatches**: Ensure functions return correct types
@@ -192,7 +192,7 @@ Critical Bugs:        15+ undefined variables and attribute errors
 
 **Phase 0.3 Complete When**:
 - Critical undefined variable bugs fixed
-- Type stubs installed for core libraries  
+- Type stubs installed for core libraries
 - No critical runtime errors from type issues
 - Ready to proceed with confidence
 
@@ -208,7 +208,7 @@ pip install types-requests types-PyYAML types-beautifulsoup4
 python -m isort .
 ```
 
-### Fix Code Formatting (2 minutes)  
+### Fix Code Formatting (2 minutes)
 ```bash
 python -m black .
 ```
@@ -221,7 +221,7 @@ python -m black .
 ## 📋 Next Steps for Task 0.3
 
 1. **Focus on Critical Bugs**: Fix undefined variables first
-2. **Install Type Stubs**: Enable better type checking  
+2. **Install Type Stubs**: Enable better type checking
 3. **Test After Fixes**: Ensure fixes don't break functionality
 4. **Document Remaining Issues**: Create backlog for future type safety improvements
 

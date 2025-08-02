@@ -41,4 +41,4 @@ Atlas is a powerful tool that requires responsible use. You are solely responsib
 4. **Review source code** if you have technical questions
 5. **No official support** is provided by the authors
 
-Remember: You are the administrator of your own knowledge system. With that power comes responsibility. 
+Remember: You are the administrator of your own knowledge system. With that power comes responsibility.

@@ -35,24 +35,24 @@ class TestPytestConfiguration:
         content = pytest_ini.read_text()
 
         # Check for essential configuration sections
-        assert "[tool:pytest]" in content or "[pytest]" in content, (
-            "pytest.ini should contain pytest configuration section"
-        )
+        assert (
+            "[tool:pytest]" in content or "[pytest]" in content
+        ), "pytest.ini should contain pytest configuration section"
 
         # Check for test path configuration
         content_lower = content.lower()
-        assert "testpaths" in content_lower or "tests" in content, (
-            "pytest.ini should specify test paths"
-        )
+        assert (
+            "testpaths" in content_lower or "tests" in content
+        ), "pytest.ini should specify test paths"
 
     def test_pytest_can_import_modules(self):
         """Test that pytest can import project modules without errors."""
         # Test importing core modules that tests depend on
         core_modules = [
             "helpers.config",
-            "helpers.validate", 
+            "helpers.validate",
             "helpers.article_fetcher",
-            "ingest.capture.failure_notifier"
+            "ingest.capture.failure_notifier",
         ]
 
         for module in core_modules:
@@ -64,14 +64,19 @@ class TestPytestConfiguration:
     def test_pytest_discovers_test_files(self):
         """Test that pytest can discover test files in expected locations."""
         # Run pytest in collection-only mode to check test discovery
-        result = subprocess.run([
-            sys.executable, "-m", "pytest", "--collect-only", "-q"
-        ], capture_output=True, text=True, cwd=Path.cwd())
+        result = subprocess.run(
+            [sys.executable, "-m", "pytest", "--collect-only", "-q"],
+            capture_output=True,
+            text=True,
+            cwd=Path.cwd(),
+        )
 
         # Should not fail catastrophically
-        assert result.returncode in [0, 1, 2], (
-            f"pytest test discovery failed catastrophically: {result.stderr}"
-        )
+        assert result.returncode in [
+            0,
+            1,
+            2,
+        ], f"pytest test discovery failed catastrophically: {result.stderr}"
 
         # Should discover some tests
         if result.returncode == 0:
@@ -97,7 +102,7 @@ class TestPytestConfiguration:
         """Test that test files follow pytest naming conventions."""
         tests_dir = Path("tests")
         test_files = []
-        
+
         # Collect all Python files in tests directory
         for py_file in tests_dir.rglob("*.py"):
             if py_file.name not in ["__init__.py", "conftest.py"]:
@@ -108,8 +113,8 @@ class TestPytestConfiguration:
         # Check naming conventions
         for test_file in test_files:
             filename = test_file.name
-            assert (
-                filename.startswith("test_") or filename.endswith("_test.py")
+            assert filename.startswith("test_") or filename.endswith(
+                "_test.py"
             ), f"Test file {filename} should follow pytest naming convention"
 
     def test_conftest_files_loadable(self):
@@ -133,9 +138,9 @@ class TestPytestDiscovery:
         """Test that pytest discovers Phase 1 test files."""
         expected_test_files = [
             "test_environment_validation.py",
-            "test_enhanced_validation.py", 
+            "test_enhanced_validation.py",
             "test_troubleshooting_tools.py",
-            "test_end_to_end_phase1.py"
+            "test_end_to_end_phase1.py",
         ]
 
         tests_dir = Path("tests")
@@ -153,11 +158,14 @@ class TestPytestDiscovery:
     def test_pytest_test_collection_performance(self):
         """Test that pytest test collection completes in reasonable time."""
         import time
-        
+
         start_time = time.time()
-        result = subprocess.run([
-            sys.executable, "-m", "pytest", "--collect-only", "-q"
-        ], capture_output=True, text=True, timeout=30)
+        result = subprocess.run(
+            [sys.executable, "-m", "pytest", "--collect-only", "-q"],
+            capture_output=True,
+            text=True,
+            timeout=30,
+        )
         elapsed = time.time() - start_time
 
         # Test collection should complete within 30 seconds
@@ -166,16 +174,22 @@ class TestPytestDiscovery:
     def test_pytest_can_run_individual_test_files(self):
         """Test that pytest can run individual test files."""
         # Try running a known working test file
-        test_file = Path(__file__).parent.parent / "tests" / "test_enhanced_validation.py"
+        test_file = (
+            Path(__file__).parent.parent / "tests" / "test_enhanced_validation.py"
+        )
         if Path(test_file).exists():
-            result = subprocess.run([
-                sys.executable, "-m", "pytest", test_file, "-v", "--tb=short"
-            ], capture_output=True, text=True, timeout=60)
+            result = subprocess.run(
+                [sys.executable, "-m", "pytest", test_file, "-v", "--tb=short"],
+                capture_output=True,
+                text=True,
+                timeout=60,
+            )
 
             # Should not crash completely
-            assert result.returncode in [0, 1], (
-                f"Individual test file execution failed: {result.stderr}"
-            )
+            assert result.returncode in [
+                0,
+                1,
+            ], f"Individual test file execution failed: {result.stderr}"
 
 
 class TestPytestPlugins:
@@ -184,26 +198,36 @@ class TestPytestPlugins:
     def test_pytest_plugins_loadable(self):
         """Test that required pytest plugins can be loaded."""
         # Test that pytest can load without plugin conflicts
-        result = subprocess.run([
-            sys.executable, "-m", "pytest", "--version"
-        ], capture_output=True, text=True)
+        result = subprocess.run(
+            [sys.executable, "-m", "pytest", "--version"],
+            capture_output=True,
+            text=True,
+        )
 
         assert result.returncode == 0, f"pytest --version failed: {result.stderr}"
-        assert "pytest" in result.stdout, "pytest version output should contain 'pytest'"
+        assert (
+            "pytest" in result.stdout
+        ), "pytest version output should contain 'pytest'"
 
     def test_pytest_mock_plugin_available(self):
         """Test that pytest-mock plugin is available if installed."""
         try:
-            result = subprocess.run([
-                sys.executable, "-c", "import pytest_mock"
-            ], capture_output=True, text=True)
-            
+            result = subprocess.run(
+                [sys.executable, "-c", "import pytest_mock"],
+                capture_output=True,
+                text=True,
+            )
+
             if result.returncode == 0:
                 # If pytest-mock is available, test it works with pytest
-                test_result = subprocess.run([
-                    sys.executable, "-m", "pytest", "--version"
-                ], capture_output=True, text=True)
-                assert test_result.returncode == 0, "pytest should work with pytest-mock"
+                test_result = subprocess.run(
+                    [sys.executable, "-m", "pytest", "--version"],
+                    capture_output=True,
+                    text=True,
+                )
+                assert (
+                    test_result.returncode == 0
+                ), "pytest should work with pytest-mock"
         except ImportError:
             pytest.skip("pytest-mock not installed")
 
@@ -211,14 +235,20 @@ class TestPytestPlugins:
         """Test that pytest-anyio plugin is compatible if installed."""
         try:
             import pytest_anyio
+
             # If anyio plugin is available, pytest should still work
-            result = subprocess.run([
-                sys.executable, "-m", "pytest", "--collect-only"
-            ], capture_output=True, text=True, timeout=30)
-            
-            assert result.returncode in [0, 1, 2], (
-                "pytest should work with anyio plugin"
+            result = subprocess.run(
+                [sys.executable, "-m", "pytest", "--collect-only"],
+                capture_output=True,
+                text=True,
+                timeout=30,
             )
+
+            assert result.returncode in [
+                0,
+                1,
+                2,
+            ], "pytest should work with anyio plugin"
         except ImportError:
             pytest.skip("pytest-anyio not installed")
 
@@ -230,7 +260,7 @@ class TestPytestExecution:
         """Test that pytest runs from correct working directory."""
         # Verify we're in the project root
         cwd = Path.cwd()
-        
+
         # Should have key project files
         assert (cwd / "helpers").exists(), "Should be in project root with helpers/"
         assert (cwd / "tests").exists(), "Should be in project root with tests/"
@@ -239,37 +269,47 @@ class TestPytestExecution:
     def test_pytest_python_path(self):
         """Test that pytest can access project modules."""
         # Test Python path configuration
-        result = subprocess.run([
-            sys.executable, "-c", 
-            "import sys; print('\\n'.join(sys.path)); import helpers.config"
-        ], capture_output=True, text=True)
+        result = subprocess.run(
+            [
+                sys.executable,
+                "-c",
+                "import sys; print('\\n'.join(sys.path)); import helpers.config",
+            ],
+            capture_output=True,
+            text=True,
+        )
 
-        assert result.returncode == 0, f"Python path configuration issue: {result.stderr}"
+        assert (
+            result.returncode == 0
+        ), f"Python path configuration issue: {result.stderr}"
 
     def test_pytest_environment_isolation(self):
         """Test that pytest runs in proper environment isolation."""
         # Run a simple test to verify environment
-        simple_test = '''
+        simple_test = """
 def test_environment():
     import os
     import sys
     assert len(sys.path) > 0
     assert os.getcwd()
-'''
-        
+"""
+
         # Write temporary test file
         output_dir = Path.cwd() / "output"
         output_dir.mkdir(exist_ok=True)
         temp_test = output_dir / "temp_pytest_test.py"
         temp_test.write_text(simple_test)
-        
+
         try:
-            result = subprocess.run([
-                sys.executable, "-m", "pytest", str(temp_test), "-v"
-            ], capture_output=True, text=True, timeout=30)
-            
+            result = subprocess.run(
+                [sys.executable, "-m", "pytest", str(temp_test), "-v"],
+                capture_output=True,
+                text=True,
+                timeout=30,
+            )
+
             assert result.returncode == 0, f"Environment test failed: {result.stderr}"
-            
+
         finally:
             if temp_test.exists():
                 temp_test.unlink()

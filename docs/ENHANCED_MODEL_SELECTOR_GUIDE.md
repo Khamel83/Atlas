@@ -260,4 +260,4 @@ With proper configuration, you should see:
 
 ---
 
-*For questions or issues, check the troubleshooting section or review the implementation in `helpers/model_selector.py`* 
+*For questions or issues, check the troubleshooting section or review the implementation in `helpers/model_selector.py`*

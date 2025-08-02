@@ -34,4 +34,4 @@ Atlas may use third-party APIs if you configure them:
 This policy may be updated. Check the repository for the latest version.
 
 ## Contact
-This is open-source software with no official support. Consult documentation or community resources for assistance. 
+This is open-source software with no official support. Consult documentation or community resources for assistance.

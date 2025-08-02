@@ -207,10 +207,7 @@ class MetadataManager:
             # Reconstruct FetchDetails
             if "fetch_details" in data:
                 fetch_data = data["fetch_details"]
-                attempts = [
-                    FetchAttempt(**attempt)
-                    for attempt in fetch_data.attempts
-                ]
+                attempts = [FetchAttempt(**attempt) for attempt in fetch_data.attempts]
                 data["fetch_details"] = FetchDetails(
                     attempts=attempts,
                     successful_method=fetch_data.successful_method,

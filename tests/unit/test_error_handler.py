@@ -1,6 +1,6 @@
 import unittest
-from unittest.mock import MagicMock, patch
 from pathlib import Path
+from unittest.mock import MagicMock, patch
 
 from helpers.error_handler import (
     AtlasError,
@@ -50,15 +50,19 @@ class TestErrorHandlers(unittest.TestCase):
 class TestAtlasErrorHandler(unittest.TestCase):
 
     def setUp(self):
-        self.tmp_dir = Path(self.id().split('.')[-1])
+        self.tmp_dir = Path(self.id().split(".")[-1])
         self.tmp_dir.mkdir(parents=True, exist_ok=True)
         (self.tmp_dir / "retries").mkdir(parents=True, exist_ok=True)
-        self.config = {"data_directory": str(self.tmp_dir), "retry_queue_path": str(self.tmp_dir / "retries" / "queue.jsonl")}
+        self.config = {
+            "data_directory": str(self.tmp_dir),
+            "retry_queue_path": str(self.tmp_dir / "retries" / "queue.jsonl"),
+        }
         self.handler = AtlasErrorHandler(self.config)
 
     def tearDown(self):
         if self.tmp_dir.exists():
             import shutil
+
             shutil.rmtree(self.tmp_dir)
 
     def test_create_error(self):

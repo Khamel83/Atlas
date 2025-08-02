@@ -55,7 +55,7 @@ When working in a project with Agent OS, automatically use these workflows based
 
 **Context Loading**: Always check for and load relevant Agent OS files:
 - `mission-lite.md` for product context
-- `spec-lite.md` for current feature context  
+- `spec-lite.md` for current feature context
 - `roadmap.md` for development priorities
 
 **File Creation**: Follow Agent OS file naming and structure conventions exactly as specified in the instruction files.
@@ -69,7 +69,7 @@ When working in a project with Agent OS, automatically use these workflows based
 Agent OS provides structured workflows through these commands:
 
 - `/plan-product` - Initialize Agent OS and create product documentation
-- `/create-spec` - Plan and specify a new feature 
+- `/create-spec` - Plan and specify a new feature
 - `/execute-tasks` - Implement tasks from a specification
 - `/analyze-product` - Add Agent OS to existing project
 
@@ -84,7 +84,7 @@ Agent OS provides structured workflows through these commands:
 
 Agent OS treats development as a series of autonomous agents with clear contracts:
 - **Product Agent**: Manages overall vision and roadmap
-- **Spec Agent**: Defines feature requirements and tasks  
+- **Spec Agent**: Defines feature requirements and tasks
 - **Execution Agent**: Implements features following specifications
 
 ## Integration Requirements
@@ -105,7 +105,7 @@ For universal Agent OS access across all projects and machines:
    ## Automatic Agent OS Integration
    **For any project with a `/.agent-os/` directory:**
    1. **Auto-discover**: Always check for `/.agent-os/README.md` at project start
-   2. **Auto-use workflows**: Apply Agent OS workflows when user requests planning, specs, or implementation  
+   2. **Auto-use workflows**: Apply Agent OS workflows when user requests planning, specs, or implementation
    3. **Proactive behavior**: Use Agent OS without waiting for explicit commands when appropriate
    ```
 
@@ -113,7 +113,7 @@ For universal Agent OS access across all projects and machines:
    ```bash
    # Copy Agent OS to new machine
    scp -r ~/.agent-os new-machine:~/
-   
+
    # Or clone from git repo containing Agent OS
    git clone your-agent-os-repo ~/.agent-os
    ```
@@ -143,7 +143,7 @@ When setting up Agent OS on a new development machine:
    ```bash
    # From existing machine
    scp -r ~/.agent-os new-machine:~/
-   
+
    # Or from backup/git
    git clone your-agent-os-backup ~/.agent-os
    ```
@@ -170,7 +170,7 @@ When setting up Agent OS on a new development machine:
 ### Global Standards
 If global Agent OS standards exist at `~/.agent-os/standards/`, they provide defaults for:
 - Technology stack preferences
-- Code style guidelines  
+- Code style guidelines
 - Development best practices
 
 ### Project-Specific Standards
@@ -183,7 +183,7 @@ The `standards/` directory in this project overrides global standards:
 
 ### For New Machine Setup:
 1. `scp -r ~/.agent-os new-machine:~/` (copy global Agent OS)
-2. Setup `~/.claude/CLAUDE.md` with Agent OS integration 
+2. Setup `~/.claude/CLAUDE.md` with Agent OS integration
 3. Ready to use in any project!
 
 ### For New Project:

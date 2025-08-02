@@ -99,7 +99,7 @@ services:
     environment:
       - ATLAS_ENV=production
     restart: unless-stopped
-    
+
 networks:
   internal:
     driver: bridge

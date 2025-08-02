@@ -9,11 +9,19 @@ import os
 import tempfile
 import unittest
 from pathlib import Path
-from unittest.mock import Mock, patch, mock_open
+from unittest.mock import Mock, mock_open, patch
+
 import pytest
 import yaml
 
-from helpers.config import load_config, load_categories, get_model_for_task
+from helpers.config import (
+    _get_with_fallback,
+    get_current_environment,
+    get_model_for_task,
+    load_categories,
+    load_config,
+    resolve_environment_config,
+)
 from helpers.validate import ConfigValidator, ValidationError
 
 
@@ -24,7 +32,7 @@ class TestConfigurationLoading(unittest.TestCase):
         """Set up test environment with isolated configuration."""
         self.test_env = {}
         self.original_env = os.environ.copy()
-        
+
     def tearDown(self):
         """Restore original environment."""
         os.environ.clear()
@@ -34,24 +42,27 @@ class TestConfigurationLoading(unittest.TestCase):
     def test_load_config_with_defaults(self):
         """Test configuration loading with only default values."""
         config = load_config()
-        
+
         # Test default values are applied
         self.assertEqual(config["data_directory"], "output")
         self.assertEqual(config["llm_provider"], "openrouter")
         self.assertEqual(config["llm_model"], "mistralai/mistral-7b-instruct")
         self.assertEqual(config["PODCAST_EPISODE_LIMIT"], 0)
         self.assertFalse(config["USE_12FT_IO_FALLBACK"])
-        
-    @patch.dict(os.environ, {
-        "LLM_PROVIDER": "deepseek",
-        "DEEPSEEK_API_KEY": "test-key",
-        "DATA_DIRECTORY": "custom_output",
-        "PODCAST_EPISODE_LIMIT": "5"
-    })
+
+    @patch.dict(
+        os.environ,
+        {
+            "LLM_PROVIDER": "deepseek",
+            "DEEPSEEK_API_KEY": "test-key",
+            "DATA_DIRECTORY": "custom_output",
+            "PODCAST_EPISODE_LIMIT": "5",
+        },
+    )
     def test_load_config_with_env_overrides(self):
         """Test configuration loading with environment variable overrides."""
         config = load_config()
-        
+
         self.assertEqual(config["llm_provider"], "deepseek")
         self.assertEqual(config["data_directory"], "custom_output")
         self.assertEqual(config["PODCAST_EPISODE_LIMIT"], 5)
@@ -61,46 +72,53 @@ class TestConfigurationLoading(unittest.TestCase):
     def test_load_config_dotenv_priority(self, mock_load_dotenv):
         """Test that config/.env takes priority over root .env."""
         load_config()
-        
+
         # Should load config/.env first, then root .env without override
         self.assertEqual(mock_load_dotenv.call_count, 2)
         calls = mock_load_dotenv.call_args_list
-        
+
         # First call should be to config/.env
         first_call_path = calls[0][1]["dotenv_path"]
         self.assertTrue(first_call_path.endswith("config/.env"))
-        
+
         # Second call should be to root .env with override=False
         second_call = calls[1][1]
         self.assertFalse(second_call["override"])
 
-    @patch("builtins.open", mock_open(read_data="test:\n  categories:\n    - tech\n    - science"))
+    @patch(
+        "builtins.open",
+        mock_open(read_data="test:\n  categories:\n    - tech\n    - science"),
+    )
     def test_load_categories_success(self):
         """Test successful category loading from YAML file."""
         categories = load_categories()
-        
+
         self.assertIsInstance(categories, dict)
         self.assertIn("test", categories)
 
     @patch("builtins.open", side_effect=FileNotFoundError)
-    def test_load_categories_file_not_found(self):
+    def test_load_categories_file_not_found(self, mock_file):
         """Test category loading with missing file."""
         with patch("builtins.print") as mock_print:
             categories = load_categories()
-            
+
             self.assertEqual(categories, {})
             mock_print.assert_called_once()
-            self.assertIn("Warning: Categories file not found", mock_print.call_args[0][0])
+            self.assertIn(
+                "Warning: Categories file not found", mock_print.call_args[0][0]
+            )
 
     @patch("builtins.open", mock_open(read_data="invalid: yaml: content: ["))
     def test_load_categories_yaml_error(self):
         """Test category loading with invalid YAML."""
         with patch("builtins.print") as mock_print:
             categories = load_categories()
-            
+
             self.assertEqual(categories, {})
             mock_print.assert_called_once()
-            self.assertIn("Warning: Error parsing categories YAML", mock_print.call_args[0][0])
+            self.assertIn(
+                "Warning: Error parsing categories YAML", mock_print.call_args[0][0]
+            )
 
 
 class TestModelSelection(unittest.TestCase):
@@ -112,12 +130,18 @@ class TestModelSelection(unittest.TestCase):
             "llm_provider": "deepseek",
             "llm_model": "deepseek-ai/deepseek-chat",
             "llm_model_premium": "deepseek-ai/deepseek-chat",
-            "llm_model_reasoner": "deepseek-ai/deepseek-reasoner"
+            "llm_model_reasoner": "deepseek-ai/deepseek-reasoner",
         }
-        
-        self.assertEqual(get_model_for_task(config, "default"), "deepseek-ai/deepseek-chat")
-        self.assertEqual(get_model_for_task(config, "premium"), "deepseek-ai/deepseek-chat")
-        self.assertEqual(get_model_for_task(config, "reasoner"), "deepseek-ai/deepseek-reasoner")
+
+        self.assertEqual(
+            get_model_for_task(config, "default"), "deepseek-ai/deepseek-chat"
+        )
+        self.assertEqual(
+            get_model_for_task(config, "premium"), "deepseek-ai/deepseek-chat"
+        )
+        self.assertEqual(
+            get_model_for_task(config, "reasoner"), "deepseek-ai/deepseek-reasoner"
+        )
 
     def test_get_model_for_task_openrouter_provider(self):
         """Test model selection for OpenRouter provider."""
@@ -126,21 +150,29 @@ class TestModelSelection(unittest.TestCase):
             "llm_model": "mistralai/mistral-7b-instruct",
             "llm_model_premium": "anthropic/claude-3-sonnet",
             "llm_model_budget": "mistralai/mistral-7b-instruct",
-            "llm_model_fallback": "google/gemini-pro"
+            "llm_model_fallback": "google/gemini-pro",
         }
-        
-        self.assertEqual(get_model_for_task(config, "default"), "mistralai/mistral-7b-instruct")
-        self.assertEqual(get_model_for_task(config, "premium"), "anthropic/claude-3-sonnet")
-        self.assertEqual(get_model_for_task(config, "budget"), "mistralai/mistral-7b-instruct")
+
+        self.assertEqual(
+            get_model_for_task(config, "default"), "mistralai/mistral-7b-instruct"
+        )
+        self.assertEqual(
+            get_model_for_task(config, "premium"), "anthropic/claude-3-sonnet"
+        )
+        self.assertEqual(
+            get_model_for_task(config, "budget"), "mistralai/mistral-7b-instruct"
+        )
         self.assertEqual(get_model_for_task(config, "fallback"), "google/gemini-pro")
 
     def test_get_model_for_task_missing_config(self):
         """Test model selection with missing configuration values."""
         config = {"llm_provider": "openrouter"}
-        
+
         # Should return empty string for missing models
         self.assertEqual(get_model_for_task(config, "premium"), "")
-        self.assertEqual(get_model_for_task(config, "budget"), "mistralai/mistral-7b-instruct")
+        self.assertEqual(
+            get_model_for_task(config, "budget"), "mistralai/mistral-7b-instruct"
+        )
 
 
 class TestConfigurationValidation(unittest.TestCase):
@@ -153,7 +185,7 @@ class TestConfigurationValidation(unittest.TestCase):
     def test_validate_empty_config(self):
         """Test validation of empty configuration."""
         errors, warnings = self.validator.validate_config({})
-        
+
         # Should have errors for missing required fields
         error_fields = [error.field for error in errors]
         self.assertIn("llm_provider", error_fields)
@@ -165,11 +197,11 @@ class TestConfigurationValidation(unittest.TestCase):
             "llm_model": "mistralai/mistral-7b-instruct",
             "OPENROUTER_API_KEY": "sk-or-v1-test-key",
             "data_directory": "output",
-            "categories": {}
+            "categories": {},
         }
-        
+
         errors, warnings = self.validator.validate_config(config)
-        
+
         # Should pass basic validation
         llm_errors = [e for e in errors if e.field in ["llm_provider", "llm_model"]]
         self.assertEqual(len(llm_errors), 0)
@@ -177,9 +209,9 @@ class TestConfigurationValidation(unittest.TestCase):
     def test_validate_invalid_provider(self):
         """Test validation with invalid LLM provider."""
         config = {"llm_provider": "invalid_provider"}
-        
+
         errors, warnings = self.validator.validate_config(config)
-        
+
         provider_errors = [e for e in errors if e.field == "llm_provider"]
         self.assertTrue(len(provider_errors) > 0)
         self.assertIn("Invalid LLM provider", provider_errors[0].message)
@@ -187,9 +219,9 @@ class TestConfigurationValidation(unittest.TestCase):
     def test_validation_error_structure(self):
         """Test that validation errors have proper structure."""
         config = {"llm_provider": "invalid"}
-        
+
         errors, warnings = self.validator.validate_config(config)
-        
+
         if errors:
             error = errors[0]
             self.assertIsInstance(error, ValidationError)
@@ -202,25 +234,31 @@ class TestConfigurationValidation(unittest.TestCase):
 class TestIngestorConfiguration(unittest.TestCase):
     """Test ingestor-specific configuration handling."""
 
-    @patch.dict(os.environ, {
-        "ARTICLE_INGESTOR_ENABLED": "false",
-        "PODCAST_INGESTOR_ENABLED": "true",
-        "PODCAST_EPISODE_LIMIT": "10"
-    })
+    @patch.dict(
+        os.environ,
+        {
+            "ARTICLE_INGESTOR_ENABLED": "false",
+            "PODCAST_INGESTOR_ENABLED": "true",
+            "PODCAST_EPISODE_LIMIT": "10",
+        },
+    )
     def test_ingestor_configuration_loading(self):
         """Test that ingestor configurations are loaded correctly."""
         config = load_config()
-        
+
         self.assertFalse(config["article_ingestor"]["enabled"])
         self.assertTrue(config["podcast_ingestor"]["enabled"])
         self.assertEqual(config["podcast_ingestor"]["episode_limit"], 10)
 
-    def test_ingestor_default_configuration(self):
+    @patch(
+        "helpers.config.load_environments", return_value={}
+    )  # Mock empty environments
+    def test_ingestor_default_configuration(self, mock_load_env):
         """Test default ingestor configuration values."""
         with patch.dict(os.environ, {}, clear=True):
             config = load_config()
-            
-            # All ingestors should be enabled by default
+
+            # All ingestors should be enabled by default according to environment config
             self.assertTrue(config["article_ingestor"]["enabled"])
             self.assertTrue(config["podcast_ingestor"]["enabled"])
             self.assertTrue(config["youtube_ingestor"]["enabled"])
@@ -230,35 +268,46 @@ class TestIngestorConfiguration(unittest.TestCase):
 class TestSmartProviderLogic(unittest.TestCase):
     """Test smart LLM provider detection and configuration."""
 
-    @patch.dict(os.environ, {"DEEPSEEK_API_KEY": "test-deepseek-key"})
-    def test_deepseek_provider_priority(self):
+    @patch(
+        "helpers.config.load_environments", return_value={}
+    )  # Mock empty environments
+    @patch.dict(os.environ, {"DEEPSEEK_API_KEY": "test-deepseek-key"}, clear=True)
+    def test_deepseek_provider_priority(self, mock_load_env):
         """Test that DeepSeek provider is preferred when key is available."""
         config = load_config()
-        
+
         self.assertEqual(config["llm_provider"], "deepseek")
         self.assertEqual(config["llm_model"], "deepseek-ai/deepseek-chat")
 
-    @patch.dict(os.environ, {"OPENAI_API_KEY": "sk-or-v1-openrouter-key"})
-    def test_openrouter_key_detection(self):
+    @patch(
+        "helpers.config.load_environments", return_value={}
+    )  # Mock empty environments
+    @patch.dict(os.environ, {"OPENAI_API_KEY": "sk-or-v1-openrouter-key"}, clear=True)
+    def test_openrouter_key_detection(self, mock_load_env):
         """Test automatic OpenRouter key detection from OPENAI_API_KEY."""
         with patch("builtins.print") as mock_print:
             config = load_config()
-            
+
             self.assertEqual(config["llm_provider"], "openrouter")
             self.assertEqual(config["OPENROUTER_API_KEY"], "sk-or-v1-openrouter-key")
             mock_print.assert_called()
             self.assertIn("OpenRouter key", mock_print.call_args[0][0])
 
+    @patch(
+        "helpers.config.load_environments", return_value={}
+    )  # Mock empty environments
     @patch.dict(os.environ, {}, clear=True)
-    def test_missing_api_key_warning(self):
+    def test_missing_api_key_warning(self, mock_load_env):
         """Test warning when API key is missing for non-ollama providers."""
         with patch("builtins.print") as mock_print:
             config = load_config()
-            
+
             # Should warn about missing OPENROUTER_API_KEY
             mock_print.assert_called()
-            warning_found = any("OPENROUTER_API_KEY is not set" in str(call) 
-                              for call in mock_print.call_args_list)
+            warning_found = any(
+                "OPENROUTER_API_KEY is not set" in str(call)
+                for call in mock_print.call_args_list
+            )
             self.assertTrue(warning_found)
 
 
@@ -269,20 +318,23 @@ class TestPathConfiguration(unittest.TestCase):
     def test_custom_data_directory(self):
         """Test custom data directory configuration."""
         config = load_config()
-        
+
         self.assertEqual(config["data_directory"], "custom_data")
-        self.assertEqual(config["article_output_path"], 
-                        os.path.join("custom_data", "articles"))
-        self.assertEqual(config["podcast_output_path"], 
-                        os.path.join("custom_data", "podcasts"))
-        self.assertEqual(config["youtube_output_path"], 
-                        os.path.join("custom_data", "youtube"))
+        self.assertEqual(
+            config["article_output_path"], os.path.join("custom_data", "articles")
+        )
+        self.assertEqual(
+            config["podcast_output_path"], os.path.join("custom_data", "podcasts")
+        )
+        self.assertEqual(
+            config["youtube_output_path"], os.path.join("custom_data", "youtube")
+        )
 
     def test_default_output_paths(self):
         """Test default output path configuration."""
         with patch.dict(os.environ, {}, clear=True):
             config = load_config()
-            
+
             self.assertEqual(config["data_directory"], "output")
             self.assertTrue(config["article_output_path"].endswith("articles"))
             self.assertTrue(config["podcast_output_path"].endswith("podcasts"))
@@ -292,25 +344,23 @@ class TestPathConfiguration(unittest.TestCase):
 class TestFeatureFlags(unittest.TestCase):
     """Test feature flag configuration."""
 
-    @patch.dict(os.environ, {
-        "USE_12FT_IO_FALLBACK": "true",
-        "USE_PLAYWRIGHT_FOR_NYT": "true"
-    })
+    @patch.dict(
+        os.environ, {"USE_12FT_IO_FALLBACK": "true", "USE_PLAYWRIGHT_FOR_NYT": "true"}
+    )
     def test_feature_flags_enabled(self):
         """Test feature flags when enabled."""
         config = load_config()
-        
+
         self.assertTrue(config["USE_12FT_IO_FALLBACK"])
         self.assertTrue(config["USE_PLAYWRIGHT_FOR_NYT"])
 
-    @patch.dict(os.environ, {
-        "USE_12FT_IO_FALLBACK": "false",
-        "USE_PLAYWRIGHT_FOR_NYT": "FALSE"
-    })
+    @patch.dict(
+        os.environ, {"USE_12FT_IO_FALLBACK": "false", "USE_PLAYWRIGHT_FOR_NYT": "FALSE"}
+    )
     def test_feature_flags_disabled(self):
         """Test feature flags when explicitly disabled."""
         config = load_config()
-        
+
         self.assertFalse(config["USE_12FT_IO_FALLBACK"])
         self.assertFalse(config["USE_PLAYWRIGHT_FOR_NYT"])
 
@@ -318,7 +368,7 @@ class TestFeatureFlags(unittest.TestCase):
         """Test default feature flag values."""
         with patch.dict(os.environ, {}, clear=True):
             config = load_config()
-            
+
             self.assertFalse(config["USE_12FT_IO_FALLBACK"])
             self.assertFalse(config["USE_PLAYWRIGHT_FOR_NYT"])
 
@@ -329,32 +379,240 @@ class TestModelTierConfiguration(unittest.TestCase):
     def test_free_model_tiers_loaded(self):
         """Test that all free model tiers are loaded with defaults."""
         config = load_config()
-        
+
         # Test premium free models
         self.assertIn("MODEL_FREE_PREMIUM_1", config)
         self.assertIn("MODEL_FREE_PREMIUM_2", config)
         self.assertIn("MODEL_FREE_PREMIUM_3", config)
-        
-        # Test fallback free models  
+
+        # Test fallback free models
         self.assertIn("MODEL_FREE_FALLBACK_1", config)
         self.assertIn("MODEL_FREE_FALLBACK_2", config)
         self.assertIn("MODEL_FREE_FALLBACK_3", config)
-        
+
         # Test budget free models
         self.assertIn("MODEL_FREE_BUDGET_1", config)
         self.assertIn("MODEL_FREE_BUDGET_2", config)
         self.assertIn("MODEL_FREE_BUDGET_3", config)
 
-    @patch.dict(os.environ, {
-        "MODEL_FREE_PREMIUM_1": "custom/premium-model",
-        "MODEL_FREE_BUDGET_1": "custom/budget-model"
-    })
+    @patch.dict(
+        os.environ,
+        {
+            "MODEL_FREE_PREMIUM_1": "custom/premium-model",
+            "MODEL_FREE_BUDGET_1": "custom/budget-model",
+        },
+    )
     def test_custom_free_model_tiers(self):
         """Test custom free model tier configuration."""
         config = load_config()
-        
+
         self.assertEqual(config["MODEL_FREE_PREMIUM_1"], "custom/premium-model")
         self.assertEqual(config["MODEL_FREE_BUDGET_1"], "custom/budget-model")
+
+
+class TestEnvironmentConfiguration(unittest.TestCase):
+    """Test environment-specific configuration with inheritance."""
+
+    def test_environment_detection(self):
+        """Test automatic environment detection."""
+        # Test CI environment detection
+        with patch.dict(os.environ, {"CI": "true"}, clear=True):
+            env = get_current_environment()
+            self.assertEqual(env, "test")
+
+        # Test production environment detection
+        with patch.dict(os.environ, {"PRODUCTION": "true"}, clear=True):
+            env = get_current_environment()
+            self.assertEqual(env, "production")
+
+        # Test explicit environment setting
+        with patch.dict(os.environ, {"ATLAS_ENVIRONMENT": "staging"}, clear=True):
+            env = get_current_environment()
+            self.assertEqual(env, "staging")
+
+    def test_environment_inheritance(self):
+        """Test configuration inheritance between environments."""
+        environments = {
+            "base": {"data_directory": "output", "max_retries": 3, "log_level": "INFO"},
+            "development": {
+                "inherits": "base",
+                "data_directory": "dev_output",
+                "log_level": "DEBUG",
+            },
+        }
+
+        resolved = resolve_environment_config("development", environments)
+
+        # Should inherit from base
+        self.assertEqual(resolved["max_retries"], 3)
+        # Should override base values
+        self.assertEqual(resolved["data_directory"], "dev_output")
+        self.assertEqual(resolved["log_level"], "DEBUG")
+        # Should not have inherits key in final config
+        self.assertNotIn("inherits", resolved)
+
+    def test_deep_inheritance_chain(self):
+        """Test multiple levels of inheritance."""
+        environments = {
+            "base": {"setting1": "base_value", "setting2": "base_value2"},
+            "common": {
+                "inherits": "base",
+                "setting2": "common_value2",
+                "setting3": "common_value3",
+            },
+            "development": {
+                "inherits": "common",
+                "setting3": "dev_value3",
+                "setting4": "dev_value4",
+            },
+        }
+
+        resolved = resolve_environment_config("development", environments)
+
+        self.assertEqual(resolved["setting1"], "base_value")  # From base
+        self.assertEqual(resolved["setting2"], "common_value2")  # From common
+        self.assertEqual(resolved["setting3"], "dev_value3")  # From development
+        self.assertEqual(resolved["setting4"], "dev_value4")  # From development
+
+
+class TestFallbackChains(unittest.TestCase):
+    """Test optimized fallback chains for configuration values."""
+
+    def test_get_with_fallback_basic(self):
+        """Test basic fallback chain functionality."""
+        config = {"key1": "", "key2": "value2", "key3": "value3"}
+
+        # Should return first non-empty value
+        result = _get_with_fallback(config, ["key1", "key2", "key3"], "default")
+        self.assertEqual(result, "value2")
+
+        # Should return default if no values found
+        result = _get_with_fallback(config, ["missing1", "missing2"], "default")
+        self.assertEqual(result, "default")
+
+    def test_enhanced_model_selection(self):
+        """Test enhanced model selection with fallback chains."""
+        # Test DeepSeek provider with complete configuration
+        deepseek_config = {
+            "llm_provider": "deepseek",
+            "llm_model": "deepseek-ai/deepseek-chat",
+            "llm_model_premium": "deepseek-ai/deepseek-chat",
+            "llm_model_reasoner": "deepseek-ai/deepseek-reasoner",
+        }
+
+        self.assertEqual(
+            get_model_for_task(deepseek_config, "default"), "deepseek-ai/deepseek-chat"
+        )
+        self.assertEqual(
+            get_model_for_task(deepseek_config, "premium"), "deepseek-ai/deepseek-chat"
+        )
+        self.assertEqual(
+            get_model_for_task(deepseek_config, "reasoner"),
+            "deepseek-ai/deepseek-reasoner",
+        )
+
+        # Test OpenRouter provider with free model fallbacks
+        openrouter_config = {
+            "llm_provider": "openrouter",
+            "MODEL_FREE_BUDGET_1": "mistralai/mistral-7b-instruct:free",
+            "MODEL_FREE_FALLBACK_1": "google/gemma-2-9b-it:free",
+        }
+
+        budget_model = get_model_for_task(openrouter_config, "budget")
+        self.assertIn(":free", budget_model)  # Should prefer free models
+
+    def test_ollama_provider_models(self):
+        """Test Ollama provider model selection."""
+        ollama_config = {"llm_provider": "ollama"}
+
+        self.assertEqual(get_model_for_task(ollama_config, "premium"), "llama2")
+        self.assertEqual(get_model_for_task(ollama_config, "budget"), "mistral")
+        self.assertEqual(get_model_for_task(ollama_config, "fallback"), "codellama")
+        self.assertEqual(get_model_for_task(ollama_config, "default"), "llama2")
+
+    def test_mock_provider_models(self):
+        """Test mock provider for testing."""
+        mock_config = {"llm_provider": "mock"}
+
+        self.assertEqual(get_model_for_task(mock_config, "premium"), "mock-model")
+        self.assertEqual(get_model_for_task(mock_config, "budget"), "mock-model")
+        self.assertEqual(get_model_for_task(mock_config, "default"), "mock-model")
+
+
+class TestConfigurationValidation(unittest.TestCase):
+    """Test enhanced configuration validation."""
+
+    def test_validation_error_structure(self):
+        """Test ValidationError dataclass structure."""
+        error = ValidationError(
+            field="test_field",
+            message="Test message",
+            severity="error",
+            guidance="Test guidance",
+            fix_command="test command",
+        )
+
+        self.assertEqual(error.field, "test_field")
+        self.assertEqual(error.message, "Test message")
+        self.assertEqual(error.severity, "error")
+        self.assertEqual(error.guidance, "Test guidance")
+        self.assertEqual(error.fix_command, "test command")
+
+    def test_config_validator_basic(self):
+        """Test basic configuration validation."""
+        validator = ConfigValidator()
+
+        # Test minimal valid configuration
+        valid_config = {
+            "llm_provider": "openrouter",
+            "llm_model": "mistralai/mistral-7b-instruct",
+            "OPENROUTER_API_KEY": "sk-or-v1-" + "a" * 64,
+            "data_directory": "/tmp/test",
+        }
+
+        errors, warnings = validator.validate_config(valid_config)
+        # Should have no errors for valid config
+        critical_errors = [e for e in errors if e.severity == "error"]
+        self.assertEqual(len(critical_errors), 0)
+
+    def test_validation_missing_provider(self):
+        """Test validation with missing LLM provider."""
+        validator = ConfigValidator()
+
+        invalid_config = {
+            "llm_provider": "",  # Missing provider
+            "data_directory": "/tmp/test",
+        }
+
+        errors, warnings = validator.validate_config(invalid_config)
+
+        # Should have error for missing provider
+        provider_errors = [e for e in errors if e.field == "llm_provider"]
+        self.assertGreater(len(provider_errors), 0)
+
+    def test_validation_invalid_provider(self):
+        """Test validation with invalid LLM provider."""
+        validator = ConfigValidator()
+
+        invalid_config = {
+            "llm_provider": "invalid_provider",
+            "data_directory": "/tmp/test",
+        }
+
+        errors, warnings = validator.validate_config(invalid_config)
+
+        # Should have error for invalid provider
+        provider_errors = [e for e in errors if e.field == "llm_provider"]
+        self.assertGreater(len(provider_errors), 0)
+
+    def test_validation_empty_config(self):
+        """Test validation with empty configuration."""
+        validator = ConfigValidator()
+
+        errors, warnings = validator.validate_config({})
+
+        # Should have multiple errors for empty config
+        self.assertGreater(len(errors), 0)
 
 
 if __name__ == "__main__":

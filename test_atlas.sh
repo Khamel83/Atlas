@@ -59,4 +59,4 @@ grep -i error output/*/ingest.log | tee -a "$SUMMARY" || echo "No errors found."
 echo -e "\n## Test Run Complete. See $SUMMARY for details.\n" | tee -a "$SUMMARY"
 
 # Automatically parse the summary for next actions
-python3 parse_test_summary.py 
+python3 parse_test_summary.py

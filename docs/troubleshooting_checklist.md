@@ -23,11 +23,11 @@ python scripts/validate_config.py
 -   [ ] **Python version is 3.9 or higher**
     -   **Check:** `python3 --version`
     -   **Fix:** Install Python 3.9+ from https://python.org
-    
+
 -   [ ] **All dependencies are installed**
     -   **Check:** Run `python scripts/setup_check.py`
     -   **Fix:** `pip3 install -r requirements.txt`
-    
+
 -   [ ] **Project files are present**
     -   **Check:** `ls run.py helpers/config.py requirements.txt`
     -   **Fix:** Ensure you're in the Atlas project directory
@@ -36,11 +36,11 @@ python scripts/validate_config.py
 -   [ ] **Configuration file exists**
     -   **Check:** `ls config/.env`
     -   **Fix:** `cp .env.example config/.env`
-    
+
 -   [ ] **Configuration is valid**
     -   **Check:** `python scripts/validate_config.py`
     -   **Fix:** Follow validation error guidance
-    
+
 -   [ ] **API keys are properly formatted**
     -   **Check:** OpenRouter keys start with `sk-or-v1-`
     -   **Fix:** Get correct keys from service providers
@@ -49,7 +49,7 @@ python scripts/validate_config.py
 -   [ ] **Output directory is accessible**
     -   **Check:** `ls -la output/`
     -   **Fix:** `mkdir -p output && chmod 755 output`
-    
+
 -   [ ] **Can write to data directory**
     -   **Check:** `touch output/.test && rm output/.test`
     -   **Fix:** `chmod 755 output` or change DATA_DIRECTORY
@@ -58,11 +58,11 @@ python scripts/validate_config.py
 -   [ ] **Atlas CLI responds**
     -   **Check:** `python run.py --help`
     -   **Fix:** Check dependencies and configuration
-    
+
 -   [ ] **Network connectivity works**
     -   **Check:** `ping google.com`
     -   **Fix:** Check firewall/proxy settings
-    
+
 -   [ ] **External APIs are accessible**
     -   **Check:** `python scripts/diagnose_environment.py --test-apis`
     -   **Fix:** Check API keys and network settings

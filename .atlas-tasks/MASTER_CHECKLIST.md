@@ -12,7 +12,7 @@
 
 ### MetadataManager Foundation
 - [x] Task 001: Implement get_all_metadata() method
-- [x] Task 002: Implement get_forgotten_content() method  
+- [x] Task 002: Implement get_forgotten_content() method
 - [x] Task 003: Implement get_tag_patterns() method
 - [x] Task 004: Implement get_temporal_patterns() method
 - [x] Task 005: Implement get_recall_items() method

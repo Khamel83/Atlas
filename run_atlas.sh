@@ -179,18 +179,18 @@ echo -e "\n${GREEN}--- Pipeline Finished ---${NC}"
 # 5. Post-pipeline development check
 if [ $PIPELINE_STATUS -eq 0 ]; then
     echo -e "${GREEN}Pipeline completed successfully!${NC}"
-    
+
     # Check if there are any new issues that need attention
     echo -e "\n${BLUE}--- Post-Pipeline Development Check ---${NC}"
     echo "Checking for any new issues or improvements needed..."
-    
+
     # Sync TODO system to capture any new issues
     echo -e "${YELLOW}Syncing TODO system after pipeline run...${NC}"
     python3 scripts/unified_todo_manager.py --sync
-    
+
     # Run a quick task assessment
     python3 scripts/dev_workflow.py --quick-assessment
-    
+
     echo ""
     read -p "Run post-pipeline development workflow? (y/N): " post_dev
     if [[ $post_dev =~ ^[Yy]$ ]]; then
@@ -204,4 +204,4 @@ else
     echo -e "${YELLOW}Consider running the development workflow to address issues.${NC}"
 fi
 
-echo -e "\n${GREEN}--- Atlas Session Complete ---${NC}" 
+echo -e "\n${GREEN}--- Atlas Session Complete ---${NC}"

@@ -1,9 +1,5 @@
-## Atlas Mission (Lite)
+# Atlas Mission (Lite)
 
-**Problem**: Dissatisfaction with Instapaper/subscription models; difficulty in acquiring and using personal data.
+Atlas is a sophisticated local-first content ingestion and cognitive amplification platform that helps knowledge workers, researchers, and individuals amplify their cognitive abilities by providing automated content processing and intelligent insights from their personal knowledge base.
 
-**Goal**: Self-hosted, open-source platform to collect ALL personal data for future modeling and intelligence extraction.
-
-**User**: Creator only (personal, non-commercial use).
-
-**Value**: Data sovereignty, usable data acquisition, foundation for personal intelligence, and empowerment.
+Atlas serves knowledge workers and researchers who need comprehensive information synthesis across multiple content sources. Unlike cloud-based knowledge management tools, Atlas operates entirely locally while providing sophisticated AI-powered cognitive amplification including proactive insight surfacing, pattern detection, and intelligent recall systems.
