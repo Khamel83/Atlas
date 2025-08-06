@@ -20,16 +20,22 @@ class InstapaperAPIClient:
         """
         url = self.BASE_URL + "oauth/access_token"
 
-        # OAuth1Session for xAuth
+        # Create OAuth1Session for xAuth token request
         oauth_session = OAuth1Session(
             self.consumer_key,
             client_secret=self.consumer_secret,
-            resource_owner_key=username,  # xAuth uses username as resource_owner_key
-            resource_owner_secret=password,  # xAuth uses password as resource_owner_secret
+            signature_method='HMAC-SHA1'
         )
 
+        # xAuth parameters as required by Instapaper API
+        xauth_data = {
+            'x_auth_username': username,
+            'x_auth_password': password, 
+            'x_auth_mode': 'client_auth'
+        }
+
         try:
-            response = oauth_session.post(url)
+            response = oauth_session.post(url, data=xauth_data)
             response.raise_for_status()  # Raise an exception for HTTP errors
 
             # Parse the response to get the access token and secret
@@ -45,6 +51,7 @@ class InstapaperAPIClient:
                     client_secret=self.consumer_secret,
                     resource_owner_key=access_token,
                     resource_owner_secret=access_token_secret,
+                    signature_method='HMAC-SHA1'
                 )
                 return True
             else:

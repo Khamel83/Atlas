@@ -1,0 +1,22 @@
+CSV TO ATLAS CONVERSION REPORT
+==================================================
+
+Conversion Date: 2025-08-05_14-56-16
+Total Bookmarks Processed: 6,239
+Success Rate: 100.0%
+
+Content Breakdown:
+  Web URLs: 3,469
+  Private Content Items: 2,769
+  Errors: 0
+
+Files Created:
+  HTML files: output/articles/html/*.html
+  Markdown files: output/articles/markdown/*.md
+  Metadata files: output/articles/metadata/*.json
+
+Notes:
+- Web URLs converted to Atlas format but content not fetched
+- Private content marked appropriately
+- All original metadata preserved
+- Ready for further processing if needed

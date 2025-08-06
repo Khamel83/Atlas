@@ -90,6 +90,12 @@ See [docs/IMPLEMENTATION_GUIDE.md](docs/IMPLEMENTATION_GUIDE.md) for full detail
 - Transcription support (local Whisper or OpenRouter API)
 - Episode metadata extraction
 
+### ✅ **Instapaper Integration**
+- Complete CSV export processing (6,000+ bookmarks supported)
+- Converts to Atlas format with full metadata preservation
+- Handles both web bookmarks and private content (newsletters)
+- API extraction for recent bookmarks with full content
+
 ### ✅ **Robust Infrastructure**
 - Comprehensive error handling and retry system
 - Safety monitoring and pre-run checks

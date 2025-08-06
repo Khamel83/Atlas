@@ -1,0 +1,17 @@
+INSTAPAPER TO ATLAS CONVERSION REPORT
+==================================================
+
+Conversion Date: 2025-08-05_14-06-49
+Total Bookmarks Processed: 1,078
+Successful Conversions: 1,078
+Success Rate: 100.0%
+
+Content Breakdown:
+  Private Content Items: 471
+  Public Content Items: 607
+
+Files Created:
+  HTML files: output/articles/html/*.html
+  Markdown files: output/articles/markdown/*.md
+  Metadata files: output/articles/metadata/*.json
+
