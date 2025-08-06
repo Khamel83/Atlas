@@ -1,0 +1,34 @@
+{
+  "uid": "72ed3a97c410f439",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/2387946d0e1efd94127866a6d13d5a98/",
+  "title": "Five Lessons From Dave Chappelle (Stratechery Weekly Article 11-30-2020)",
+  "status": "converted_from_csv",
+  "date": "2020-11-30T07:07:06",
+  "error": null,
+  "content_path": "output/articles/markdown/72ed3a97c410f439.md",
+  "html_path": "output/articles/html/72ed3a97c410f439.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2611,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "43448f7876677659cc6ea5899b01463b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1606748826",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-11-30T07:07:06",
+  "updated_at": "2020-11-30T07:07:06"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "f0f00f74955fc27c",
+  "content_type": "web_bookmark",
+  "source": "http://kottke.org/14/11/the-secret-life-of-passwords",
+  "title": "The secret life of passwords kottke.org",
+  "status": "converted_from_csv",
+  "date": "2014-11-20T20:51:37",
+  "error": null,
+  "content_path": "output/articles/markdown/f0f00f74955fc27c.md",
+  "html_path": "output/articles/html/f0f00f74955fc27c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5045,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5313962a34dd7fd791009cb4b367c439",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1416545497",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-11-20T20:51:37",
+  "updated_at": "2014-11-20T20:51:37"
+}

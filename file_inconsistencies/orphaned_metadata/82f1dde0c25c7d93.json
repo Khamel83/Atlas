@@ -1,0 +1,32 @@
+{
+  "uid": "82f1dde0c25c7d93",
+  "content_type": "instapaper",
+  "source": "https://www.nytimes.com/interactive/2024/10/17/t-magazine/theaster-gates-chicago-art-multidisciplinary.html",
+  "title": "Theaster Gates Is Redefining What It Means to Be an Artist",
+  "status": "success",
+  "date": "2025-08-05T12:40:31.691973",
+  "error": null,
+  "content_path": "output/articles/markdown/c26c5f3e768ea447.md",
+  "html_path": "output/articles/html/c26c5f3e768ea447.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fadafcda833f7b4c0e6c12981410aa111ee1b792d1abf4af5f4382183aded916",
+  "type_specific": {
+    "bookmark_id": 1720585988
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:40:31.691979",
+  "updated_at": "2025-08-05T12:40:32.739527"
+}

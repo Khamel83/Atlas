@@ -1,0 +1,34 @@
+{
+  "uid": "db48d5af7c04cabd",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/ba882d7551576490d545841b8851edee/",
+  "title": "Facebook’s Earnings, Facebook’s Stories Story, Additional Notes on Facebook’s Earnings (Stratechery Daily Update 10-31-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-10-31T04:36:21",
+  "error": null,
+  "content_path": "output/articles/markdown/db48d5af7c04cabd.md",
+  "html_path": "output/articles/html/db48d5af7c04cabd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3354,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c73e18024e935a4e89e92259123a9484",
+  "type_specific": {
+    "folder": "Stratechery",
+    "instapaper_timestamp": "1540985781",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-10-31T04:36:21",
+  "updated_at": "2018-10-31T04:36:21"
+}

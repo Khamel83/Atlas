@@ -1,0 +1,34 @@
+{
+  "uid": "abd3102eee9937fd",
+  "content_type": "web_bookmark",
+  "source": "https://www.motorsport.com/f1/news/revealed-the-brutal-reality-for-mechanics-as-f1s-calendar-expands/6960259/amp/",
+  "title": "Revealed: The brutal reality for mechanics as F1's calendar expands",
+  "status": "converted_from_csv",
+  "date": "2021-12-26T14:14:55",
+  "error": null,
+  "content_path": "output/articles/markdown/abd3102eee9937fd.md",
+  "html_path": "output/articles/html/abd3102eee9937fd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1731,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "82de88eec4741e459ed9bf7c19527d57",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1640556895",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-12-26T14:14:55",
+  "updated_at": "2021-12-26T14:14:55"
+}

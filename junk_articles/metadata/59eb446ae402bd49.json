@@ -1,0 +1,34 @@
+{
+  "uid": "59eb446ae402bd49",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/db27be3bd60d1c069d2ca12244456e9c/",
+  "title": "Uber Acquires JUMP, Background on Bikes, Uber’s New Strategy? (Stratechery Daily Update 4-10-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-04-10T04:39:06",
+  "error": null,
+  "content_path": "output/articles/markdown/59eb446ae402bd49.md",
+  "html_path": "output/articles/html/59eb446ae402bd49.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3552,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "aa740a08c824e91610dd5cec9e34ea43",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1523360346",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-04-10T04:39:06",
+  "updated_at": "2018-04-10T04:39:06"
+}

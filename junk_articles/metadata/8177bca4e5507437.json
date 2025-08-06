@@ -1,0 +1,34 @@
+{
+  "uid": "8177bca4e5507437",
+  "content_type": "web_bookmark",
+  "source": "http://kottke.org/14/12/the-40-most-groundbreaking-albums-of-all-time",
+  "title": "The 40 most groundbreaking albums of all time kottke.org",
+  "status": "converted_from_csv",
+  "date": "2014-12-09T18:45:20",
+  "error": null,
+  "content_path": "output/articles/markdown/8177bca4e5507437.md",
+  "html_path": "output/articles/html/8177bca4e5507437.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5026,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "be3a364fec9aa457fae47c81fd3d7bba",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1418179520",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-12-09T18:45:20",
+  "updated_at": "2014-12-09T18:45:20"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "1f6ca77eed88aedf",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2010/09/05/business/05venter.html?ref=homepage&src=me&pagewanted=print",
+  "title": "J. Craig Venter’s Corporate Strategy? The Scientific Method - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2010-09-05T22:43:48",
+  "error": null,
+  "content_path": "output/articles/markdown/1f6ca77eed88aedf.md",
+  "html_path": "output/articles/html/1f6ca77eed88aedf.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6171,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0327a4dd5ba95b9fa3b59d5a24e23d18",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1283751828",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-09-05T22:43:48",
+  "updated_at": "2010-09-05T22:43:48"
+}

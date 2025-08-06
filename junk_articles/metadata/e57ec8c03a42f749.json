@@ -1,0 +1,34 @@
+{
+  "uid": "e57ec8c03a42f749",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2017/02/10/opinion/sunday/what-were-fighting-for.html",
+  "title": "What We’re Fighting For",
+  "status": "converted_from_csv",
+  "date": "2017-02-17T06:29:51",
+  "error": null,
+  "content_path": "output/articles/markdown/e57ec8c03a42f749.md",
+  "html_path": "output/articles/html/e57ec8c03a42f749.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4104,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b99ef7f588828604bec856931b65dbc7",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1487341791",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-02-17T06:29:51",
+  "updated_at": "2017-02-17T06:29:51"
+}

@@ -36,6 +36,19 @@ Atlas Ingest is the first module in a larger system for building a local, durabl
 * Uses `readability-lxml` + BeautifulSoup to clean and parse content.
 * Output: `.md` file with extracted article body + metadata.
 
+### 4. Instapaper Collection
+
+* **Input**: CSV export from Instapaper (6,239 bookmarks)
+* **Status**: 7,491 Atlas files created but with critical extraction bug
+* **Issue**: Selection content (1,144 articles with ~3.9M chars) not being extracted
+* **Private Newsletters**: 137 successfully extracted via API, 2,631 historical beyond API access
+* **Strategy**: 
+  1. **CRITICAL**: Fix Selection content extraction bug (guaranteed +1,144 articles)
+  2. **Experimental**: Test folder redistribution for additional private newsletter API access
+  3. **Premium**: NYTimes scraper pipeline (615 articles with subscription)
+* **API Limitations**: 500-item hard limit per folder, private content >150 returns 400 errors
+* **Expected Outcome**: +1,800-2,400 substantial articles (~25-50M additional characters)
+
 ## Folder Layout
 
 ```

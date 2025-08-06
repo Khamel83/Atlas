@@ -1,0 +1,34 @@
+{
+  "uid": "531a06c8436e8625",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/9efb3ee89402b6dca7e4334df847555c/",
+  "title": "The Facebook Brand (Stratechery Daily Update 2018-3-19)",
+  "status": "converted_from_csv",
+  "date": "2018-03-19T09:24:48",
+  "error": null,
+  "content_path": "output/articles/markdown/531a06c8436e8625.md",
+  "html_path": "output/articles/html/531a06c8436e8625.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3580,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b621cf0f975333dae517387adbb176d0",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1521476688",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-03-19T09:24:48",
+  "updated_at": "2018-03-19T09:24:48"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "5497b35ec0421cf7",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/98dc96e5aacad44efa1b0de47bc9c79a/",
+  "title": "The internet is a force multiplier for Ukraine",
+  "status": "converted_from_csv",
+  "date": "2022-02-28T17:02:52",
+  "error": null,
+  "content_path": "output/articles/markdown/5497b35ec0421cf7.md",
+  "html_path": "output/articles/html/5497b35ec0421cf7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1593,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "198e3d9938f50ef19878b7955d9c1df1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1646096572",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-02-28T17:02:52",
+  "updated_at": "2022-02-28T17:02:52"
+}

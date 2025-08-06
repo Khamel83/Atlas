@@ -1,0 +1,34 @@
+{
+  "uid": "69b353c3b3a2b04b",
+  "content_type": "web_bookmark",
+  "source": "https://www.dissentmagazine.org/online_articles/bruce-bartlett-conservative-case-for-welfare-state",
+  "title": "A Conservative Case for the Welfare State | Dissent Magazine",
+  "status": "converted_from_csv",
+  "date": "2016-02-15T08:55:48",
+  "error": null,
+  "content_path": "output/articles/markdown/69b353c3b3a2b04b.md",
+  "html_path": "output/articles/html/69b353c3b3a2b04b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4570,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0d0577269ba3c35e99fa2cbd2c75de45",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1455555348",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-02-15T08:55:48",
+  "updated_at": "2016-02-15T08:55:48"
+}

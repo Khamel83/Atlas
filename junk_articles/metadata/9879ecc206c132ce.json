@@ -1,0 +1,34 @@
+{
+  "uid": "9879ecc206c132ce",
+  "content_type": "web_bookmark",
+  "source": "http://www.tradeking.com/education/stocks/fundamental-analysis-explained",
+  "title": "Using Fundamental Analysis | Fundamental Analysis Explained | TradeKing",
+  "status": "converted_from_csv",
+  "date": "2011-05-31T01:07:57",
+  "error": null,
+  "content_path": "output/articles/markdown/9879ecc206c132ce.md",
+  "html_path": "output/articles/html/9879ecc206c132ce.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5806,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ed81c928b72ec65bedb7bc42e026973e",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1306829277",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-05-31T01:07:57",
+  "updated_at": "2011-05-31T01:07:57"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "e06de2928f55c5aa",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/5370a90c21849b3aeb84f3061a31d2a3/",
+  "title": "Puberty, Postpartum, and Adaptation",
+  "status": "converted_from_csv",
+  "date": "2023-01-09T02:19:08",
+  "error": null,
+  "content_path": "output/articles/markdown/e06de2928f55c5aa.md",
+  "html_path": "output/articles/html/e06de2928f55c5aa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1064,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f2259330a0dff803b8f1931c4465221d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1673259548",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-01-09T02:19:08",
+  "updated_at": "2023-01-09T02:19:08"
+}

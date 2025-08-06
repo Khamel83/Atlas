@@ -1,0 +1,34 @@
+{
+  "uid": "1b4e22a72b44471e",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/f86848495ca350500d0c06796508b73a/",
+  "title": "We Need Better Data from Hospitals for Omicron",
+  "status": "converted_from_csv",
+  "date": "2022-01-03T02:05:13",
+  "error": null,
+  "content_path": "output/articles/markdown/1b4e22a72b44471e.md",
+  "html_path": "output/articles/html/1b4e22a72b44471e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1719,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "031a7e9d958162aab01f4a5146bf278d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1641204313",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-01-03T02:05:13",
+  "updated_at": "2022-01-03T02:05:13"
+}

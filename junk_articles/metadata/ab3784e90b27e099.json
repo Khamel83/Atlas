@@ -1,0 +1,34 @@
+{
+  "uid": "ab3784e90b27e099",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/51e11f371db2e5839d924917a451d009/",
+  "title": "FEMSA: The Most Interesting Company in Mexico",
+  "status": "converted_from_csv",
+  "date": "2020-11-23T05:58:55",
+  "error": null,
+  "content_path": "output/articles/markdown/ab3784e90b27e099.md",
+  "html_path": "output/articles/html/ab3784e90b27e099.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2638,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d50c1c0906079584ef2bf9fb22ae2430",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1606139935",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-11-23T05:58:55",
+  "updated_at": "2020-11-23T05:58:55"
+}

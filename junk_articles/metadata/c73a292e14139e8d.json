@@ -1,0 +1,34 @@
+{
+  "uid": "c73a292e14139e8d",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/dc669122e01d60235b2d43c481b5f346/",
+  "title": "Interview with Alison Morrow, on Censorship, Covid, and Media Manipulation",
+  "status": "converted_from_csv",
+  "date": "2023-10-04T05:01:18",
+  "error": null,
+  "content_path": "output/articles/markdown/c73a292e14139e8d.md",
+  "html_path": "output/articles/html/c73a292e14139e8d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 603,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "efee47bdea1f46c4ca40509765030cbf",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1696420878",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-10-04T05:01:18",
+  "updated_at": "2023-10-04T05:01:18"
+}

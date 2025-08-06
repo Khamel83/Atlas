@@ -1,0 +1,34 @@
+{
+  "uid": "a5f5086f1fad94f6",
+  "content_type": "web_bookmark",
+  "source": "http://www.thenation.com/print/article/159750/bad-credit-how-payday-lenders-evade-regulation",
+  "title": "Bad Credit: How Payday Lenders Evade Regulation",
+  "status": "converted_from_csv",
+  "date": "2011-05-06T22:24:43",
+  "error": null,
+  "content_path": "output/articles/markdown/a5f5086f1fad94f6.md",
+  "html_path": "output/articles/html/a5f5086f1fad94f6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5746,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c4310002b11f1b9834a450dba450e6d3",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1304745883",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-05-06T22:24:43",
+  "updated_at": "2011-05-06T22:24:43"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "1c669c4246d0b400",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/66f4df6a25fc8c13f5e6e13559ee78b7/",
+  "title": "💥March Madness: Filings Pile Up💥",
+  "status": "converted_from_csv",
+  "date": "2025-03-09T08:16:09",
+  "error": null,
+  "content_path": "output/articles/markdown/1c669c4246d0b400.md",
+  "html_path": "output/articles/html/1c669c4246d0b400.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 39,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8c27fc07df31b6a694c71d311b23c88a",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1741533369",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2025-03-09T08:16:09",
+  "updated_at": "2025-03-09T08:16:09"
+}

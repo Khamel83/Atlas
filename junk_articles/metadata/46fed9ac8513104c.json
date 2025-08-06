@@ -1,0 +1,34 @@
+{
+  "uid": "46fed9ac8513104c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/44c33bcd97646980308eed470e8697f8/",
+  "title": "Race in Children’s Books",
+  "status": "converted_from_csv",
+  "date": "2022-01-24T01:51:53",
+  "error": null,
+  "content_path": "output/articles/markdown/46fed9ac8513104c.md",
+  "html_path": "output/articles/html/46fed9ac8513104c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1663,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "db0220ac3eb12f007f4ffc17a0e4c2d4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1643017913",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-01-24T01:51:53",
+  "updated_at": "2022-01-24T01:51:53"
+}

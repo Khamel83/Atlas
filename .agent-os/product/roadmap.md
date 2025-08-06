@@ -1,14 +1,23 @@
 # Product Roadmap
 
-> Last Updated: 2025-08-02
-> Version: 1.0.0
-> Status: Implementation
+> Last Updated: 2025-08-05
+> Version: 2.0.0 - Atlas-Podemos Integration
+> Status: Active Integration
 
-## Phase 0: Already Completed
+## STRATEGIC UPDATE: Atlas-Podemos Integration
+
+**Major Architectural Enhancement**: Atlas is being integrated with Podemos (advanced podcast processor) to create a unified cognitive amplification platform with best-in-class podcast processing capabilities.
+
+**Integration Status**: Phase 1A Foundation Integration - ACTIVE
+**Timeline**: 10-11 weeks for complete integration
+**Benefit**: Single system providing RSS feeds → ad removal → transcription → cognitive insights
+
+## Phase 0: Foundation Complete ✅
 
 The following features have been implemented:
 
-- [x] Multi-source content ingestion (articles, YouTube, podcasts) - Complete pipeline with 929-line article fetcher
+- [x] Multi-source content ingestion (articles, YouTube, basic podcasts) - Complete pipeline with 929-line article fetcher
+- [x] Atlas-Podemos Integration Phase 1A Foundation - Project structure unification, component integration ✅
 - [x] Five cognitive amplification modules - ProactiveSurfacer, TemporalEngine, QuestionEngine, RecallEngine, PatternDetector
 - [x] Web dashboard with FastAPI + Jinja2 - Functional `/ask/html` interface
 - [x] Robust error handling and retry systems - Comprehensive safety monitoring

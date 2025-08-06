@@ -1,0 +1,34 @@
+{
+  "uid": "5d8bf78243780927",
+  "content_type": "web_bookmark",
+  "source": "http://grantland.com/features/best-pitchers-mlb-history-part-2/",
+  "title": "The Pitching Championship Belt, Part 2",
+  "status": "converted_from_csv",
+  "date": "2014-07-03T06:16:39",
+  "error": null,
+  "content_path": "output/articles/markdown/5d8bf78243780927.md",
+  "html_path": "output/articles/html/5d8bf78243780927.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5231,
+    "selection": "The Pitching Championship Belt, Part 2 http://ift.tt/1qT0QeM"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2a4e2c3dd80c9b3756bc3aa96877f145",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1404393399",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The Pitching Championship Belt, Part 2 http://ift.tt/1qT0QeM"
+  },
+  "video_id": null,
+  "created_at": "2014-07-03T06:16:39",
+  "updated_at": "2014-07-03T06:16:39"
+}

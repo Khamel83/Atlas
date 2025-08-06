@@ -1,0 +1,34 @@
+{
+  "uid": "381a46da1bde6634",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/b249854fe668a8555ba39959d9a8139c/",
+  "title": "Libra’s Questionable Benefits, Facebook’s Hidden Costs, Philosophical Objections (Stratechery Daily Update 6-27-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-06-27T05:34:29",
+  "error": null,
+  "content_path": "output/articles/markdown/381a46da1bde6634.md",
+  "html_path": "output/articles/html/381a46da1bde6634.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3099,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d1412d93d393573dea90017ff26b2ec4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1561638869",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-06-27T05:34:29",
+  "updated_at": "2019-06-27T05:34:29"
+}

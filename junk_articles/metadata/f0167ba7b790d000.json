@@ -1,0 +1,34 @@
+{
+  "uid": "f0167ba7b790d000",
+  "content_type": "web_bookmark",
+  "source": "http://online.wsj.com/article/SB10001424052702304520804576347110395478634.html?mod=WSJ_myyahoo_module#printMode",
+  "title": "Bari Weiss: David Mamet's Coming Out Party - WSJ.com",
+  "status": "converted_from_csv",
+  "date": "2011-06-16T07:16:02",
+  "error": null,
+  "content_path": "output/articles/markdown/f0167ba7b790d000.md",
+  "html_path": "output/articles/html/f0167ba7b790d000.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5710,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0313df67f8fab3873d1a80d095bea0bc",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1308233762",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-06-16T07:16:02",
+  "updated_at": "2011-06-16T07:16:02"
+}

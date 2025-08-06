@@ -1,0 +1,34 @@
+{
+  "uid": "34dc9c6158068580",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2013/02/17/world/asia/in-korea-changes-in-society-and-family-dynamics-drive-rise-in-elderly-suicides.html?hp&_r=0&pagewanted=print",
+  "title": "In Korea, Changes in Society and Family Dynamics Drive Rise in Elderly Suicides - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2013-02-18T17:19:33",
+  "error": null,
+  "content_path": "output/articles/markdown/34dc9c6158068580.md",
+  "html_path": "output/articles/html/34dc9c6158068580.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5392,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e1ab4bd1cda698914f040cb1364826f9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1361236773",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2013-02-18T17:19:33",
+  "updated_at": "2013-02-18T17:19:33"
+}

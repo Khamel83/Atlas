@@ -1,0 +1,34 @@
+{
+  "uid": "04531cbc2d6b3537",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2017/03/27/upshot/training-your-brain-so-that-you-dont-need-reading-glasses.html?nytmobile=0",
+  "title": "Training Your Brain So That You Don’t Need Reading Glasses - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2017-03-28T20:39:40",
+  "error": null,
+  "content_path": "output/articles/markdown/04531cbc2d6b3537.md",
+  "html_path": "output/articles/html/04531cbc2d6b3537.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4036,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7913b5badcc8d3f6e02bcee61e789e44",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1490758780",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-03-28T20:39:40",
+  "updated_at": "2017-03-28T20:39:40"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "d55e33fddf31e8cc",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/70ad3c9e10fbd70996efd407148d2289/",
+  "title": "Apple News Follow-up, What D2C Publishers are Selling, More on Podcasts: Supporting Cast & Kimberlite (Stratechery Daily Update 2-14-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-02-14T03:28:55",
+  "error": null,
+  "content_path": "output/articles/markdown/d55e33fddf31e8cc.md",
+  "html_path": "output/articles/html/d55e33fddf31e8cc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3240,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "dfa6aeb0adcf88c8e19334a0b9cdd955",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1550143735",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-02-14T03:28:55",
+  "updated_at": "2019-02-14T03:28:55"
+}

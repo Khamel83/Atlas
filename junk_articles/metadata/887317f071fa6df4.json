@@ -1,0 +1,34 @@
+{
+  "uid": "887317f071fa6df4",
+  "content_type": "web_bookmark",
+  "source": "http://r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com/ps/ifr?container=friendconnect&mid=0&nocache=0&view=profile&parent=http%3A%2F%2Fabandonedfootnotes.blogspot.com%2F&url=http%3A%2F%2Fwww.google.com%2Ffriendconnect%2Fgadgets%2Fmembers.xml&communityId=08388403097490999032&caller=http%3A%2F%2Fabandonedfootnotes.blogspot.com%2F2011%2F03%2Fsimple-model-of-cults-of-personality.html&rpctoken=1234160614&locale=en_US",
+  "title": "Abandoned Footnotes: A Simple Model of Cults of Personality",
+  "status": "converted_from_csv",
+  "date": "2011-03-24T19:00:51",
+  "error": null,
+  "content_path": "output/articles/markdown/887317f071fa6df4.md",
+  "html_path": "output/articles/html/887317f071fa6df4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5826,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c7843496b0fbaf3525be55c7b24defd4",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1301018451",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-03-24T19:00:51",
+  "updated_at": "2011-03-24T19:00:51"
+}

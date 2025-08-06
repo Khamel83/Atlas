@@ -1,0 +1,34 @@
+{
+  "uid": "f49c1a932627bf41",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/01/09/opinion/09sun1.html?hp=&pagewanted=print",
+  "title": "About That $100 Billion - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-01-16T20:48:21",
+  "error": null,
+  "content_path": "output/articles/markdown/f49c1a932627bf41.md",
+  "html_path": "output/articles/html/f49c1a932627bf41.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5978,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ba089d0ad2c22e70c9180c826905d020",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1295239701",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-01-16T20:48:21",
+  "updated_at": "2011-01-16T20:48:21"
+}

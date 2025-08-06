@@ -1,0 +1,34 @@
+{
+  "uid": "af4afb5e59927da8",
+  "content_type": "web_bookmark",
+  "source": "http://www.dmagazine.com/publications/d-magazine/2013/april/the-legend-of-chris-kyle-01?single=1",
+  "title": "The Legend of Chris Kyle",
+  "status": "converted_from_csv",
+  "date": "2015-01-15T14:55:26",
+  "error": null,
+  "content_path": "output/articles/markdown/af4afb5e59927da8.md",
+  "html_path": "output/articles/html/af4afb5e59927da8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4975,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "55a82a429f9e0c38cbdbda2909cf7d23",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1421362526",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-01-15T14:55:26",
+  "updated_at": "2015-01-15T14:55:26"
+}

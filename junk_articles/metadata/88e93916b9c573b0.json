@@ -1,0 +1,34 @@
+{
+  "uid": "88e93916b9c573b0",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/69b06faac1f8584787bd553f250bd711/",
+  "title": "Bonus Post: Announcing The COVID School Data Hub",
+  "status": "converted_from_csv",
+  "date": "2021-06-09T02:00:21",
+  "error": null,
+  "content_path": "output/articles/markdown/88e93916b9c573b0.md",
+  "html_path": "output/articles/html/88e93916b9c573b0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2166,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5e5c39333c9af1c26e9a82f728e50102",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1623229221",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-06-09T02:00:21",
+  "updated_at": "2021-06-09T02:00:21"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "605d10f62b40305b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/a89e630be5bd2f440df71b728287d008/",
+  "title": "COVID Vaccines for Kids",
+  "status": "converted_from_csv",
+  "date": "2021-09-27T02:03:47",
+  "error": null,
+  "content_path": "output/articles/markdown/605d10f62b40305b.md",
+  "html_path": "output/articles/html/605d10f62b40305b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1948,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cd68f75cdd7ba0bbfa8da8ea0a9b0739",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1632733427",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-09-27T02:03:47",
+  "updated_at": "2021-09-27T02:03:47"
+}

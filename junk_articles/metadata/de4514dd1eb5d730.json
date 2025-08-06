@@ -1,0 +1,34 @@
+{
+  "uid": "de4514dd1eb5d730",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/e3d54987e989ef5b118e17d4317540b7/",
+  "title": "Interview: Christopher Leonard, Author of \"The Lords of Easy Money\"",
+  "status": "converted_from_csv",
+  "date": "2022-09-07T13:33:17",
+  "error": null,
+  "content_path": "output/articles/markdown/de4514dd1eb5d730.md",
+  "html_path": "output/articles/html/de4514dd1eb5d730.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1243,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7a34f31f7c99636876d057654b446af0",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1662582797",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-09-07T13:33:17",
+  "updated_at": "2022-09-07T13:33:17"
+}

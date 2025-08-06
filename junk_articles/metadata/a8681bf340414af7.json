@@ -1,0 +1,34 @@
+{
+  "uid": "a8681bf340414af7",
+  "content_type": "web_bookmark",
+  "source": "http://www.theverge.com/2016/1/4/10677740/new-makerbot-smart-extruder-plus-3d-printer-ces-2016",
+  "title": "MakerBot is replacing its most ill-fated 3D printing product The Verge",
+  "status": "converted_from_csv",
+  "date": "2016-01-04T19:10:13",
+  "error": null,
+  "content_path": "output/articles/markdown/a8681bf340414af7.md",
+  "html_path": "output/articles/html/a8681bf340414af7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4649,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fbc94359d441f96746274387402e3ebe",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1451963413",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-01-04T19:10:13",
+  "updated_at": "2016-01-04T19:10:13"
+}

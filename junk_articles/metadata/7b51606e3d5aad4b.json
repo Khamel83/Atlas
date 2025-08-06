@@ -1,0 +1,34 @@
+{
+  "uid": "7b51606e3d5aad4b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/ae6fb28885b55bcd220dbdea698069e3/",
+  "title": "Snap Mania and Metamarkets; John Perry Barlow Dies; Barlow, Disney, and Streaming (Stratechery Daily Update 2018-2-8)",
+  "status": "converted_from_csv",
+  "date": "2018-02-08T04:26:32",
+  "error": null,
+  "content_path": "output/articles/markdown/7b51606e3d5aad4b.md",
+  "html_path": "output/articles/html/7b51606e3d5aad4b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3622,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e433eaec817ed46e1040f2717143d798",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1518092792",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-02-08T04:26:32",
+  "updated_at": "2018-02-08T04:26:32"
+}

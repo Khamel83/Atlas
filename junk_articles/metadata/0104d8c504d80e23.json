@@ -1,0 +1,34 @@
+{
+  "uid": "0104d8c504d80e23",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/b0863391be2f618214d625797138eb2f/",
+  "title": "Wins, Woes, and Leaving the House",
+  "status": "converted_from_csv",
+  "date": "2022-10-18T09:32:21",
+  "error": null,
+  "content_path": "output/articles/markdown/0104d8c504d80e23.md",
+  "html_path": "output/articles/html/0104d8c504d80e23.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1172,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1b9a7d8d4ef255cada9db62d4025296d",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1666110741",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-10-18T09:32:21",
+  "updated_at": "2022-10-18T09:32:21"
+}

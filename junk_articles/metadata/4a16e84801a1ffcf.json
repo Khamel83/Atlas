@@ -1,0 +1,34 @@
+{
+  "uid": "4a16e84801a1ffcf",
+  "content_type": "web_bookmark",
+  "source": "http://www.newyorker.com/books/page-turner/the-two-asian-americas",
+  "title": "The Two Asian Americas - The New Yorker",
+  "status": "converted_from_csv",
+  "date": "2015-10-25T07:04:48",
+  "error": null,
+  "content_path": "output/articles/markdown/4a16e84801a1ffcf.md",
+  "html_path": "output/articles/html/4a16e84801a1ffcf.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4714,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3277b6551ec9fb6431510b3889e2f1e7",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1445781888",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-10-25T07:04:48",
+  "updated_at": "2015-10-25T07:04:48"
+}

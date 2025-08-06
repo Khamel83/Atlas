@@ -1,0 +1,34 @@
+{
+  "uid": "fc08817f809cb645",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/e0bf17812a4a180c0162ef5a998afd5b/",
+  "title": "💥Big Lots. Fisker. BUCA.💥",
+  "status": "converted_from_csv",
+  "date": "2024-08-14T05:09:33",
+  "error": null,
+  "content_path": "output/articles/markdown/fc08817f809cb645.md",
+  "html_path": "output/articles/html/fc08817f809cb645.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 219,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "04edcd5565b979661c449b2ab93230fb",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1723637373",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-08-14T05:09:33",
+  "updated_at": "2024-08-14T05:09:33"
+}

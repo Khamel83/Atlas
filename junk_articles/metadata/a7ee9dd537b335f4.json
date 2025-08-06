@@ -1,0 +1,34 @@
+{
+  "uid": "a7ee9dd537b335f4",
+  "content_type": "web_bookmark",
+  "source": "http://www.washingtonpost.com/business/economy/with-executive-pay-rich-pull-away-from-rest-of-america/2011/06/13/AGKG9jaH_print.html",
+  "title": "With executive pay, rich pull away from rest of America - The Washington Post",
+  "status": "converted_from_csv",
+  "date": "2011-06-21T16:02:24",
+  "error": null,
+  "content_path": "output/articles/markdown/a7ee9dd537b335f4.md",
+  "html_path": "output/articles/html/a7ee9dd537b335f4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5697,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2b108e62359cb2dcc260a44b72f7dc90",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1308697344",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-06-21T16:02:24",
+  "updated_at": "2011-06-21T16:02:24"
+}

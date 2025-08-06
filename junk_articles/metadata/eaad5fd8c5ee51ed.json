@@ -1,0 +1,34 @@
+{
+  "uid": "eaad5fd8c5ee51ed",
+  "content_type": "web_bookmark",
+  "source": "https://www.newyorker.com/magazine/2018/10/01/the-first-family-of-memes",
+  "title": "The First Family of Memes | The New Yorker",
+  "status": "converted_from_csv",
+  "date": "2019-01-29T10:46:12",
+  "error": null,
+  "content_path": "output/articles/markdown/eaad5fd8c5ee51ed.md",
+  "html_path": "output/articles/html/eaad5fd8c5ee51ed.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3258,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6405141793ea488f5a8ee4c9faf0169e",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1548787572",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-01-29T10:46:12",
+  "updated_at": "2019-01-29T10:46:12"
+}

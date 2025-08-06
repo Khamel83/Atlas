@@ -1,0 +1,34 @@
+{
+  "uid": "2b41b9cae71563fb",
+  "content_type": "web_bookmark",
+  "source": "http://www.gq.com/entertainment/movies-and-tv/201107/michael-bay-oral-history?currentPage=3&printable=true",
+  "title": "Blow-Up: An Oral History of Michael Bay, the Most Explosive Director of All Time",
+  "status": "converted_from_csv",
+  "date": "2015-03-02T11:26:27",
+  "error": null,
+  "content_path": "output/articles/markdown/2b41b9cae71563fb.md",
+  "html_path": "output/articles/html/2b41b9cae71563fb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4922,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ee8e631d6298411bb90544a7fd39fa7e",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1425324387",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-03-02T11:26:27",
+  "updated_at": "2015-03-02T11:26:27"
+}

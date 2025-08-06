@@ -1,0 +1,34 @@
+{
+  "uid": "f4ca1a45d1b06cae",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0c1f4185d9925f8c8f8c82cef20d4ef3/",
+  "title": "Wins, Woes, and Babysitters",
+  "status": "converted_from_csv",
+  "date": "2022-11-22T09:31:45",
+  "error": null,
+  "content_path": "output/articles/markdown/f4ca1a45d1b06cae.md",
+  "html_path": "output/articles/html/f4ca1a45d1b06cae.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1118,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7c7db0bd0002f4d28e8574bf072a18e8",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1669138305",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-11-22T09:31:45",
+  "updated_at": "2022-11-22T09:31:45"
+}

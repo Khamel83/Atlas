@@ -1,0 +1,34 @@
+{
+  "uid": "c458f5d3566fd399",
+  "content_type": "web_bookmark",
+  "source": "http://mailchi.mp/stratechery/lavar-ball-and-deciding-viewers-the-logan-paul-controversy-spectre-and-philosophy-redux?e=ef6eeda78d",
+  "title": "LaVar Ball and Deciding Viewers; The Logan Paul Controversy; Spectre and Philosophy, Redux (Stratechery Daily Update 2018-01-10)",
+  "status": "converted_from_csv",
+  "date": "2018-01-11T14:39:32",
+  "error": null,
+  "content_path": "output/articles/markdown/c458f5d3566fd399.md",
+  "html_path": "output/articles/html/c458f5d3566fd399.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3663,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e0e36db9a6c3932e118e2b5d62807cb9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1515710372",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-01-11T14:39:32",
+  "updated_at": "2018-01-11T14:39:32"
+}

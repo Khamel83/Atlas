@@ -1,0 +1,34 @@
+{
+  "uid": "ebf54273e8a48073",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2010/11/26/world/middleeast/26diplo.html?_r=1&pagewanted=print",
+  "title": "New U.S. Politics Brings Mixed Message for Israel - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2010-11-26T18:49:41",
+  "error": null,
+  "content_path": "output/articles/markdown/ebf54273e8a48073.md",
+  "html_path": "output/articles/html/ebf54273e8a48073.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6072,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3ad1b5d414753d1aaaa298f8672ce858",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1290826181",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-11-26T18:49:41",
+  "updated_at": "2010-11-26T18:49:41"
+}

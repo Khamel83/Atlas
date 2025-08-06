@@ -1,0 +1,34 @@
+{
+  "uid": "810efa3766017c43",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/2dc0f5216a8a2a2e731e1814dad71e9f/",
+  "title": "Revlon/Citi, Gamestop/AMC, SPACs, Low Yield High Yield, Earnings Growth, Oil Rising, Bitcoin Soaring = 🤯",
+  "status": "converted_from_csv",
+  "date": "2021-02-17T08:12:05",
+  "error": null,
+  "content_path": "output/articles/markdown/810efa3766017c43.md",
+  "html_path": "output/articles/html/810efa3766017c43.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2403,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "eb228664124735ddb8c7902bf173e003",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1613578325",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-02-17T08:12:05",
+  "updated_at": "2021-02-17T08:12:05"
+}

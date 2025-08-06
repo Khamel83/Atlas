@@ -1,0 +1,34 @@
+{
+  "uid": "2f9c29a536ee8a1a",
+  "content_type": "web_bookmark",
+  "source": "http://online.wsj.com/article/SB10001424052748704409004576146321725889448.html?mod=e2tw",
+  "title": "Where Have the Good Men Gone? - WSJ.com",
+  "status": "converted_from_csv",
+  "date": "2011-05-31T01:21:01",
+  "error": null,
+  "content_path": "output/articles/markdown/2f9c29a536ee8a1a.md",
+  "html_path": "output/articles/html/2f9c29a536ee8a1a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5883,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d7fe10c0f4372e98d8ad292ce29cb934",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1306830061",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-05-31T01:21:01",
+  "updated_at": "2011-05-31T01:21:01"
+}

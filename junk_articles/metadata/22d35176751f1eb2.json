@@ -1,0 +1,34 @@
+{
+  "uid": "22d35176751f1eb2",
+  "content_type": "web_bookmark",
+  "source": "https://www.outsideonline.com/2164446/leave-no-trace",
+  "title": "How 1,600 People Went Missing from Our Public Lands Without a Trace | Outside Online",
+  "status": "converted_from_csv",
+  "date": "2017-03-15T06:22:25",
+  "error": null,
+  "content_path": "output/articles/markdown/22d35176751f1eb2.md",
+  "html_path": "output/articles/html/22d35176751f1eb2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4062,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ddcc62118b40322d6b1ae4d4637605b7",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1489584145",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-03-15T06:22:25",
+  "updated_at": "2017-03-15T06:22:25"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "0692bfbd4449b0a4",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/339cd2ae05c744407e5598c7a63a6d8a/",
+  "title": "The Founder's Letter: Trevor Dryer & Miles Halady, Carbon Title",
+  "status": "converted_from_csv",
+  "date": "2022-09-15T06:08:39",
+  "error": null,
+  "content_path": "output/articles/markdown/0692bfbd4449b0a4.md",
+  "html_path": "output/articles/html/0692bfbd4449b0a4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1230,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "319b9943635e3785aea5f9338f36edbc",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1663247319",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-09-15T06:08:39",
+  "updated_at": "2022-09-15T06:08:39"
+}

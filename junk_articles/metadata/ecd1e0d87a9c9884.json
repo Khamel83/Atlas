@@ -1,0 +1,34 @@
+{
+  "uid": "ecd1e0d87a9c9884",
+  "content_type": "web_bookmark",
+  "source": "http://www.coolinfographics.com/blog/2014/6/27/the-basic-wine-guide.html",
+  "title": "The Basic Wine Guide Cool Infographics",
+  "status": "converted_from_csv",
+  "date": "2014-06-27T16:57:39",
+  "error": null,
+  "content_path": "output/articles/markdown/ecd1e0d87a9c9884.md",
+  "html_path": "output/articles/html/ecd1e0d87a9c9884.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5239,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "11f8bc5fcaf40702c02405f10946d158",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1403913459",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-06-27T16:57:39",
+  "updated_at": "2014-06-27T16:57:39"
+}

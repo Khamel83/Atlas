@@ -1,0 +1,34 @@
+{
+  "uid": "ee7f4d3a5f90f06b",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/09/05/opinion/lessons-on-health-care.html?src=rechp&pagewanted=print",
+  "title": "Lessons on Health Care - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-09-09T22:21:18",
+  "error": null,
+  "content_path": "output/articles/markdown/ee7f4d3a5f90f06b.md",
+  "html_path": "output/articles/html/ee7f4d3a5f90f06b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5630,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8778f9f526caa06c53ba301454bcc751",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1315632078",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-09-09T22:21:18",
+  "updated_at": "2011-09-09T22:21:18"
+}

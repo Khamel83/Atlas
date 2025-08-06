@@ -1,0 +1,34 @@
+{
+  "uid": "fa73fbf2f761bb29",
+  "content_type": "web_bookmark",
+  "source": "http://well.blogs.nytimes.com/2011/02/28/go-easy-on-yourself-a-new-wave-of-research-urges/?pagemode=print",
+  "title": "Go Easy on Yourself, a New Wave of Research Urges - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-03-04T22:14:50",
+  "error": null,
+  "content_path": "output/articles/markdown/fa73fbf2f761bb29.md",
+  "html_path": "output/articles/html/fa73fbf2f761bb29.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5860,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "78fd4195b1f21e4e5fa1a4c5fdc242a0",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1299305690",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-03-04T22:14:50",
+  "updated_at": "2011-03-04T22:14:50"
+}

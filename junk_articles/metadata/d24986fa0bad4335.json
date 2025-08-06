@@ -1,0 +1,34 @@
+{
+  "uid": "d24986fa0bad4335",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/5811f5d8cd98a7b0b4fecd1c93de63b3/",
+  "title": "💥What's the Deal(EO)?💥",
+  "status": "converted_from_csv",
+  "date": "2025-02-09T08:16:19",
+  "error": null,
+  "content_path": "output/articles/markdown/d24986fa0bad4335.md",
+  "html_path": "output/articles/html/d24986fa0bad4335.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 77,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2418b8043a827aaaca5dd6d96bc96b80",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1739117779",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2025-02-09T08:16:19",
+  "updated_at": "2025-02-09T08:16:19"
+}

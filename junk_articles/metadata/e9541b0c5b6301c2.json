@@ -1,0 +1,34 @@
+{
+  "uid": "e9541b0c5b6301c2",
+  "content_type": "web_bookmark",
+  "source": "http://www.plaid-creative.com/ThePerfectPour.gif",
+  "title": "ThePerfectPour.gif (1348×2338)",
+  "status": "converted_from_csv",
+  "date": "2010-07-19T08:58:12",
+  "error": null,
+  "content_path": "output/articles/markdown/e9541b0c5b6301c2.md",
+  "html_path": "output/articles/html/e9541b0c5b6301c2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6205,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "975431b83551352e511e0029961b3105",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1279555092",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-07-19T08:58:12",
+  "updated_at": "2010-07-19T08:58:12"
+}

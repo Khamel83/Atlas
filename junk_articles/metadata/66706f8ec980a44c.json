@@ -1,0 +1,34 @@
+{
+  "uid": "66706f8ec980a44c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/5b16dedaed034d326d5e6948a3899cf1/",
+  "title": "Savor the Great Musk Panic",
+  "status": "converted_from_csv",
+  "date": "2022-04-28T13:32:12",
+  "error": null,
+  "content_path": "output/articles/markdown/66706f8ec980a44c.md",
+  "html_path": "output/articles/html/66706f8ec980a44c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1475,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1e00273f15bea27d615e03dd18e51e78",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1651177932",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-04-28T13:32:12",
+  "updated_at": "2022-04-28T13:32:12"
+}

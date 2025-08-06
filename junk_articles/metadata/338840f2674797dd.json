@@ -1,0 +1,34 @@
+{
+  "uid": "338840f2674797dd",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2017/02/01/education/edlife/mike-bloomberg-salomon-brothers.html",
+  "title": "Michael Bloomberg on How to Succeed in Business - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2017-02-07T13:47:55",
+  "error": null,
+  "content_path": "output/articles/markdown/338840f2674797dd.md",
+  "html_path": "output/articles/html/338840f2674797dd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4120,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a56e4070b866883a67f730ddafec6bb7",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1486504075",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-02-07T13:47:55",
+  "updated_at": "2017-02-07T13:47:55"
+}

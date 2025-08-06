@@ -1,0 +1,34 @@
+{
+  "uid": "475f904f96379e34",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/cfddaead44897e511ba341cb1b77335f/",
+  "title": "Breastfeeding and COVID, egg quality, kitchen sponges, and preschool",
+  "status": "converted_from_csv",
+  "date": "2023-10-18T03:09:02",
+  "error": null,
+  "content_path": "output/articles/markdown/475f904f96379e34.md",
+  "html_path": "output/articles/html/475f904f96379e34.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 581,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2a12569279a49feb92ba9223c0189681",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1697623742",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-10-18T03:09:02",
+  "updated_at": "2023-10-18T03:09:02"
+}

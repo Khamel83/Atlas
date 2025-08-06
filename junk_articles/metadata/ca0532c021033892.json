@@ -1,0 +1,34 @@
+{
+  "uid": "ca0532c021033892",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/21ce71836c2010f545427ac26398bac3/",
+  "title": "No Daily Update",
+  "status": "converted_from_csv",
+  "date": "2019-08-06T07:33:41",
+  "error": null,
+  "content_path": "output/articles/markdown/ca0532c021033892.md",
+  "html_path": "output/articles/html/ca0532c021033892.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3063,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8fc3ec1d4fe421c68179423be222ee63",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1565102021",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-08-06T07:33:41",
+  "updated_at": "2019-08-06T07:33:41"
+}

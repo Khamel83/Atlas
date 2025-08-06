@@ -1,0 +1,34 @@
+{
+  "uid": "74c4ceb3fbd5ed3a",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/04/24/business/24excerpt.html?_r=1&hp=&pagewanted=print",
+  "title": "The Madoff Masquerade - Scenes From the Final Year - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-04-23T23:23:07",
+  "error": null,
+  "content_path": "output/articles/markdown/74c4ceb3fbd5ed3a.md",
+  "html_path": "output/articles/html/74c4ceb3fbd5ed3a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5762,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ca8b7f2c906013f2ec79c25964abe1bb",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1303626187",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-04-23T23:23:07",
+  "updated_at": "2011-04-23T23:23:07"
+}

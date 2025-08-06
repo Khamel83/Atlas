@@ -1,0 +1,34 @@
+{
+  "uid": "fa6d9d66016aad9e",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2021/08/24/style/cotton-totes-climate-crisis.html",
+  "title": "The Cotton Tote Crisis - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2021-10-25T09:44:01",
+  "error": null,
+  "content_path": "output/articles/markdown/fa6d9d66016aad9e.md",
+  "html_path": "output/articles/html/fa6d9d66016aad9e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1878,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1935b032cdc87029319d525bededd375",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1635180241",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-10-25T09:44:01",
+  "updated_at": "2021-10-25T09:44:01"
+}

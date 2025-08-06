@@ -1,0 +1,34 @@
+{
+  "uid": "d6bbcd41f8cb3fb9",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/065aaf68bd09db6191d113fce14a8922/",
+  "title": "Obama rallies against disinformation",
+  "status": "converted_from_csv",
+  "date": "2022-04-21T17:02:42",
+  "error": null,
+  "content_path": "output/articles/markdown/d6bbcd41f8cb3fb9.md",
+  "html_path": "output/articles/html/d6bbcd41f8cb3fb9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1491,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bcab9bf4bc533c8124f5c2924b223011",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1650585762",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-04-21T17:02:42",
+  "updated_at": "2022-04-21T17:02:42"
+}

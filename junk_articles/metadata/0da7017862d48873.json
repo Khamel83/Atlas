@@ -1,0 +1,34 @@
+{
+  "uid": "0da7017862d48873",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0eaa0731ea23642fda3f54972b4da5c3/",
+  "title": "Afghanistan: We Never Learn",
+  "status": "converted_from_csv",
+  "date": "2021-08-16T09:19:05",
+  "error": null,
+  "content_path": "output/articles/markdown/0da7017862d48873.md",
+  "html_path": "output/articles/html/0da7017862d48873.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2035,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "891e2567d3fc143180924c35c35b5d61",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1629130745",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-08-16T09:19:05",
+  "updated_at": "2021-08-16T09:19:05"
+}

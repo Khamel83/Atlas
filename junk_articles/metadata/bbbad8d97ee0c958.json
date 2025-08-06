@@ -1,0 +1,34 @@
+{
+  "uid": "bbbad8d97ee0c958",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/43b40ec13fc03a823a2dce197c46567f/",
+  "title": "Rivian: The Most Remarkable Adventure",
+  "status": "converted_from_csv",
+  "date": "2021-11-04T05:56:46",
+  "error": null,
+  "content_path": "output/articles/markdown/bbbad8d97ee0c958.md",
+  "html_path": "output/articles/html/bbbad8d97ee0c958.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1848,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6241c28f3e0a97991df444ac20de23ba",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1636030606",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-11-04T05:56:46",
+  "updated_at": "2021-11-04T05:56:46"
+}

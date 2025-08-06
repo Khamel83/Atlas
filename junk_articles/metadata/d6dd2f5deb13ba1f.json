@@ -1,0 +1,34 @@
+{
+  "uid": "d6dd2f5deb13ba1f",
+  "content_type": "web_bookmark",
+  "source": "https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax",
+  "title": "The Secret IRS Files: Trove of Never-Before-Seen Records Reveal How the Wealthiest Avoid Income Tax — ProPublica",
+  "status": "converted_from_csv",
+  "date": "2021-06-08T10:27:21",
+  "error": null,
+  "content_path": "output/articles/markdown/d6dd2f5deb13ba1f.md",
+  "html_path": "output/articles/html/d6dd2f5deb13ba1f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2168,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3ff5e3eee7ce56eb782f5b746843444d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1623173241",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-06-08T10:27:21",
+  "updated_at": "2021-06-08T10:27:21"
+}

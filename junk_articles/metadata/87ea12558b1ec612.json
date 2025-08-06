@@ -1,0 +1,34 @@
+{
+  "uid": "87ea12558b1ec612",
+  "content_type": "web_bookmark",
+  "source": "https://www.vox.com/policy-and-politics/2017/9/20/16333384/graham-cassidy-obamacare-health-care",
+  "title": "Graham-Cassidy could’ve been the GOP’s best Obamacare replacement",
+  "status": "converted_from_csv",
+  "date": "2017-09-20T23:01:00",
+  "error": null,
+  "content_path": "output/articles/markdown/87ea12558b1ec612.md",
+  "html_path": "output/articles/html/87ea12558b1ec612.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3805,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7ab9f0c0fb8f7106a181b21f9eca1567",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1505973660",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-09-20T23:01:00",
+  "updated_at": "2017-09-20T23:01:00"
+}

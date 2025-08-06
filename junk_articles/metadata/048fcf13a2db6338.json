@@ -1,0 +1,34 @@
+{
+  "uid": "048fcf13a2db6338",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/8999de4662dbdd9e7df874439d2c311d/",
+  "title": "MongoDB Follow-up, AWS’ Incentives, Batteries: The iPhone’s Missing Miss (Stratechery Daily Update 1-15-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-01-15T05:12:12",
+  "error": null,
+  "content_path": "output/articles/markdown/048fcf13a2db6338.md",
+  "html_path": "output/articles/html/048fcf13a2db6338.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3270,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "661dcdb2d9e2cfee62fc1db18ba22510",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1547557932",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-01-15T05:12:12",
+  "updated_at": "2019-01-15T05:12:12"
+}

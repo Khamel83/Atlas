@@ -1,0 +1,32 @@
+{
+  "uid": "6b67598f432c6905",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1764169049",
+  "title": "Note to Readers",
+  "status": "error",
+  "date": "2025-08-05T12:39:53.562435",
+  "error": "Failed to fetch content for 'Note to Readers' from instapaper://private-content/1764169049: No connection adapters were found for 'instapaper://private-content/1764169049'",
+  "content_path": null,
+  "html_path": null,
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": null,
+  "type_specific": {
+    "bookmark_id": 1764169049
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:39:53.562445",
+  "updated_at": "2025-08-05T12:39:53.568895"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "58bd079062dfc736",
+  "content_type": "web_bookmark",
+  "source": "http://www.slate.com/articles/news_and_politics/history/2014/09/the_self_made_man_history_of_a_myth_from_ben_franklin_to_andrew_carnegie.html",
+  "title": "The Self-Made Man: The Story of America’s Most Pliable, Pernicious, Irrepressible Myth",
+  "status": "converted_from_csv",
+  "date": "2014-09-29T21:22:52",
+  "error": null,
+  "content_path": "output/articles/markdown/58bd079062dfc736.md",
+  "html_path": "output/articles/html/58bd079062dfc736.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5116,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "533249be64dd2f4d7a42589921757d3b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1412050972",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-09-29T21:22:52",
+  "updated_at": "2014-09-29T21:22:52"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "ee57e8d11bd64d42",
+  "content_type": "web_bookmark",
+  "source": "http://www.theatlantic.com/magazine/print/2011/03/saying-no-to-1-billion/8380/",
+  "title": "Saying No to $1 Billion - Magazine - The Atlantic",
+  "status": "converted_from_csv",
+  "date": "2011-03-07T16:56:33",
+  "error": null,
+  "content_path": "output/articles/markdown/ee57e8d11bd64d42.md",
+  "html_path": "output/articles/html/ee57e8d11bd64d42.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5847,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "de2ee599e9a069f269573d71e088c36e",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1299545793",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-03-07T16:56:33",
+  "updated_at": "2011-03-07T16:56:33"
+}

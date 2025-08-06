@@ -1,0 +1,34 @@
+{
+  "uid": "ff27dfa82edfcc63",
+  "content_type": "web_bookmark",
+  "source": "http://www.wsj.com/articles/would-be-financial-whiz-is-charged-with-stealing-from-investors-1426554634",
+  "title": "Would-Be Financial Whiz Is Charged With Stealing From Investors",
+  "status": "converted_from_csv",
+  "date": "2015-03-17T04:39:19",
+  "error": null,
+  "content_path": "output/articles/markdown/ff27dfa82edfcc63.md",
+  "html_path": "output/articles/html/ff27dfa82edfcc63.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4905,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6074e049238a3317b34314bbfa404903",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1426592359",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-03-17T04:39:19",
+  "updated_at": "2015-03-17T04:39:19"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "6683a2f4dc5d1739",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/266defc2cdd7b6902f6d8633048e9cf6/",
+  "title": "This is the Awful Voice Inside My Head",
+  "status": "converted_from_csv",
+  "date": "2021-06-29T17:04:50",
+  "error": null,
+  "content_path": "output/articles/markdown/6683a2f4dc5d1739.md",
+  "html_path": "output/articles/html/6683a2f4dc5d1739.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2129,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "98a02a000832278d006936dd9dc6dc3b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1625011490",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-06-29T17:04:50",
+  "updated_at": "2021-06-29T17:04:50"
+}

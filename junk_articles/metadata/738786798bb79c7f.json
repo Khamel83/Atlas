@@ -1,0 +1,34 @@
+{
+  "uid": "738786798bb79c7f",
+  "content_type": "web_bookmark",
+  "source": "http://news.yahoo.com/cia-help-nypd-moves-covertly-muslim-areas-090019915.html",
+  "title": "With CIA help, NYPD moves covertly in Muslim areas",
+  "status": "converted_from_csv",
+  "date": "2011-08-28T01:55:14",
+  "error": null,
+  "content_path": "output/articles/markdown/738786798bb79c7f.md",
+  "html_path": "output/articles/html/738786798bb79c7f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5636,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ff9c42917b152a8a4767000106df3269",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1314521714",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-08-28T01:55:14",
+  "updated_at": "2011-08-28T01:55:14"
+}

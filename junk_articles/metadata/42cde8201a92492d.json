@@ -1,0 +1,34 @@
+{
+  "uid": "42cde8201a92492d",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/f28d719351bf8f0e50ea224e7780c8f8/",
+  "title": "San Francisco and Scooters, Skip’s Strategic Moat, Santa Monica and Scooters (Stratechery Daily Update 9-4-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-09-04T04:17:33",
+  "error": null,
+  "content_path": "output/articles/markdown/42cde8201a92492d.md",
+  "html_path": "output/articles/html/42cde8201a92492d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3405,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a57cb1f5af18f4f72afcc3e3ee019127",
+  "type_specific": {
+    "folder": "Stratechery",
+    "instapaper_timestamp": "1536059853",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-09-04T04:17:33",
+  "updated_at": "2018-09-04T04:17:33"
+}

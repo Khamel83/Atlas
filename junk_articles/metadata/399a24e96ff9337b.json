@@ -1,0 +1,34 @@
+{
+  "uid": "399a24e96ff9337b",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2014/04/06/magazine/flash-boys-michael-lewis.html",
+  "title": "The Wolf Hunters of Wall Street - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2014-03-31T22:25:17",
+  "error": null,
+  "content_path": "output/articles/markdown/399a24e96ff9337b.md",
+  "html_path": "output/articles/html/399a24e96ff9337b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5275,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7cd1686fe58f06567f0d8b456b5d2d08",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1396329917",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-03-31T22:25:17",
+  "updated_at": "2014-03-31T22:25:17"
+}

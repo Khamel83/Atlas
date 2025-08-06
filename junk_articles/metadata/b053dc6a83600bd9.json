@@ -1,0 +1,34 @@
+{
+  "uid": "b053dc6a83600bd9",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/714ab925cd8dc8f8da87e0afb41c7acb/",
+  "title": "Apple Card Launches, Without a Website; Revisiting Stratechery: If Steve Ballmer Ran Apple",
+  "status": "converted_from_csv",
+  "date": "2019-08-22T03:41:28",
+  "error": null,
+  "content_path": "output/articles/markdown/b053dc6a83600bd9.md",
+  "html_path": "output/articles/html/b053dc6a83600bd9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3047,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3138dfc98ec3b3f413a1c65bfbebc13d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1566470488",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-08-22T03:41:28",
+  "updated_at": "2019-08-22T03:41:28"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "df2d3231c491e141",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/c02ca75134b716f66aa37bf94794cd69/",
+  "title": "Labor Induction, Vaccines and Periods, and More on ECVs",
+  "status": "converted_from_csv",
+  "date": "2022-07-21T01:55:51",
+  "error": null,
+  "content_path": "output/articles/markdown/df2d3231c491e141.md",
+  "html_path": "output/articles/html/df2d3231c491e141.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1323,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f975d9371bab1b4b2aded97528687234",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1658393751",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-07-21T01:55:51",
+  "updated_at": "2022-07-21T01:55:51"
+}

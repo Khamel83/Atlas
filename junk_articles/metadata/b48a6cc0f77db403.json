@@ -1,0 +1,34 @@
+{
+  "uid": "b48a6cc0f77db403",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2015/02/26/business/next-goal-for-walmart-workers-more-hours.html",
+  "title": "Next Goal for Walmart Workers: More Hours",
+  "status": "converted_from_csv",
+  "date": "2015-02-26T05:00:10",
+  "error": null,
+  "content_path": "output/articles/markdown/b48a6cc0f77db403.md",
+  "html_path": "output/articles/html/b48a6cc0f77db403.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4929,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1519cabdbc74061eaebd2f89aac1dbea",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1424955610",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-02-26T05:00:10",
+  "updated_at": "2015-02-26T05:00:10"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "af46ddc0565fc2d5",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2023/10/11/opinion/driverless-cars-san-francisco.html",
+  "title": "Opinion | Autonomous Vehicles Are Driving Blind",
+  "status": "converted_from_csv",
+  "date": "2023-10-18T08:57:16",
+  "error": null,
+  "content_path": "output/articles/markdown/af46ddc0565fc2d5.md",
+  "html_path": "output/articles/html/af46ddc0565fc2d5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 578,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "72b8ddd46624f1c2a57e18548f854d81",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1697644636",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-10-18T08:57:16",
+  "updated_at": "2023-10-18T08:57:16"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "f9dddeebd455b16c",
+  "content_type": "web_bookmark",
+  "source": "http://jalopnik.com/teslas-potential-body-shop-backlog-nightmare-1793269803",
+  "title": "Tesla's Potential Body Shop Backlog Nightmare",
+  "status": "converted_from_csv",
+  "date": "2017-03-16T17:02:16",
+  "error": null,
+  "content_path": "output/articles/markdown/f9dddeebd455b16c.md",
+  "html_path": "output/articles/html/f9dddeebd455b16c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4056,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "23a846f3a4a9a0bf464026a774d63cb4",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1489708936",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-03-16T17:02:16",
+  "updated_at": "2017-03-16T17:02:16"
+}

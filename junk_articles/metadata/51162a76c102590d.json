@@ -1,0 +1,34 @@
+{
+  "uid": "51162a76c102590d",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6f2d0e0a9a36629b90f0e2b38dde7416/",
+  "title": "Anti-monopoly vs. Antitrust (Stratechery Weekly Article 10-7-2020)",
+  "status": "converted_from_csv",
+  "date": "2020-10-07T08:04:41",
+  "error": null,
+  "content_path": "output/articles/markdown/51162a76c102590d.md",
+  "html_path": "output/articles/html/51162a76c102590d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2737,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "85ce2776317978639557376e2626cc24",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1602083081",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-10-07T08:04:41",
+  "updated_at": "2020-10-07T08:04:41"
+}

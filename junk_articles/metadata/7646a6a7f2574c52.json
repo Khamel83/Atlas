@@ -1,0 +1,34 @@
+{
+  "uid": "7646a6a7f2574c52",
+  "content_type": "web_bookmark",
+  "source": "http://www.slate.com/articles/news_and_politics/the_good_fight/2017/03/the_coming_democratic_majority_might_be_coming_a_lot_slower_than_you_think.html",
+  "title": "The Coming Democratic Majority Might Be Coming a Lot Slower Than You Think",
+  "status": "converted_from_csv",
+  "date": "2017-03-06T11:56:11",
+  "error": null,
+  "content_path": "output/articles/markdown/7646a6a7f2574c52.md",
+  "html_path": "output/articles/html/7646a6a7f2574c52.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4085,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "641c7407a25c23c9ab9d332fd7bc76e2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1488830171",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-03-06T11:56:11",
+  "updated_at": "2017-03-06T11:56:11"
+}

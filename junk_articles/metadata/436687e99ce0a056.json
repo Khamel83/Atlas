@@ -1,0 +1,34 @@
+{
+  "uid": "436687e99ce0a056",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/f86feda25594767bd6d87ae3fd7c56e1/",
+  "title": "The Rise and Fall of ESPN's Leverage (Stratechery Article 9-5-2023)",
+  "status": "converted_from_csv",
+  "date": "2023-09-05T08:15:30",
+  "error": null,
+  "content_path": "output/articles/markdown/436687e99ce0a056.md",
+  "html_path": "output/articles/html/436687e99ce0a056.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 667,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a3a6cb102ee2b87e1da617c883fe4657",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1693926930",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-09-05T08:15:30",
+  "updated_at": "2023-09-05T08:15:30"
+}

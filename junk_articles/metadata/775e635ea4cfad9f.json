@@ -1,0 +1,34 @@
+{
+  "uid": "775e635ea4cfad9f",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/8179678a04db571a054e2423a1c72997/",
+  "title": "The case for a little AI regulation",
+  "status": "converted_from_csv",
+  "date": "2023-11-02T17:26:52",
+  "error": null,
+  "content_path": "output/articles/markdown/775e635ea4cfad9f.md",
+  "html_path": "output/articles/html/775e635ea4cfad9f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 548,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d6f29b7b758aea93024b5c87d27535a9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1698971212",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-11-02T17:26:52",
+  "updated_at": "2023-11-02T17:26:52"
+}

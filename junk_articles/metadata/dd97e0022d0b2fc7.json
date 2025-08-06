@@ -1,0 +1,34 @@
+{
+  "uid": "dd97e0022d0b2fc7",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0b91914c5f9eedc72d2420f55e7ce609/",
+  "title": "Meet The Censored: Ivermectin Critic David Fuller",
+  "status": "converted_from_csv",
+  "date": "2021-09-02T12:58:55",
+  "error": null,
+  "content_path": "output/articles/markdown/dd97e0022d0b2fc7.md",
+  "html_path": "output/articles/html/dd97e0022d0b2fc7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1997,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e137a81d580866066990d1f8e07ecc3a",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1630612735",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-09-02T12:58:55",
+  "updated_at": "2021-09-02T12:58:55"
+}

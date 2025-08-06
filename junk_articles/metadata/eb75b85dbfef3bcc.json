@@ -1,0 +1,34 @@
+{
+  "uid": "eb75b85dbfef3bcc",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/b1490dfd804fe53dc39b43e99c122159/",
+  "title": "Airbnb Losses, Airbnb and The Google Squeeze, Airbnb’s Marketing Spend (Stratechery Daily Update 11-26-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-11-26T02:58:34",
+  "error": null,
+  "content_path": "output/articles/markdown/eb75b85dbfef3bcc.md",
+  "html_path": "output/articles/html/eb75b85dbfef3bcc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2942,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f50eafaa7087f19d013bf29335b2e736",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1574765914",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-11-26T02:58:34",
+  "updated_at": "2019-11-26T02:58:34"
+}

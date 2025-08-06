@@ -1,0 +1,34 @@
+{
+  "uid": "1cf83a516cb8a23d",
+  "content_type": "web_bookmark",
+  "source": "https://www.fastcompany.com/90436831/career-coaches-on-the-biggest-mistakes-people-make-in-the-job-search",
+  "title": "Career coaches on the biggest mistakes people make in the job search",
+  "status": "converted_from_csv",
+  "date": "2019-12-02T10:35:28",
+  "error": null,
+  "content_path": "output/articles/markdown/1cf83a516cb8a23d.md",
+  "html_path": "output/articles/html/1cf83a516cb8a23d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2939,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "72954588756213600ad2a240e91caab1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1575311728",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-12-02T10:35:28",
+  "updated_at": "2019-12-02T10:35:28"
+}

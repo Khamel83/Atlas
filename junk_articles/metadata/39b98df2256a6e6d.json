@@ -1,0 +1,34 @@
+{
+  "uid": "39b98df2256a6e6d",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/health/archive/2020/09/pandemic-intution-nightmare-spiral-winter/616204/",
+  "title": "America Is Trapped in a Pandemic Spiral - The Atlantic",
+  "status": "converted_from_csv",
+  "date": "2020-09-09T08:44:06",
+  "error": null,
+  "content_path": "output/articles/markdown/39b98df2256a6e6d.md",
+  "html_path": "output/articles/html/39b98df2256a6e6d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2768,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2cfc9d751b25b97a94863ad4234d4d85",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1599666246",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-09-09T08:44:06",
+  "updated_at": "2020-09-09T08:44:06"
+}

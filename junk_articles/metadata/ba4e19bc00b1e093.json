@@ -1,0 +1,34 @@
+{
+  "uid": "ba4e19bc00b1e093",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/618f51902a49ed943d54b34eac6cf13a/",
+  "title": "💥Man. That Ain't Rite(Aid).💥",
+  "status": "converted_from_csv",
+  "date": "2024-03-10T08:16:25",
+  "error": null,
+  "content_path": "output/articles/markdown/ba4e19bc00b1e093.md",
+  "html_path": "output/articles/html/ba4e19bc00b1e093.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 346,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3e281bb289b0af6159b642cff4cd1ae9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1710083785",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-03-10T08:16:25",
+  "updated_at": "2024-03-10T08:16:25"
+}

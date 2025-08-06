@@ -1,0 +1,34 @@
+{
+  "uid": "e9ad3663fdf6a3dc",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/4b585e90d7cc7967a92211ad2e72e10a/",
+  "title": "Should You Worry About EMFs and Radio-Frequency Fields?",
+  "status": "converted_from_csv",
+  "date": "2022-07-25T02:02:26",
+  "error": null,
+  "content_path": "output/articles/markdown/e9ad3663fdf6a3dc.md",
+  "html_path": "output/articles/html/e9ad3663fdf6a3dc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1317,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0dd1729d896a05747812e585bf043ec8",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1658739746",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-07-25T02:02:26",
+  "updated_at": "2022-07-25T02:02:26"
+}

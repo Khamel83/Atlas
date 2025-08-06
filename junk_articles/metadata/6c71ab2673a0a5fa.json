@@ -1,0 +1,34 @@
+{
+  "uid": "6c71ab2673a0a5fa",
+  "content_type": "web_bookmark",
+  "source": "http://thisisindexed.com/2014/07/true-excuse/",
+  "title": "“But it’s true,” is no excuse. Indexed",
+  "status": "converted_from_csv",
+  "date": "2014-07-24T21:44:40",
+  "error": null,
+  "content_path": "output/articles/markdown/6c71ab2673a0a5fa.md",
+  "html_path": "output/articles/html/6c71ab2673a0a5fa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5207,
+    "selection": "Share and Enjoy:"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6dc513c98969c22f311eb94fe099a2c5",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1406263480",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Share and Enjoy:"
+  },
+  "video_id": null,
+  "created_at": "2014-07-24T21:44:40",
+  "updated_at": "2014-07-24T21:44:40"
+}

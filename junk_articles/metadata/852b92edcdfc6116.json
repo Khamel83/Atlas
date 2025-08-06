@@ -1,0 +1,34 @@
+{
+  "uid": "852b92edcdfc6116",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2010/12/14/opinion/14zagat.html?_r=1&adxnnl=1&adxnnlx=1292425296-IpNGTyMtLFkRE9CEuCHSVQ&pagewanted=print",
+  "title": "Adding Fairness to the Tip - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2010-12-20T22:31:07",
+  "error": null,
+  "content_path": "output/articles/markdown/852b92edcdfc6116.md",
+  "html_path": "output/articles/html/852b92edcdfc6116.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6032,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "23244d93f0209101cb0bf5e91728b574",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1292913067",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-12-20T22:31:07",
+  "updated_at": "2010-12-20T22:31:07"
+}

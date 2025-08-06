@@ -1,0 +1,34 @@
+{
+  "uid": "24c09280c9132d47",
+  "content_type": "web_bookmark",
+  "source": "http://www.fastcompany.com/node/1739777/print",
+  "title": "Morgan Spurlock: I'm With the Brand",
+  "status": "converted_from_csv",
+  "date": "2011-05-08T23:07:19",
+  "error": null,
+  "content_path": "output/articles/markdown/24c09280c9132d47.md",
+  "html_path": "output/articles/html/24c09280c9132d47.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5795,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a66ab2263622b0ab22285b3e6119736e",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1304921239",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-05-08T23:07:19",
+  "updated_at": "2011-05-08T23:07:19"
+}

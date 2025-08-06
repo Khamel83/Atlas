@@ -1,0 +1,34 @@
+{
+  "uid": "f970b85dc961ec48",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/2c803255cd40523a75e33029ba9ed06d/",
+  "title": "Make the Internet Fun Again",
+  "status": "converted_from_csv",
+  "date": "2024-07-16T10:08:11",
+  "error": null,
+  "content_path": "output/articles/markdown/f970b85dc961ec48.md",
+  "html_path": "output/articles/html/f970b85dc961ec48.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 247,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ac3b55f8246345c680af9131cb4f9658",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1721149691",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-07-16T10:08:11",
+  "updated_at": "2024-07-16T10:08:11"
+}

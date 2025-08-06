@@ -1,0 +1,34 @@
+{
+  "uid": "2b753b6e6b5c743a",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/8b0ba5e16e6344cac485895e74e54e28/",
+  "title": "Choosing to Induce",
+  "status": "converted_from_csv",
+  "date": "2023-12-14T02:29:10",
+  "error": null,
+  "content_path": "output/articles/markdown/2b753b6e6b5c743a.md",
+  "html_path": "output/articles/html/2b753b6e6b5c743a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 472,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9b3503e3d542d6f4985fd2fcb044bf01",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1702549750",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-12-14T02:29:10",
+  "updated_at": "2023-12-14T02:29:10"
+}

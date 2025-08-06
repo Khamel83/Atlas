@@ -1,0 +1,34 @@
+{
+  "uid": "144e23fb939fb836",
+  "content_type": "web_bookmark",
+  "source": "http://www.wsj.com/articles/sheryl-sandberg-women-are-leaning-inbut-they-face-pushback-1474963980",
+  "title": "Sheryl Sandberg: Women Are Leaning In—but They Face Pushback - WSJ",
+  "status": "converted_from_csv",
+  "date": "2016-09-27T06:11:28",
+  "error": null,
+  "content_path": "output/articles/markdown/144e23fb939fb836.md",
+  "html_path": "output/articles/html/144e23fb939fb836.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4300,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "46e88a71c36f58c1cb8cb923884d9e7a",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1474981888",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-09-27T06:11:28",
+  "updated_at": "2016-09-27T06:11:28"
+}

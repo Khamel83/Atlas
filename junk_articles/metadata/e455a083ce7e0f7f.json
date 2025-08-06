@@ -1,0 +1,34 @@
+{
+  "uid": "e455a083ce7e0f7f",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/3c03c3fcb0e62e0bd40aa9283bd4af38/",
+  "title": "Twitter’s Earnings, Snap’s Earnings, Escaping the Duopoly (Stratechery Daily Update 4-24-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-04-24T06:13:19",
+  "error": null,
+  "content_path": "output/articles/markdown/e455a083ce7e0f7f.md",
+  "html_path": "output/articles/html/e455a083ce7e0f7f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3173,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b4e3cf9922fa7416566eb66bca0b3521",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1556111599",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-04-24T06:13:19",
+  "updated_at": "2019-04-24T06:13:19"
+}

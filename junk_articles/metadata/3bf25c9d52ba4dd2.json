@@ -1,0 +1,34 @@
+{
+  "uid": "3bf25c9d52ba4dd2",
+  "content_type": "web_bookmark",
+  "source": "http://lifehacker.com/5538178/working-regular-overtime-linked-to-heart-disease-risk",
+  "title": "Working Regular Overtime Linked to Heart Disease Risk - Health - Lifehacker",
+  "status": "converted_from_csv",
+  "date": "2011-06-03T06:42:51",
+  "error": null,
+  "content_path": "output/articles/markdown/3bf25c9d52ba4dd2.md",
+  "html_path": "output/articles/html/3bf25c9d52ba4dd2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6225,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fcefe96f28c9f5f623a1ebd5303341e0",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1307108571",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-06-03T06:42:51",
+  "updated_at": "2011-06-03T06:42:51"
+}

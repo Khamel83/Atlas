@@ -1,0 +1,34 @@
+{
+  "uid": "6cbc699fc30fa3aa",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/01/09/magazine/09Immortality-t.html?hpw=&pagewanted=print",
+  "title": "Cyberspace When You’re Dead - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-01-16T20:48:20",
+  "error": null,
+  "content_path": "output/articles/markdown/6cbc699fc30fa3aa.md",
+  "html_path": "output/articles/html/6cbc699fc30fa3aa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5981,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "af914c35604b3ee22393f051b5ae9e66",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1295239700",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-01-16T20:48:20",
+  "updated_at": "2011-01-16T20:48:20"
+}

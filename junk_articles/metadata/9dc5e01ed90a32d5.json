@@ -1,0 +1,34 @@
+{
+  "uid": "9dc5e01ed90a32d5",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/a413561ce38dc714e66bb9a3801a2aeb/",
+  "title": "Guantanamo Bay, From Cage To Threshold",
+  "status": "converted_from_csv",
+  "date": "2021-12-01T11:09:52",
+  "error": null,
+  "content_path": "output/articles/markdown/9dc5e01ed90a32d5.md",
+  "html_path": "output/articles/html/9dc5e01ed90a32d5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1789,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3a6ad1fe9523e3ed394039c71209ef85",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1638385792",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-12-01T11:09:52",
+  "updated_at": "2021-12-01T11:09:52"
+}

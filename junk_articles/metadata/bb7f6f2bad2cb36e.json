@@ -1,0 +1,34 @@
+{
+  "uid": "bb7f6f2bad2cb36e",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/2b04181a244dee26d95f0ca0bee9a4f3/",
+  "title": "When Boring People Turn Dangerous: Canada's Insane Power Grab",
+  "status": "converted_from_csv",
+  "date": "2022-02-21T20:21:07",
+  "error": null,
+  "content_path": "output/articles/markdown/bb7f6f2bad2cb36e.md",
+  "html_path": "output/articles/html/bb7f6f2bad2cb36e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1607,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "592ff3a3edb83318478c24d229922a66",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1645503667",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-02-21T20:21:07",
+  "updated_at": "2022-02-21T20:21:07"
+}

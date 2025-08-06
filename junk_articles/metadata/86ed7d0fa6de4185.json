@@ -1,0 +1,34 @@
+{
+  "uid": "86ed7d0fa6de4185",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/1a18dc907041cfd9cc52b27bc4550db8/",
+  "title": "What should newsrooms do with AI?",
+  "status": "converted_from_csv",
+  "date": "2023-07-20T17:09:46",
+  "error": null,
+  "content_path": "output/articles/markdown/86ed7d0fa6de4185.md",
+  "html_path": "output/articles/html/86ed7d0fa6de4185.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 759,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ed2eec675f71194f8e28b2c3c054130b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1689898186",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-07-20T17:09:46",
+  "updated_at": "2023-07-20T17:09:46"
+}

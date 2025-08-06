@@ -1,0 +1,34 @@
+{
+  "uid": "f5976b60beb2bb37",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/77fc043b9a5f58f546e7934cbe210c84/",
+  "title": "Editor's Note: On \"Russian Dissent\"",
+  "status": "converted_from_csv",
+  "date": "2022-04-14T08:10:28",
+  "error": null,
+  "content_path": "output/articles/markdown/f5976b60beb2bb37.md",
+  "html_path": "output/articles/html/f5976b60beb2bb37.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1506,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "980807a5ddb32c5a508a92c1a27c84e1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1649949028",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-04-14T08:10:28",
+  "updated_at": "2022-04-14T08:10:28"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "3834d28f50a82fc8",
+  "content_type": "web_bookmark",
+  "source": "http://www.wired.com/2014/05/heres-what-happens-when-a-neurosurgeon-slurps-out-your-hippocampus/",
+  "title": "What Happens When a Neurosurgeon Removes Your Hippocampus | Opinion | WIRED",
+  "status": "converted_from_csv",
+  "date": "2014-05-08T09:15:18",
+  "error": null,
+  "content_path": "output/articles/markdown/3834d28f50a82fc8.md",
+  "html_path": "output/articles/html/3834d28f50a82fc8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5263,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "adfeec80071d10388908efda46f75064",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1399565718",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-05-08T09:15:18",
+  "updated_at": "2014-05-08T09:15:18"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "ae0b085869031caf",
+  "content_type": "web_bookmark",
+  "source": "http://grantland.com/features/fixing-the-nba-playoffs/",
+  "title": "Fixing the NBA Playoffs",
+  "status": "converted_from_csv",
+  "date": "2014-04-04T14:31:33",
+  "error": null,
+  "content_path": "output/articles/markdown/ae0b085869031caf.md",
+  "html_path": "output/articles/html/ae0b085869031caf.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5273,
+    "selection": "via Grantland » Contributors » Bill Simmons http://grantland.com"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "69f14f5025cb7d58c7d921a2f5d89b12",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1396647093",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "via Grantland » Contributors » Bill Simmons http://grantland.com"
+  },
+  "video_id": null,
+  "created_at": "2014-04-04T14:31:33",
+  "updated_at": "2014-04-04T14:31:33"
+}

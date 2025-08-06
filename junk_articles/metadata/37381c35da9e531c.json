@@ -1,0 +1,34 @@
+{
+  "uid": "37381c35da9e531c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/e4eddf7e7331b87205dc59f52d76e793/",
+  "title": "Moral Majority Media Strikes Again",
+  "status": "converted_from_csv",
+  "date": "2021-09-07T16:32:56",
+  "error": null,
+  "content_path": "output/articles/markdown/37381c35da9e531c.md",
+  "html_path": "output/articles/html/37381c35da9e531c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1990,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d0f935c0fedc62ebdf6291cb608afbc1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1631057576",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-09-07T16:32:56",
+  "updated_at": "2021-09-07T16:32:56"
+}

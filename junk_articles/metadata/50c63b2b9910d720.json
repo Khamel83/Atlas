@@ -1,0 +1,34 @@
+{
+  "uid": "50c63b2b9910d720",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/ae95d8411da1231c99050525e6faaced/",
+  "title": "Fwd: The Epic, Forgotten 1971 Women's World Cup",
+  "status": "converted_from_csv",
+  "date": "2020-01-23T00:23:38",
+  "error": null,
+  "content_path": "output/articles/markdown/50c63b2b9910d720.md",
+  "html_path": "output/articles/html/50c63b2b9910d720.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2903,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4a1bd7032ed6ad573da2143476197eb4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1579767818",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-01-23T00:23:38",
+  "updated_at": "2020-01-23T00:23:38"
+}

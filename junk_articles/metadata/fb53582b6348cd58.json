@@ -1,0 +1,34 @@
+{
+  "uid": "fb53582b6348cd58",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2017/10/31/health/biggest-losers-weight-loss.html",
+  "title": "A Lesson From the Biggest Losers: Exercise Keeps Off the Weight - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2017-11-01T13:40:03",
+  "error": null,
+  "content_path": "output/articles/markdown/fb53582b6348cd58.md",
+  "html_path": "output/articles/html/fb53582b6348cd58.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3734,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c6d100d309f19af3fdc4a3a91a0cd618",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1509568803",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-11-01T13:40:03",
+  "updated_at": "2017-11-01T13:40:03"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "f071df43e8f543b4",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/25d3ace9bcc08a95ea05afb8f8b271aa/",
+  "title": "How Do You Deal with the “Terrible” Twos?",
+  "status": "converted_from_csv",
+  "date": "2023-12-02T05:03:24",
+  "error": null,
+  "content_path": "output/articles/markdown/f071df43e8f543b4.md",
+  "html_path": "output/articles/html/f071df43e8f543b4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 491,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cb88867b604dc1df695202dbbc96e5cc",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1701522204",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-12-02T05:03:24",
+  "updated_at": "2023-12-02T05:03:24"
+}

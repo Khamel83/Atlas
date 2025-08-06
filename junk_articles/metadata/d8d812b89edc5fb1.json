@@ -1,0 +1,34 @@
+{
+  "uid": "d8d812b89edc5fb1",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/05/15/magazine/icelands-big-economic-thaw.html?hpw=&pagewanted=print",
+  "title": "Iceland’s Big Economic Thaw - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-06-16T07:16:02",
+  "error": null,
+  "content_path": "output/articles/markdown/d8d812b89edc5fb1.md",
+  "html_path": "output/articles/html/d8d812b89edc5fb1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5731,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "17a2d19795e08ba0ea287f8f7de54cef",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1308233762",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-06-16T07:16:02",
+  "updated_at": "2011-06-16T07:16:02"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "a160106294bffdf5",
+  "content_type": "web_bookmark",
+  "source": "http://www.1984produkts.com/civilwarroundtable/2015/05/28/golden-tusks-part-1/",
+  "title": "golden tusks, part 1 no coast offense",
+  "status": "converted_from_csv",
+  "date": "2015-05-29T11:04:41",
+  "error": null,
+  "content_path": "output/articles/markdown/a160106294bffdf5.md",
+  "html_path": "output/articles/html/a160106294bffdf5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4842,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "62d78b28b694fdae700c79bcbf6e05ec",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1432922681",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-05-29T11:04:41",
+  "updated_at": "2015-05-29T11:04:41"
+}

@@ -1,0 +1,51 @@
+poll_interval_sec: 300
+
+# Scheduled Job Intervals (in minutes)
+poll_interval_minutes: 15
+process_interval_minutes: 5
+cleanup_interval_minutes: 60
+
+# Scheduled Job Intervals (in minutes)
+poll_interval_minutes: 15
+process_interval_minutes: 5
+cleanup_interval_minutes: 60
+expose_originals: false
+use_per_show_feeds: false
+publish_pubdate: original   # or: cleaned_ready
+feeds:
+  - https://feeds.megaphone.fm/grill-room
+  - https://feeds.megaphone.fm/STU6959689584
+
+detector:
+  use_chapters: true
+  use_text_rules: true
+  use_audio_cues: false     # enable in v2 if needed
+  require_signals: 2
+  padding_seconds: 8
+  priors:
+    pre_roll_max_s: 150
+    mid_roll_pct: [0.20, 0.70]
+    post_roll_last_s: 120
+
+encoding:
+  codec: mp3
+  bitrate: v4
+  normalize_loudness: false
+
+MIN_CONFIDENCE: 0.70 # Default confidence threshold for ad detection
+FULL_PASS_ENABLED: true # New option for loudness normalization
+
+retention_policy:
+  enabled: true
+  max_episodes_per_show: 10 # Keep only the 10 most recent episodes per show
+  max_days_per_episode: 30 # Delete episodes older than 30 days
+
+backlog_processing:
+  strategy: "all" # Options: "all", "newest_only", "last_n_episodes"
+  last_n_episodes_count: 5 # Relevant if strategy is "last_n_episodes"
+
+feed_auth_enabled: false
+feed_username: "podemos_user"
+feed_password: "change_this_password"
+
+MAX_PROCESSING_RETRIES: 3 # Maximum number of times to retry processing a failed episode

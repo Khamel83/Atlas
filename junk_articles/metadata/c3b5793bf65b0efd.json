@@ -1,0 +1,34 @@
+{
+  "uid": "c3b5793bf65b0efd",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/82b0e8795a5c44d32e0a4835556ef407/",
+  "title": "Google IO Follow-up, Linux on Windows, Microsoft’s Developer Strategy (Stratechery Daily Update 5-9-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-05-09T04:54:14",
+  "error": null,
+  "content_path": "output/articles/markdown/c3b5793bf65b0efd.md",
+  "html_path": "output/articles/html/c3b5793bf65b0efd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3148,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0c34f0f881687e323565484c953cdb76",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1557402854",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-05-09T04:54:14",
+  "updated_at": "2019-05-09T04:54:14"
+}

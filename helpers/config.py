@@ -362,6 +362,13 @@ def load_config() -> dict:
             except ImportError:
                 pass  # Error handler is optional
 
+            # Log validation results for auditing
+            try:
+                from helpers.config_audit import log_config_validation
+                log_config_validation(config, errors, warnings)
+            except ImportError:
+                pass  # Auditing is optional
+
             # For backward compatibility, also add simple error messages
             if errors:
                 print("\nSimple Error Summary:")
@@ -376,6 +383,14 @@ def load_config() -> dict:
             print("Configuration Errors:")
             for error in errors:
                 print(f"- {error}")
+
+    # Log configuration load for auditing
+    try:
+        from helpers.config_audit import get_config_auditor
+        auditor = get_config_auditor()
+        auditor.log_config_load(config, "config_system")
+    except ImportError:
+        pass  # Auditing is optional
 
     # Perform security validation
     try:

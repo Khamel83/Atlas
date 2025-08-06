@@ -1,0 +1,34 @@
+{
+  "uid": "d5c68ad93516ec01",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/005af0d7a14ea9bfb1a50112a6396073/",
+  "title": "Matt Taibbi posted a new note",
+  "status": "converted_from_csv",
+  "date": "2024-10-25T06:05:46",
+  "error": null,
+  "content_path": "output/articles/markdown/d5c68ad93516ec01.md",
+  "html_path": "output/articles/html/d5c68ad93516ec01.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 160,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "344db6eeb39df5fdc74ef7423d90cec5",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1729861546",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-10-25T06:05:46",
+  "updated_at": "2024-10-25T06:05:46"
+}

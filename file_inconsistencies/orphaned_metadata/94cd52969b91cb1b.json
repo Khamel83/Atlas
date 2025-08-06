@@ -1,0 +1,32 @@
+{
+  "uid": "94cd52969b91cb1b",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1686558099",
+  "title": "Apple Intelligence is Right On Time (Stratechery Article 6-10-2024)",
+  "status": "error",
+  "date": "2025-08-05T12:41:36.176369",
+  "error": "Failed to fetch content for 'Apple Intelligence is Right On Time (Stratechery Article 6-10-2024)' from instapaper://private-content/1686558099: No connection adapters were found for 'instapaper://private-content/1686558099'",
+  "content_path": null,
+  "html_path": null,
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": null,
+  "type_specific": {
+    "bookmark_id": 1686558099
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:41:36.176372",
+  "updated_at": "2025-08-05T12:41:36.180128"
+}

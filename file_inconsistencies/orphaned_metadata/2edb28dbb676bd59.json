@@ -1,0 +1,32 @@
+{
+  "uid": "2edb28dbb676bd59",
+  "content_type": "instapaper",
+  "source": "https://paulgraham.com/foundermode.html",
+  "title": "Founder Mode",
+  "status": "success",
+  "date": "2025-08-05T12:40:43.740445",
+  "error": null,
+  "content_path": "output/articles/markdown/9dafad04fa975d44.md",
+  "html_path": "output/articles/html/9dafad04fa975d44.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "999efcde8c7fd6f2341dc7b8fe37aa1315fdc6eae4cfb607fd51c27c4ddf3481",
+  "type_specific": {
+    "bookmark_id": 1707259098
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:40:43.740465",
+  "updated_at": "2025-08-05T12:40:44.289953"
+}

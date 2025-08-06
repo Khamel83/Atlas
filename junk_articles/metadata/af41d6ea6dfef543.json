@@ -1,0 +1,34 @@
+{
+  "uid": "af41d6ea6dfef543",
+  "content_type": "web_bookmark",
+  "source": "https://hbr.org/2016/10/the-performance-management-revolution",
+  "title": "The Future of Performance Reviews",
+  "status": "converted_from_csv",
+  "date": "2023-05-15T13:55:32",
+  "error": null,
+  "content_path": "output/articles/markdown/af41d6ea6dfef543.md",
+  "html_path": "output/articles/html/af41d6ea6dfef543.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 864,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "65893840e699e4590391f9ae61cdce3b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1684184132",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-05-15T13:55:32",
+  "updated_at": "2023-05-15T13:55:32"
+}

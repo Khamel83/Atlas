@@ -1,0 +1,34 @@
+{
+  "uid": "c794aa294ec272c7",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/e4422c9928962d556071c2c8879ee045/",
+  "title": "After Birth",
+  "status": "converted_from_csv",
+  "date": "2021-05-24T01:59:40",
+  "error": null,
+  "content_path": "output/articles/markdown/c794aa294ec272c7.md",
+  "html_path": "output/articles/html/c794aa294ec272c7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2203,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "34daa6418a7ba3c96b3fcb366b55d432",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1621846780",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-05-24T01:59:40",
+  "updated_at": "2021-05-24T01:59:40"
+}

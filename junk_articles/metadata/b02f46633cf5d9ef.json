@@ -1,0 +1,34 @@
+{
+  "uid": "b02f46633cf5d9ef",
+  "content_type": "web_bookmark",
+  "source": "http://observer.com/2012/10/my-homeless-real-estate-agent-hes-got-keys-to-the-villages-best-apartments-but-still-lacks-one-of-his-own/",
+  "title": "The Broke Broker: He’s Got Keys to the Best Apartments, But Lacks One of His Own",
+  "status": "converted_from_csv",
+  "date": "2013-12-16T18:53:52",
+  "error": null,
+  "content_path": "output/articles/markdown/b02f46633cf5d9ef.md",
+  "html_path": "output/articles/html/b02f46633cf5d9ef.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5304,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c874f32bcf37594168fc5ecff896066f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1387248832",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2013-12-16T18:53:52",
+  "updated_at": "2013-12-16T18:53:52"
+}

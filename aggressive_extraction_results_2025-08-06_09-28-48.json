@@ -1,0 +1,37 @@
+{
+  "folder_all_approach": {
+    "private_count": 393,
+    "total_bookmarks": 502,
+    "variant": 1,
+    "params": {
+      "folder": "all",
+      "limit": 500
+    }
+  },
+  "archive_folder_test": {
+    "private_count": 393,
+    "total_bookmarks": 502,
+    "folder": "archive"
+  },
+  "starred_folder_test": {
+    "private_count": 393,
+    "total_bookmarks": 502,
+    "folder": "starred"
+  },
+  "pagination_variants": {
+    "private_count": 393,
+    "method": "pagination_with_have_param"
+  },
+  "batch_id_access": {
+    "private_count": 0
+  },
+  "private_url_patterns": {
+    "private_count": 394,
+    "patterns": {
+      "instapaper_private_email": 0,
+      "instapaper_private_content": 393,
+      "private_source_email": 0,
+      "other_private": 1
+    }
+  }
+}

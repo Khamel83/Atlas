@@ -1,0 +1,34 @@
+{
+  "uid": "fdf4418e61453a13",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/333c92f00fc88dd982dabd13e7220a1c/",
+  "title": "Bits and Pieces",
+  "status": "converted_from_csv",
+  "date": "2021-04-22T02:30:28",
+  "error": null,
+  "content_path": "output/articles/markdown/fdf4418e61453a13.md",
+  "html_path": "output/articles/html/fdf4418e61453a13.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2266,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "48162cc6a23f4f1b733f8bdbd3343698",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1619083828",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-04-22T02:30:28",
+  "updated_at": "2021-04-22T02:30:28"
+}

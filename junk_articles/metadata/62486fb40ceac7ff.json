@@ -1,0 +1,34 @@
+{
+  "uid": "62486fb40ceac7ff",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0532f09445a70572439a9f76c7db407e/",
+  "title": "Trump's New Blog Is a Trap",
+  "status": "converted_from_csv",
+  "date": "2021-05-05T06:56:06",
+  "error": null,
+  "content_path": "output/articles/markdown/62486fb40ceac7ff.md",
+  "html_path": "output/articles/html/62486fb40ceac7ff.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2237,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0a8195588047d36377830348fab638be",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1620222966",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-05-05T06:56:06",
+  "updated_at": "2021-05-05T06:56:06"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "15f49ae955b24f1f",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0df69e8d053f5d2c516d3322bc51db0b/",
+  "title": "AB 5, Uber, and the Gig Economy; The ABC Test; What Comes Next (Stratechery Daily Update 9-16-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-09-16T04:41:51",
+  "error": null,
+  "content_path": "output/articles/markdown/15f49ae955b24f1f.md",
+  "html_path": "output/articles/html/15f49ae955b24f1f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3021,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b2e0ac4d9a819afb52199b598508f6e3",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1568634111",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-09-16T04:41:51",
+  "updated_at": "2019-09-16T04:41:51"
+}

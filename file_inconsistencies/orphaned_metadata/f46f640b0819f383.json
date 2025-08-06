@@ -1,0 +1,32 @@
+{
+  "uid": "f46f640b0819f383",
+  "content_type": "instapaper",
+  "source": "https://www.theguardian.com/sport/2025/jul/02/athletics-las-vegas-stadium-john-fisher-mlb-debacle",
+  "title": "Debacle in the desert: will the Athletics’ $1.75bn stadium on the Vegas Strip ever be built?",
+  "status": "success",
+  "date": "2025-08-05T12:39:47.264075",
+  "error": null,
+  "content_path": "output/articles/markdown/c6315b9d7cf9dd23.md",
+  "html_path": "output/articles/html/c6315b9d7cf9dd23.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5792a79fd535a655491a62ca9758be1d73544022069086f799a57a5ec359e6fb",
+  "type_specific": {
+    "bookmark_id": 1847447083
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:39:47.264161",
+  "updated_at": "2025-08-05T12:39:48.027703"
+}

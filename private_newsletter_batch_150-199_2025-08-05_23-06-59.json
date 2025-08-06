@@ -1,0 +1,10 @@
+{
+  "batch_timestamp": "2025-08-05_23-06-59",
+  "start_index": 150,
+  "end_index": 199,
+  "items_processed": 50,
+  "successful_extractions": 0,
+  "failed_extractions": 50,
+  "success_rate": 0.0,
+  "extracted_content": {}
+}

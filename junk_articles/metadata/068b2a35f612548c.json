@@ -1,0 +1,34 @@
+{
+  "uid": "068b2a35f612548c",
+  "content_type": "web_bookmark",
+  "source": "http://www.theverge.com/2014/8/30/6087155/mayfair-games-actually-made-cones-of-dunshire-from-parks-and-rec",
+  "title": "Company behind 'Settlers of Catan' actually made the fake board game from 'Parks and Recreation' The Verge - All Posts",
+  "status": "converted_from_csv",
+  "date": "2014-08-30T22:11:53",
+  "error": null,
+  "content_path": "output/articles/markdown/068b2a35f612548c.md",
+  "html_path": "output/articles/html/068b2a35f612548c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5151,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "821753b943a33b30324f53b3b4764c48",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1409461913",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-08-30T22:11:53",
+  "updated_at": "2014-08-30T22:11:53"
+}

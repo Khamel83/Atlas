@@ -1,0 +1,34 @@
+{
+  "uid": "9fa4fece7c5d314d",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2017/03/22/sports/chris-paul-clippers-los-angeles-hands.html",
+  "title": "Chris Paul’s Fast Hands and Gruesome Fingers - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2017-03-23T08:25:54",
+  "error": null,
+  "content_path": "output/articles/markdown/9fa4fece7c5d314d.md",
+  "html_path": "output/articles/html/9fa4fece7c5d314d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4049,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4fe85d5dec6db3011b4abfb7ae6ef2f1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1490282754",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-03-23T08:25:54",
+  "updated_at": "2017-03-23T08:25:54"
+}

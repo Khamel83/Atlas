@@ -1,0 +1,34 @@
+{
+  "uid": "e4de227fa398b25f",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2013/09/15/magazine/can-emotional-intelligence-be-taught.html?pagewanted=all",
+  "title": "Can Emotional Intelligence Be Taught?",
+  "status": "converted_from_csv",
+  "date": "2013-09-27T09:27:30",
+  "error": null,
+  "content_path": "output/articles/markdown/e4de227fa398b25f.md",
+  "html_path": "output/articles/html/e4de227fa398b25f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5342,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "11224cd6e9f0cb027a5ef4d9cf9b5299",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1380299250",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2013-09-27T09:27:30",
+  "updated_at": "2013-09-27T09:27:30"
+}

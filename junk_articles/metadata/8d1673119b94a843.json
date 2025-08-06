@@ -1,0 +1,34 @@
+{
+  "uid": "8d1673119b94a843",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/85b7971fe60642be478e2923459f354d/",
+  "title": "💥At-Home Fitness Took a \"BIG\" Fall💥",
+  "status": "converted_from_csv",
+  "date": "2021-12-12T08:17:32",
+  "error": null,
+  "content_path": "output/articles/markdown/8d1673119b94a843.md",
+  "html_path": "output/articles/html/8d1673119b94a843.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1766,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e03c87ea13d75c8dd4557451883092ab",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1639325852",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-12-12T08:17:32",
+  "updated_at": "2021-12-12T08:17:32"
+}

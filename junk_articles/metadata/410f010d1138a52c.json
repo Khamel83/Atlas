@@ -1,0 +1,34 @@
+{
+  "uid": "410f010d1138a52c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6cffbefd7e7851f3a1a1a7d13a769a79/",
+  "title": "Uber Loses in New York City, The Modern Medallion?, Driver Pay Floors (Stratechery Daily Update 8-9-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-08-09T04:32:37",
+  "error": null,
+  "content_path": "output/articles/markdown/410f010d1138a52c.md",
+  "html_path": "output/articles/html/410f010d1138a52c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3426,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "53af253da33ab4aebc7f8f9839287f5a",
+  "type_specific": {
+    "folder": "Stratechery",
+    "instapaper_timestamp": "1533814357",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-08-09T04:32:37",
+  "updated_at": "2018-08-09T04:32:37"
+}

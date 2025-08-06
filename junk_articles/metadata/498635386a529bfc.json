@@ -1,0 +1,34 @@
+{
+  "uid": "498635386a529bfc",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2014/05/25/magazine/can-the-nervous-system-be-hacked.html",
+  "title": "Can the Nervous System Be Hacked?",
+  "status": "converted_from_csv",
+  "date": "2014-05-27T15:12:29",
+  "error": null,
+  "content_path": "output/articles/markdown/498635386a529bfc.md",
+  "html_path": "output/articles/html/498635386a529bfc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5256,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ecc5fdd0fd13b721d9bff79a46186bd5",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1401228749",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-05-27T15:12:29",
+  "updated_at": "2014-05-27T15:12:29"
+}

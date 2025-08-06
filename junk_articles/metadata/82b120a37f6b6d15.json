@@ -1,0 +1,34 @@
+{
+  "uid": "82b120a37f6b6d15",
+  "content_type": "web_bookmark",
+  "source": "https://www.vox.com/the-highlight/23178774/suburbs-return-planning-urban-flight",
+  "title": "The Covid-era trends taking shape in America’s suburbs - Vox",
+  "status": "converted_from_csv",
+  "date": "2022-07-26T12:28:25",
+  "error": null,
+  "content_path": "output/articles/markdown/82b120a37f6b6d15.md",
+  "html_path": "output/articles/html/82b120a37f6b6d15.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1313,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "98ce64a210cd103a81c9e704aa81b371",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1658863705",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-07-26T12:28:25",
+  "updated_at": "2022-07-26T12:28:25"
+}

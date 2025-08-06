@@ -1,0 +1,18 @@
+{
+  "extraction_timestamp": "2025-08-06_08-47-04",
+  "total_csv_items": 6239,
+  "items_with_selection": 1206,
+  "substantial_selection_items": 1036,
+  "processed_items": 1036,
+  "selection_content_extracted": 1036,
+  "total_selection_characters": 4185637,
+  "average_selection_length": 4040.1901544401544,
+  "extraction_method": "enhanced_selection_processor",
+  "files_created": {
+    "html": 1036,
+    "markdown": 1036,
+    "metadata": 1036
+  },
+  "success_rate": 100.0,
+  "content_quality": "substantial_selection_content_extracted"
+}

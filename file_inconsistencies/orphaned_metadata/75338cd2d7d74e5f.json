@@ -1,0 +1,32 @@
+{
+  "uid": "75338cd2d7d74e5f",
+  "content_type": "instapaper",
+  "source": "https://www.wheresyoured.at/never-forgive-them/",
+  "title": "Never Forgive Them",
+  "status": "success",
+  "date": "2025-08-05T12:40:27.097324",
+  "error": null,
+  "content_path": "output/articles/markdown/12d2c27af7907b56.md",
+  "html_path": "output/articles/html/12d2c27af7907b56.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5917fdf97d336479c1b79832ba1eff1f26beafc9bbd3fc58b176038561be55a8",
+  "type_specific": {
+    "bookmark_id": 1737691755
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:40:27.097344",
+  "updated_at": "2025-08-05T12:40:27.332778"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "bc337ade4df65867",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6f3ee25e82a970a3a4e9cab60f651a97/",
+  "title": "💥Pop, Pop, Pop💥",
+  "status": "converted_from_csv",
+  "date": "2023-11-12T08:16:53",
+  "error": null,
+  "content_path": "output/articles/markdown/bc337ade4df65867.md",
+  "html_path": "output/articles/html/bc337ade4df65867.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 530,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "de6d6ee841f2587044b7757b3b028382",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1699805813",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-11-12T08:16:53",
+  "updated_at": "2023-11-12T08:16:53"
+}

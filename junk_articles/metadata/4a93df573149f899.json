@@ -1,0 +1,34 @@
+{
+  "uid": "4a93df573149f899",
+  "content_type": "web_bookmark",
+  "source": "https://qz.com/1691212/low-interest-rates-are-shrinking-big-banks-net-interest-margins/",
+  "title": "Low interest rates could be a “Blockbuster Video moment” for the world’s biggest banks",
+  "status": "converted_from_csv",
+  "date": "2019-09-03T08:52:56",
+  "error": null,
+  "content_path": "output/articles/markdown/4a93df573149f899.md",
+  "html_path": "output/articles/html/4a93df573149f899.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3036,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b133a29d102af5a1f37b396c5cd26767",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1567525976",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-09-03T08:52:56",
+  "updated_at": "2019-09-03T08:52:56"
+}

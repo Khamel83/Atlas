@@ -1,0 +1,34 @@
+{
+  "uid": "ca07e0ea5f9a2df8",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/c5db24d1651e085fb1918177af70136b/",
+  "title": "Fundrise & the Magic of Diversification",
+  "status": "converted_from_csv",
+  "date": "2020-10-01T06:00:39",
+  "error": null,
+  "content_path": "output/articles/markdown/ca07e0ea5f9a2df8.md",
+  "html_path": "output/articles/html/ca07e0ea5f9a2df8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2747,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c53fa6e29190d26caeec31d8701adeb6",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1601557239",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-10-01T06:00:39",
+  "updated_at": "2020-10-01T06:00:39"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "ffe814ef98c05f45",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/cdb81d369a661907bf5caa564e052067/",
+  "title": "Taking the Neither Pill",
+  "status": "converted_from_csv",
+  "date": "2022-06-27T14:21:31",
+  "error": null,
+  "content_path": "output/articles/markdown/ffe814ef98c05f45.md",
+  "html_path": "output/articles/html/ffe814ef98c05f45.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1369,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "689bf2a3bffbd42ba5cc2d5f0400a784",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1656364891",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-06-27T14:21:31",
+  "updated_at": "2022-06-27T14:21:31"
+}

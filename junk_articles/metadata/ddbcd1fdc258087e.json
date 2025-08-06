@@ -1,0 +1,34 @@
+{
+  "uid": "ddbcd1fdc258087e",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/politics/archive/2017/01/a-clarifying-moment-in-american-history/514868/",
+  "title": "How to Respond to Donald Trump's Betrayal of American Values",
+  "status": "converted_from_csv",
+  "date": "2017-01-30T09:10:41",
+  "error": null,
+  "content_path": "output/articles/markdown/ddbcd1fdc258087e.md",
+  "html_path": "output/articles/html/ddbcd1fdc258087e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4132,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c9a8faa5e1bd697fe5f9ae1dedab8f11",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1485796241",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-01-30T09:10:41",
+  "updated_at": "2017-01-30T09:10:41"
+}

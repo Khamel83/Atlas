@@ -1,0 +1,34 @@
+{
+  "uid": "c76bc4b51696c105",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/de39090cc8f8c6011ad2ead8d20c5b1b/",
+  "title": "Conservative social networks keep making the same mistake",
+  "status": "converted_from_csv",
+  "date": "2021-07-06T17:02:11",
+  "error": null,
+  "content_path": "output/articles/markdown/c76bc4b51696c105.md",
+  "html_path": "output/articles/html/c76bc4b51696c105.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2116,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2f2eb6f14d26335aa4f3af30e44e69a4",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1625616131",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-07-06T17:02:11",
+  "updated_at": "2021-07-06T17:02:11"
+}

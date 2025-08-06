@@ -1,0 +1,34 @@
+{
+  "uid": "e2ef822ba1bad6cc",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/d4c2f9d6c61aa6947b9aa4f4bb511d12/",
+  "title": "Fwd: Money Stuff: Jamie Dimon Got a Bonus",
+  "status": "converted_from_csv",
+  "date": "2021-07-21T09:21:27",
+  "error": null,
+  "content_path": "output/articles/markdown/e2ef822ba1bad6cc.md",
+  "html_path": "output/articles/html/e2ef822ba1bad6cc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2084,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8232158942ec4602fd5cdee0476190a9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1626884487",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-07-21T09:21:27",
+  "updated_at": "2021-07-21T09:21:27"
+}

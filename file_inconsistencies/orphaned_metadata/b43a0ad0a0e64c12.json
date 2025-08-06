@@ -1,0 +1,32 @@
+{
+  "uid": "b43a0ad0a0e64c12",
+  "content_type": "instapaper",
+  "source": "https://www.nytimes.com/2024/08/15/us/politics/biden-2024-election-dropped-out.html?unlocked_article_code=1.DE4.mzZ5.fBwto3WNtIMx",
+  "title": "He Still Thought He Could Win: Inside Biden’s Decision to Drop Out",
+  "status": "error",
+  "date": "2025-08-05T12:40:49.954163",
+  "error": "Failed to fetch content for 'He Still Thought He Could Win: Inside Biden’s Decision to Drop Out' from https://www.nytimes.com/2024/08/15/us/politics/biden-2024-election-dropped-out.html?unlocked_article_code=1.DE4.mzZ5.fBwto3WNtIMx: 403 Client Error: Forbidden for url: https://www.nytimes.com/2024/08/15/us/politics/biden-2024-election-dropped-out.html?unlocked_article_code=1.DE4.mzZ5.fBwto3WNtIMx",
+  "content_path": null,
+  "html_path": null,
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": null,
+  "type_specific": {
+    "bookmark_id": 1701796390
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:40:49.954167",
+  "updated_at": "2025-08-05T12:40:50.392154"
+}

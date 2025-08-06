@@ -1,0 +1,34 @@
+{
+  "uid": "08ebe7c012a22939",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/5ab6a16ba23ce56762ea851d888cb004/",
+  "title": "The Experience Economy (Stratechery Weekly Article 11-12-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-11-12T06:53:20",
+  "error": null,
+  "content_path": "output/articles/markdown/08ebe7c012a22939.md",
+  "html_path": "output/articles/html/08ebe7c012a22939.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3346,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "96e6304f014072c12d7ee9c4c41f1f16",
+  "type_specific": {
+    "folder": "Stratechery",
+    "instapaper_timestamp": "1542034400",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-11-12T06:53:20",
+  "updated_at": "2018-11-12T06:53:20"
+}

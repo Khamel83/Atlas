@@ -1,0 +1,34 @@
+{
+  "uid": "7c5acf1983c22830",
+  "content_type": "web_bookmark",
+  "source": "http://kottke.org/15/01/amazing-hubble-images",
+  "title": "Amazing Hubble images kottke.org",
+  "status": "converted_from_csv",
+  "date": "2015-01-07T18:25:22",
+  "error": null,
+  "content_path": "output/articles/markdown/7c5acf1983c22830.md",
+  "html_path": "output/articles/html/7c5acf1983c22830.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4987,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a7c1670e45bbaf4029ab512faaf1ef6b",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1420683922",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-01-07T18:25:22",
+  "updated_at": "2015-01-07T18:25:22"
+}

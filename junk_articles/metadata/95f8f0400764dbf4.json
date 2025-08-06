@@ -1,0 +1,34 @@
+{
+  "uid": "95f8f0400764dbf4",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/04/17/magazine/mag-17cellphones-t.html?pagewanted=print",
+  "title": "Do Cellphones Cause Brain Cancer? - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-04-16T23:00:10",
+  "error": null,
+  "content_path": "output/articles/markdown/95f8f0400764dbf4.md",
+  "html_path": "output/articles/html/95f8f0400764dbf4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5785,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fb7b39ff75a4424185f2d1c55043335e",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1303020010",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-04-16T23:00:10",
+  "updated_at": "2011-04-16T23:00:10"
+}

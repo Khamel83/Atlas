@@ -1,0 +1,34 @@
+{
+  "uid": "f317efd880b24dd5",
+  "content_type": "web_bookmark",
+  "source": "http://www.douglasbaldwin.com/sous-vide.html",
+  "title": "A Practical Guide to Sous Vide Cooking",
+  "status": "converted_from_csv",
+  "date": "2017-06-04T20:24:51",
+  "error": null,
+  "content_path": "output/articles/markdown/f317efd880b24dd5.md",
+  "html_path": "output/articles/html/f317efd880b24dd5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3942,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "40d4ebb5eab4123903e910833cb2f348",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1496633091",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-06-04T20:24:51",
+  "updated_at": "2017-06-04T20:24:51"
+}

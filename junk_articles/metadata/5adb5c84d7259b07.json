@@ -1,0 +1,34 @@
+{
+  "uid": "5adb5c84d7259b07",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/7d60bdecbd962b816b17e5ede3f364f1/",
+  "title": "Interview on \"The Hill\": Loudoun County and Education",
+  "status": "converted_from_csv",
+  "date": "2021-12-31T07:23:25",
+  "error": null,
+  "content_path": "output/articles/markdown/5adb5c84d7259b07.md",
+  "html_path": "output/articles/html/5adb5c84d7259b07.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1723,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6583a17c6e42f0328ba42904168ecac3",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1640964205",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-12-31T07:23:25",
+  "updated_at": "2021-12-31T07:23:25"
+}

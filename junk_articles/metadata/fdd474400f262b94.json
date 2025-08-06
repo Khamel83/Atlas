@@ -1,0 +1,34 @@
+{
+  "uid": "fdd474400f262b94",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/503c77a4ebda58752a59087749478509/",
+  "title": "Grift is Good",
+  "status": "converted_from_csv",
+  "date": "2021-05-17T10:28:30",
+  "error": null,
+  "content_path": "output/articles/markdown/fdd474400f262b94.md",
+  "html_path": "output/articles/html/fdd474400f262b94.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2214,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "23cb3c9327c890ad9d2f908fd421e124",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1621272510",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-05-17T10:28:30",
+  "updated_at": "2021-05-17T10:28:30"
+}

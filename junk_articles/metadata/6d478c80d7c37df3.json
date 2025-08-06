@@ -1,0 +1,34 @@
+{
+  "uid": "6d478c80d7c37df3",
+  "content_type": "web_bookmark",
+  "source": "http://ritholtz.com/2016/01/hard-get-tickets/",
+  "title": "Why It’s So Hard to Get Tickets The Big Picture",
+  "status": "converted_from_csv",
+  "date": "2016-01-31T15:08:29",
+  "error": null,
+  "content_path": "output/articles/markdown/6d478c80d7c37df3.md",
+  "html_path": "output/articles/html/6d478c80d7c37df3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4599,
+    "selection": "Source: Bloomberg\n\nThe post Why It’s So Hard to Get Tickets appeared first on The Big Picture."
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7cde24b32c8c5e0f34a2453adb738b02",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1454281709",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Source: Bloomberg\n\nThe post Why It’s So Hard to Get Tickets appeared first on The Big Picture."
+  },
+  "video_id": null,
+  "created_at": "2016-01-31T15:08:29",
+  "updated_at": "2016-01-31T15:08:29"
+}

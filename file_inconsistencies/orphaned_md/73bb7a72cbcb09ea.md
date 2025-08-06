@@ -1,0 +1,445 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trump: I followed three women who wanted to leave their husbands over the election results. I can’t believe where they ended up.
+
+
+
+[Skip to the content](#main)
+
+* [Slate Shop](https://shop.slate.com/)
+* [Games](https://slate.com/tag/slate-games)
+* [Newsletters](https://slate.com/newsletters)
+* [Sign In](https://slate.com/sign-in)
+* Account
+
+  Activating this button will toggle the display of additional content
+
+  [Account](https://slate.com/account)
+  [Sign out](https://slate.com/sign-out)
+
+[Slate homepage](https://slate.com)
+
+* [News & Politics](/news-and-politics)
+* [Culture](/culture)
+* [Technology](/technology)
+* [Business](/business)
+* [Life](/life)
+* [Advice](/advice)
+* [Podcasts](/podcasts)
+
+Menu
+
+Open menu
+
+
+
+
+
+Close menu
+
+Menu
+
+[News & Politics](/news-and-politics)
+[Culture](/culture)
+[Technology](/technology)
+[Business](/business)
+[Life](/life)
+[Advice](/advice)
+[Podcasts](/podcasts)
+[Search](/search)
+
+Activating this button will toggle the display of additional content
+
+Light
+
+
+
+
+Dark
+
+
+
+
+Auto
+
+[**Subscribe**](https://slate.com/plus?utm_medium=link&utm_campaign=plus&utm_content=nav_bar&utm_source=nav)
+
+[Slate Shop](https://shop.slate.com/)
+[Games](https://slate.com/tag/slate-games)
+[Newsletters](https://slate.com/newsletters)
+[Sign in](https://slate.com/sign-in)
+[Account](https://slate.com/account)
+[Sign out](https://slate.com/sign-out)
+
+[Slate homepage](https://slate.com)
+
+[Account](https://slate.com/account)
+
+\*
+
+[Taken By Aliens](https://slate.com/technology/2025/08/indeed-job-recruiter-text-message-scam.html)
+
+Submit search
+
+
+
+Enter query
+
+Activating this button will toggle the display of additional content
+
+Light
+
+
+
+
+Dark
+
+
+
+
+Auto
+
+![Illustration of a hetero couple lying in bed. The woman is reading a book about the Squad and looking over suspiciously, while the man is wearing a MAGA hat, has "45" and "47" tattoos for Trump, and is reading Project 2025's "Mandate for Leadership."](https://compote.slate.com/images/994addb4-128a-4cf5-a5a0-212bae8fdbb3.jpeg)
+
+Illustrations by Natalie Matthews-Ramo
+
+ [Relationships](/life/relationships)
+
+The Women Who Wanted to Leave Their Husbands Over Politics
+==========================================================
+
+This fall, I followed three women who had been thinking about divorce. What happened when Donald Trump won again?
+-----------------------------------------------------------------------------------------------------------------
+
+By
+[Scaachi Koul](/author/scaachi-koul)
+
+March 04, 20255:40 AM
+
+Copy Link
+[Share](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fslate.com%2Flife%2F2025%2F03%2Fdonald-trump-divorce-marriage-politics-men-women.html%3Futm_medium%3Dsocial%26utm_campaign%3Dtraffic%26utm_source%3Darticle%26utm_content%3Dfacebook_share)
+Share
+[Comment](https://slate.com/comments/life/2025/03/donald-trump-divorce-marriage-politics-men-women.html)
+
+Marriage is hardly a new invention. But leaving your husband is, relatively speaking. There’s one political party in particular that isn’t so happy with that development.
+
+During the 2024 election, vice presidential candidate J.D. Vance called no-fault divorce “one of the great tricks that I think the sexual revolution pulled on the American populace.” Donald Trump, famously a two-time ex-husband himself, remained mostly quiet on the subject, but for a lot of American women, it [felt as if divorce were on the ballot](https://www.washingtonpost.com/nation/2024/11/09/no-fault-divorce-jd-vance-conservatives/) that year. Divorced men, in particular, thought they had a renewed champion: In July 2024, a poll suggested that those men, far more than divorced women or even married men, would be [voting for Trump](https://www.americansurveycenter.org/newsletter/divorced-men-for-trump/). “Divorced Men Are Falling For Trump,” [the Cut proclaimed by October](https://www.thecut.com/article/trump-polling-divorced-men.html). Meanwhile, on social media, women married to registered Republican men talked about their plans to cancel out their husbands’ votes. “I feel like he is voting against mine and our daughters (F7) best interest and her future,” one woman [wrote on Reddit](https://www.reddit.com/r/AskWomenOver30/comments/1fg1p2m/how_do_i_not_let_my_husband_voting_for_trump/) last summer.
+
+For a few glimmering moments in 2024, it seemed as if white women—Trump’s second-biggest voting bloc, who are often married to white men, his first-biggest voting bloc—were going to learn their lesson from 2016. They [organized Zoom calls](https://www.reuters.com/world/us/more-than-160000-people-join-white-women-kamala-harris-zoom-call-2024-07-26/) and [raised millions upon millions](https://19thnews.org/2024/07/white-women-harris-broke-zoom/) for Kamala Harris’ campaign. But many seemed primed to use their personal lives as the ultimate political leverage: Moderate and Democratic women were considering divorcing their Trumpian husbands. Last year, divorce was being discussed as a means of resistance. Whispers on- and offline suggested that women across the country were finally fed up with their Trump-voting husbands, that a second Trump term would mean their marriages were beyond repair.
+
+But leaving is easier said than done, and it all seemed to hinge on what would happen in November. If Trump lost, would their marriages survive a woman in the White House for once? And if he won, could these women stay with the men who helped put him back in office?
+
+Advertisement
+
+In three parts of the country—Colorado, Pennsylvania, and California—three straight, working, married white women with Trump-backing husbands told me about how politics had infested their marriages. They had met and married their husbands long before Trump became a problem for them to manage personally. They all had children with these men. They moved cities and bought homes. Meanwhile, they all became the primary breadwinners in their family units.
+
+Then, they spent three election cycles trying to persuade their husbands not to vote for a man who threatened their bodily autonomy, their children’s futures, and the very (tattered) fabric of American democracy. From the depths of the election cycle in October all the way to Election Day and beyond, these women weighed their options: stay, or go.
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+### Before the Election
+
+In October, 54-year-old **Beth** was a few weeks away from celebrating two decades married to her husband—that is, if they’d be able to make it to their anniversary in November.
+
+Advertisement
+
+When they met, as is true for a lot of now-unhappy couples, their relationship felt breezy. “I was already accustomed to dating men like that, the redneck vanilla guys. He was typical of the pool of eligibles that I fished in as a Midwestern gal,” she said about meeting him in the early aughts at a college alumni event. The two of them eventually wed and settled down in Colorado. “People are inclined to say, ‘You knew what you were getting.’ You don’t. I didn’t realize what I was getting into.” She’s had a divorce attorney on the line since 2016, though it hasn’t gone beyond a few preliminary phone calls.
+
+Beth had already muscled through a few rough years by election time. (*Beth* is not her real name; all women in this story were granted pseudonyms to protect them from reprisals, and some small identifying details have been adjusted to ensure anonymity.) In July 2020, mid–COVID lockdown, she was diagnosed with advanced-stage bowel cancer. She went through treatment and has been cancer-free since 2021, but it weakened her body and her spirit and added extra strain on her marriage, which was already starting to turn. She called me from her office, where she works as a lawyer, to avoid her husband’s overhearing her malcontent. “The damage done from the treatment and the surgery is permanent,” she said.
+
+Advertisement
+
+Among its brutal impacts is that the chemotherapy has weakened her immune system. That made her husband’s refusal to get any of the several COVID-19 shots available to him all the more galling. “He became radicalized during the pandemic,” she said. “When I mentioned to a few people that he didn’t get it, people were really offended. Like, *You’re getting treatment for cancer, and he won’t get vaccinated?*” Over time, she got pretty offended too.
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+When their daughter turned 18, around the time vaccines became widely available in Colorado, the fight infected the rest of the family. Her husband didn’t want any of the kids to get a vaccination, but their daughter insisted on it. “I couldn’t have been prouder, the way she handled my husband,” Beth said in October, back when polling data still had Harris up by a point or two. “She really did a big *fuck you*. She wasn’t taking any shit from him.”
+
+Advertisement
+
+It’s been through her relationship with her daughter that Beth has started to see the value of filing for divorce after all this time. “She texted me that she would rather be dead than deal with another Trump presidency,” Beth said. “I thought, *Wow, this is it*.” She felt she needed to leave him, “if for no other reason than to stand up for my daughter, showing her that at some point, it comes down to your principles.”
+
+Her husband had every intention of voting for Trump again, no matter how many arguments he got into about it with his daughter, or his son, or his wife.
+
+For 30-year-old **Annie**, a veterinarian from the U.K. who had a baby earlier in the year with her 37-year-old husband, their conflicts were less about his politics and more about how much disregard he had for half the country. Not the half that votes for Democrats, but rather: women. Her husband’s views were often pretty liberal; the two of them agreed that the U.S. needed to stop giving Israel arms to bomb Palestinians—they were both hoping for an immediate ceasefire—and he also believed in accessible health care for all. But they kept having arguments about gender, and he just couldn’t get his head around voting for a woman. “I’m not sure I really picked up on the misogyny when we first met,” she said. “He wouldn’t think of himself as someone who doesn’t like women or thinks women are less than.” But Annie is an immigrant, living stateside in California as an immigrant, with paperwork tied to her husband. To leave him is to also leave the country, where her baby is a citizen.
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+When Annie tried to make sense of her husband’s distaste for marginalized groups in power, she came back to his first union. Her husband was married once before, and Annie said he’s still angry at how his ex treated him during their marriage. “That’s probably some of the root cause; he almost expects women to hurt him in some way,” she said. Still, by October, she and her husband were quarreling over his criticisms of Harris’ gender and race. “He feels that elevating the rights of others, specifically people of color, erodes his rights,” she said. “That’s been a discussion around Harris as well, that maybe they picked her because she’s Black and she’s a woman.” Annie’s husband had long been more of a third-party voter; in 2024 he was decidedly on the fence about how to vote, toggling between Trump and a third-party candidate (though she couldn’t entirely remember which one).
+
+Advertisement
+
+Annie was also battling against her husband’s online habits, which consisted mostly of playing video games and watching others game on platforms like Twitch. “I think sometimes those people are a little misogynistic in the way they view the world, so he gets his talking points from that, rather than data-driven sources,” she said. That was bad enough for Annie to tolerate, but they also have an infant son, who isn’t yet paying attention to Dad’s words but will clue in soon enough. “I want my son to grow up to know he takes 50 percent of responsibility of everything in the home, in the relationship,” she said. “I won’t tolerate any kind of misogynistic viewpoints from him at all.” (Annie said that, despite his views, her husband is an equal parent in the home and is perfectly comfortable with her being the primary breadwinner.)
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+If Beth sounded defeated by the state of her marriage, and if Annie was anxiously trying to reform her husband, then 52-year-old **Heather** was filled with [the kind of rage that only divorced women understand](https://slate.com/life/2025/02/divorce-rage-ex-husband-anger.html).
+
+“On our second date, he was telling me he never paid attention to the news. He didn’t know much,” she said in October. “I asked him, ‘OK, who’s the vice president?’ He didn’t know! I kind of found it endearing and cute at the time, but it’s something that, after the last eight years, has stuck in my mind. He’s someone who just doesn’t know things.” But still, she wasn’t prepared for how bad his politics would get. After all, he voted for Barack Obama in 2012, and they even attended the White House Christmas party together that year. “It was the first time he ever voted,” Heather said. “He got really into it with me.”
+
+Advertisement
+
+![Two men walk away in opposing directions, one toward a blue stream of water, the other toward a red stream.]()
+
+![Two men walk away in opposing directions, one toward a blue stream of water, the other toward a red stream.](https://compote.slate.com/images/72bde2cf-0f21-441b-9f8c-7b9b95d2c7b6.jpeg?crop=1560%2C1040%2Cx0%2Cy0)
+
+Originally from New York—which you can still very much hear in her staccato accent—but now living in Pennsylvania, freelance writer Heather has been married to her husband for 24 years. They have two kids, and she tolerated his uninhibited support for Trump through his first administration, even after one of their children came out as nonbinary and started fighting with their dad about politics. But this time around, things have been harder, particularly with how trans people have been targeted by the Trump campaign, and how much that weighs on their nonbinary child. “They were like, ‘I’m going to show him Project 2025. I’m going to convince him out of it,’ ” Heather said. “I thought I could appeal to his decency, to who he was before. But I can’t look at a person who’s OK with vile racism and vile misogyny and sexual assault and disgusting xenophobia.”
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+More than any of the other husbands, Heather’s is the furthest through the looking glass when it comes to YouTube conspiracy theories. “He became a 9/11 truther in 2006. He’d say, ‘I just ordered this video off eBay—you gotta watch it with me.’ It was about how the Bush administration did it, they were the ones who crashed the planes in the tower. Really stupid shit,” she said. “I wrote it off.”
+
+But then came his conspiracies around Sandy Hook: He claimed that the 20 children murdered in that 2012 mass shooting at an elementary school weren’t real. “I found out about Sandy Hook while I was in my son’s class, doing gingerbread houses,” Heather said. “Every mother in there was devastated because this news came across on our phones. And this man is telling me it’s not real?”
+
+Even more gallingly, Heather, who used to be a reporter, was stuck trying to convince her husband that the entirety of the news media isn’t corrupt, evil, and out to manipulate the American public. She spent days trying to explain to him how news stories are put together, what kinds of photos they use, and why murdered 6-year-old children might not leave behind a treasure trove of online data for amateur sleuths to find. “He thinks he understands how the media works,” Heather said. “He said they’re crisis actors.”
+
+For all three women, the prospect of four more years of Trump seemed devastating—an impossible task for their already-frayed relationships. That their husbands were determined to vote for Trump again was a betrayal not just of their politics but of their families: They were all raising children under an ethos dichotomous to Trump’s. Their hopes were deep with Harris: If she won, then maybe Trump would be defeated for good, and perhaps their marriages would have an opportunity to heal. “Can I drop this?” Beth asked herself. “Can I drop this and keep going if Harris wins?”
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+### Election Day
+
+Before we knew what the election’s results would be, all three of the women I was speaking with were toying with the possibility of filing for divorce.
+
+**Annie** was steeling herself for bad election results, but also for talking to her husband about possibly leaving the U.S. for good. “I’d be more comfortable and safer in the U.K. than here,” she said. “I would be stupid to stay here and put my own health at risk.” Their fighting was starting to ramp down at home, even if she knew they were still negotiating huge disagreements. Trump was forcing couples to have arguments over the kinds of things marriage counselors across the world could have never predicted. “We had an argument about tariffs recently,” Annie said. “He didn’t really want to listen to my explanation of why it wouldn’t work.”
+
+Meanwhile, as Harris and Biden failed to secure anything close to a ceasefire in Gaza, Annie and her husband were both reaching unknown levels of disillusionment. “I’m not hugely optimistic,” she said.
+
+**Heather** wasn’t going to wait around to find out what would happen to no-fault divorce. When I spoke with her right before Election Day, she had already started the divorce process and had plans to put the house on the market for an immediate sale. “I have filed. It’s gotten so clear to me why I don’t want to be married to this person anymore,” she said.
+
+The stress of her marriage was exacerbated by her own media diet too: While her husband was busy watching YouTube videos about the secret group of elite liberals running the government, Heather was succumbing to her own internet echo chamber. A longtime tweeter, she saw her mentions steadily being overrun by MAGA folks, and she seemed to constantly be going viral in the wrong circles. One especially critical tweet of hers was picked up by one of the YouTubers her husband watches so religiously. He saw the coverage of her public upset and confronted her about it. “I was sitting there all sheepish,” she said. “But you vote for the guy who insults people left and right? And he’s mad I told some bot on Twitter ‘Fuck you’? *That’s* an issue?”
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+These wounds for Heather go back to 2016, and to the night Trump was elected the first time, thanks to voters like her husband. It was a shock to both of them. “As soon as we realized what’s happening, his jaw dropped and his face went white. I said to him, ‘What did you do?’ ” she said. “The next morning, the kids wake up, they hear the news. They’re crying. He’s trying to calm them down: *You trust Daddy, right? Daddy voted for Trump.* And that was the end of my marriage.”
+
+For Heather, it was already irrelevant even before the election who would win the presidency. Her marriage was ruptured to the point that no possible Democratic win could heal it. “There’s nothing to talk about. What is there to say? I can’t do it anymore. He’s never respected me, and I realize that. It’s not personal. He just doesn’t respect women,” she said. “I haven’t had a normal, sane, intelligent conversation with him in 10 years.” Heather was moving things around in her at-home office, digging up old paperwork, starting to envision movers taking boxes out and transporting her to her own town house or apartment. She dropped a stack of papers on her desk. “I can’t *wait* to meet someone I can have an intelligent conversation with.”
+
+### After the Election
+
+After the election, anecdotes about divorce filings started pouring in from all across the country. Everyone seemed to have a friend who had finally broken up with her boyfriend because he voted for Jill Stein. Beth’s, Heather’s, and Annie’s marriages were all up in the air.
+
+The day after the election, **Beth** told me, her husband “stayed in bed all day and didn’t leave his room.” She was grieving Harris’ loss with her kids, but it didn’t seem as if her victorious husband was feeling all that celebratory. Their first contact after the election, she said, was him accusing her of taking out her election anger on him by hiding his Denver Nuggets jersey. (She vociferously denied this.)
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Beth had, days after the election, still barely heard from her husband. Still, she wanted to keep the peace in the coming weeks; she and her family had a beach vacation planned, and it was the only thing keeping Beth going. She was happy to dissociate a bit from her troubled marriage; others were not so accommodating. “My younger sister knows what’s happening, and she’s judgy. She wants me to go through with this, but she’s like, *I can’t believe you’d want to go on vacation with him*,” Beth said. “I need this trip. My kids deserve this trip. I have no illusions that it’ll change anything about how I feel.”
+
+Her displeasure with her marriage had bloomed—it was no longer just about his voting for Trump, but a lifetime of little failures. “I didn’t get anything for my 50th birthday. No party, no dinner. Thanksgiving is our 20th anniversary, which is ostensibly why we scheduled this trip, but I’m not celebrating a goddamn thing,” she said. “What I’m sore about—sad, really—is that I didn’t get anything to celebrate beating cancer. That was never mentioned at all.”
+
+But she had other things on her plate, aside from the ongoing physical issues following cancer treatment. She was eager for a break at work too, because a discrimination investigation—far from the first she had had to witness ripple through her colleagues—was taking place at her law firm. The morning we spoke, she had to be interviewed by an investigator about just how unhealthy her workplace has become. “I’m pretty angry because this is the second time I’ve had to do this inside of five years,” she said. Beth had been harassed and condescended to at work more times than she could count; her husband doing it at home added insult to injury. “He thinks I’m an idiot. He tells me that pretty much on a weekly basis, what an idiot I am,” she said.
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Beth had finally come up with her own retort: “You know what our new word is for them? *Mediocre.* I’ve been hearing that a lot lately: mediocre white male.” When I asked her if she meant that her husband was one of “them,” she burst out laughing: “Yes!” It sounded as if she were maybe ready to do something about it. “I can’t take the embarrassment any longer,” Beth said. “This might sound stupid, but I feel like I have to stand up for my daughter. I have to show her that you don’t have to stay in a marriage or any other kind of relationship where someone is emotionally abusive.”
+
+Within days of Trump’s second election, **Heather**’s husband had actually moved out. “He said something stupid like, ‘I can’t sleep here anymore. I’m worried you guys are going to stab me in my sleep,’ ” Heather said. “I texted him, and so did my daughter, saying to him how we felt, and please don’t come home because we can’t see you tonight.” Their voting-age daughter refused to speak to her father beyond that; their nonbinary child told him that he had voted against their rights. Her husband’s response? “ ‘You don’t even know if I voted,’ ” Heather recounted. But he had: for Trump, as promised. (Beth’s husband did the same. Annie’s husband voted third party.)
+
+No one sounded angrier about the results of the election than Heather. She was angry at Biden, at Harris, at left-leaning voters who declined to vote because of U.S. contributions to Palestinian deaths (“There is no genocide!” she told me, something she and her husband actually agreed on), at every nonwhite voter who went red (“Bye, Muslims and Latinos. If you’re stupid enough to vote for Donald Trump after what he said he would do to you, you get what you get!”), and at everyone else “too stupid” to vote blue. She was especially furious with the people who had voted Trump back into office. “I have nothing left for these people,” she declared. “Deport every MAGA out there and put them on an island. They’re a danger to the human race.”
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+While I was on the phone with Heather, there was a knock at her front door: It was a process server, there to serve her husband with the divorce papers she had filed a week earlier. After all, they still share the same address. “I can’t sign for that, right?” she asked. “They’re *my* divorce papers.” The server promised to come back another day.
+
+### After the Inauguration
+
+A few days after Trump’s inauguration—when Melania Trump stepped out in her social-distancing hat and [sparked a new round of speculation](https://slate.com/life/2025/01/melania-trump-inauguration-outfit-hat-donald-coin.html) about her own marriage—**Heather** texted me that she had a “surprising” update. Her house remains on the market, and her husband hasn’t returned home after he moved out following Election Day. The big update, instead, is that despite filing divorce papers, Heather doesn’t want to get divorced anymore. She’s now really hoping her husband comes home.
+
+“I realize I made a major mistake the last nine years. After the election, I turned off cable news and I got my ass off Twitter,” she says. (She’s moved over to Bluesky.) Heather now thinks *she* pushed her husband toward voting for Trump by having had such a noisy reaction to his support in the first place, eight years ago. “If I had just had a more reasonable reaction, and talked to him reasonably, maybe he would have listened to me,” she says. “He’s not right about Donald Trump, but was it important enough to destroy a 25-year marriage? There was a lot of marriage before there was a Donald Trump.”
+
+![A fridge with a wedding picture torn in half and semi-retaped, with the business card of a divorce lawyer nearby. Below them are a J6 postcard and a newspaper clipping about Trump.]()
+
+![A fridge with a wedding picture torn in half and semi-retaped, with the business card of a divorce lawyer nearby. Below them are a J6 postcard and a newspaper clipping about Trump.](https://compote.slate.com/images/e0086660-7ae8-4eed-ad3f-40726b0d4f3b.jpeg?crop=1560%2C1040%2Cx0%2Cy0)
+
+Illustration by Natalie Matthews-Ramo
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+The problem is that Heather’s husband doesn’t seem to have the same regrets. He’s told her that he has no intention of returning to their shared home, or to their marriage at all. So she’s still selling the house, and her life is completely in flux. “I feel heartbroken,” Heather says. “I fought for eight years against Trump, because I felt it was the right thing to do. Where did it get me? Trump is president, and no marriage.”
+
+In November, Heather was looking forward to going out with someone new whom she might be able to have a “sane” conversation with. It turns out, in the intervening weeks, she did go on a few dates, but it wasn’t the panacea she was hoping for. “Sure, we got to talk about Trump, yeah, OK, whatever. They’re not the person I was married to for 17 years,” she says.
+
+Heather’s despair over her personal life has led to one unexpected result: She just doesn’t give a shit about politics anymore. Her own proud Judaism notwithstanding, even [Elon Musk’s Nazi salute](https://slate.com/news-and-politics/2025/01/elon-musk-nazi-salute-trump-inauguration-adl-antidefamation-league.html) didn’t get her goat the way it might have a few years or even months ago. She’s tired. She doesn’t want to argue anymore. And while she’s continuing her yearslong work with local Democrats to get them elected during the midterms, she no longer wants to talk about politics at the dinner table. “I don’t feel like I’m capitulating to Trump by wanting my marriage back,” she says. She has succumbed to what she views as the futility of resistance. “More people think the way he does, and they’re living happier lives,” she says. “And I just want to lead a happy life.”
+
+**Beth**, too, hasn’t gone through with a divorce, at least not yet. Her exhaustion still lingers from the first Trump administration, the pandemic, and cancer. She’s been overwhelmed by the emotional and tangible process that comes with divorce. She and her family went on that beach vacation, which did help her and her husband with their sniping. For now, they’re suspended in a holding pattern, and maybe that’s enough until she can chart her next move. She’s still conflicted between her own happiness and her sense of duty. “I feel like I’ll be letting people down if I don’t proceed with the divorce,” she says.
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Beth did decide to pay a small deposit for a lawyer, the same one she’s been talking to since 2016. “He said, ‘Oh, you are not the first client I’ve had come through the door in the last eight years who has said that Trump is the reason they’ve come to see me,’ ” Beth says. “He said he’s had at least five cases where the woman ended the marriage because she found out who her spouse really was.” It’s not a retainer, but it does mean she has an attorney ready to go if she ever does decide to file. “I still feel deeply humiliated that he supports this new presidency,” she says. “At some point, am I just going to be so disgusted and demoralized that I can’t live with this person anymore? I don’t know.”
+
+Instead of fighting with her husband, Beth is preparing for other possible disasters in her future, like if their kids lose their health insurance should Trump wipe out the Affordable Care Act. “There’s no way on God’s green earth that I am letting my children go without health insurance,” she says. “I will be making sure they have coverage no matter what it takes, even if I have to delay my own retirement.”
+
+In the end, it’s money that Beth is thinking about most, namely how leaving her husband might penalize her financially in her mid-50s, when she should be gearing up for the retirement she’s so looking forward to. If they do divorce, that means they would have their own bank accounts, and he wouldn’t have to split expenses with her—including health care for their adult kids if they need it in the future. She’s also considering her sizable pension, which could get cut in half if she does leave. “That pension is the biggest asset we own as a family,” she says. Emotional freedom is one thing, but what of financial freedom? What kind of life can Beth have if she’s working harder and longer to make up for an ugly divorce?
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+But it’s not as if they aren’t fighting right now, even in their postvacation glow. Their latest ugliness was over whether Republican Sen. Deb Fischer’s husband [declined to shake Kamala Harris’ hand](https://www.nytimes.com/2025/01/07/us/politics/deb-fischer-husband-handshake.html) while his wife was being sworn into Congress. “To me, that moment just epitomizes the whole gaslighting aspect. That’s a big part of the problem in our marriage, is that he’s trying to convince me to not believe what I saw and heard with my own eyes and ears,” she says. “I am not crazy, and I am not unreasonable. Don’t you dare pull that stuff with me.”
+
+Only **Annie** has a more optimistic view of her marriage in 2025. With [Musk’s Hitleresque performance](https://slate.com/news-and-politics/2025/01/elon-musk-nazi-salute-trump-inauguration-adl-antidefamation-league.html) still trending, her husband has since grown tired of the shtick. Maybe it’s still funny to her husband when someone as out of control as Trump behaves like someone out of control, but a powerful billionaire like Elon Musk doesn’t get the same reaction out of him. She showed her husband the video of Musk the night it blew up. “That’s made a few pennies drop,” she says. “We were just speechless. Obviously we always knew that was an undercurrent to all of this stuff, but for it to be so blatant, I just couldn’t believe it.”
+
+Recently in
+[Relationships](/life/relationships)
+================================================
+
+1. [How Four Sensual, Clay-Covered Hands Charted the Course of My Sexuality](https://slate.com/life/2025/08/movie-ghost-sex-gay-demi-moore-patrick-swayze.html)
+2. [People Say My Generation Doesn’t Have Sex. As a 26-Year-Old Man, I Can Tell You What’s Really Going On.](https://slate.com/life/2025/08/dating-apps-relationships-gen-z-sex.html)
+3. [Internet Rumors Suggest a Man’s Smile Can Foreshadow His Penis Size. There’s More to That Than You Might Think.](https://slate.com/life/2025/07/man-size-smile-meme-penis-hung-x-tiktok.html)
+4. [The Latest Bravo Househusband News Is Extremely Dark. It’s Also Part of a Disturbing Pattern.](https://slate.com/life/2025/07/real-housewives-husbands-bravo-denise-richards-aaron-phypers-divorce.html)
+
+Annie says that it feels as if her husband, at long last, is in reality with her, though they’re still working on his grasp of feminism and women’s rights. Her husband’s liberal radicalization has gone so swimmingly, in fact, that he’s also considering an out-of-country move. “We’re looking into Hong Kong and Singapore,” she says. “Divorce isn’t something that I’m thinking about.”
+
+In October, before the election results were clear, I asked Beth if she still loved her husband. Based on her own retelling of the late stage of her marriage, he was going to vote against the interests of their kids, he ignored the warnings from his wife, he neglected his family through a pandemic, and he offered almost no flexibility on a political ideology that scared the shit out of his entire family. But once, decades ago, they were just a couple. It used to be just the two of them, in 2000 or 2001 or 2002, when politics somehow seemed simpler. There were, at least, fewer mainstream Nazis to contend with back then. It’s hard to walk away from two decades together, two children, and a united path that one day diverged. “I will love him until my last breath,” Beth told me.
+
+As of late February, she’s still married to her husband. All three of them are.
+
+Copy Link
+[Share](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fslate.com%2Flife%2F2025%2F03%2Fdonald-trump-divorce-marriage-politics-men-women.html%3Futm_medium%3Dsocial%26utm_campaign%3Dtraffic%26utm_source%3Darticle%26utm_content%3Dfacebook_share)
+Share
+[Comment](https://slate.com/comments/life/2025/03/donald-trump-divorce-marriage-politics-men-women.html)
+
+* [Donald Trump](/tag/donald-trump)
+* [Feminism](/tag/feminism)
+* [Gender](/tag/gender)
+* [Marriage](/tag/marriage)
+* [Kamala Harris](/tag/kamala-harris)
+* [Divorce](/tag/divorce)
+* [2024 Campaign](/tag/2024-campaign)
+
+---
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+#### About
+
+* [About Us](/about)
+* [Work With Us](https://jobs.lever.co/slate)
+* [Contact](/contact)
+* [Pitch Guidelines](/pitch)
+* [Send Us Tips](/tips)
+* [Corrections](/briefing/corrections)
+* [Commenting](/commenting)
+* [Reprints](http://www.slatereprints.com/)
+
+#### Subscriptions
+
+* [Subscribe](https://slate.com/plus)
+* [Group Subscriptions](/academic-group-subscriptions)
+* [Sign In](https://slate.com/sign-in)
+* [Account](https://slate.com/account)
+* [Subscription FAQs](/plus/faq)
+* [Podcast FAQs](/podcastfaqs)
+* [Newsletters](/newsletters)
+* [Customer Support](https://slatehelp.freshdesk.com/support/solutions)
+
+#### Advertising
+
+* [AdChoices](https://optout.aboutads.info/)
+* [![California Consumer Privacy Act (CCPA) Opt-Out Icon](/media/components/onetrust-update/ccpa-icons/privacyoptions29x14.png)Cookie Preferences](/do-not-sell)
+
+The Slate Group logo
+
+Slate is published by The Slate
+Group, a Graham Holdings Company.
+
+#### Follow Us
+
+[Facebook](https://www.facebook.com/Slate/)
+[X](https://twitter.com/slate)
+[Instagram](https://www.instagram.com/slate/)
+[YouTube](https://www.youtube.com/slate)
+[RSS Feed](/rss)
+
+* [User Agreement](/terms)
+* [Privacy Policy](/privacy)
+
+All contents ©
+2025
+The Slate Group LLC. All rights reserved.
+
+![comscore beacon](https://sb.scorecardresearch.com/p?c1=2&c2=18406752&cv=3.9.1&cj=1)
+
+
+
+
+![Quantcast](//pixel.quantserve.com/pixel/p-fw53_-Tq3MNK1.gif)

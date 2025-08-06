@@ -1,0 +1,59 @@
+INSTAPAPER COMPLETE EXTRACTION REPORT
+====================================
+
+Export Timestamp: 2025-08-05-complete
+Total Bookmarks: 2,078
+Total Folders: 5
+
+FOLDER BREAKDOWN:
+--------------------------------------------------
+Unread               |    500 bookmarks | ID: unread
+Archive              |    500 bookmarks | ID: archive
+Starred              |    500 bookmarks | ID: starred
+Feedly               |    500 bookmarks | ID: 2371999
+Stratechery          |     78 bookmarks | ID: 3816912
+--------------------------------------------------
+TOTAL                |  2,078 bookmarks
+
+SAMPLE TITLES BY FOLDER:
+==================================================
+
+Unread (500 total):
+  1. The AI bubble is so big it's propping up the US economy (for
+  2. What the Columbia Settlement Really Means
+  3. Where Human Labor Meets ‘Digital Labor’
+  4. AI Is Coming for the Consultants. Inside McKinsey, ‘This Is 
+  5. A.I. Researchers Are Negotiating $250 Million Pay Packages. 
+  ... and 495 more
+
+Archive (500 total):
+  1. The AI bubble is so big it's propping up the US economy (for
+  2. What the Columbia Settlement Really Means
+  3. Where Human Labor Meets ‘Digital Labor’
+  4. AI Is Coming for the Consultants. Inside McKinsey, ‘This Is 
+  5. A.I. Researchers Are Negotiating $250 Million Pay Packages. 
+  ... and 495 more
+
+Starred (500 total):
+  1. The AI bubble is so big it's propping up the US economy (for
+  2. What the Columbia Settlement Really Means
+  3. Where Human Labor Meets ‘Digital Labor’
+  4. AI Is Coming for the Consultants. Inside McKinsey, ‘This Is 
+  5. A.I. Researchers Are Negotiating $250 Million Pay Packages. 
+  ... and 495 more
+
+Feedly (500 total):
+  1. 80,000-point bonus ending soon Citi Premier credit card revi
+  2. How decentralized really are blockchains Marginal Revolution
+  3. Pizza Dough for an Outdoor Pizza Oven Serious Eats
+  4. It’s Time Get Your Southwest Companion Pass Frequent Miler
+  5. There need to be consequences for Rep. Lauren Boebert’s Isla
+  ... and 495 more
+
+Stratechery (78 total):
+  1. The Alexandria Ocasio-Cortez Phenomenon, Ninja’s 2018, Faceb
+  2. CES & the Unification of Computing & Consumer Electronics, G
+  3. Apple’s Errors Follow-up, Apple’s Services Pivot, Samsung Wa
+  4. Apple’s Errors (Stratechery Weekly Article 1-7-2018)
+  5. Facebook Stats, Facebook’s Data Sharing, Facebook Politics (
+  ... and 73 more

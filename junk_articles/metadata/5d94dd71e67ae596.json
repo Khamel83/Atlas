@@ -1,0 +1,34 @@
+{
+  "uid": "5d94dd71e67ae596",
+  "content_type": "web_bookmark",
+  "source": "http://www.economist.com/node/17848503/print",
+  "title": "The inheritance of obesity: Thanks, Dad | The Economist",
+  "status": "converted_from_csv",
+  "date": "2011-01-16T20:48:21",
+  "error": null,
+  "content_path": "output/articles/markdown/5d94dd71e67ae596.md",
+  "html_path": "output/articles/html/5d94dd71e67ae596.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5994,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "42a885a364df916567bcf768c8efea8b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1295239701",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-01-16T20:48:21",
+  "updated_at": "2011-01-16T20:48:21"
+}

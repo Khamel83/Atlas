@@ -1,0 +1,34 @@
+{
+  "uid": "2ac8e4573a3568d9",
+  "content_type": "web_bookmark",
+  "source": "http://opinionator.blogs.nytimes.com/2011/02/01/a-food-manifesto-for-the-future/?pagemode=print",
+  "title": "A Food Manifesto for the Future - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-02-03T17:00:44",
+  "error": null,
+  "content_path": "output/articles/markdown/2ac8e4573a3568d9.md",
+  "html_path": "output/articles/html/2ac8e4573a3568d9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5930,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ba00d57eee575d83cc9718151c918ab1",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1296781244",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-02-03T17:00:44",
+  "updated_at": "2011-02-03T17:00:44"
+}

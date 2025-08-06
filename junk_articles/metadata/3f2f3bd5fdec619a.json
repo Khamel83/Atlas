@@ -1,0 +1,34 @@
+{
+  "uid": "3f2f3bd5fdec619a",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/3e2eb1a3caa9d50bc52f5eb11807da3f/",
+  "title": "The 2021 Stratechery Year in Review (Stratechery Article 12-20-2021)",
+  "status": "converted_from_csv",
+  "date": "2021-12-20T04:23:20",
+  "error": null,
+  "content_path": "output/articles/markdown/3f2f3bd5fdec619a.md",
+  "html_path": "output/articles/html/3f2f3bd5fdec619a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1746,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "91bc3ecec3ec180d073c4a4352e1105d",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1640003000",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-12-20T04:23:20",
+  "updated_at": "2021-12-20T04:23:20"
+}

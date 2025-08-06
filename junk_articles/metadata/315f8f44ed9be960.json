@@ -1,0 +1,34 @@
+{
+  "uid": "315f8f44ed9be960",
+  "content_type": "web_bookmark",
+  "source": "http://www.si.com/nba/2016/08/02/lebron-james-michael-jordan-ghost-cleveland-cavaliers-championship",
+  "title": "LeBron James: Michael Jordan's ghost drives Cavs star",
+  "status": "converted_from_csv",
+  "date": "2016-08-02T08:02:58",
+  "error": null,
+  "content_path": "output/articles/markdown/315f8f44ed9be960.md",
+  "html_path": "output/articles/html/315f8f44ed9be960.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4359,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e45ff1fa5efd3ab976746cb275d25359",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1470150178",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-08-02T08:02:58",
+  "updated_at": "2016-08-02T08:02:58"
+}

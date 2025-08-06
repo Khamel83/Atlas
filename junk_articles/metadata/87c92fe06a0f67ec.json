@@ -1,0 +1,34 @@
+{
+  "uid": "87c92fe06a0f67ec",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0bb6f287a32c28131262d1f8c1f1ef17/",
+  "title": "Netflix’s New Rung; Self-Production, Cash Flow, and Margin; Netflix’s New Rung (Stratechery Daily Update 1-23-2020)",
+  "status": "converted_from_csv",
+  "date": "2020-01-23T06:25:10",
+  "error": null,
+  "content_path": "output/articles/markdown/87c92fe06a0f67ec.md",
+  "html_path": "output/articles/html/87c92fe06a0f67ec.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2902,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "96b91abd54ebb2825467dc514bc82406",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1579789510",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-01-23T06:25:10",
+  "updated_at": "2020-01-23T06:25:10"
+}

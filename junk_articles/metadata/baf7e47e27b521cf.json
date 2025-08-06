@@ -1,0 +1,34 @@
+{
+  "uid": "baf7e47e27b521cf",
+  "content_type": "web_bookmark",
+  "source": "https://www.vox.com/the-goods/22166381/hollow-middle-class-american-dream",
+  "title": "America’s middle class doesn’t really exist - Vox",
+  "status": "converted_from_csv",
+  "date": "2020-12-15T13:22:07",
+  "error": null,
+  "content_path": "output/articles/markdown/baf7e47e27b521cf.md",
+  "html_path": "output/articles/html/baf7e47e27b521cf.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2566,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "291311ddfeb76015f4c8e50183043068",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1608067327",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-12-15T13:22:07",
+  "updated_at": "2020-12-15T13:22:07"
+}

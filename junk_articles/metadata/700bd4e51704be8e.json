@@ -1,0 +1,34 @@
+{
+  "uid": "700bd4e51704be8e",
+  "content_type": "web_bookmark",
+  "source": "http://www.playboy.com/articles/playboy-interview-ta-nehisi-coates",
+  "title": "Playboy Interview: Ta-Nehisi Coates",
+  "status": "converted_from_csv",
+  "date": "2016-06-24T21:36:32",
+  "error": null,
+  "content_path": "output/articles/markdown/700bd4e51704be8e.md",
+  "html_path": "output/articles/html/700bd4e51704be8e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4398,
+    "selection": "None"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ed3c9cc904cd9c3601c75ca321277fe9",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1466829392",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "None"
+  },
+  "video_id": null,
+  "created_at": "2016-06-24T21:36:32",
+  "updated_at": "2016-06-24T21:36:32"
+}

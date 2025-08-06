@@ -1,0 +1,34 @@
+{
+  "uid": "b9f2c7493d4067f4",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/ffbf945def7da8d657d2472a58820875/",
+  "title": "The Current Thing (Stratechery Update 3-17-2022)",
+  "status": "converted_from_csv",
+  "date": "2022-03-17T05:48:25",
+  "error": null,
+  "content_path": "output/articles/markdown/b9f2c7493d4067f4.md",
+  "html_path": "output/articles/html/b9f2c7493d4067f4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1563,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8a938a8ab9481a0dae0cc45e9ac9c630",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1647521305",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-03-17T05:48:25",
+  "updated_at": "2022-03-17T05:48:25"
+}

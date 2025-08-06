@@ -1,0 +1,34 @@
+{
+  "uid": "bb7040a0b2e7b029",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/25c208aed09438ce2b6ff3bc9fc77169/",
+  "title": "Head of Infamous \"Information Disorder\" Commission Promoted at NPR",
+  "status": "converted_from_csv",
+  "date": "2025-01-14T08:52:38",
+  "error": null,
+  "content_path": "output/articles/markdown/bb7040a0b2e7b029.md",
+  "html_path": "output/articles/html/bb7040a0b2e7b029.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 102,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f092fa302c361020c697550599c5545a",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1736873558",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2025-01-14T08:52:38",
+  "updated_at": "2025-01-14T08:52:38"
+}

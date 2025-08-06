@@ -1,0 +1,34 @@
+{
+  "uid": "d894bbd4d0119d38",
+  "content_type": "web_bookmark",
+  "source": "http://www.slate.com/id/2289177/pagenum/all/#p2",
+  "title": "The iPod has changed the way we listen to music. And the way we respond to it.",
+  "status": "converted_from_csv",
+  "date": "2011-05-31T01:20:39",
+  "error": null,
+  "content_path": "output/articles/markdown/d894bbd4d0119d38.md",
+  "html_path": "output/articles/html/d894bbd4d0119d38.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5816,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e4c2598e067a663406aab8633d476df7",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1306830039",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-05-31T01:20:39",
+  "updated_at": "2011-05-31T01:20:39"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "ec16d383a7c30b3f",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/bafed26744bb54f45f0116a8d7191180/",
+  "title": "💥They're Real and They're SPACtacular.💥",
+  "status": "converted_from_csv",
+  "date": "2021-06-30T05:02:40",
+  "error": null,
+  "content_path": "output/articles/markdown/ec16d383a7c30b3f.md",
+  "html_path": "output/articles/html/ec16d383a7c30b3f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2128,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "13cacbd97b9211af30ea06c1d94af955",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1625054560",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-06-30T05:02:40",
+  "updated_at": "2021-06-30T05:02:40"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "e85d4351c9e96470",
+  "content_type": "web_bookmark",
+  "source": "https://www.vanityfair.com/news/2019/08/how-elon-musk-gambled-tesla-to-save-solarcity",
+  "title": "“He’s Full of Shit”: How Elon Musk Gambled Tesla to Save SolarCity",
+  "status": "converted_from_csv",
+  "date": "2019-08-27T11:31:11",
+  "error": null,
+  "content_path": "output/articles/markdown/e85d4351c9e96470.md",
+  "html_path": "output/articles/html/e85d4351c9e96470.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3043,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "07c5584fb6c19572905e8f4f2876c1eb",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1566930671",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-08-27T11:31:11",
+  "updated_at": "2019-08-27T11:31:11"
+}

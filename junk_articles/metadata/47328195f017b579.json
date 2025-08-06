@@ -1,0 +1,34 @@
+{
+  "uid": "47328195f017b579",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/8004a3502a130b41e495a7db1cd79a0a/",
+  "title": "💥“The Next Great Category of Restructuring Advisory\"💥",
+  "status": "converted_from_csv",
+  "date": "2022-08-10T06:16:14",
+  "error": null,
+  "content_path": "output/articles/markdown/47328195f017b579.md",
+  "html_path": "output/articles/html/47328195f017b579.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1285,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d8df4865ec379a22df62f235a06d1778",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1660137374",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-08-10T06:16:14",
+  "updated_at": "2022-08-10T06:16:14"
+}

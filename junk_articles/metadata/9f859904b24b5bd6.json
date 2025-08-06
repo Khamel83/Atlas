@@ -1,0 +1,34 @@
+{
+  "uid": "9f859904b24b5bd6",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/36d2dfd058911e04766f5b87bad58f5f/",
+  "title": "Glenn Greenwald On His Resignation From The Intercept",
+  "status": "converted_from_csv",
+  "date": "2020-10-29T17:30:59",
+  "error": null,
+  "content_path": "output/articles/markdown/9f859904b24b5bd6.md",
+  "html_path": "output/articles/html/9f859904b24b5bd6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2690,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f312c4dd3727edccd6f1862e1930a70c",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1604017859",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-10-29T17:30:59",
+  "updated_at": "2020-10-29T17:30:59"
+}

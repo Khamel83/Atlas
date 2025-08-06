@@ -1,0 +1,34 @@
+{
+  "uid": "0fb2c75aa3e078a5",
+  "content_type": "web_bookmark",
+  "source": "http://www.slate.com/articles/news_and_politics/history/2013/12/linda_taylor_welfare_queen_ronald_reagan_made_her_a_notorious_american_villain.html",
+  "title": "The Real Story of Linda Taylor, America’s Original Welfare Queen",
+  "status": "converted_from_csv",
+  "date": "2014-01-08T12:13:33",
+  "error": null,
+  "content_path": "output/articles/markdown/0fb2c75aa3e078a5.md",
+  "html_path": "output/articles/html/0fb2c75aa3e078a5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5289,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "09fcfe24bc98c7bff5b582911305544f",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1389212013",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-01-08T12:13:33",
+  "updated_at": "2014-01-08T12:13:33"
+}

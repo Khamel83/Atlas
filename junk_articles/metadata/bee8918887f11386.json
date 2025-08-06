@@ -1,0 +1,34 @@
+{
+  "uid": "bee8918887f11386",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/9d3762c2488a0ec108c812756cd47975/",
+  "title": "Tracking a Journalistic Cliché: \"The Worst Attack on Our Democracy Since the Civil War\"",
+  "status": "converted_from_csv",
+  "date": "2021-11-02T09:59:37",
+  "error": null,
+  "content_path": "output/articles/markdown/bee8918887f11386.md",
+  "html_path": "output/articles/html/bee8918887f11386.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1854,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5ac2c3cc8f2fc521e1c0b53e74154764",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1635872377",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-11-02T09:59:37",
+  "updated_at": "2021-11-02T09:59:37"
+}

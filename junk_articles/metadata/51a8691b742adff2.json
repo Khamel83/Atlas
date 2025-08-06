@@ -1,0 +1,34 @@
+{
+  "uid": "51a8691b742adff2",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/727e7d4da38fc263b202ae7d3f1f12b0/",
+  "title": "Aaugh! A Brief List Of Official Russia Claims That Proved To Be Bogus",
+  "status": "converted_from_csv",
+  "date": "2021-03-18T15:25:06",
+  "error": null,
+  "content_path": "output/articles/markdown/51a8691b742adff2.md",
+  "html_path": "output/articles/html/51a8691b742adff2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2335,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "dac3656bc5558f26ac005161e564dbad",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1616106306",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-03-18T15:25:06",
+  "updated_at": "2021-03-18T15:25:06"
+}

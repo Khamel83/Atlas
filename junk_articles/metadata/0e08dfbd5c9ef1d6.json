@@ -1,0 +1,34 @@
+{
+  "uid": "0e08dfbd5c9ef1d6",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/5c4fa6ccdb64843f397c719b5cdc01e0/",
+  "title": "Anthony Blinken Raises the Pucker Factor on Dissent",
+  "status": "converted_from_csv",
+  "date": "2022-10-10T07:06:06",
+  "error": null,
+  "content_path": "output/articles/markdown/0e08dfbd5c9ef1d6.md",
+  "html_path": "output/articles/html/0e08dfbd5c9ef1d6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1188,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "78886f954e12b0046d4b352a982903f5",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1665410766",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-10-10T07:06:06",
+  "updated_at": "2022-10-10T07:06:06"
+}

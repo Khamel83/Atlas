@@ -1,0 +1,34 @@
+{
+  "uid": "b3844bbabc8f61a5",
+  "content_type": "web_bookmark",
+  "source": "https://www.rollingstone.com/politics/features/trump-syria-war-w519034",
+  "title": "Taibbi If We're on the Brink of War, the Fault Is Ours, Not Trump's or Bolton's Matt Taibbi",
+  "status": "converted_from_csv",
+  "date": "2018-04-13T06:56:38",
+  "error": null,
+  "content_path": "output/articles/markdown/b3844bbabc8f61a5.md",
+  "html_path": "output/articles/html/b3844bbabc8f61a5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3547,
+    "selection": "They have an excuse – they’re stupid and crazy. What’s ours?\n\n(RSS generated with  FetchRss)"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7583747dc3ab0d83b1b27da053715d2d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1523627798",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "They have an excuse – they’re stupid and crazy. What’s ours?\n\n(RSS generated with  FetchRss)"
+  },
+  "video_id": null,
+  "created_at": "2018-04-13T06:56:38",
+  "updated_at": "2018-04-13T06:56:38"
+}

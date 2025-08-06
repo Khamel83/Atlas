@@ -1,0 +1,34 @@
+{
+  "uid": "5e0886be7070cf79",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6bb0055cb3cebe901a5a13462aae4058/",
+  "title": "💥Is Big Lots in BIG Trouble? Part III.💥",
+  "status": "converted_from_csv",
+  "date": "2024-03-13T05:12:52",
+  "error": null,
+  "content_path": "output/articles/markdown/5e0886be7070cf79.md",
+  "html_path": "output/articles/html/5e0886be7070cf79.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 343,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ed8414bacf1354f8861b13a1fc43d4d2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1710331972",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-03-13T05:12:52",
+  "updated_at": "2024-03-13T05:12:52"
+}

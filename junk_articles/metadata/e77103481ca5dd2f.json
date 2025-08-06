@@ -1,0 +1,34 @@
+{
+  "uid": "e77103481ca5dd2f",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2016/09/23/us/isis-al-qaeda-recruits-anwar-al-awlaki.html",
+  "title": "‘In-Betweeners’ Are Part of a Rich Recruiting Pool for Jihadists",
+  "status": "converted_from_csv",
+  "date": "2016-09-22T12:03:45",
+  "error": null,
+  "content_path": "output/articles/markdown/e77103481ca5dd2f.md",
+  "html_path": "output/articles/html/e77103481ca5dd2f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4305,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7ef6e269c64c881b2fd0b3f2e424fe94",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1474571025",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-09-22T12:03:45",
+  "updated_at": "2016-09-22T12:03:45"
+}

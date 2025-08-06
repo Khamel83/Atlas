@@ -1,0 +1,34 @@
+{
+  "uid": "5a6133dc6b7f99a6",
+  "content_type": "web_bookmark",
+  "source": "http://dilbert.com/blog/entry/the_presidential_pitch_tv_show/",
+  "title": "The Presidential Pitch TV Show",
+  "status": "converted_from_csv",
+  "date": "2010-11-26T19:04:51",
+  "error": null,
+  "content_path": "output/articles/markdown/5a6133dc6b7f99a6.md",
+  "html_path": "output/articles/html/5a6133dc6b7f99a6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6105,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c14e03e72dc93bd5204763148c70d680",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1290827091",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-11-26T19:04:51",
+  "updated_at": "2010-11-26T19:04:51"
+}

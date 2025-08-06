@@ -1,0 +1,34 @@
+{
+  "uid": "660a4f9b34fa4e00",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/aa514b558049f163541815e94442eef5/",
+  "title": "Amazon Acquires Pillbox, PillPack’s Alignment With Amazon, The Walmart Miss (Stratechery Daily Update 6-29-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-06-29T03:21:04",
+  "error": null,
+  "content_path": "output/articles/markdown/660a4f9b34fa4e00.md",
+  "html_path": "output/articles/html/660a4f9b34fa4e00.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3463,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "90e553486900cdd99e2ccb95db00fcda",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1530267664",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-06-29T03:21:04",
+  "updated_at": "2018-06-29T03:21:04"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "59f494022e4c9b5a",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/487a57b9c18a46eda878eebd72712395/",
+  "title": "Gemini 1.5 and Google's Nature (Stratechery Article 4-10-2024)",
+  "status": "converted_from_csv",
+  "date": "2024-04-10T08:21:18",
+  "error": null,
+  "content_path": "output/articles/markdown/59f494022e4c9b5a.md",
+  "html_path": "output/articles/html/59f494022e4c9b5a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 317,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cdd0ba95119f9b248b2a447e15652635",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1712762478",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-04-10T08:21:18",
+  "updated_at": "2024-04-10T08:21:18"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "33b87db78d349440",
+  "content_type": "web_bookmark",
+  "source": "http://www.slate.com/articles/news_and_politics/human_nature/2011/11/christian_theocracy_how_newt_gingrich_and_the_gop_would_abolish_courts_and_legislate_morality_.html?fb_ref=sm_fb_like_toolbar&fb_source=profile_multiline",
+  "title": "Christian theocracy: How Newt Gingrich and the GOP would abolish courts and legislate morality. - Slate Magazine",
+  "status": "converted_from_csv",
+  "date": "2011-12-25T11:51:42",
+  "error": null,
+  "content_path": "output/articles/markdown/33b87db78d349440.md",
+  "html_path": "output/articles/html/33b87db78d349440.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5545,
+    "selection": "ugh"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d841707c0f9ea36282f323b5674d0cb5",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1324842702",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "ugh"
+  },
+  "video_id": null,
+  "created_at": "2011-12-25T11:51:42",
+  "updated_at": "2011-12-25T11:51:42"
+}

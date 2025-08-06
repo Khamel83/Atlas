@@ -1,0 +1,34 @@
+{
+  "uid": "deecdd59f1b71e82",
+  "content_type": "web_bookmark",
+  "source": "http://www.theatlantic.com/magazine/archive/2016/05/is-grit-overrated/476397/",
+  "title": "Is Grit Overrated?",
+  "status": "converted_from_csv",
+  "date": "2016-04-18T18:41:47",
+  "error": null,
+  "content_path": "output/articles/markdown/deecdd59f1b71e82.md",
+  "html_path": "output/articles/html/deecdd59f1b71e82.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4476,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "448967976f1c54a9c06b8b7d7e84bb3e",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1461030107",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-04-18T18:41:47",
+  "updated_at": "2016-04-18T18:41:47"
+}

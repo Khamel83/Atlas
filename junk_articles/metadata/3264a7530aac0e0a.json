@@ -1,0 +1,34 @@
+{
+  "uid": "3264a7530aac0e0a",
+  "content_type": "web_bookmark",
+  "source": "http://www.espn.com/soccer/club/egypt/2620/blog/post/3517766/watching-egypts-mohamed-salah-go-down-from-sergio-ramos-tackle",
+  "title": "The joy and agony (boo, Sergio Ramos!) of rooting for Egypt's Mohamed Salah",
+  "status": "converted_from_csv",
+  "date": "2018-06-11T16:33:35",
+  "error": null,
+  "content_path": "output/articles/markdown/3264a7530aac0e0a.md",
+  "html_path": "output/articles/html/3264a7530aac0e0a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3480,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "91583542ae1ec669378163d3b3c1a0fb",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1528760015",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-06-11T16:33:35",
+  "updated_at": "2018-06-11T16:33:35"
+}

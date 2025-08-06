@@ -1,0 +1,34 @@
+{
+  "uid": "e36b24d87a3d955c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/585dfd6329696c0c701b2e0873e26897/",
+  "title": "💥Future Chapter 11 Bankruptcy Filing: Elon Musk's Twitter Inc.?💥",
+  "status": "converted_from_csv",
+  "date": "2023-04-09T08:16:39",
+  "error": null,
+  "content_path": "output/articles/markdown/e36b24d87a3d955c.md",
+  "html_path": "output/articles/html/e36b24d87a3d955c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 925,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "890e00db897fc6653c90000cc0eb95b9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1681053399",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-04-09T08:16:39",
+  "updated_at": "2023-04-09T08:16:39"
+}

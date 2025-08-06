@@ -1,0 +1,34 @@
+{
+  "uid": "e77c3e08649da33b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/b8038e35a6e627abcf49b9183694f835/",
+  "title": "Three Books You Might Really, Really Need",
+  "status": "converted_from_csv",
+  "date": "2022-06-02T02:12:36",
+  "error": null,
+  "content_path": "output/articles/markdown/e77c3e08649da33b.md",
+  "html_path": "output/articles/html/e77c3e08649da33b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1409,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ca84a9dd8b5ae31cf01865b7e4601262",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1654161156",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-06-02T02:12:36",
+  "updated_at": "2022-06-02T02:12:36"
+}

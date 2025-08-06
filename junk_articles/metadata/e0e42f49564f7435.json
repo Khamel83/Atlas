@@ -1,0 +1,34 @@
+{
+  "uid": "e0e42f49564f7435",
+  "content_type": "web_bookmark",
+  "source": "http://www.theatlantic.com/business/archive/2014/04/everything-you-need-to-know-about-high-frequency-trading/360411/",
+  "title": "Everything You Need to Know About High-Frequency Trading",
+  "status": "converted_from_csv",
+  "date": "2014-04-15T17:08:58",
+  "error": null,
+  "content_path": "output/articles/markdown/e0e42f49564f7435.md",
+  "html_path": "output/articles/html/e0e42f49564f7435.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5271,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "822ee5bc0d5fb5e7937163872a731029",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1397606938",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-04-15T17:08:58",
+  "updated_at": "2014-04-15T17:08:58"
+}

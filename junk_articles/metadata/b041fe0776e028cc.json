@@ -1,0 +1,34 @@
+{
+  "uid": "b041fe0776e028cc",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/196d945934f227ec81e3c1f4b402a9c2/",
+  "title": "A Case of \"Intellectual Capture?\" On YouTube's Demonetization of Bret Weinstein",
+  "status": "converted_from_csv",
+  "date": "2021-07-02T14:35:38",
+  "error": null,
+  "content_path": "output/articles/markdown/b041fe0776e028cc.md",
+  "html_path": "output/articles/html/b041fe0776e028cc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2124,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "31fb694fa7b3bb1373dda43c3d879a3b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1625261738",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-07-02T14:35:38",
+  "updated_at": "2021-07-02T14:35:38"
+}

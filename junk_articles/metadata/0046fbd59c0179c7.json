@@ -1,0 +1,34 @@
+{
+  "uid": "0046fbd59c0179c7",
+  "content_type": "web_bookmark",
+  "source": "http://www.espn.com/nba/story/_/id/19874801",
+  "title": "Lowe: Winners and losers from NBA's stunning free agency",
+  "status": "converted_from_csv",
+  "date": "2017-07-07T10:39:24",
+  "error": null,
+  "content_path": "output/articles/markdown/0046fbd59c0179c7.md",
+  "html_path": "output/articles/html/0046fbd59c0179c7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3895,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f4e487f3b553718e87311f6695cc6a15",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1499449164",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-07-07T10:39:24",
+  "updated_at": "2017-07-07T10:39:24"
+}

@@ -1,0 +1,32 @@
+{
+  "uid": "1c48e96d3dbc33bd",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1732746470",
+  "title": "The Gen AI Bridge to the Future (Stratechery Article 12-2-2024)",
+  "status": "error",
+  "date": "2025-08-05T12:40:29.807130",
+  "error": "Failed to fetch content for 'The Gen AI Bridge to the Future (Stratechery Article 12-2-2024)' from instapaper://private-content/1732746470: No connection adapters were found for 'instapaper://private-content/1732746470'",
+  "content_path": null,
+  "html_path": null,
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": null,
+  "type_specific": {
+    "bookmark_id": 1732746470
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:40:29.807160",
+  "updated_at": "2025-08-05T12:40:29.826648"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "764f1ffdaff1ac09",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/89836d4059131b9d5e86f98de6c5cd6b/",
+  "title": "Putin-Loving Bigots Must Stop Whining About Defense Spending and the Economy",
+  "status": "converted_from_csv",
+  "date": "2023-11-07T11:45:49",
+  "error": null,
+  "content_path": "output/articles/markdown/764f1ffdaff1ac09.md",
+  "html_path": "output/articles/html/764f1ffdaff1ac09.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 538,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4bbb878708dcd0664b8d9c605ab9efa6",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1699386349",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-11-07T11:45:49",
+  "updated_at": "2023-11-07T11:45:49"
+}

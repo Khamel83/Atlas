@@ -1,0 +1,34 @@
+{
+  "uid": "17547a437888ef1a",
+  "content_type": "web_bookmark",
+  "source": "http://grantland.com/features/the-2014-all-bad-nfl-contracts-team/",
+  "title": "The All–Bad Contracts Team",
+  "status": "converted_from_csv",
+  "date": "2014-07-24T20:59:35",
+  "error": null,
+  "content_path": "output/articles/markdown/17547a437888ef1a.md",
+  "html_path": "output/articles/html/17547a437888ef1a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5208,
+    "selection": "The All–Bad Contracts Team http://ift.tt/1pi4lIo"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f6ba77ae5439bc7bf10fe7d7135f7078",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1406260775",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The All–Bad Contracts Team http://ift.tt/1pi4lIo"
+  },
+  "video_id": null,
+  "created_at": "2014-07-24T20:59:35",
+  "updated_at": "2014-07-24T20:59:35"
+}

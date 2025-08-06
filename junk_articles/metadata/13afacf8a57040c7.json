@@ -1,0 +1,34 @@
+{
+  "uid": "13afacf8a57040c7",
+  "content_type": "web_bookmark",
+  "source": "http://www.43folders.com/2011/04/22/cranking",
+  "title": "Cranking | 43 Folders",
+  "status": "converted_from_csv",
+  "date": "2011-05-03T23:05:39",
+  "error": null,
+  "content_path": "output/articles/markdown/13afacf8a57040c7.md",
+  "html_path": "output/articles/html/13afacf8a57040c7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5749,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "15c5425e56831da86fbc27a202264387",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1304489139",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-05-03T23:05:39",
+  "updated_at": "2011-05-03T23:05:39"
+}

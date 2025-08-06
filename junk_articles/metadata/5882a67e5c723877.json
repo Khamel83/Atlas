@@ -1,0 +1,34 @@
+{
+  "uid": "5882a67e5c723877",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/4f3b909267225078d6083719980c8362/",
+  "title": "Understanding Gun Violence",
+  "status": "converted_from_csv",
+  "date": "2022-07-11T02:50:40",
+  "error": null,
+  "content_path": "output/articles/markdown/5882a67e5c723877.md",
+  "html_path": "output/articles/html/5882a67e5c723877.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1345,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1ed10e7c969ca51c2df641bc88983541",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1657533040",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-07-11T02:50:40",
+  "updated_at": "2022-07-11T02:50:40"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "a74cde485e4dc879",
+  "content_type": "web_bookmark",
+  "source": "http://www.newyorker.com/talk/financial/2011/01/31/110131ta_talk_surowiecki?printable=true",
+  "title": "Navigating Risky Chinese Stocks : The New Yorker",
+  "status": "converted_from_csv",
+  "date": "2011-06-16T07:16:05",
+  "error": null,
+  "content_path": "output/articles/markdown/a74cde485e4dc879.md",
+  "html_path": "output/articles/html/a74cde485e4dc879.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5956,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "44f2b3ff48f4112748ceb354a91153ab",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1308233765",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-06-16T07:16:05",
+  "updated_at": "2011-06-16T07:16:05"
+}

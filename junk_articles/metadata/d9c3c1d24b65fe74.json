@@ -1,0 +1,34 @@
+{
+  "uid": "d9c3c1d24b65fe74",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2016/10/17/technology/ibm-is-counting-on-its-bet-on-watson-and-paying-big-money-for-it.html",
+  "title": "IBM Is Counting on Its Bet on Watson, and Paying Big Money for It - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2016-10-18T06:19:00",
+  "error": null,
+  "content_path": "output/articles/markdown/d9c3c1d24b65fe74.md",
+  "html_path": "output/articles/html/d9c3c1d24b65fe74.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4279,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b315573bad06b5c1300411f8e77a260a",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1476796740",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-10-18T06:19:00",
+  "updated_at": "2016-10-18T06:19:00"
+}

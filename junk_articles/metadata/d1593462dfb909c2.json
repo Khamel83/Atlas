@@ -1,0 +1,34 @@
+{
+  "uid": "d1593462dfb909c2",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/e18969ae1860bbd6b656cfe32ac4b73d/",
+  "title": "Five takeaways about Facebook's pivot to audio",
+  "status": "converted_from_csv",
+  "date": "2021-04-19T17:02:38",
+  "error": null,
+  "content_path": "output/articles/markdown/d1593462dfb909c2.md",
+  "html_path": "output/articles/html/d1593462dfb909c2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2273,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "75465f1c5faa1ed883fe7a45749a808c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1618876958",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-04-19T17:02:38",
+  "updated_at": "2021-04-19T17:02:38"
+}

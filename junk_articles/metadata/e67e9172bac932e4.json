@@ -1,0 +1,34 @@
+{
+  "uid": "e67e9172bac932e4",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/c178931d0931cac0818fa82e2669cdf6/",
+  "title": "Microsoft’s Earnings, Teams Passes Slack, The Partner Advantage (Stratechery Daily Update 7-22-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-07-22T03:53:56",
+  "error": null,
+  "content_path": "output/articles/markdown/e67e9172bac932e4.md",
+  "html_path": "output/articles/html/e67e9172bac932e4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3079,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9ecdf7b3fd729166465eca6cf5122664",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1563792836",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-07-22T03:53:56",
+  "updated_at": "2019-07-22T03:53:56"
+}

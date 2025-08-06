@@ -1,0 +1,34 @@
+{
+  "uid": "24c49c7e2d14c4d7",
+  "content_type": "web_bookmark",
+  "source": "https://aeon.co/essays/so-you-re-surrounded-by-idiots-guess-who-the-real-jerk-is",
+  "title": "So you’re surrounded by idiots. Guess who the real jerk is – Eric Schwitzgebel | Aeon Essays",
+  "status": "converted_from_csv",
+  "date": "2018-03-26T17:12:59",
+  "error": null,
+  "content_path": "output/articles/markdown/24c49c7e2d14c4d7.md",
+  "html_path": "output/articles/html/24c49c7e2d14c4d7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3573,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7c1b41c38763dcb44fb70e98925f6f8d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1522109579",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-03-26T17:12:59",
+  "updated_at": "2018-03-26T17:12:59"
+}

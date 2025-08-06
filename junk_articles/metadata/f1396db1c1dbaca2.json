@@ -1,0 +1,34 @@
+{
+  "uid": "f1396db1c1dbaca2",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/1dc81a8d3b4342d3e1bbfc1dbe49c213/",
+  "title": "Interview With \"Rising,\" About Trump-Russia Probe",
+  "status": "converted_from_csv",
+  "date": "2024-02-29T05:51:21",
+  "error": null,
+  "content_path": "output/articles/markdown/f1396db1c1dbaca2.md",
+  "html_path": "output/articles/html/f1396db1c1dbaca2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 366,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1b45fbe507947d330d34537814aecb1d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1709214681",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-02-29T05:51:21",
+  "updated_at": "2024-02-29T05:51:21"
+}

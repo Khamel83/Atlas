@@ -1,0 +1,34 @@
+{
+  "uid": "d7623022644c40f9",
+  "content_type": "web_bookmark",
+  "source": "http://www.rollingstone.com/politics/news/why-isnt-wall-street-in-jail-20110216?print=true",
+  "title": "Why Isn't Wall Street in Jail?",
+  "status": "converted_from_csv",
+  "date": "2011-02-23T21:53:16",
+  "error": null,
+  "content_path": "output/articles/markdown/d7623022644c40f9.md",
+  "html_path": "output/articles/html/d7623022644c40f9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5884,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c09e4f31be687524641e86140dfac3b8",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1298526796",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-02-23T21:53:16",
+  "updated_at": "2011-02-23T21:53:16"
+}

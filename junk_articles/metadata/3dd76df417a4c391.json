@@ -1,0 +1,34 @@
+{
+  "uid": "3dd76df417a4c391",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/fae4a4738da8209a16cecb8f8fb28d13/",
+  "title": "Welcome to Sports Stories",
+  "status": "converted_from_csv",
+  "date": "2020-12-01T09:26:49",
+  "error": null,
+  "content_path": "output/articles/markdown/3dd76df417a4c391.md",
+  "html_path": "output/articles/html/3dd76df417a4c391.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2604,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "54ad23392bc66d83a3ff117f2cf2a3a4",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1606843609",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-12-01T09:26:49",
+  "updated_at": "2020-12-01T09:26:49"
+}

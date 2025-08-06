@@ -1,0 +1,34 @@
+{
+  "uid": "6797226a02595b5f",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/a48522e0965f2c821904b7fe3da96fa0/",
+  "title": "Larry Page and Sergey Brin Step Down, Why Now?, Google Going Forward (Stratechery Daily Update 12-4-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-12-04T04:26:23",
+  "error": null,
+  "content_path": "output/articles/markdown/6797226a02595b5f.md",
+  "html_path": "output/articles/html/6797226a02595b5f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2936,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f313107d28ef86be0c2ef9d84030c30f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1575462383",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-12-04T04:26:23",
+  "updated_at": "2019-12-04T04:26:23"
+}

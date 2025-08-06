@@ -1,0 +1,34 @@
+{
+  "uid": "002c25acdb0290af",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/cdcdf0a88b9b98b5010d18cda9e1371d/",
+  "title": "Attention is All You Need",
+  "status": "converted_from_csv",
+  "date": "2023-03-27T05:38:22",
+  "error": null,
+  "content_path": "output/articles/markdown/002c25acdb0290af.md",
+  "html_path": "output/articles/html/002c25acdb0290af.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 946,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "82ff8695636d557c78d535d9f14c5059",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1679920702",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-03-27T05:38:22",
+  "updated_at": "2023-03-27T05:38:22"
+}

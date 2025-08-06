@@ -1,0 +1,34 @@
+{
+  "uid": "cfb063c77e1980f5",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/8cdd44c002706ad663adad5e75f84453/",
+  "title": "PayPal's IndyMedia Wipeout",
+  "status": "converted_from_csv",
+  "date": "2022-05-03T10:53:11",
+  "error": null,
+  "content_path": "output/articles/markdown/cfb063c77e1980f5.md",
+  "html_path": "output/articles/html/cfb063c77e1980f5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1467,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f26fb5b200c4bc40db2cb49a76de6bec",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1651600391",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-05-03T10:53:11",
+  "updated_at": "2022-05-03T10:53:11"
+}

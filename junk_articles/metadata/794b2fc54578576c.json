@@ -1,0 +1,34 @@
+{
+  "uid": "794b2fc54578576c",
+  "content_type": "web_bookmark",
+  "source": "http://fivethirtyeight.com/datalab/new-york-is-85-better-than-la-according-to-aggregate-personal-income-in-the-metropolitan-statistical-areas/",
+  "title": "New York Is 85% Better Than LA (According to Aggregate Personal Income in the Metropolitan Statistical Areas)",
+  "status": "converted_from_csv",
+  "date": "2014-06-02T20:55:13",
+  "error": null,
+  "content_path": "output/articles/markdown/794b2fc54578576c.md",
+  "html_path": "output/articles/html/794b2fc54578576c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5250,
+    "selection": "via FiveThirtyEightDataLab | FiveThirtyEight http://ift.tt/Rgk38O"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8c4429d9a5a2e89f9d7bb9a3d32390c0",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1401767713",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "via FiveThirtyEightDataLab | FiveThirtyEight http://ift.tt/Rgk38O"
+  },
+  "video_id": null,
+  "created_at": "2014-06-02T20:55:13",
+  "updated_at": "2014-06-02T20:55:13"
+}

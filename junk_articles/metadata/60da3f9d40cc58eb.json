@@ -1,0 +1,34 @@
+{
+  "uid": "60da3f9d40cc58eb",
+  "content_type": "web_bookmark",
+  "source": "http://www.youtube.com/watch?v=Czb4rImsph0",
+  "title": "Man smacks the soul out of girl on the NY Subway",
+  "status": "converted_from_csv",
+  "date": "2014-11-10T21:38:33",
+  "error": null,
+  "content_path": "output/articles/markdown/60da3f9d40cc58eb.md",
+  "html_path": "output/articles/html/60da3f9d40cc58eb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5058,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "26f7fccbac2de950f35b50a4acdc083a",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1415684313",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-11-10T21:38:33",
+  "updated_at": "2014-11-10T21:38:33"
+}

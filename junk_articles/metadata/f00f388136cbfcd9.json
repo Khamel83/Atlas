@@ -1,0 +1,34 @@
+{
+  "uid": "f00f388136cbfcd9",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/04/15/opinion/15brooks.html?ref=homepage&src=me&pagewanted=print",
+  "title": "Ultimate Spoiler Alert - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-04-16T22:31:45",
+  "error": null,
+  "content_path": "output/articles/markdown/f00f388136cbfcd9.md",
+  "html_path": "output/articles/html/f00f388136cbfcd9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5780,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6c67b9426a5c64b5925eae17c52bff41",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1303018305",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-04-16T22:31:45",
+  "updated_at": "2011-04-16T22:31:45"
+}

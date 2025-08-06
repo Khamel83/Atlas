@@ -1,0 +1,34 @@
+{
+  "uid": "aec5a937dd9614a7",
+  "content_type": "web_bookmark",
+  "source": "http://city-journal.org/html/finnish-model-14302.html",
+  "title": "The Finnish Model",
+  "status": "converted_from_csv",
+  "date": "2016-03-29T07:42:51",
+  "error": null,
+  "content_path": "output/articles/markdown/aec5a937dd9614a7.md",
+  "html_path": "output/articles/html/aec5a937dd9614a7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4519,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c32cd32ab01053a46d9f5a89cb0853ad",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1459262571",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-03-29T07:42:51",
+  "updated_at": "2016-03-29T07:42:51"
+}

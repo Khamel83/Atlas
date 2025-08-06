@@ -1,0 +1,34 @@
+{
+  "uid": "ecfa534eb0895c71",
+  "content_type": "web_bookmark",
+  "source": "https://www.gocomics.com/calvinandhobbes/2019/11/17",
+  "title": "Calvin and Hobbes for November 17, 2019 Calvin and Hobbes (Unofficial)",
+  "status": "converted_from_csv",
+  "date": "2019-11-17T12:53:08",
+  "error": null,
+  "content_path": "output/articles/markdown/ecfa534eb0895c71.md",
+  "html_path": "output/articles/html/ecfa534eb0895c71.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2954,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2d4788d620489fd0334def00e8b8f0e4",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1574023988",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-11-17T12:53:08",
+  "updated_at": "2019-11-17T12:53:08"
+}

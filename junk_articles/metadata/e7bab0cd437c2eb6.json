@@ -1,0 +1,34 @@
+{
+  "uid": "e7bab0cd437c2eb6",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/153794b4b1257d8c8720ce8dd9100c33/",
+  "title": "Note to Subscribers: Thursday Live-Blog, Friday Callin at 4:00 EST, and New Features",
+  "status": "converted_from_csv",
+  "date": "2022-07-20T13:48:37",
+  "error": null,
+  "content_path": "output/articles/markdown/e7bab0cd437c2eb6.md",
+  "html_path": "output/articles/html/e7bab0cd437c2eb6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1324,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7e70f222f573037c0de8b82808b7fe1f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1658350117",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-07-20T13:48:37",
+  "updated_at": "2022-07-20T13:48:37"
+}

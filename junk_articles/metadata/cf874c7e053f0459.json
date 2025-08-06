@@ -1,0 +1,34 @@
+{
+  "uid": "cf874c7e053f0459",
+  "content_type": "web_bookmark",
+  "source": "http://flowingdata.com/2018/01/16/back-to-the-future-abridged-chart/",
+  "title": "Back to the Future, Abridged Chart Edition FlowingData",
+  "status": "converted_from_csv",
+  "date": "2018-01-16T07:42:34",
+  "error": null,
+  "content_path": "output/articles/markdown/cf874c7e053f0459.md",
+  "html_path": "output/articles/html/cf874c7e053f0459.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3657,
+    "selection": "…\n\nTags: Back to the Future, movie"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fc310790ce59f9abde8757c1516ef4f4",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1516117354",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "…\n\nTags: Back to the Future, movie"
+  },
+  "video_id": null,
+  "created_at": "2018-01-16T07:42:34",
+  "updated_at": "2018-01-16T07:42:34"
+}

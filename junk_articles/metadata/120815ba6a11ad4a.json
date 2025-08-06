@@ -1,0 +1,34 @@
+{
+  "uid": "120815ba6a11ad4a",
+  "content_type": "web_bookmark",
+  "source": "https://www.vox.com/recode/22193428/wework-flexible-coworking-office-space-pandemic",
+  "title": "The pandemic could have crushed WeWork. It may have saved it instead.",
+  "status": "converted_from_csv",
+  "date": "2020-12-22T23:25:20",
+  "error": null,
+  "content_path": "output/articles/markdown/120815ba6a11ad4a.md",
+  "html_path": "output/articles/html/120815ba6a11ad4a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2547,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a6bd83d61d1ce7d226796def01dffe15",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1608708320",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-12-22T23:25:20",
+  "updated_at": "2020-12-22T23:25:20"
+}

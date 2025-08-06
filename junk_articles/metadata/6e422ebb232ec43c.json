@@ -1,0 +1,34 @@
+{
+  "uid": "6e422ebb232ec43c",
+  "content_type": "web_bookmark",
+  "source": "https://news.yahoo.com/trillion-dollar-grift-inside-greatest-131540731.html",
+  "title": "The Trillion-Dollar Grift: Inside the Greatest Scam of All Time",
+  "status": "converted_from_csv",
+  "date": "2023-07-10T09:17:39",
+  "error": null,
+  "content_path": "output/articles/markdown/6e422ebb232ec43c.md",
+  "html_path": "output/articles/html/6e422ebb232ec43c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 782,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "54790fcd20588acc8a1443bd3edeac11",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1689005859",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-07-10T09:17:39",
+  "updated_at": "2023-07-10T09:17:39"
+}

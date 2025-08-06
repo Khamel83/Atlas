@@ -1,0 +1,34 @@
+{
+  "uid": "70825d2ffceb815b",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/01/02/magazine/02fob-consumed-t.html?ref=magazine&pagewanted=print",
+  "title": "Independent Projects Turn Google’s Maps Into Entertainment - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-01-01T22:10:37",
+  "error": null,
+  "content_path": "output/articles/markdown/70825d2ffceb815b.md",
+  "html_path": "output/articles/html/70825d2ffceb815b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6006,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "414ac292379af1dd4eb11cd07c0771f1",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1293948637",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-01-01T22:10:37",
+  "updated_at": "2011-01-01T22:10:37"
+}

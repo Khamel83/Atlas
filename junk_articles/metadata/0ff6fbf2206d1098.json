@@ -1,0 +1,34 @@
+{
+  "uid": "0ff6fbf2206d1098",
+  "content_type": "web_bookmark",
+  "source": "http://us5.campaign-archive1.com/?e=ef6eeda78d&id=0e66884a23&u=a04b7dc3f187a3b6f52e8de49",
+  "title": "The Uber Conflation (Stratechery Weekly Article 2017-03-07)",
+  "status": "converted_from_csv",
+  "date": "2017-03-07T08:15:48",
+  "error": null,
+  "content_path": "output/articles/markdown/0ff6fbf2206d1098.md",
+  "html_path": "output/articles/html/0ff6fbf2206d1098.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4082,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5a55937bfd82265424b5c8ea2e039319",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1488903348",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-03-07T08:15:48",
+  "updated_at": "2017-03-07T08:15:48"
+}

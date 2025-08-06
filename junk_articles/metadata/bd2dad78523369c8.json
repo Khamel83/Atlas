@@ -1,0 +1,34 @@
+{
+  "uid": "bd2dad78523369c8",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/cbe7509d40ee94509c70679e516f6779/",
+  "title": "💥Celsius, Brr💥",
+  "status": "converted_from_csv",
+  "date": "2022-07-20T05:03:33",
+  "error": null,
+  "content_path": "output/articles/markdown/bd2dad78523369c8.md",
+  "html_path": "output/articles/html/bd2dad78523369c8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1327,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a059889dec642424e2b37b92d479f092",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1658318613",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-07-20T05:03:33",
+  "updated_at": "2022-07-20T05:03:33"
+}

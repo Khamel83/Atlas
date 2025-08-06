@@ -1,0 +1,34 @@
+{
+  "uid": "a88f37ceb54be7eb",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/2e78dd77e6a33f3e93d46da9ffe30f07/",
+  "title": "Internet Trends: Smartphones & Internet Usage, Tech’s Takeover, Small Business Revolution, Tech Deflation (Stratechery Daily Update 5-31-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-05-31T02:47:18",
+  "error": null,
+  "content_path": "output/articles/markdown/a88f37ceb54be7eb.md",
+  "html_path": "output/articles/html/a88f37ceb54be7eb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3488,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "868abc0c816fdc9897c002e3a0917c10",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1527760038",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-05-31T02:47:18",
+  "updated_at": "2018-05-31T02:47:18"
+}

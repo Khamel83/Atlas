@@ -1,0 +1,34 @@
+{
+  "uid": "2a89c2bbc6c5ba0e",
+  "content_type": "web_bookmark",
+  "source": "https://www.knightfoundation.org/public-media-white-paper-2017-kramer-o-donovan",
+  "title": "F is for Future: How to think about public media's next 50 years - Knight Foundation",
+  "status": "converted_from_csv",
+  "date": "2017-12-09T10:18:29",
+  "error": null,
+  "content_path": "output/articles/markdown/2a89c2bbc6c5ba0e.md",
+  "html_path": "output/articles/html/2a89c2bbc6c5ba0e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3694,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "22bdf3e0f475ab528aea2e9e5b3624f4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1512843509",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-12-09T10:18:29",
+  "updated_at": "2017-12-09T10:18:29"
+}

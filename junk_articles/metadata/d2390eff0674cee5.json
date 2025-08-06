@@ -1,0 +1,34 @@
+{
+  "uid": "d2390eff0674cee5",
+  "content_type": "web_bookmark",
+  "source": "http://grantland.com/the-triangle/nba-bag-figuring-out-the-ever-changing-pick-swapping-2014-draft/",
+  "title": "NBA Bag: Figuring Out the Ever-Changing, Pick-Swapping 2014 Draft",
+  "status": "converted_from_csv",
+  "date": "2014-03-19T13:24:27",
+  "error": null,
+  "content_path": "output/articles/markdown/d2390eff0674cee5.md",
+  "html_path": "output/articles/html/d2390eff0674cee5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5276,
+    "selection": "via Grantland » Contributors » Bill Simmons http://grantland.com"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cec6dc54171d3888e0cedb37571b8345",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1395260667",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "via Grantland » Contributors » Bill Simmons http://grantland.com"
+  },
+  "video_id": null,
+  "created_at": "2014-03-19T13:24:27",
+  "updated_at": "2014-03-19T13:24:27"
+}

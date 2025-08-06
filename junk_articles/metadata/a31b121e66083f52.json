@@ -1,0 +1,34 @@
+{
+  "uid": "a31b121e66083f52",
+  "content_type": "web_bookmark",
+  "source": "https://www.currentaffairs.org/2016/07/you-should-be-terrified-that-people-who-like-hamilton-run-our-country",
+  "title": "You Should Be Terrified That People Who Like “Hamilton” Run Our Country | Current Affairs",
+  "status": "converted_from_csv",
+  "date": "2016-10-21T22:06:08",
+  "error": null,
+  "content_path": "output/articles/markdown/a31b121e66083f52.md",
+  "html_path": "output/articles/html/a31b121e66083f52.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4269,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bb71690125b16ff2d540b888734897df",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1477112768",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-10-21T22:06:08",
+  "updated_at": "2016-10-21T22:06:08"
+}

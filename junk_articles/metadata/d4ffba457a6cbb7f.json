@@ -1,0 +1,34 @@
+{
+  "uid": "d4ffba457a6cbb7f",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/ed0b8146cc75c1b0e717c77630a66690/",
+  "title": "Your Parenting Wins and Woes",
+  "status": "converted_from_csv",
+  "date": "2022-05-10T09:06:17",
+  "error": null,
+  "content_path": "output/articles/markdown/d4ffba457a6cbb7f.md",
+  "html_path": "output/articles/html/d4ffba457a6cbb7f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1455,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b95d1358574188585c2237636ad17ac6",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1652198777",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-05-10T09:06:17",
+  "updated_at": "2022-05-10T09:06:17"
+}

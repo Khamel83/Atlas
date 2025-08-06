@@ -1,0 +1,32 @@
+{
+  "uid": "7271b78f593463d9",
+  "content_type": "instapaper",
+  "source": "https://www.nytimes.com/athletic/6479455/2025/07/09/nfl-trump-buffalo-bills-canada/",
+  "title": "Can the NFL overcome Trump’s anti-Canada rhetoric? The Bills are banking on it",
+  "status": "success",
+  "date": "2025-08-05T12:39:45.708387",
+  "error": null,
+  "content_path": "output/articles/markdown/ad64ff05fcd2fbf5.md",
+  "html_path": "output/articles/html/ad64ff05fcd2fbf5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "59b4294b416f25e5221ffd014992e3df5b4298e4d36d6107dddd33f5211cd7a3",
+  "type_specific": {
+    "bookmark_id": 1849979055
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:39:45.708390",
+  "updated_at": "2025-08-05T12:39:46.257994"
+}

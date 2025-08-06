@@ -1,0 +1,34 @@
+{
+  "uid": "50a6a9867340ce6b",
+  "content_type": "web_bookmark",
+  "source": "http://kottke.org/15/08/around-the-world-three-years",
+  "title": "Around the world in three years kottke.org",
+  "status": "converted_from_csv",
+  "date": "2015-08-03T22:37:41",
+  "error": null,
+  "content_path": "output/articles/markdown/50a6a9867340ce6b.md",
+  "html_path": "output/articles/html/50a6a9867340ce6b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4793,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b8785b88adf4d7a2d73091a3a0706eb8",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1438666661",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-08-03T22:37:41",
+  "updated_at": "2015-08-03T22:37:41"
+}

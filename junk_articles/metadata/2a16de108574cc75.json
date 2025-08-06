@@ -1,0 +1,34 @@
+{
+  "uid": "2a16de108574cc75",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/4d8838a731b48e48d52d43b3fef712f6/",
+  "title": "Ape Armies and Investor Relations",
+  "status": "converted_from_csv",
+  "date": "2021-06-05T09:55:05",
+  "error": null,
+  "content_path": "output/articles/markdown/2a16de108574cc75.md",
+  "html_path": "output/articles/html/2a16de108574cc75.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2174,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "44b307d8011086db5ef8da62c9c1064d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1622912105",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-06-05T09:55:05",
+  "updated_at": "2021-06-05T09:55:05"
+}

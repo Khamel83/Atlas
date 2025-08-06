@@ -1,0 +1,34 @@
+{
+  "uid": "2e4a4f962568808b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/1fc1f5fb4ed0e7a02f3a0734d3779e8b/",
+  "title": "WeWork Delays IPO, DataDog Prices IPO, SoftBank and Going Big (Stratechery Daily Update 9-18-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-09-18T04:25:16",
+  "error": null,
+  "content_path": "output/articles/markdown/2e4a4f962568808b.md",
+  "html_path": "output/articles/html/2e4a4f962568808b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3017,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "75e304bcadf7fe41cc38d238c04d82f4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1568805916",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-09-18T04:25:16",
+  "updated_at": "2019-09-18T04:25:16"
+}

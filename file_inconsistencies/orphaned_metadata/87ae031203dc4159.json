@@ -1,0 +1,32 @@
+{
+  "uid": "87ae031203dc4159",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1756034144",
+  "title": "💥23andMeh💥",
+  "status": "error",
+  "date": "2025-08-05T12:40:14.742592",
+  "error": "Failed to fetch content for '💥23andMeh💥' from instapaper://private-content/1756034144: No connection adapters were found for 'instapaper://private-content/1756034144'",
+  "content_path": null,
+  "html_path": null,
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": null,
+  "type_specific": {
+    "bookmark_id": 1756034144
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:40:14.742620",
+  "updated_at": "2025-08-05T12:40:14.753190"
+}

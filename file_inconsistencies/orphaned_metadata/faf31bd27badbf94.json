@@ -1,0 +1,32 @@
+{
+  "uid": "faf31bd27badbf94",
+  "content_type": "instapaper",
+  "source": "https://substack.com/home/post/p-158566388",
+  "title": "The Bully In His Pulpit",
+  "status": "success",
+  "date": "2025-08-05T12:39:55.945751",
+  "error": null,
+  "content_path": "output/articles/markdown/3ba8ce9e413a2501.md",
+  "html_path": "output/articles/html/3ba8ce9e413a2501.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "74b41cc7a0ecc19f65eceb3bad981026719db596bd7d370dc89b50b191409061",
+  "type_specific": {
+    "bookmark_id": 1759680941
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:39:55.945769",
+  "updated_at": "2025-08-05T12:39:56.598500"
+}

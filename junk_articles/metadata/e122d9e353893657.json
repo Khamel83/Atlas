@@ -1,0 +1,34 @@
+{
+  "uid": "e122d9e353893657",
+  "content_type": "web_bookmark",
+  "source": "https://www.indianapolismonthly.com/longform/roger-penske",
+  "title": "May Day: Roger Penske’s Indy 500 In The Age Of COVID-19 – Indianapolis Monthly",
+  "status": "converted_from_csv",
+  "date": "2020-04-10T20:09:46",
+  "error": null,
+  "content_path": "output/articles/markdown/e122d9e353893657.md",
+  "html_path": "output/articles/html/e122d9e353893657.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2847,
+    "selection": "https://www.indianapolismonthly.com/longform/roger-penske"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "eb83a09a7c689fa51101e456ac988e4b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1586574586",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "https://www.indianapolismonthly.com/longform/roger-penske"
+  },
+  "video_id": null,
+  "created_at": "2020-04-10T20:09:46",
+  "updated_at": "2020-04-10T20:09:46"
+}

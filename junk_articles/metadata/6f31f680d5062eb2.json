@@ -1,0 +1,34 @@
+{
+  "uid": "6f31f680d5062eb2",
+  "content_type": "web_bookmark",
+  "source": "https://www.vox.com/2017/8/10/16122636/american-action-tax-reform-ad",
+  "title": "Big business wants you to think a tax cut for big business will stop outsourcing",
+  "status": "converted_from_csv",
+  "date": "2017-08-10T07:55:58",
+  "error": null,
+  "content_path": "output/articles/markdown/6f31f680d5062eb2.md",
+  "html_path": "output/articles/html/6f31f680d5062eb2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3854,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a3f934bd8976b16429e3ae24835a2b29",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1502376958",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-08-10T07:55:58",
+  "updated_at": "2017-08-10T07:55:58"
+}

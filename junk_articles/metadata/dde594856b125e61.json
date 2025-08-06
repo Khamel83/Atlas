@@ -1,0 +1,34 @@
+{
+  "uid": "dde594856b125e61",
+  "content_type": "web_bookmark",
+  "source": "https://stratechery.com/2018/att-pulls-out-of-huawei-deal-apples-other-china-problem-youtubes-logan-paul-decision/",
+  "title": "AT&T Pulls Out of Huawei Deal, Apple’s Other China Problem, YouTube’s Logan Paul Decision",
+  "status": "converted_from_csv",
+  "date": "2018-01-11T14:24:18",
+  "error": null,
+  "content_path": "output/articles/markdown/dde594856b125e61.md",
+  "html_path": "output/articles/html/dde594856b125e61.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3664,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b52db4aeb51bbf7244f958bf22a87291",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1515709458",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-01-11T14:24:18",
+  "updated_at": "2018-01-11T14:24:18"
+}

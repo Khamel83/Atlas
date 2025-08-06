@@ -1,0 +1,34 @@
+{
+  "uid": "70cfefedcb9de930",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/7c2d159a5d3d1c483b0f0d05b5ac15db/",
+  "title": "💥A Wave of Cancelled Auctions💥",
+  "status": "converted_from_csv",
+  "date": "2024-10-16T05:06:28",
+  "error": null,
+  "content_path": "output/articles/markdown/70cfefedcb9de930.md",
+  "html_path": "output/articles/html/70cfefedcb9de930.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 168,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8f788283a2174bbbc2410aa83ec4b22c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1729080388",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-10-16T05:06:28",
+  "updated_at": "2024-10-16T05:06:28"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "ec3b883d52927d21",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/4667293b58db0df38c61b96f54e0148d/",
+  "title": "Live Blog: January 6th Hearings, Thursday, July 21",
+  "status": "converted_from_csv",
+  "date": "2022-07-21T17:02:17",
+  "error": null,
+  "content_path": "output/articles/markdown/ec3b883d52927d21.md",
+  "html_path": "output/articles/html/ec3b883d52927d21.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1320,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c4f509047fbbe176474d66a7d41adcc1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1658448137",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-07-21T17:02:17",
+  "updated_at": "2022-07-21T17:02:17"
+}

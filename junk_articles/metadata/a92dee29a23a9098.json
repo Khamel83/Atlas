@@ -1,0 +1,34 @@
+{
+  "uid": "a92dee29a23a9098",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/2a66a81c00a2522072fd9ffe685650ac/",
+  "title": "Facebook's Supreme Court arrives",
+  "status": "converted_from_csv",
+  "date": "2020-10-22T17:04:43",
+  "error": null,
+  "content_path": "output/articles/markdown/a92dee29a23a9098.md",
+  "html_path": "output/articles/html/a92dee29a23a9098.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2701,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ef2a12ddce3fb27c2564a85cda605d1f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1603411483",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-10-22T17:04:43",
+  "updated_at": "2020-10-22T17:04:43"
+}

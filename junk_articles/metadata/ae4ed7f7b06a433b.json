@@ -1,0 +1,34 @@
+{
+  "uid": "ae4ed7f7b06a433b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/915336e2dbc120a753e9f4d5c516b73d/",
+  "title": "Unmasking Twitter (Stratechery Weekly Article 3-31-2020)",
+  "status": "converted_from_csv",
+  "date": "2020-03-31T06:48:05",
+  "error": null,
+  "content_path": "output/articles/markdown/ae4ed7f7b06a433b.md",
+  "html_path": "output/articles/html/ae4ed7f7b06a433b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2852,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e38abfcf59e4d85a88eb7c2efaa63efd",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1585662485",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-03-31T06:48:05",
+  "updated_at": "2020-03-31T06:48:05"
+}

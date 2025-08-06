@@ -1,0 +1,34 @@
+{
+  "uid": "6d4e3e3d040c3993",
+  "content_type": "web_bookmark",
+  "source": "http://www.avclub.com/tvclub/frustrating-brilliant-sherlock-stays-frustrating-r-248468",
+  "title": "\"The Final Problem\" · Sherlock · TV Review The frustrating, brilliant Sherlock stays frustrating right to the end · TV Club · The A.V. Club",
+  "status": "converted_from_csv",
+  "date": "2017-01-24T10:04:32",
+  "error": null,
+  "content_path": "output/articles/markdown/6d4e3e3d040c3993.md",
+  "html_path": "output/articles/html/6d4e3e3d040c3993.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4142,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7e774af7e99634348b8dbc7d1aa0d931",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1485281072",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-01-24T10:04:32",
+  "updated_at": "2017-01-24T10:04:32"
+}

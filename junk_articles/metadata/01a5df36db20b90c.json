@@ -1,0 +1,34 @@
+{
+  "uid": "01a5df36db20b90c",
+  "content_type": "web_bookmark",
+  "source": "http://www.smithsonianmag.com/people-places/Why-Are-Finlands-Schools-Successful.html?c=y&story=fullstory",
+  "title": "Why Are Finland's Schools Successful? | People & Places",
+  "status": "converted_from_csv",
+  "date": "2011-08-22T16:32:23",
+  "error": null,
+  "content_path": "output/articles/markdown/01a5df36db20b90c.md",
+  "html_path": "output/articles/html/01a5df36db20b90c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5645,
+    "selection": "Longreads: \"Why Are Finland's Schools Successful?\" @smithsonianmag #longreads http://bit.ly/oOLwat"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d4bc0f55b78c798e2c34d1bfcd803f4a",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1314055943",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Longreads: \"Why Are Finland's Schools Successful?\" @smithsonianmag #longreads http://bit.ly/oOLwat"
+  },
+  "video_id": null,
+  "created_at": "2011-08-22T16:32:23",
+  "updated_at": "2011-08-22T16:32:23"
+}

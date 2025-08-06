@@ -1,0 +1,34 @@
+{
+  "uid": "86b480a36963abca",
+  "content_type": "web_bookmark",
+  "source": "http://www.economist.com/node/18620824/print",
+  "title": "The Carlyle Group: Time for a threesome | The Economist",
+  "status": "converted_from_csv",
+  "date": "2011-05-03T23:05:41",
+  "error": null,
+  "content_path": "output/articles/markdown/86b480a36963abca.md",
+  "html_path": "output/articles/html/86b480a36963abca.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5752,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "aa29753d85000833d7d3176d4037f64f",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1304489141",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-05-03T23:05:41",
+  "updated_at": "2011-05-03T23:05:41"
+}

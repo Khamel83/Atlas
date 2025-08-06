@@ -1,0 +1,34 @@
+{
+  "uid": "b659bc5b005c4a0b",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/culture/archive/2020/07/disney-world-during-pandemic-extremely-weird/614617/",
+  "title": "Disney World During the Pandemic Is Extremely Weird - The Atlantic",
+  "status": "converted_from_csv",
+  "date": "2020-07-27T10:33:02",
+  "error": null,
+  "content_path": "output/articles/markdown/b659bc5b005c4a0b.md",
+  "html_path": "output/articles/html/b659bc5b005c4a0b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2795,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "535004e089797d6f80d5031f912bf668",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1595871182",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-07-27T10:33:02",
+  "updated_at": "2020-07-27T10:33:02"
+}

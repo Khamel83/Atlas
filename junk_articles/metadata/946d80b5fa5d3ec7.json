@@ -1,0 +1,34 @@
+{
+  "uid": "946d80b5fa5d3ec7",
+  "content_type": "web_bookmark",
+  "source": "http://www.theverge.com/2016/2/16/11020886/kanye-west-the-life-of-pablo-review-new-album",
+  "title": "The Life of Pablo review Kanye West's radical act of creative transparency The Verge",
+  "status": "converted_from_csv",
+  "date": "2016-02-16T15:41:15",
+  "error": null,
+  "content_path": "output/articles/markdown/946d80b5fa5d3ec7.md",
+  "html_path": "output/articles/html/946d80b5fa5d3ec7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4567,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ee613e69de74fddd7fa44062a8c2efa7",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1455666075",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-02-16T15:41:15",
+  "updated_at": "2016-02-16T15:41:15"
+}

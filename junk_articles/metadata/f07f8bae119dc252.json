@@ -1,0 +1,34 @@
+{
+  "uid": "f07f8bae119dc252",
+  "content_type": "web_bookmark",
+  "source": "http://parenting.blogs.nytimes.com/2010/12/09/other-peoples-kids/?pagemode=print",
+  "title": "Other People's Kids - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2010-12-13T19:18:55",
+  "error": null,
+  "content_path": "output/articles/markdown/f07f8bae119dc252.md",
+  "html_path": "output/articles/html/f07f8bae119dc252.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6049,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "69da003f02ebb785e6758d1d744701ea",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1292296735",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-12-13T19:18:55",
+  "updated_at": "2010-12-13T19:18:55"
+}

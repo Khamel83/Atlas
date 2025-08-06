@@ -1,0 +1,34 @@
+{
+  "uid": "b6e89e65b885a34c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/9dfe31c47ef53f9192c767d4ce650ac6/",
+  "title": "Neither and New Follow-Up, Adam Neumann Forced Out, Peloton IPOs (Stratechery Daily Update 9-26-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-09-26T05:16:27",
+  "error": null,
+  "content_path": "output/articles/markdown/b6e89e65b885a34c.md",
+  "html_path": "output/articles/html/b6e89e65b885a34c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3010,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "df4b614ce6b10025c6e3fc90ecc69493",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1569500187",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-09-26T05:16:27",
+  "updated_at": "2019-09-26T05:16:27"
+}

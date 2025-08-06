@@ -1,0 +1,34 @@
+{
+  "uid": "b9d3566c679aad70",
+  "content_type": "web_bookmark",
+  "source": "https://techcrunch.com/2023/09/04/are-language-models-doomed-to-always-hallucinate/",
+  "title": "Are AI models doomed to always hallucinate? | TechCrunch",
+  "status": "converted_from_csv",
+  "date": "2023-09-04T18:14:02",
+  "error": null,
+  "content_path": "output/articles/markdown/b9d3566c679aad70.md",
+  "html_path": "output/articles/html/b9d3566c679aad70.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 669,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d6983963355a82316da151eda9bb2f2d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1693876442",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-09-04T18:14:02",
+  "updated_at": "2023-09-04T18:14:02"
+}

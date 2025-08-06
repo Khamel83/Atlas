@@ -1,0 +1,34 @@
+{
+  "uid": "3d3a42a1e8c88518",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/d11e17303bae49b633f2ac3f2fcf6b37/",
+  "title": "💥Talen Readies the Talons💥",
+  "status": "converted_from_csv",
+  "date": "2021-10-10T08:17:13",
+  "error": null,
+  "content_path": "output/articles/markdown/3d3a42a1e8c88518.md",
+  "html_path": "output/articles/html/3d3a42a1e8c88518.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1919,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8c7fc567e586ee134d7eca437f98fcab",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1633879033",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-10-10T08:17:13",
+  "updated_at": "2021-10-10T08:17:13"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "f09a28f60eeb4646",
+  "content_type": "web_bookmark",
+  "source": "http://www.nationalobserver.com/2016/01/13/opinion/what-really-went-al-jazeera-america",
+  "title": "Al Jazeera America made me proud to be Arab. And proud to be American.",
+  "status": "converted_from_csv",
+  "date": "2016-01-14T13:20:51",
+  "error": null,
+  "content_path": "output/articles/markdown/f09a28f60eeb4646.md",
+  "html_path": "output/articles/html/f09a28f60eeb4646.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4631,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "dba1d355bb718b38cc691aeb3c759ad0",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1452806451",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-01-14T13:20:51",
+  "updated_at": "2016-01-14T13:20:51"
+}

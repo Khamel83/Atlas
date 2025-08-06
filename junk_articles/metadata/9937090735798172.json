@@ -1,0 +1,34 @@
+{
+  "uid": "9937090735798172",
+  "content_type": "web_bookmark",
+  "source": "https://qz.com/1519774/amazon-became-the-most-valuable-company-in-the-world-by-standing-for-nothing/",
+  "title": "Amazon stands for nothing. That almost makes it beautiful",
+  "status": "converted_from_csv",
+  "date": "2019-01-11T20:46:31",
+  "error": null,
+  "content_path": "output/articles/markdown/9937090735798172.md",
+  "html_path": "output/articles/html/9937090735798172.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3276,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "617f710aa15726787b3fed3885071c31",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1547268391",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-01-11T20:46:31",
+  "updated_at": "2019-01-11T20:46:31"
+}

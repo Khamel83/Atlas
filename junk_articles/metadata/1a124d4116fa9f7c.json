@@ -1,0 +1,34 @@
+{
+  "uid": "1a124d4116fa9f7c",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2013/12/14/world/middleeast/a-disappearing-american-spy-and-the-cia.html",
+  "title": "A Disappearing Spy, and a Scandal at the C.I.A. - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2013-12-15T16:12:28",
+  "error": null,
+  "content_path": "output/articles/markdown/1a124d4116fa9f7c.md",
+  "html_path": "output/articles/html/1a124d4116fa9f7c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5307,
+    "selection": "DavidGrann: A Disappearing American Spy, and a Scandal at the C.I.A. http://t.co/6uDMj4p1o7"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "35f6e2eacee93862782acaf8e70b8de2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1387152748",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "DavidGrann: A Disappearing American Spy, and a Scandal at the C.I.A. http://t.co/6uDMj4p1o7"
+  },
+  "video_id": null,
+  "created_at": "2013-12-15T16:12:28",
+  "updated_at": "2013-12-15T16:12:28"
+}

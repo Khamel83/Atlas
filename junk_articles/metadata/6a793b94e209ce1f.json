@@ -1,0 +1,34 @@
+{
+  "uid": "6a793b94e209ce1f",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/305733d765098d65aad76e70b0d77f49/",
+  "title": "💰 Latest Deals, SF Event + Free United Status (must act today)",
+  "status": "converted_from_csv",
+  "date": "2022-11-01T08:06:25",
+  "error": null,
+  "content_path": "output/articles/markdown/6a793b94e209ce1f.md",
+  "html_path": "output/articles/html/6a793b94e209ce1f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1149,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cd990057f91650b7021e3330ffb2ae92",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1667315185",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-11-01T08:06:25",
+  "updated_at": "2022-11-01T08:06:25"
+}

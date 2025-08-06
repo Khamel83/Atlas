@@ -1,0 +1,32 @@
+{
+  "uid": "2bbec070df0cc95f",
+  "content_type": "instapaper",
+  "source": "https://www.wsj.com/tech/ai/meta-zuckerberg-ai-recruiting-fail-e6107555?mod=hp_lead_pos7",
+  "title": "Thanks for Your $1 Billion Job Offer, Mark Zuckerberg. I’m Gonna Pass.",
+  "status": "error",
+  "date": "2025-08-05T12:39:45.166139",
+  "error": "Failed to fetch content for 'Thanks for Your $1 Billion Job Offer, Mark Zuckerberg. I’m Gonna Pass.' from https://www.wsj.com/tech/ai/meta-zuckerberg-ai-recruiting-fail-e6107555?mod=hp_lead_pos7: 403 Client Error: Forbidden for url: https://www.wsj.com/tech/ai/meta-zuckerberg-ai-recruiting-fail-e6107555?mod=hp_lead_pos7",
+  "content_path": null,
+  "html_path": null,
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": null,
+  "type_specific": {
+    "bookmark_id": 1871331769
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:39:45.166144",
+  "updated_at": "2025-08-05T12:39:45.276799"
+}

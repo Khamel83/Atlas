@@ -1,0 +1,34 @@
+{
+  "uid": "d05ab04771b3237d",
+  "content_type": "web_bookmark",
+  "source": "http://reason.com/archives/2010/12/07/the-war-on-cameras/singlepage",
+  "title": "The War on Cameras",
+  "status": "converted_from_csv",
+  "date": "2011-03-24T19:00:53",
+  "error": null,
+  "content_path": "output/articles/markdown/d05ab04771b3237d.md",
+  "html_path": "output/articles/html/d05ab04771b3237d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5838,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "29daa5c5a87655ad934332de4a4af424",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1301018453",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-03-24T19:00:53",
+  "updated_at": "2011-03-24T19:00:53"
+}

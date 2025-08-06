@@ -1,0 +1,34 @@
+{
+  "uid": "5ff221ceb6b1633e",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/f850a33d4691c860feccf0a4deddaa0c/",
+  "title": "Fwd: Medium Membership, Medium Content, The Medium Newspaper (Stratechery Daily Update 2017-03-23)",
+  "status": "converted_from_csv",
+  "date": "2017-03-23T12:32:48",
+  "error": null,
+  "content_path": "output/articles/markdown/5ff221ceb6b1633e.md",
+  "html_path": "output/articles/html/5ff221ceb6b1633e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4047,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6d280ba94a56b03fbae63984a41f6fbc",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1490297568",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-03-23T12:32:48",
+  "updated_at": "2017-03-23T12:32:48"
+}

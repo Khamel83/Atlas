@@ -1,0 +1,34 @@
+{
+  "uid": "73f848c20ca30c96",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0e111f8f09366e4e22ff0c06b4517b45/",
+  "title": "Transcript: America This Week, Episode 73, January 26, 2024",
+  "status": "converted_from_csv",
+  "date": "2024-01-27T11:04:33",
+  "error": null,
+  "content_path": "output/articles/markdown/73f848c20ca30c96.md",
+  "html_path": "output/articles/html/73f848c20ca30c96.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 406,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b8f8e77b4ba96b2843ad0f9664362c42",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1706382273",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-01-27T11:04:33",
+  "updated_at": "2024-01-27T11:04:33"
+}

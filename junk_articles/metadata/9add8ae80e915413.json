@@ -1,0 +1,34 @@
+{
+  "uid": "9add8ae80e915413",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/f2219d81ac59c9f0e4fd3946cfab7ef3/",
+  "title": "Neither, and New: Lessons from Uber and Vision Fund (Stratechery Weekly Article 9-25-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-09-25T08:41:27",
+  "error": null,
+  "content_path": "output/articles/markdown/9add8ae80e915413.md",
+  "html_path": "output/articles/html/9add8ae80e915413.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3011,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "069569f90105d5a76a618c5ca55bbab4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1569426087",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-09-25T08:41:27",
+  "updated_at": "2019-09-25T08:41:27"
+}

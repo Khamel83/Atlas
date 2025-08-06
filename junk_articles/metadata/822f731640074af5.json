@@ -1,0 +1,34 @@
+{
+  "uid": "822f731640074af5",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/10/09/magazine/a-state-is-born-in-palestine.html?src=rechp&pagewanted=print",
+  "title": "A State is Born in Palestine - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-10-20T06:38:15",
+  "error": null,
+  "content_path": "output/articles/markdown/822f731640074af5.md",
+  "html_path": "output/articles/html/822f731640074af5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5577,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "58572b55a26d0e4c62e0fed106b94f60",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1319117895",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-10-20T06:38:15",
+  "updated_at": "2011-10-20T06:38:15"
+}

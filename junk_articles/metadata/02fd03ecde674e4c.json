@@ -1,0 +1,34 @@
+{
+  "uid": "02fd03ecde674e4c",
+  "content_type": "web_bookmark",
+  "source": "https://hbr.org/2018/04/why-the-most-productive-people-dont-always-make-the-best-managers",
+  "title": "Why the Most Productive People Don’t Always Make the Best Managers",
+  "status": "converted_from_csv",
+  "date": "2019-08-17T21:16:58",
+  "error": null,
+  "content_path": "output/articles/markdown/02fd03ecde674e4c.md",
+  "html_path": "output/articles/html/02fd03ecde674e4c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3054,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5787565f9681f364447d7f13fc5a4726",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1566101818",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-08-17T21:16:58",
+  "updated_at": "2019-08-17T21:16:58"
+}

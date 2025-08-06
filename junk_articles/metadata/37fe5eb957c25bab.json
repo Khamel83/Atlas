@@ -1,0 +1,34 @@
+{
+  "uid": "37fe5eb957c25bab",
+  "content_type": "web_bookmark",
+  "source": "http://www.theatlantic.com/magazine/archive/2015/10/the-black-family-in-the-age-of-mass-incarceration/403246/",
+  "title": "The Black Family in the Age of Mass Incarceration",
+  "status": "converted_from_csv",
+  "date": "2015-09-15T08:27:11",
+  "error": null,
+  "content_path": "output/articles/markdown/37fe5eb957c25bab.md",
+  "html_path": "output/articles/html/37fe5eb957c25bab.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4747,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c83f5eca684020960a375a76e4918f10",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1442330831",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-09-15T08:27:11",
+  "updated_at": "2015-09-15T08:27:11"
+}

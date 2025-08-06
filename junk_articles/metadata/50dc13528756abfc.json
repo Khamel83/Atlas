@@ -1,0 +1,34 @@
+{
+  "uid": "50dc13528756abfc",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/a5ff635ed18d22bcb80c72b516856349/",
+  "title": "Nikki Haley's $100 Million Faceplant",
+  "status": "converted_from_csv",
+  "date": "2024-02-26T11:49:02",
+  "error": null,
+  "content_path": "output/articles/markdown/50dc13528756abfc.md",
+  "html_path": "output/articles/html/50dc13528756abfc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 368,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "893610fb07f8af0147b2b42b17f36ee3",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1708976942",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-02-26T11:49:02",
+  "updated_at": "2024-02-26T11:49:02"
+}

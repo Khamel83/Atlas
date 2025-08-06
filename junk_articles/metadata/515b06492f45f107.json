@@ -1,0 +1,34 @@
+{
+  "uid": "515b06492f45f107",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/9a5209448940a84b635adf2f5f6d67a1/",
+  "title": "Spotify, Netflix, and Aggregation (Stratechery Article 6-27-2022)",
+  "status": "converted_from_csv",
+  "date": "2022-06-27T09:04:04",
+  "error": null,
+  "content_path": "output/articles/markdown/515b06492f45f107.md",
+  "html_path": "output/articles/html/515b06492f45f107.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1371,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "971719d5b2290f8743e0c192b5d4fbd8",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1656345844",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-06-27T09:04:04",
+  "updated_at": "2022-06-27T09:04:04"
+}

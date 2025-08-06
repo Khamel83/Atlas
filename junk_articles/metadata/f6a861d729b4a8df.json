@@ -1,0 +1,34 @@
+{
+  "uid": "f6a861d729b4a8df",
+  "content_type": "web_bookmark",
+  "source": "https://www.vox.com/policy-and-politics/2017/6/5/15161442/2016-election-normalcy-democracy-realists-identity",
+  "title": "The mystery of the 2016 election was its normalcy",
+  "status": "converted_from_csv",
+  "date": "2017-06-05T05:44:34",
+  "error": null,
+  "content_path": "output/articles/markdown/f6a861d729b4a8df.md",
+  "html_path": "output/articles/html/f6a861d729b4a8df.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3941,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "42ab56bec0fb36ef150b220234c1c5f5",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1496666674",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-06-05T05:44:34",
+  "updated_at": "2017-06-05T05:44:34"
+}

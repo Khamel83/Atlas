@@ -1,0 +1,34 @@
+{
+  "uid": "6ee11c4796e0e35d",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/05/12/opinion/12collins.html?src=rechp&pagewanted=print",
+  "title": "Reading, ’Riting and Revenues - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-05-12T13:11:25",
+  "error": null,
+  "content_path": "output/articles/markdown/6ee11c4796e0e35d.md",
+  "html_path": "output/articles/html/6ee11c4796e0e35d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5734,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e323a696c97638950bfa4dc244d96011",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1305231085",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-05-12T13:11:25",
+  "updated_at": "2011-05-12T13:11:25"
+}

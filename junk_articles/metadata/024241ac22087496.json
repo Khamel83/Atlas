@@ -1,0 +1,34 @@
+{
+  "uid": "024241ac22087496",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/70be170219c1b2a348cdfb1f09f745a3/",
+  "title": "Where Warren’s Wrong Follow-up, Amazon’s Price Parity Provision, The Amazon Marketplace Question (Stratechery Daily Update 3-13-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-03-13T04:21:08",
+  "error": null,
+  "content_path": "output/articles/markdown/024241ac22087496.md",
+  "html_path": "output/articles/html/024241ac22087496.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3201,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e49f481561b96ed469340e9ec2bf4e2e",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1552476068",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-03-13T04:21:08",
+  "updated_at": "2019-03-13T04:21:08"
+}

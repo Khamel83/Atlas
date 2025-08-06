@@ -1,0 +1,34 @@
+{
+  "uid": "7d0afd10613c4ef5",
+  "content_type": "web_bookmark",
+  "source": "https://www.bloomberg.com/news/articles/2017-03-09/you-can-t-retire-on-the-trump-bump",
+  "title": "Why You Can’t Retire on the Trump Bump",
+  "status": "converted_from_csv",
+  "date": "2017-03-13T20:01:38",
+  "error": null,
+  "content_path": "output/articles/markdown/7d0afd10613c4ef5.md",
+  "html_path": "output/articles/html/7d0afd10613c4ef5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4063,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3d4fe928db77c8eac467ff2105fe97ed",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1489460498",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-03-13T20:01:38",
+  "updated_at": "2017-03-13T20:01:38"
+}

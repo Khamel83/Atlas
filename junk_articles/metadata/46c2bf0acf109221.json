@@ -1,0 +1,34 @@
+{
+  "uid": "46c2bf0acf109221",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/3e5d3764d403fefc82598fff187a3b9d/",
+  "title": "Soundtrack the World",
+  "status": "converted_from_csv",
+  "date": "2021-03-15T05:58:19",
+  "error": null,
+  "content_path": "output/articles/markdown/46c2bf0acf109221.md",
+  "html_path": "output/articles/html/46c2bf0acf109221.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2344,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f7471677655d00e7eb618b5d107d85e8",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1615813099",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-03-15T05:58:19",
+  "updated_at": "2021-03-15T05:58:19"
+}

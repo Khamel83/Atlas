@@ -1,0 +1,34 @@
+{
+  "uid": "de6dd88a709f6254",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/11348b240167e06e685199fe160cf3fd/",
+  "title": "414255 is your Stratechery access code",
+  "status": "converted_from_csv",
+  "date": "2024-09-10T15:29:33",
+  "error": null,
+  "content_path": "output/articles/markdown/de6dd88a709f6254.md",
+  "html_path": "output/articles/html/de6dd88a709f6254.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 195,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2d6e5ee2c04f802e9f60dad3d551995a",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1726007373",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-09-10T15:29:33",
+  "updated_at": "2024-09-10T15:29:33"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "846ee0e46f086b8b",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/04/17/magazine/mag-17sitting-t.html?hpw=&pagewanted=print",
+  "title": "Is Sitting a Lethal Activity? - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-04-16T22:36:51",
+  "error": null,
+  "content_path": "output/articles/markdown/846ee0e46f086b8b.md",
+  "html_path": "output/articles/html/846ee0e46f086b8b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5781,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "edfa388c76ad87e305bfc142e4f21324",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1303018611",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-04-16T22:36:51",
+  "updated_at": "2011-04-16T22:36:51"
+}

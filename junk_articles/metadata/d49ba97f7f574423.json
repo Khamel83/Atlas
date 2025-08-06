@@ -1,0 +1,34 @@
+{
+  "uid": "d49ba97f7f574423",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/50ce7935c2e6cc4b05cf22a395e0567e/",
+  "title": "Twitter adds fleets to its story",
+  "status": "converted_from_csv",
+  "date": "2020-11-17T17:04:40",
+  "error": null,
+  "content_path": "output/articles/markdown/d49ba97f7f574423.md",
+  "html_path": "output/articles/html/d49ba97f7f574423.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2655,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "df554744b620aa4d9b9d31320cc695a5",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1605661480",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-11-17T17:04:40",
+  "updated_at": "2020-11-17T17:04:40"
+}

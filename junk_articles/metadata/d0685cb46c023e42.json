@@ -1,0 +1,34 @@
+{
+  "uid": "d0685cb46c023e42",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/a32a1fff52fb671eca2854be339c7b41/",
+  "title": "Apple Defends App Store, Apple’s App Store Motivations (Stratechery Daily Update 5-30-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-05-30T03:29:28",
+  "error": null,
+  "content_path": "output/articles/markdown/d0685cb46c023e42.md",
+  "html_path": "output/articles/html/d0685cb46c023e42.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3131,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1b3839ffb03ac73ac2baa44f77dbc0a7",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1559212168",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-05-30T03:29:28",
+  "updated_at": "2019-05-30T03:29:28"
+}

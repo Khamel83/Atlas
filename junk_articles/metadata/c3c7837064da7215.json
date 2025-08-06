@@ -1,0 +1,34 @@
+{
+  "uid": "c3c7837064da7215",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2025/02/02/magazine/weight-loss-side-effects-sex-ozempic.html",
+  "title": "How Weight-Loss Drugs Can Upend a Marriage",
+  "status": "converted_from_csv",
+  "date": "2025-02-03T11:03:49",
+  "error": null,
+  "content_path": "output/articles/markdown/c3c7837064da7215.md",
+  "html_path": "output/articles/html/c3c7837064da7215.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 83,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a13d61aeb89982f0e7ff537eb97179c8",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1738609429",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2025-02-03T11:03:49",
+  "updated_at": "2025-02-03T11:03:49"
+}

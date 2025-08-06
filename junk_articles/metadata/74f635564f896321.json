@@ -1,0 +1,34 @@
+{
+  "uid": "74f635564f896321",
+  "content_type": "web_bookmark",
+  "source": "http://www.baseballprospectus.com/article.php?articleid=15761",
+  "title": "Baseball Prospectus  | Future Shock: White Sox Top 11 Prospects",
+  "status": "converted_from_csv",
+  "date": "2012-01-16T20:54:22",
+  "error": null,
+  "content_path": "output/articles/markdown/74f635564f896321.md",
+  "html_path": "output/articles/html/74f635564f896321.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5519,
+    "selection": "&quot;System in 20 Words or Less: Two words: Not good.&quot;\nUgh"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ebe240ac2e95c3939f205edc89a99118",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1326776062",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "&quot;System in 20 Words or Less: Two words: Not good.&quot;\nUgh"
+  },
+  "video_id": null,
+  "created_at": "2012-01-16T20:54:22",
+  "updated_at": "2012-01-16T20:54:22"
+}

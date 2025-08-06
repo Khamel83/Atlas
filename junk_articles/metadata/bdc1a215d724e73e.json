@@ -1,0 +1,34 @@
+{
+  "uid": "bdc1a215d724e73e",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/9ab6ea89c1e8016b135ec920e27a0dad/",
+  "title": "S--t Public Defenders See: The Great Covid-19 Jury Charade",
+  "status": "converted_from_csv",
+  "date": "2021-02-16T14:14:27",
+  "error": null,
+  "content_path": "output/articles/markdown/bdc1a215d724e73e.md",
+  "html_path": "output/articles/html/bdc1a215d724e73e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2405,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "615cb627326f043ee24d2a5a9d59ce50",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1613513667",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-02-16T14:14:27",
+  "updated_at": "2021-02-16T14:14:27"
+}

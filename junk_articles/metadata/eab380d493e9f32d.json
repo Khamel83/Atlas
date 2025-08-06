@@ -1,0 +1,34 @@
+{
+  "uid": "eab380d493e9f32d",
+  "content_type": "web_bookmark",
+  "source": "http://copirite.blogspot.com/2005/03/city-of-water.html",
+  "title": "Cribsheet: City of Water",
+  "status": "converted_from_csv",
+  "date": "2012-03-01T21:42:13",
+  "error": null,
+  "content_path": "output/articles/markdown/eab380d493e9f32d.md",
+  "html_path": "output/articles/html/eab380d493e9f32d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5738,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8b5a739ecf3b2ba11f74ea6d73b01221",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1330666933",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-03-01T21:42:13",
+  "updated_at": "2012-03-01T21:42:13"
+}

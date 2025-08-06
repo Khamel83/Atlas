@@ -1,0 +1,34 @@
+{
+  "uid": "3a20c020798cce86",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/9af229b4fc1f23895c62e6af889408ff/",
+  "title": "Publishing is Back to the Future (Stratechery Weekly Article 1-27-2021)",
+  "status": "converted_from_csv",
+  "date": "2021-01-27T06:33:07",
+  "error": null,
+  "content_path": "output/articles/markdown/3a20c020798cce86.md",
+  "html_path": "output/articles/html/3a20c020798cce86.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2443,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "aa0bbd14f9ce3db57fdcf9245b6d5158",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1611757987",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-01-27T06:33:07",
+  "updated_at": "2021-01-27T06:33:07"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "95e70add3600e55e",
+  "content_type": "web_bookmark",
+  "source": "http://hbr.org/2010/07/how-will-you-measure-your-life/ar/pr",
+  "title": "How Will You Measure Your Life? - Harvard Business Review",
+  "status": "converted_from_csv",
+  "date": "2010-08-05T07:34:11",
+  "error": null,
+  "content_path": "output/articles/markdown/95e70add3600e55e.md",
+  "html_path": "output/articles/html/95e70add3600e55e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6187,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "565c865942b36bf7ed3891aaa2a8bae8",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1281018851",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-08-05T07:34:11",
+  "updated_at": "2010-08-05T07:34:11"
+}

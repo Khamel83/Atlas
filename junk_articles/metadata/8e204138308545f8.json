@@ -1,0 +1,34 @@
+{
+  "uid": "8e204138308545f8",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/magazine/archive/2022/01/brooks-true-conservatism-dead-fox-news-voter-suppression/620853/",
+  "title": "Conservatism: An Elegy",
+  "status": "converted_from_csv",
+  "date": "2021-12-08T17:53:05",
+  "error": null,
+  "content_path": "output/articles/markdown/8e204138308545f8.md",
+  "html_path": "output/articles/html/8e204138308545f8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1772,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "26619e009ce767f29e0503878827292f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1639014785",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-12-08T17:53:05",
+  "updated_at": "2021-12-08T17:53:05"
+}

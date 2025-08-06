@@ -1,0 +1,34 @@
+{
+  "uid": "cafc628f972ce903",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2014/01/06/opinion/the-bubble-is-back.html",
+  "title": "The Bubble Is Back",
+  "status": "converted_from_csv",
+  "date": "2014-01-06T17:18:35",
+  "error": null,
+  "content_path": "output/articles/markdown/cafc628f972ce903.md",
+  "html_path": "output/articles/html/cafc628f972ce903.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5293,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a0259605ee4f7a434bb710ea6201946a",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1389057515",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-01-06T17:18:35",
+  "updated_at": "2014-01-06T17:18:35"
+}

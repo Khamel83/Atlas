@@ -1,0 +1,34 @@
+{
+  "uid": "eea9467a28dd50a9",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/100ac35c3a982f51a887078630aab361/",
+  "title": "💥Divorcing David's Bridal💥",
+  "status": "converted_from_csv",
+  "date": "2023-04-18T05:01:21",
+  "error": null,
+  "content_path": "output/articles/markdown/eea9467a28dd50a9.md",
+  "html_path": "output/articles/html/eea9467a28dd50a9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 910,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6e195ca368385386b57553d6e3f74c1c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1681819281",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-04-18T05:01:21",
+  "updated_at": "2023-04-18T05:01:21"
+}

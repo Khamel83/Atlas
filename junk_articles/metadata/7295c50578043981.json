@@ -1,0 +1,34 @@
+{
+  "uid": "7295c50578043981",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/73c6f2f715039884f9d52418d7c1e69f/",
+  "title": "Inside Discord’s reform movement for banned users",
+  "status": "converted_from_csv",
+  "date": "2023-10-19T17:29:58",
+  "error": null,
+  "content_path": "output/articles/markdown/7295c50578043981.md",
+  "html_path": "output/articles/html/7295c50578043981.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 576,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d1fee24e1f36d96ec7139f019c49e778",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1697761798",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-10-19T17:29:58",
+  "updated_at": "2023-10-19T17:29:58"
+}

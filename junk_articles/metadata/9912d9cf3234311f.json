@@ -1,0 +1,34 @@
+{
+  "uid": "9912d9cf3234311f",
+  "content_type": "web_bookmark",
+  "source": "http://www.vanityfair.com/style/2012/01/prisoners-of-style-201201.print",
+  "title": "You Say You Want a Devolution?    [longform.org]",
+  "status": "converted_from_csv",
+  "date": "2012-01-02T19:24:01",
+  "error": null,
+  "content_path": "output/articles/markdown/9912d9cf3234311f.md",
+  "html_path": "output/articles/html/9912d9cf3234311f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5535,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ec5188496335341010abb016c186f096",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1325561041",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-01-02T19:24:01",
+  "updated_at": "2012-01-02T19:24:01"
+}

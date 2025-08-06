@@ -1,0 +1,34 @@
+{
+  "uid": "3ba1e3141e48c147",
+  "content_type": "web_bookmark",
+  "source": "http://long.fm/opY1XQ",
+  "title": "opY1XQ",
+  "status": "converted_from_csv",
+  "date": "2011-10-20T06:38:16",
+  "error": null,
+  "content_path": "output/articles/markdown/3ba1e3141e48c147.md",
+  "html_path": "output/articles/html/3ba1e3141e48c147.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5566,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e768ce367aff7b4cce0644033621e2bb",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1319117896",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-10-20T06:38:16",
+  "updated_at": "2011-10-20T06:38:16"
+}

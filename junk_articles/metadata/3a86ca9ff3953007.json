@@ -1,0 +1,34 @@
+{
+  "uid": "3a86ca9ff3953007",
+  "content_type": "web_bookmark",
+  "source": "https://hbr.org/2022/07/how-to-conduct-a-great-performance-review",
+  "title": "How to Conduct a Great Performance Review",
+  "status": "converted_from_csv",
+  "date": "2023-05-15T14:45:21",
+  "error": null,
+  "content_path": "output/articles/markdown/3a86ca9ff3953007.md",
+  "html_path": "output/articles/html/3a86ca9ff3953007.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 863,
+    "selection": "performance ratings"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5dca4e5c73233003ed4426c60fec478f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1684187121",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "performance ratings"
+  },
+  "video_id": null,
+  "created_at": "2023-05-15T14:45:21",
+  "updated_at": "2023-05-15T14:45:21"
+}

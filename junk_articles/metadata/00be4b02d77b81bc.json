@@ -1,0 +1,34 @@
+{
+  "uid": "00be4b02d77b81bc",
+  "content_type": "web_bookmark",
+  "source": "http://dyn.politico.com/printstory.cfm?uuid=9E179D0C-FBA2-43DE-8FF7-03FFB1A19A09",
+  "title": "Jeb: GOP 'stupid' to ignore Hispanics - POLITICO.com Print View",
+  "status": "converted_from_csv",
+  "date": "2011-01-18T11:44:52",
+  "error": null,
+  "content_path": "output/articles/markdown/00be4b02d77b81bc.md",
+  "html_path": "output/articles/html/00be4b02d77b81bc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5968,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8044b464e76265931903209b89a08c58",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1295379892",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-01-18T11:44:52",
+  "updated_at": "2011-01-18T11:44:52"
+}

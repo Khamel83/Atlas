@@ -1,0 +1,34 @@
+{
+  "uid": "d85aa0ceb024f494",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/93a6ace5577e978f492dd178add7bfa4/",
+  "title": "The Nine Lives of Rose Napolitano: An Audio Book Post",
+  "status": "converted_from_csv",
+  "date": "2021-04-05T02:16:36",
+  "error": null,
+  "content_path": "output/articles/markdown/d85aa0ceb024f494.md",
+  "html_path": "output/articles/html/d85aa0ceb024f494.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2308,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d45021c8f19b9ca0eede3701099b126f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1617614196",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-04-05T02:16:36",
+  "updated_at": "2021-04-05T02:16:36"
+}

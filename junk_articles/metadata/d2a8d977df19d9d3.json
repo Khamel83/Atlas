@@ -1,0 +1,34 @@
+{
+  "uid": "d2a8d977df19d9d3",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2017/04/30/technology/tipping-point-for-amazon-in-apparel.html",
+  "title": "Amid Brick-and-Mortar Travails, a Tipping Point for Amazon in Apparel - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2017-04-30T18:06:11",
+  "error": null,
+  "content_path": "output/articles/markdown/d2a8d977df19d9d3.md",
+  "html_path": "output/articles/html/d2a8d977df19d9d3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3997,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "df6039c4ec76ac1a49905bfd61a63908",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1493600771",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-04-30T18:06:11",
+  "updated_at": "2017-04-30T18:06:11"
+}

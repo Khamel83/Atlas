@@ -1,0 +1,34 @@
+{
+  "uid": "842602a3dc83df4c",
+  "content_type": "web_bookmark",
+  "source": "https://medium.com/dapperlabs/the-future-of-x-is-decentralized-bb3245faf1b1",
+  "title": "The Future of [X] is Decentralized | by Roham Gharegozlou | Dapper Labs | Oct, 2021 | Medium",
+  "status": "converted_from_csv",
+  "date": "2021-10-05T08:35:01",
+  "error": null,
+  "content_path": "output/articles/markdown/842602a3dc83df4c.md",
+  "html_path": "output/articles/html/842602a3dc83df4c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1930,
+    "selection": "Nicole de Ayora"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4988d78a74ab970cca0850c23a6d70f5",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1633448101",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Nicole de Ayora"
+  },
+  "video_id": null,
+  "created_at": "2021-10-05T08:35:01",
+  "updated_at": "2021-10-05T08:35:01"
+}

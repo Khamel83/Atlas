@@ -1,0 +1,34 @@
+{
+  "uid": "1560533e4ee4034a",
+  "content_type": "web_bookmark",
+  "source": "http://www.newyorker.com/magazine/2009/03/30/hellhole",
+  "title": "Hellhole - The New Yorker",
+  "status": "converted_from_csv",
+  "date": "2014-08-21T21:36:56",
+  "error": null,
+  "content_path": "output/articles/markdown/1560533e4ee4034a.md",
+  "html_path": "output/articles/html/1560533e4ee4034a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5160,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "29b7986563be54a067be6b2cf7d0aa3a",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1408682216",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-08-21T21:36:56",
+  "updated_at": "2014-08-21T21:36:56"
+}

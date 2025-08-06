@@ -1,0 +1,34 @@
+{
+  "uid": "b39d40a5807692dd",
+  "content_type": "web_bookmark",
+  "source": "http://www.bloombergview.com/articles/2016-04-30/here-s-your-degree-now-go-defeat-demagogues",
+  "title": "Here's Your Degree. Now Go Defeat Demagogues.",
+  "status": "converted_from_csv",
+  "date": "2016-05-01T13:50:42",
+  "error": null,
+  "content_path": "output/articles/markdown/b39d40a5807692dd.md",
+  "html_path": "output/articles/html/b39d40a5807692dd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4452,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3ac7399193f41f7f7cb4b5c96c29a168",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1462135842",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-05-01T13:50:42",
+  "updated_at": "2016-05-01T13:50:42"
+}

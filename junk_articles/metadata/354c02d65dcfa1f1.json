@@ -1,0 +1,34 @@
+{
+  "uid": "354c02d65dcfa1f1",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/a3e7fb89d1507847272a7d68049ab338/",
+  "title": "Wander: Owning Happy Places",
+  "status": "converted_from_csv",
+  "date": "2023-01-31T06:07:57",
+  "error": null,
+  "content_path": "output/articles/markdown/354c02d65dcfa1f1.md",
+  "html_path": "output/articles/html/354c02d65dcfa1f1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1030,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "91ba8cce9b2e4608d7ac36fab219a6b4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1675174077",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-01-31T06:07:57",
+  "updated_at": "2023-01-31T06:07:57"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "c1cfcb8ae8ebfff5",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6cc54008c42c15446fe9c9e8354fbafa/",
+  "title": "What Twitter should copy from Tinder",
+  "status": "converted_from_csv",
+  "date": "2021-08-18T17:02:53",
+  "error": null,
+  "content_path": "output/articles/markdown/c1cfcb8ae8ebfff5.md",
+  "html_path": "output/articles/html/c1cfcb8ae8ebfff5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2028,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d0be476a710da75f5f989714eb17b011",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1629331373",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-08-18T17:02:53",
+  "updated_at": "2021-08-18T17:02:53"
+}

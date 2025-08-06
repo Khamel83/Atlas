@@ -1,0 +1,34 @@
+{
+  "uid": "bc5d5bef181d6b63",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/52505e3db7c4f911ebc111705dbd9bc8/",
+  "title": "The TikTok War (Stratechery Free Weekly Article 7-14-2020)",
+  "status": "converted_from_csv",
+  "date": "2020-07-14T07:17:28",
+  "error": null,
+  "content_path": "output/articles/markdown/bc5d5bef181d6b63.md",
+  "html_path": "output/articles/html/bc5d5bef181d6b63.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2801,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3f516108ff2e670c3e164620c20fe6b0",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1594736248",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-07-14T07:17:28",
+  "updated_at": "2020-07-14T07:17:28"
+}

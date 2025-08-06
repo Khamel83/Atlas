@@ -1,0 +1,34 @@
+{
+  "uid": "fbe411c1e8e25081",
+  "content_type": "web_bookmark",
+  "source": "http://feeds.gawker.com/~r/deadspin/full/~3/BzzaYfPUDns/cbs-almost-paid-espn-to-take-the-ncaa-tourney-off-their-hands",
+  "title": "CBS Almost Paid ESPN To Take The NCAA Tourney Off Their Hands [NCAA Tournament]",
+  "status": "converted_from_csv",
+  "date": "2010-05-05T11:15:46",
+  "error": null,
+  "content_path": "output/articles/markdown/fbe411c1e8e25081.md",
+  "html_path": "output/articles/html/fbe411c1e8e25081.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6227,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4166de0a5bf0a88b7809d6c810c8a54c",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1273083346",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-05-05T11:15:46",
+  "updated_at": "2010-05-05T11:15:46"
+}

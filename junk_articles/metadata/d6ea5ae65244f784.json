@@ -1,0 +1,34 @@
+{
+  "uid": "d6ea5ae65244f784",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/5f6a048dbce264400a162bb57d55a211/",
+  "title": "🏃 Health Hacks Part 2 + All the Hacks Live Episode!",
+  "status": "converted_from_csv",
+  "date": "2022-05-05T07:33:51",
+  "error": null,
+  "content_path": "output/articles/markdown/d6ea5ae65244f784.md",
+  "html_path": "output/articles/html/d6ea5ae65244f784.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1460,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4a3799b444fc9241c86b0cec40442d13",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1651761231",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-05-05T07:33:51",
+  "updated_at": "2022-05-05T07:33:51"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "be71e72e9c9f0660",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/bacc5cef661595e006fa41f208e1a4f7/",
+  "title": "The Bill Gates Line (Stratechery Weekly Article 5-23-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-05-23T10:13:03",
+  "error": null,
+  "content_path": "output/articles/markdown/be71e72e9c9f0660.md",
+  "html_path": "output/articles/html/be71e72e9c9f0660.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3498,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3c1a2208e0f0d7759e0a032023430592",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1527095583",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-05-23T10:13:03",
+  "updated_at": "2018-05-23T10:13:03"
+}

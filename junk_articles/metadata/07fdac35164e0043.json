@@ -1,0 +1,34 @@
+{
+  "uid": "07fdac35164e0043",
+  "content_type": "web_bookmark",
+  "source": "https://www.thecut.com/2019/10/how-barneys-went-bankrupt-and-what-comes-next.html",
+  "title": "How Barneys Went Bankrupt, and What Comes Next",
+  "status": "converted_from_csv",
+  "date": "2019-10-25T14:26:46",
+  "error": null,
+  "content_path": "output/articles/markdown/07fdac35164e0043.md",
+  "html_path": "output/articles/html/07fdac35164e0043.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2978,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "67dc3c3b05ff3fcac607a4c03a34797c",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1572038806",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-10-25T14:26:46",
+  "updated_at": "2019-10-25T14:26:46"
+}

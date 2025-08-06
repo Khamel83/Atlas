@@ -1,0 +1,34 @@
+{
+  "uid": "a286a38f2912729e",
+  "content_type": "web_bookmark",
+  "source": "http://www.slate.com/articles/news_and_politics/view_from_chicago/2015/04/mutual_funds_make_air_travel_more_expensive_institutional_investors_reduce.html",
+  "title": "Mutual Funds Make Air Travel More Expensive",
+  "status": "converted_from_csv",
+  "date": "2015-04-16T14:13:52",
+  "error": null,
+  "content_path": "output/articles/markdown/a286a38f2912729e.md",
+  "html_path": "output/articles/html/a286a38f2912729e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4882,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2c4fb0f981080ef248bd1949d2dd1268",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1429218832",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-04-16T14:13:52",
+  "updated_at": "2015-04-16T14:13:52"
+}

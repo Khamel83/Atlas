@@ -1,0 +1,34 @@
+{
+  "uid": "d5e6a1e2bc80575a",
+  "content_type": "web_bookmark",
+  "source": "https://tedgioia.substack.com/p/is-old-music-killing-new-music",
+  "title": "Is Old Music Killing New Music? - by Ted Gioia",
+  "status": "converted_from_csv",
+  "date": "2022-01-21T09:49:15",
+  "error": null,
+  "content_path": "output/articles/markdown/d5e6a1e2bc80575a.md",
+  "html_path": "output/articles/html/d5e6a1e2bc80575a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1667,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0a9468f94a29adb9a14b649deeae77d0",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1642787355",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-01-21T09:49:15",
+  "updated_at": "2022-01-21T09:49:15"
+}

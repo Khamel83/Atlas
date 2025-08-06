@@ -1,0 +1,34 @@
+{
+  "uid": "f844cae26e71e773",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/91e4fa404ca4720880496d3aeb5b23b4/",
+  "title": "Why BeReal is breaking out",
+  "status": "converted_from_csv",
+  "date": "2022-07-19T17:02:13",
+  "error": null,
+  "content_path": "output/articles/markdown/f844cae26e71e773.md",
+  "html_path": "output/articles/html/f844cae26e71e773.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1328,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "eea574aed3a62330697b3fdace7b2f91",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1658275333",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-07-19T17:02:13",
+  "updated_at": "2022-07-19T17:02:13"
+}

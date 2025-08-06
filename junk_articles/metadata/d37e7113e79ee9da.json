@@ -1,0 +1,34 @@
+{
+  "uid": "d37e7113e79ee9da",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/5e2c30c0015d13d13ed2049e1f8ff4bc/",
+  "title": "Twitter is dead and Threads is thriving",
+  "status": "converted_from_csv",
+  "date": "2023-10-26T17:28:31",
+  "error": null,
+  "content_path": "output/articles/markdown/d37e7113e79ee9da.md",
+  "html_path": "output/articles/html/d37e7113e79ee9da.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 563,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4af85f35f66daa741de64d1f760dd6f1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1698366511",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-10-26T17:28:31",
+  "updated_at": "2023-10-26T17:28:31"
+}

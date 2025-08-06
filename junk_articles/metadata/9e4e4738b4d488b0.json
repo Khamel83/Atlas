@@ -1,0 +1,34 @@
+{
+  "uid": "9e4e4738b4d488b0",
+  "content_type": "web_bookmark",
+  "source": "http://www.espn.com/nba/story/_/id/24191536",
+  "title": "Lowe: The NBA supermax and the price of loyalty",
+  "status": "converted_from_csv",
+  "date": "2018-07-27T22:23:04",
+  "error": null,
+  "content_path": "output/articles/markdown/9e4e4738b4d488b0.md",
+  "html_path": "output/articles/html/9e4e4738b4d488b0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3437,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "717f21268ebce63274a14c5215dea3c7",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1532755384",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-07-27T22:23:04",
+  "updated_at": "2018-07-27T22:23:04"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "bbcd67b9ab527671",
+  "content_type": "web_bookmark",
+  "source": "https://www.bloomberg.com/news/features/2017-10-11/dollar-general-hits-a-gold-mine-in-rural-america",
+  "title": "Dollar General Hits a Gold Mine in Rural America - Bloomberg",
+  "status": "converted_from_csv",
+  "date": "2017-11-29T12:56:03",
+  "error": null,
+  "content_path": "output/articles/markdown/bbcd67b9ab527671.md",
+  "html_path": "output/articles/html/bbcd67b9ab527671.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3704,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3aef77eb9f81ff19be9ace24eb564e63",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1511988963",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-11-29T12:56:03",
+  "updated_at": "2017-11-29T12:56:03"
+}

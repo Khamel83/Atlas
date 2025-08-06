@@ -1,0 +1,34 @@
+{
+  "uid": "c55a0eb39badf2b3",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/business/archive/2017/01/americas-great-divergence/514784/",
+  "title": "America’s Great Divergence",
+  "status": "converted_from_csv",
+  "date": "2017-01-30T04:44:55",
+  "error": null,
+  "content_path": "output/articles/markdown/c55a0eb39badf2b3.md",
+  "html_path": "output/articles/html/c55a0eb39badf2b3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4133,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b018ae309a97c923d75936fda4d21257",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1485780295",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-01-30T04:44:55",
+  "updated_at": "2017-01-30T04:44:55"
+}

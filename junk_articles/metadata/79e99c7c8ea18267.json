@@ -1,0 +1,34 @@
+{
+  "uid": "79e99c7c8ea18267",
+  "content_type": "web_bookmark",
+  "source": "http://www.si.com/more-sports/2012/07/24/usa-basketball-game-nobody-saw",
+  "title": "Jack McCallum: Dream Team scrimmage greatest game nobody ever saw",
+  "status": "converted_from_csv",
+  "date": "2016-08-03T13:56:19",
+  "error": null,
+  "content_path": "output/articles/markdown/79e99c7c8ea18267.md",
+  "html_path": "output/articles/html/79e99c7c8ea18267.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4358,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "58b8f3406a846f17f64c66dea869867b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1470257779",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-08-03T13:56:19",
+  "updated_at": "2016-08-03T13:56:19"
+}

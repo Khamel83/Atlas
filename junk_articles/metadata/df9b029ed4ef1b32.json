@@ -1,0 +1,34 @@
+{
+  "uid": "df9b029ed4ef1b32",
+  "content_type": "web_bookmark",
+  "source": "http://www.wsj.com/articles/when-is-it-ok-to-brag-1480953723",
+  "title": "When Is It OK to Brag? - WSJ",
+  "status": "converted_from_csv",
+  "date": "2016-12-06T18:30:28",
+  "error": null,
+  "content_path": "output/articles/markdown/df9b029ed4ef1b32.md",
+  "html_path": "output/articles/html/df9b029ed4ef1b32.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4214,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3a1dceae223e01603a57421a0107f790",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1481077828",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-12-06T18:30:28",
+  "updated_at": "2016-12-06T18:30:28"
+}

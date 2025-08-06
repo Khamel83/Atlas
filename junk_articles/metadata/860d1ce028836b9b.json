@@ -1,0 +1,34 @@
+{
+  "uid": "860d1ce028836b9b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0ae27bdb847690e7e3db64ee1afafb08/",
+  "title": "Tinder Bypasses Google Play Payments, App Store Fees and Differences, Apple Entering Modem Business? (Stratechery Daily Update 7-23-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-07-23T05:16:20",
+  "error": null,
+  "content_path": "output/articles/markdown/860d1ce028836b9b.md",
+  "html_path": "output/articles/html/860d1ce028836b9b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3077,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0d099f48d02d4a27ab7fd87a65d11941",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1563884180",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-07-23T05:16:20",
+  "updated_at": "2019-07-23T05:16:20"
+}

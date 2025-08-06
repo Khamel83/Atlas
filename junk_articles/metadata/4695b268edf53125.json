@@ -1,0 +1,34 @@
+{
+  "uid": "4695b268edf53125",
+  "content_type": "web_bookmark",
+  "source": "http://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/",
+  "title": "What Will Break People’s Addictions to Their Phones?",
+  "status": "converted_from_csv",
+  "date": "2017-03-12T09:48:49",
+  "error": null,
+  "content_path": "output/articles/markdown/4695b268edf53125.md",
+  "html_path": "output/articles/html/4695b268edf53125.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4068,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7801e5dcc4bd2d9207de29272b086532",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1489337329",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-03-12T09:48:49",
+  "updated_at": "2017-03-12T09:48:49"
+}

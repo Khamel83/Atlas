@@ -1,0 +1,34 @@
+{
+  "uid": "1af22bd815dcd15c",
+  "content_type": "web_bookmark",
+  "source": "http://www.ussmariner.com/2006/03/12/bugs-bunny-greatest-banned-player-ever/",
+  "title": "Bugs Bunny, greatest banned player ever",
+  "status": "converted_from_csv",
+  "date": "2011-03-29T09:50:35",
+  "error": null,
+  "content_path": "output/articles/markdown/1af22bd815dcd15c.md",
+  "html_path": "output/articles/html/1af22bd815dcd15c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5815,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c4475815f9100e5f1c64384b30667f2d",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1301417435",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-03-29T09:50:35",
+  "updated_at": "2011-03-29T09:50:35"
+}

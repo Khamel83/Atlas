@@ -1,0 +1,34 @@
+{
+  "uid": "177ecc14c87f3cb7",
+  "content_type": "web_bookmark",
+  "source": "http://nymag.com/scienceofus/2015/08/many-psychology-research-findings-may-be-false.html",
+  "title": "A Deep Dive Into the Blockbuster Study That Called Into Doubt a Lot of Psych Research",
+  "status": "converted_from_csv",
+  "date": "2015-08-31T19:19:10",
+  "error": null,
+  "content_path": "output/articles/markdown/177ecc14c87f3cb7.md",
+  "html_path": "output/articles/html/177ecc14c87f3cb7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4767,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "78516038738179a70c51f64f11d6c442",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1441073950",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-08-31T19:19:10",
+  "updated_at": "2015-08-31T19:19:10"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "49d16297b3029d12",
+  "content_type": "web_bookmark",
+  "source": "http://www.motherjones.com/politics/2016/06/james-west-journalist-arrest-winn-cca-prison",
+  "title": "“When you get around a prison, you don’t fuck around, okay?”",
+  "status": "converted_from_csv",
+  "date": "2016-06-24T21:34:27",
+  "error": null,
+  "content_path": "output/articles/markdown/49d16297b3029d12.md",
+  "html_path": "output/articles/html/49d16297b3029d12.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4400,
+    "selection": "None"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e8b4e96b84259d8437bcbb186ad938cf",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1466829267",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "None"
+  },
+  "video_id": null,
+  "created_at": "2016-06-24T21:34:27",
+  "updated_at": "2016-06-24T21:34:27"
+}

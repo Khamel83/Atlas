@@ -1,0 +1,34 @@
+{
+  "uid": "f4d9264ec042be76",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/f0360d0cb0b1016b79c7e525a35fead9/",
+  "title": "Netflix Flexes (Stratechery Weekly Article 1-22-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-01-22T07:04:15",
+  "error": null,
+  "content_path": "output/articles/markdown/f4d9264ec042be76.md",
+  "html_path": "output/articles/html/f4d9264ec042be76.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3265,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f6a681b9fd10018d6f8dbc3eb93b9154",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1548169455",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-01-22T07:04:15",
+  "updated_at": "2019-01-22T07:04:15"
+}

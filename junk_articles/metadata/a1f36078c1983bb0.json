@@ -1,0 +1,34 @@
+{
+  "uid": "a1f36078c1983bb0",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/eb25e2662eb8279f1260af578452d230/",
+  "title": "Astro Mechanica",
+  "status": "converted_from_csv",
+  "date": "2024-04-01T06:15:27",
+  "error": null,
+  "content_path": "output/articles/markdown/a1f36078c1983bb0.md",
+  "html_path": "output/articles/html/a1f36078c1983bb0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 326,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8e52bb4f2d1041e60ddd2ab5f53f72f6",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1711977327",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-04-01T06:15:27",
+  "updated_at": "2024-04-01T06:15:27"
+}

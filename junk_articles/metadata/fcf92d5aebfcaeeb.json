@@ -1,0 +1,34 @@
+{
+  "uid": "fcf92d5aebfcaeeb",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/fc80d4d96ab191d487e9162c526389d9/",
+  "title": "Pediatric COVID Vaccines",
+  "status": "converted_from_csv",
+  "date": "2022-03-17T01:57:29",
+  "error": null,
+  "content_path": "output/articles/markdown/fcf92d5aebfcaeeb.md",
+  "html_path": "output/articles/html/fcf92d5aebfcaeeb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1564,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0eb67b4d9328308b6688db66285dbdb4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1647507449",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-03-17T01:57:29",
+  "updated_at": "2022-03-17T01:57:29"
+}

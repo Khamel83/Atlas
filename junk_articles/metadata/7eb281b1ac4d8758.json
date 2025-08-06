@@ -1,0 +1,34 @@
+{
+  "uid": "7eb281b1ac4d8758",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/00d30106d8bd8bea99d65983f9cb856e/",
+  "title": "Listen to This Article: Cancel Culture Takes a Big \"L\"",
+  "status": "converted_from_csv",
+  "date": "2021-10-25T06:49:33",
+  "error": null,
+  "content_path": "output/articles/markdown/7eb281b1ac4d8758.md",
+  "html_path": "output/articles/html/7eb281b1ac4d8758.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1879,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "efe84251288140f97a405fb4655daac0",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1635169773",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-10-25T06:49:33",
+  "updated_at": "2021-10-25T06:49:33"
+}

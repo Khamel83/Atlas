@@ -1,0 +1,34 @@
+{
+  "uid": "c4332f82872ca656",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/53b930394e9a8554426c00d9bd052668/",
+  "title": "🐮Chobani: a Public Debt Restructuring?🐮",
+  "status": "converted_from_csv",
+  "date": "2021-12-01T05:24:25",
+  "error": null,
+  "content_path": "output/articles/markdown/c4332f82872ca656.md",
+  "html_path": "output/articles/html/c4332f82872ca656.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1791,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f650ec5eea511e99f0c4ed3eef59afda",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1638365065",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-12-01T05:24:25",
+  "updated_at": "2021-12-01T05:24:25"
+}

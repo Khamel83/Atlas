@@ -1,0 +1,34 @@
+{
+  "uid": "85d722b3ad906553",
+  "content_type": "web_bookmark",
+  "source": "http://74.220.215.94/~davidkus/index.php?option=com_content&view=article&id=109:the-all-american-bank-heist&catid=35:articles&Itemid=54",
+  "title": "The All-American Bank Heist",
+  "status": "converted_from_csv",
+  "date": "2011-05-28T22:50:11",
+  "error": null,
+  "content_path": "output/articles/markdown/85d722b3ad906553.md",
+  "html_path": "output/articles/html/85d722b3ad906553.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5713,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f435d2d781f6140235d58935e395743a",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1306648211",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-05-28T22:50:11",
+  "updated_at": "2011-05-28T22:50:11"
+}

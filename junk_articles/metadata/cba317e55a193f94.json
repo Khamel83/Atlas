@@ -1,0 +1,34 @@
+{
+  "uid": "cba317e55a193f94",
+  "content_type": "web_bookmark",
+  "source": "http://www.southsidesox.com/2014/7/27/5940879/reading-room-all-about-frank-thomas",
+  "title": "Reading Room All about Frank Thomas South Side Sox - All Posts",
+  "status": "converted_from_csv",
+  "date": "2014-07-27T20:58:37",
+  "error": null,
+  "content_path": "output/articles/markdown/cba317e55a193f94.md",
+  "html_path": "output/articles/html/cba317e55a193f94.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5202,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "eefa45df1aed0211b7085c1205884377",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1406519917",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-07-27T20:58:37",
+  "updated_at": "2014-07-27T20:58:37"
+}

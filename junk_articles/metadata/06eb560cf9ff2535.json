@@ -1,0 +1,34 @@
+{
+  "uid": "06eb560cf9ff2535",
+  "content_type": "web_bookmark",
+  "source": "http://www.atlantamagazine.com/november2009/thedebtordarrenlumar.aspx",
+  "title": "The Debtor    [longform.org]",
+  "status": "converted_from_csv",
+  "date": "2012-09-15T09:13:53",
+  "error": null,
+  "content_path": "output/articles/markdown/06eb560cf9ff2535.md",
+  "html_path": "output/articles/html/06eb560cf9ff2535.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5452,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "84292b93ca46523d244187f0302694ca",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1347725633",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-09-15T09:13:53",
+  "updated_at": "2012-09-15T09:13:53"
+}

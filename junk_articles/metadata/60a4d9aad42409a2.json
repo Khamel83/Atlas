@@ -1,0 +1,34 @@
+{
+  "uid": "60a4d9aad42409a2",
+  "content_type": "web_bookmark",
+  "source": "http://www.cnn.com/2015/08/24/opinions/islam-identity-crisis-cawo-abdi/index.html",
+  "title": "The identity crisis of 21st century Muslims - CNN.com",
+  "status": "converted_from_csv",
+  "date": "2015-08-24T18:09:38",
+  "error": null,
+  "content_path": "output/articles/markdown/60a4d9aad42409a2.md",
+  "html_path": "output/articles/html/60a4d9aad42409a2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4773,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ddbc6434dd73f818b6c7ecacddbea3b2",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1440464978",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-08-24T18:09:38",
+  "updated_at": "2015-08-24T18:09:38"
+}

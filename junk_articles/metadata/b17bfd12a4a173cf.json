@@ -1,0 +1,34 @@
+{
+  "uid": "b17bfd12a4a173cf",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6ba138172d03bff98eba3a6ab9c9a81a/",
+  "title": "Google Earnings, Other Bets Compensation, 30% and Smartphone Competition (Stratechery Daily Update 2-5-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-02-05T05:06:43",
+  "error": null,
+  "content_path": "output/articles/markdown/b17bfd12a4a173cf.md",
+  "html_path": "output/articles/html/b17bfd12a4a173cf.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3251,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ab3028422beeabf7cecbbff15e0d5582",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1549372003",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-02-05T05:06:43",
+  "updated_at": "2019-02-05T05:06:43"
+}

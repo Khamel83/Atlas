@@ -1,0 +1,34 @@
+{
+  "uid": "ab31299317af2243",
+  "content_type": "web_bookmark",
+  "source": "http://www.baseballprospectus.com/article.php?articleid=31410",
+  "title": "Baseball Prospectus | Looking Back on Tomorrow: Chicago White Sox",
+  "status": "converted_from_csv",
+  "date": "2017-03-21T15:49:32",
+  "error": null,
+  "content_path": "output/articles/markdown/ab31299317af2243.md",
+  "html_path": "output/articles/html/ab31299317af2243.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4053,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c650c6991598ebaff8bbc95eaecf6904",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1490136572",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-03-21T15:49:32",
+  "updated_at": "2017-03-21T15:49:32"
+}

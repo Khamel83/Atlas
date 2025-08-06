@@ -1,0 +1,34 @@
+{
+  "uid": "3bd3a8c308b00419",
+  "content_type": "web_bookmark",
+  "source": "https://www.elle.com/life-love/a35021224/martin-shkreli-christie-smythe-pharma-bro-journalist/",
+  "title": "The Journalist and the Pharma Bro",
+  "status": "converted_from_csv",
+  "date": "2020-12-21T16:57:33",
+  "error": null,
+  "content_path": "output/articles/markdown/3bd3a8c308b00419.md",
+  "html_path": "output/articles/html/3bd3a8c308b00419.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2552,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "79214c41fb6bb65a018e15fbe2801e2b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1608598653",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-12-21T16:57:33",
+  "updated_at": "2020-12-21T16:57:33"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "f60df07a507c495c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/be30a0a4c5f7b1c3cf729036400916c2/",
+  "title": "Disney's Taylor Swift Era (Stratechery Article 8-15-2023)",
+  "status": "converted_from_csv",
+  "date": "2023-08-15T07:17:36",
+  "error": null,
+  "content_path": "output/articles/markdown/f60df07a507c495c.md",
+  "html_path": "output/articles/html/f60df07a507c495c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 701,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7e314196a02e795d896736c98f645ac4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1692109056",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-08-15T07:17:36",
+  "updated_at": "2023-08-15T07:17:36"
+}

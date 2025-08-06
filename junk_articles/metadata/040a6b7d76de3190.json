@@ -1,0 +1,34 @@
+{
+  "uid": "040a6b7d76de3190",
+  "content_type": "web_bookmark",
+  "source": "http://www.vox.com/policy-and-politics/2016/10/28/13453376/david-brooks-conservatism-trump-racism",
+  "title": "David Brooks says conservatism has failed, but he misses the biggest reason: race",
+  "status": "converted_from_csv",
+  "date": "2016-10-28T15:32:34",
+  "error": null,
+  "content_path": "output/articles/markdown/040a6b7d76de3190.md",
+  "html_path": "output/articles/html/040a6b7d76de3190.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4262,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2545b58b1f9d2ccb4273bd54b97b1981",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1477693954",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-10-28T15:32:34",
+  "updated_at": "2016-10-28T15:32:34"
+}

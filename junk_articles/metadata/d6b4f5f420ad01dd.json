@@ -1,0 +1,34 @@
+{
+  "uid": "d6b4f5f420ad01dd",
+  "content_type": "web_bookmark",
+  "source": "http://www.slate.com/articles/business/moneybox/2012/10/nobel_prize_in_economics_lloyd_shapley_and_alvin_roth_win_for_deferred_acceptance.html",
+  "title": "Nobel Prize in economics: Lloyd Shapley and Alvin Roth win for deferred acceptance matching algorithms. - Slate Magazine",
+  "status": "converted_from_csv",
+  "date": "2012-10-15T13:16:19",
+  "error": null,
+  "content_path": "output/articles/markdown/d6b4f5f420ad01dd.md",
+  "html_path": "output/articles/html/d6b4f5f420ad01dd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5433,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "54c8f3444ee8e1874e162c3487943bd5",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1350332179",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-10-15T13:16:19",
+  "updated_at": "2012-10-15T13:16:19"
+}

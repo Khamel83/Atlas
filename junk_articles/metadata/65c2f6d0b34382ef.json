@@ -1,0 +1,34 @@
+{
+  "uid": "65c2f6d0b34382ef",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/8124bbac6272d2616b660706e3f202a8/",
+  "title": "😃 Finding Real Happiness and Leveraging Kindness (+ Latest Deals)",
+  "status": "converted_from_csv",
+  "date": "2022-06-03T08:06:21",
+  "error": null,
+  "content_path": "output/articles/markdown/65c2f6d0b34382ef.md",
+  "html_path": "output/articles/html/65c2f6d0b34382ef.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1406,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ee502395eb314ac987fad2611a9ee66a",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1654268781",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-06-03T08:06:21",
+  "updated_at": "2022-06-03T08:06:21"
+}

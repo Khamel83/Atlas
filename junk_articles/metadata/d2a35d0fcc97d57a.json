@@ -1,0 +1,34 @@
+{
+  "uid": "d2a35d0fcc97d57a",
+  "content_type": "web_bookmark",
+  "source": "http://casnocha.com/reid-hoffman-lessons",
+  "title": "10,000 Hours with Reid Hoffman: What I Learned",
+  "status": "converted_from_csv",
+  "date": "2015-01-27T11:02:12",
+  "error": null,
+  "content_path": "output/articles/markdown/d2a35d0fcc97d57a.md",
+  "html_path": "output/articles/html/d2a35d0fcc97d57a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4957,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "eb864e946f4e32ff544e1473ac1f759c",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1422385332",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-01-27T11:02:12",
+  "updated_at": "2015-01-27T11:02:12"
+}

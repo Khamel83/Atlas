@@ -1,0 +1,34 @@
+{
+  "uid": "0449747390ef9aa8",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/d54d9eb18296d31c70580b92bfcf4573/",
+  "title": "Meet the Censored: Andre Damon",
+  "status": "converted_from_csv",
+  "date": "2020-11-25T08:12:22",
+  "error": null,
+  "content_path": "output/articles/markdown/0449747390ef9aa8.md",
+  "html_path": "output/articles/html/0449747390ef9aa8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2626,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2ba9a2874929a63602357b56ec3e3090",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1606320742",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-11-25T08:12:22",
+  "updated_at": "2020-11-25T08:12:22"
+}

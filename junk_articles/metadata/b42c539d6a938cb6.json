@@ -1,0 +1,34 @@
+{
+  "uid": "b42c539d6a938cb6",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/dee1c3fd7e076eddd94b4d6b7e6cbb21/",
+  "title": "Does Your Child Prefer One Parent?",
+  "status": "converted_from_csv",
+  "date": "2023-08-05T05:02:50",
+  "error": null,
+  "content_path": "output/articles/markdown/b42c539d6a938cb6.md",
+  "html_path": "output/articles/html/b42c539d6a938cb6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 718,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8182af880529fc2999d8c1b59a65df05",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1691236970",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-08-05T05:02:50",
+  "updated_at": "2023-08-05T05:02:50"
+}

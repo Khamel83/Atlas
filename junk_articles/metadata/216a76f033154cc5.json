@@ -1,0 +1,34 @@
+{
+  "uid": "216a76f033154cc5",
+  "content_type": "web_bookmark",
+  "source": "http://blogs.wsj.com/economics/2015/06/01/does-immigration-suppress-wages-its-not-so-simple/",
+  "title": "Does Immigration Suppress Wages? It’s Not So Simple - Real Time Economics - WSJ",
+  "status": "converted_from_csv",
+  "date": "2017-01-25T10:18:11",
+  "error": null,
+  "content_path": "output/articles/markdown/216a76f033154cc5.md",
+  "html_path": "output/articles/html/216a76f033154cc5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4140,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8b55eb91f8faa490da8dd535db97278e",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1485368291",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-01-25T10:18:11",
+  "updated_at": "2017-01-25T10:18:11"
+}

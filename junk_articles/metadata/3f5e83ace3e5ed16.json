@@ -1,0 +1,34 @@
+{
+  "uid": "3f5e83ace3e5ed16",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/645130b811d27328a230dca644a7cd2e/",
+  "title": "The Bombshell Memory Hole",
+  "status": "converted_from_csv",
+  "date": "2020-09-29T07:46:42",
+  "error": null,
+  "content_path": "output/articles/markdown/3f5e83ace3e5ed16.md",
+  "html_path": "output/articles/html/3f5e83ace3e5ed16.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2751,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "31da1b739d750470c74c15ca410aa3bc",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1601390802",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-09-29T07:46:42",
+  "updated_at": "2020-09-29T07:46:42"
+}

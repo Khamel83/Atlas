@@ -1,0 +1,34 @@
+{
+  "uid": "f9f45848ff552add",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/11b9c7319f838fb7058a7f9976ce5553/",
+  "title": "Phthalates (THAL-ates)",
+  "status": "converted_from_csv",
+  "date": "2021-02-25T02:22:05",
+  "error": null,
+  "content_path": "output/articles/markdown/f9f45848ff552add.md",
+  "html_path": "output/articles/html/f9f45848ff552add.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2378,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b98e3b693f1f7c9aafaa2456d12bb645",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1614248525",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-02-25T02:22:05",
+  "updated_at": "2021-02-25T02:22:05"
+}

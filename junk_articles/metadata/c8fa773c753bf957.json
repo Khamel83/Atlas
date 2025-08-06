@@ -1,0 +1,34 @@
+{
+  "uid": "c8fa773c753bf957",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/c41f8ddb7156f8673b521051c9d797a4/",
+  "title": "Lyft’s S-1, Demand > Supply, Lyft Concerns (Stratechery Daily Update 3-5-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-03-05T05:29:44",
+  "error": null,
+  "content_path": "output/articles/markdown/c8fa773c753bf957.md",
+  "html_path": "output/articles/html/c8fa773c753bf957.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3214,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "06813b4591c727cc616a2d2e8f56b426",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1551792584",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-03-05T05:29:44",
+  "updated_at": "2019-03-05T05:29:44"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "2ead5711a961e502",
+  "content_type": "web_bookmark",
+  "source": "https://www.bloomberg.com/news/features/2017-10-19/everyone-s-mad-at-google-and-sundar-pichai-has-to-fix-it",
+  "title": "Everyone’s Mad at Google and Sundar Pichai Has to Fix It - Bloomberg",
+  "status": "converted_from_csv",
+  "date": "2017-10-19T13:35:46",
+  "error": null,
+  "content_path": "output/articles/markdown/2ead5711a961e502.md",
+  "html_path": "output/articles/html/2ead5711a961e502.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3761,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a4501b156f9e5d505a5bbef7c5979956",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1508445346",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-10-19T13:35:46",
+  "updated_at": "2017-10-19T13:35:46"
+}

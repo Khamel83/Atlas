@@ -1,0 +1,34 @@
+{
+  "uid": "96c4c5c9579882a9",
+  "content_type": "web_bookmark",
+  "source": "https://theringer.com/bill-simmons-guide-to-wild-card-weekend-nfl-playoffs-207539e78d1d",
+  "title": "The Gambler’s Guide to Wild-Card Weekend",
+  "status": "converted_from_csv",
+  "date": "2017-01-07T07:41:57",
+  "error": null,
+  "content_path": "output/articles/markdown/96c4c5c9579882a9.md",
+  "html_path": "output/articles/html/96c4c5c9579882a9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4171,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9a8c0fc6ad469acb88a39a9630ac124d",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1483803717",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-01-07T07:41:57",
+  "updated_at": "2017-01-07T07:41:57"
+}

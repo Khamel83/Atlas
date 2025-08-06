@@ -1,0 +1,34 @@
+{
+  "uid": "610f9d8a09ed3e72",
+  "content_type": "web_bookmark",
+  "source": "http://digg.com/2018/high-cost-drugs",
+  "title": "The Impossible Burden Of High-Cost Drugs - Digg",
+  "status": "converted_from_csv",
+  "date": "2018-03-06T06:58:31",
+  "error": null,
+  "content_path": "output/articles/markdown/610f9d8a09ed3e72.md",
+  "html_path": "output/articles/html/610f9d8a09ed3e72.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3591,
+    "selection": "The Impossible Burden Of High-Cost Dru"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a95a3480e6a9368df7ce10da208bd041",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1520348311",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The Impossible Burden Of High-Cost Dru"
+  },
+  "video_id": null,
+  "created_at": "2018-03-06T06:58:31",
+  "updated_at": "2018-03-06T06:58:31"
+}

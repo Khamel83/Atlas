@@ -1,0 +1,34 @@
+{
+  "uid": "d85127106ff0043c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/76cbbd0cd269b96833f413a15cf2958e/",
+  "title": "Facebook’s FTC Fine, Apple and Microsoft’s Mistake, IBM’s Unbundling (Stratechery Daily Update 7-16-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-07-16T03:04:15",
+  "error": null,
+  "content_path": "output/articles/markdown/d85127106ff0043c.md",
+  "html_path": "output/articles/html/d85127106ff0043c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3085,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5bfacc906cd169cd5df1f831a44dd2fd",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1563271455",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-07-16T03:04:15",
+  "updated_at": "2019-07-16T03:04:15"
+}

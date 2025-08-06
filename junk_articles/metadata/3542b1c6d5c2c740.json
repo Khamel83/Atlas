@@ -1,0 +1,34 @@
+{
+  "uid": "3542b1c6d5c2c740",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2017/02/13/opinion/what-jesus-can-teach-todays-muslims.html",
+  "title": "What Jesus Can Teach Today’s Muslims - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2017-02-13T15:32:20",
+  "error": null,
+  "content_path": "output/articles/markdown/3542b1c6d5c2c740.md",
+  "html_path": "output/articles/html/3542b1c6d5c2c740.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4111,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5ce12cd032d63bd3b993bdf5f542a452",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1487028740",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-02-13T15:32:20",
+  "updated_at": "2017-02-13T15:32:20"
+}

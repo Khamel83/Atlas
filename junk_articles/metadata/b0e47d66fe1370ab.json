@@ -1,0 +1,34 @@
+{
+  "uid": "b0e47d66fe1370ab",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/57bd3b373176e9fc75a3e4c7794458f6/",
+  "title": "Netflix Loses The Office, Netflix’s Budget Consciousness, Spotify Ends Direct Uploads (Stratechery Daily Update 7-3-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-07-03T05:37:02",
+  "error": null,
+  "content_path": "output/articles/markdown/b0e47d66fe1370ab.md",
+  "html_path": "output/articles/html/b0e47d66fe1370ab.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3094,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "63bd991bee7c3b9b8b1d05fe4dd55e61",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1562157422",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-07-03T05:37:02",
+  "updated_at": "2019-07-03T05:37:02"
+}

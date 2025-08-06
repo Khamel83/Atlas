@@ -1,0 +1,34 @@
+{
+  "uid": "7e19ec601b19cd88",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/1ba99de79c3d77177fc7f4bc6414b249/",
+  "title": "\"It's Not Cancel Culture — It's A Platform Failure.\"",
+  "status": "converted_from_csv",
+  "date": "2021-04-13T13:49:05",
+  "error": null,
+  "content_path": "output/articles/markdown/7e19ec601b19cd88.md",
+  "html_path": "output/articles/html/7e19ec601b19cd88.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2286,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "718997879281e84050ce0831bcb3aee6",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1618346945",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-04-13T13:49:05",
+  "updated_at": "2021-04-13T13:49:05"
+}

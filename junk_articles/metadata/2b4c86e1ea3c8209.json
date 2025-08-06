@@ -1,0 +1,34 @@
+{
+  "uid": "2b4c86e1ea3c8209",
+  "content_type": "web_bookmark",
+  "source": "http://www.bloomberg.com/news/articles/2016-11-21/how-renaissance-s-medallion-fund-became-finance-s-blackest-box",
+  "title": "Inside a Moneymaking Machine Like No Other",
+  "status": "converted_from_csv",
+  "date": "2016-11-24T22:02:23",
+  "error": null,
+  "content_path": "output/articles/markdown/2b4c86e1ea3c8209.md",
+  "html_path": "output/articles/html/2b4c86e1ea3c8209.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4234,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2d71ac8eb1a540c941a77640a2bd4869",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1480053743",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-11-24T22:02:23",
+  "updated_at": "2016-11-24T22:02:23"
+}

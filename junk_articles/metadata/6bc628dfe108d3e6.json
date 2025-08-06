@@ -1,0 +1,34 @@
+{
+  "uid": "6bc628dfe108d3e6",
+  "content_type": "web_bookmark",
+  "source": "http://www.imissgrantland.com/2016/02/04/bloodthirsty-terrorists-and-duplicitous-spies-does-tv-have-a-muslim-problem/",
+  "title": "Bloodthirsty terrorists and duplicitous spies: does TV have a Muslim problem?",
+  "status": "converted_from_csv",
+  "date": "2016-02-05T14:45:36",
+  "error": null,
+  "content_path": "output/articles/markdown/6bc628dfe108d3e6.md",
+  "html_path": "output/articles/html/6bc628dfe108d3e6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4586,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "26f049e075497fc59993c848fd5c54d2",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1454712336",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-02-05T14:45:36",
+  "updated_at": "2016-02-05T14:45:36"
+}

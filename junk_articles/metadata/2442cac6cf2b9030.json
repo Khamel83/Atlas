@@ -1,0 +1,34 @@
+{
+  "uid": "2442cac6cf2b9030",
+  "content_type": "web_bookmark",
+  "source": "http://www.popsci.com/article/technology/radio-tecnico-how-zetas-cartel-took-over-mexico-walkie-talkies",
+  "title": "Radio Tecnico: How The Zetas Cartel Took Over Mexico With Walkie-Talkies",
+  "status": "converted_from_csv",
+  "date": "2014-03-19T00:35:46",
+  "error": null,
+  "content_path": "output/articles/markdown/2442cac6cf2b9030.md",
+  "html_path": "output/articles/html/2442cac6cf2b9030.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5277,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d59237a6ca3d0047ea6fe78ac8abd182",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1395214546",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-03-19T00:35:46",
+  "updated_at": "2014-03-19T00:35:46"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "9f276244002ec176",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0b4f3174b285dad4d6aba413b49a0cdf/",
+  "title": "January 19, 2021",
+  "status": "converted_from_csv",
+  "date": "2021-01-19T23:06:51",
+  "error": null,
+  "content_path": "output/articles/markdown/9f276244002ec176.md",
+  "html_path": "output/articles/html/9f276244002ec176.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2466,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "411c66dcfbde49e173011e996cf09945",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1611126411",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-01-19T23:06:51",
+  "updated_at": "2021-01-19T23:06:51"
+}

@@ -1,0 +1,11 @@
+# Cyberspace When You’re Dead - NYTimes.com
+
+**Source:** http://www.nytimes.com/2011/01/09/magazine/09Immortality-t.html?hpw=&pagewanted=print
+**Folder:** Archive
+**Added:** 2011-01-16T20:48:20
+
+
+
+
+## Content
+*Content would need to be fetched separately for web URLs*

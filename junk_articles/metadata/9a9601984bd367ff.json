@@ -1,0 +1,34 @@
+{
+  "uid": "9a9601984bd367ff",
+  "content_type": "web_bookmark",
+  "source": "https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1680&context=tfr",
+  "title": "",
+  "status": "converted_from_csv",
+  "date": "2024-08-07T21:46:14",
+  "error": null,
+  "content_path": "output/articles/markdown/9a9601984bd367ff.md",
+  "html_path": "output/articles/html/9a9601984bd367ff.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 226,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "080db6b5352b71b126ab9831cfa58ced",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1723092374",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-08-07T21:46:14",
+  "updated_at": "2024-08-07T21:46:14"
+}

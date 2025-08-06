@@ -1,0 +1,34 @@
+{
+  "uid": "2e3d3ca4d402ec75",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/02/05/opinion/05sat1.html?pagewanted=print",
+  "title": "Politics and the Supreme Court - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-02-11T11:13:27",
+  "error": null,
+  "content_path": "output/articles/markdown/2e3d3ca4d402ec75.md",
+  "html_path": "output/articles/html/2e3d3ca4d402ec75.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5912,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "44188a4e4f63a8b738f1ff3a9b9a56a7",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1297451607",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-02-11T11:13:27",
+  "updated_at": "2011-02-11T11:13:27"
+}

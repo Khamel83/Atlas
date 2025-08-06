@@ -1,0 +1,34 @@
+{
+  "uid": "c06ffa6da15f3a1d",
+  "content_type": "web_bookmark",
+  "source": "http://www.theverge.com/2014/9/19/6540133/best-halloween-books-spooky-stories",
+  "title": "Halloween PSA You can buy the best book of spooky stories right now for a penny The Verge - All Posts",
+  "status": "converted_from_csv",
+  "date": "2014-09-19T12:52:47",
+  "error": null,
+  "content_path": "output/articles/markdown/c06ffa6da15f3a1d.md",
+  "html_path": "output/articles/html/c06ffa6da15f3a1d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5132,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "660837273bf453757f896438b6170880",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1411156367",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-09-19T12:52:47",
+  "updated_at": "2014-09-19T12:52:47"
+}

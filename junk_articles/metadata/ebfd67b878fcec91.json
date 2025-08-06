@@ -1,0 +1,34 @@
+{
+  "uid": "ebfd67b878fcec91",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2014/05/18/opinion/sunday/always-hungry-heres-why.html",
+  "title": "Always Hungry? Here’s Why",
+  "status": "converted_from_csv",
+  "date": "2014-05-19T15:09:22",
+  "error": null,
+  "content_path": "output/articles/markdown/ebfd67b878fcec91.md",
+  "html_path": "output/articles/html/ebfd67b878fcec91.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5260,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c020d974c9f25f1ada94be851aa51fba",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1400537362",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-05-19T15:09:22",
+  "updated_at": "2014-05-19T15:09:22"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "fea1530a5087cc64",
+  "content_type": "web_bookmark",
+  "source": "http://fivethirtyeight.com/features/a-state-by-state-roadmap-for-the-rest-of-the-republican-primary/",
+  "title": "A State-By-State Roadmap For The Rest Of The Republican Primary",
+  "status": "converted_from_csv",
+  "date": "2016-04-13T19:23:32",
+  "error": null,
+  "content_path": "output/articles/markdown/fea1530a5087cc64.md",
+  "html_path": "output/articles/html/fea1530a5087cc64.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4482,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "461cb7fbc68a2d74e7f8b981e3b4eac5",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1460600612",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-04-13T19:23:32",
+  "updated_at": "2016-04-13T19:23:32"
+}

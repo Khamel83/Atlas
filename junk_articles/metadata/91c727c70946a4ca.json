@@ -1,0 +1,34 @@
+{
+  "uid": "91c727c70946a4ca",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/fb0aae9863ac6d647b4ed272c377490e/",
+  "title": "💥Retailers Stumble into '24💥",
+  "status": "converted_from_csv",
+  "date": "2023-12-10T08:16:32",
+  "error": null,
+  "content_path": "output/articles/markdown/91c727c70946a4ca.md",
+  "html_path": "output/articles/html/91c727c70946a4ca.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 478,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6820885ef3af2fb8b4f9f5edb986d63a",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1702224992",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-12-10T08:16:32",
+  "updated_at": "2023-12-10T08:16:32"
+}

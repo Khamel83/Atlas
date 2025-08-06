@@ -1,0 +1,34 @@
+{
+  "uid": "5572a793c63fa055",
+  "content_type": "web_bookmark",
+  "source": "https://hbr.org/2020/02/the-mystery-of-the-2000-ikea-shopping-bag",
+  "title": "The Mystery of the $2,000 Ikea Shopping Bag",
+  "status": "converted_from_csv",
+  "date": "2020-11-29T18:00:52",
+  "error": null,
+  "content_path": "output/articles/markdown/5572a793c63fa055.md",
+  "html_path": "output/articles/html/5572a793c63fa055.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2616,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5e990b3a9265158cad6957fe2c80451b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1606701652",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-11-29T18:00:52",
+  "updated_at": "2020-11-29T18:00:52"
+}

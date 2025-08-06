@@ -1,0 +1,34 @@
+{
+  "uid": "687913b84b7f2b97",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/d9f04a16b4d4c3f817d52a96fb9b91c3/",
+  "title": "Should We Be Counting COVID Cases?",
+  "status": "converted_from_csv",
+  "date": "2021-11-22T02:05:23",
+  "error": null,
+  "content_path": "output/articles/markdown/687913b84b7f2b97.md",
+  "html_path": "output/articles/html/687913b84b7f2b97.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1813,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "327fc8b031e6ce82f23a0868c5334954",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1637575523",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-11-22T02:05:23",
+  "updated_at": "2021-11-22T02:05:23"
+}

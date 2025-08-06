@@ -1,0 +1,34 @@
+{
+  "uid": "1e3ede6bf8f2b807",
+  "content_type": "web_bookmark",
+  "source": "http://www.theverge.com/2014/11/2/7147505/the-internet-arcade-puts-900-classic-games-right-in-your-web-browser",
+  "title": "The Internet Arcade puts 900 classic games right in your web browser The Verge - All Posts",
+  "status": "converted_from_csv",
+  "date": "2014-11-02T17:47:50",
+  "error": null,
+  "content_path": "output/articles/markdown/1e3ede6bf8f2b807.md",
+  "html_path": "output/articles/html/1e3ede6bf8f2b807.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5069,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "beb105b3ec518aa277086a55ecd9c483",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1414979270",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-11-02T17:47:50",
+  "updated_at": "2014-11-02T17:47:50"
+}

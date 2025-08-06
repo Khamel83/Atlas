@@ -1,0 +1,34 @@
+{
+  "uid": "ee21b4c12395ba3c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/65f106d51d3dbc06fe4a0208622c20db/",
+  "title": "Distinguishing Regulation, Is the Internet Different?, Reasons for Skepticism (Stratechery Daily Update 12-13-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-12-13T03:21:27",
+  "error": null,
+  "content_path": "output/articles/markdown/ee21b4c12395ba3c.md",
+  "html_path": "output/articles/html/ee21b4c12395ba3c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3307,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6d0a04e448394d89ac546b5d7ff00b43",
+  "type_specific": {
+    "folder": "Stratechery",
+    "instapaper_timestamp": "1544700087",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-12-13T03:21:27",
+  "updated_at": "2018-12-13T03:21:27"
+}

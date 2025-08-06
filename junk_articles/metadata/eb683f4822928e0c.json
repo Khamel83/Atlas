@@ -1,0 +1,34 @@
+{
+  "uid": "eb683f4822928e0c",
+  "content_type": "web_bookmark",
+  "source": "http://opinionator.blogs.nytimes.com/2013/01/26/the-rise-of-the-permanent-temp-economy/?src=rechp",
+  "title": "The Rise of the Permanent Temp Economy - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2013-01-28T22:17:56",
+  "error": null,
+  "content_path": "output/articles/markdown/eb683f4822928e0c.md",
+  "html_path": "output/articles/html/eb683f4822928e0c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5411,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "36ec2f5c5225d035797468c544b6457f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1359440276",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2013-01-28T22:17:56",
+  "updated_at": "2013-01-28T22:17:56"
+}

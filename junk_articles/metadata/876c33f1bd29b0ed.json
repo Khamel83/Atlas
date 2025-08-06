@@ -1,0 +1,34 @@
+{
+  "uid": "876c33f1bd29b0ed",
+  "content_type": "web_bookmark",
+  "source": "https://stratechery.com/2017/the-super-aggregators-and-the-russians/",
+  "title": "The Super-Aggregators and the Russians",
+  "status": "converted_from_csv",
+  "date": "2017-09-18T06:14:43",
+  "error": null,
+  "content_path": "output/articles/markdown/876c33f1bd29b0ed.md",
+  "html_path": "output/articles/html/876c33f1bd29b0ed.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3810,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "eb1fe59be1a2d3fdd2c5dafc6a5256cc",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1505740483",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-09-18T06:14:43",
+  "updated_at": "2017-09-18T06:14:43"
+}

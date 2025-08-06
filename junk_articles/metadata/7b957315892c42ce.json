@@ -1,0 +1,34 @@
+{
+  "uid": "7b957315892c42ce",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/1143f32385e9b1cd15de04bcc9d6fc51/",
+  "title": "Interview With Joe Rogan",
+  "status": "converted_from_csv",
+  "date": "2021-12-08T17:22:33",
+  "error": null,
+  "content_path": "output/articles/markdown/7b957315892c42ce.md",
+  "html_path": "output/articles/html/7b957315892c42ce.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1773,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d9603fc55c7554b263a31e78881092b5",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1639012953",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-12-08T17:22:33",
+  "updated_at": "2021-12-08T17:22:33"
+}

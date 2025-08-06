@@ -1,0 +1,34 @@
+{
+  "uid": "f6d6493e9ad8ae93",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/1f355aa9c06d7ad14231f989ba1ebec0/",
+  "title": "Baby-Friendly Hospitals",
+  "status": "converted_from_csv",
+  "date": "2024-01-02T02:32:39",
+  "error": null,
+  "content_path": "output/articles/markdown/f6d6493e9ad8ae93.md",
+  "html_path": "output/articles/html/f6d6493e9ad8ae93.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 441,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e3b8e23705a6872afd3fe8f3da25c6a7",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1704191559",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-01-02T02:32:39",
+  "updated_at": "2024-01-02T02:32:39"
+}

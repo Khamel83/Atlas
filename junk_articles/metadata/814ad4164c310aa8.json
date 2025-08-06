@@ -1,0 +1,34 @@
+{
+  "uid": "814ad4164c310aa8",
+  "content_type": "web_bookmark",
+  "source": "http://online.wsj.com/article/SB10001424052748703518604576013733646505202.html?mod=rss_Today%27s_Most_Popular",
+  "title": "Mark Madoff and the Fraud's Burden - WSJ.com",
+  "status": "converted_from_csv",
+  "date": "2010-12-21T21:05:16",
+  "error": null,
+  "content_path": "output/articles/markdown/814ad4164c310aa8.md",
+  "html_path": "output/articles/html/814ad4164c310aa8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6041,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bed94d957c5e42eda5526b584d356e18",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1292994316",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-12-21T21:05:16",
+  "updated_at": "2010-12-21T21:05:16"
+}

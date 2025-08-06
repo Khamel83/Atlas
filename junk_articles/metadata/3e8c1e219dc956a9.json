@@ -1,0 +1,34 @@
+{
+  "uid": "3e8c1e219dc956a9",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/4d1f26fbc9f0d2388876cdd2f9b22204/",
+  "title": "Libra Launches, Loses Members; A Note on Facebook v Warren; The Office of Emerging Technologies (Stratechery Daily Update 10-15-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-10-15T05:28:31",
+  "error": null,
+  "content_path": "output/articles/markdown/3e8c1e219dc956a9.md",
+  "html_path": "output/articles/html/3e8c1e219dc956a9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2989,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fafbf70aa843fdca16abf865e7f1de31",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1571142511",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-10-15T05:28:31",
+  "updated_at": "2019-10-15T05:28:31"
+}

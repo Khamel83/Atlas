@@ -1,0 +1,34 @@
+{
+  "uid": "0e46e9ba85a4a60b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/7cd56d1ce873309fa02608ebd4d65c82/",
+  "title": "Clayton Christensen Passes Away, Professor Christensen and I, Kobe Bryant and Measuring Your Life (Stratechery Daily Update 1-27-2020)",
+  "status": "converted_from_csv",
+  "date": "2020-01-27T07:23:03",
+  "error": null,
+  "content_path": "output/articles/markdown/0e46e9ba85a4a60b.md",
+  "html_path": "output/articles/html/0e46e9ba85a4a60b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2901,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a90ef0df8c68b91cbf889a5e1f9ef56c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1580138583",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-01-27T07:23:03",
+  "updated_at": "2020-01-27T07:23:03"
+}

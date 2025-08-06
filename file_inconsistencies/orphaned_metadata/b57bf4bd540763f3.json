@@ -1,0 +1,32 @@
+{
+  "uid": "b57bf4bd540763f3",
+  "content_type": "instapaper",
+  "source": "https://www.parents.com/toddlers-preschoolers/development/behavioral/the-surprising-secret-to-raising-a-well-behaved-kid/",
+  "title": "The Surprising Secret to Raising a Well-Behaved Kid",
+  "status": "success",
+  "date": "2025-08-05T12:40:33.748529",
+  "error": null,
+  "content_path": "output/articles/markdown/acab41144f8296a0.md",
+  "html_path": "output/articles/html/acab41144f8296a0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "09f21baf1b267870f2537d581c8dd2d6659cba77f0e9d6fdaa403ac68ed1b9cd",
+  "type_specific": {
+    "bookmark_id": 1720585012
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:40:33.748562",
+  "updated_at": "2025-08-05T12:40:34.221857"
+}

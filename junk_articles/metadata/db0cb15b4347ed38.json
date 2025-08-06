@@ -1,0 +1,34 @@
+{
+  "uid": "db0cb15b4347ed38",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/10883ab047470d0851ac4c4b9edd7013/",
+  "title": "iPhone Classes; iPhone Growth Drivers, and Limiters; The Apple Watch (Stratechery Daily Update 9-17-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-09-17T05:30:27",
+  "error": null,
+  "content_path": "output/articles/markdown/db0cb15b4347ed38.md",
+  "html_path": "output/articles/html/db0cb15b4347ed38.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3395,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "de3d6661f9b90ee0c6e17d2db5b42007",
+  "type_specific": {
+    "folder": "Stratechery",
+    "instapaper_timestamp": "1537187427",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-09-17T05:30:27",
+  "updated_at": "2018-09-17T05:30:27"
+}

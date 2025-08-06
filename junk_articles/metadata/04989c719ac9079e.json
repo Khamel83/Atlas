@@ -1,0 +1,34 @@
+{
+  "uid": "04989c719ac9079e",
+  "content_type": "web_bookmark",
+  "source": "http://nymag.com/print/?/news/features/michael-lewis-2011-10/",
+  "title": "It’s Good to Be Michael Lewis",
+  "status": "converted_from_csv",
+  "date": "2011-10-07T17:25:03",
+  "error": null,
+  "content_path": "output/articles/markdown/04989c719ac9079e.md",
+  "html_path": "output/articles/html/04989c719ac9079e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5583,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "438522e2923df73bc6b154cfe6f3c58a",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1318033503",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-10-07T17:25:03",
+  "updated_at": "2011-10-07T17:25:03"
+}
