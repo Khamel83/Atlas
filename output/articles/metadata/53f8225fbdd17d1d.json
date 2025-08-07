@@ -1,0 +1,28 @@
+{
+  "uid": "53f8225fbdd17d1d",
+  "content_type": "instapaper_starred_additional_content",
+  "source": "instapaper://private-content/1763087974",
+  "title": "Hyperlegibility",
+  "status": "success",
+  "date": "2025-08-06T13:40:59.409304",
+  "error": null,
+  "content_path": "output/articles/markdown/53f8225fbdd17d1d.md",
+  "html_path": "output/articles/html/53f8225fbdd17d1d.html",
+  "fetch_method": "instapaper_api_starred_folder_maximization",
+  "fetch_details": {
+    "bookmark_id": 1763087974,
+    "content_length": 26526,
+    "successful": true,
+    "extraction_batch": "maximization_discovery",
+    "folder": "starred"
+  },
+  "type_specific": {
+    "bookmark_id": 1763087974,
+    "instapaper_time": 1742905525,
+    "folder": "starred",
+    "content_length": 26526,
+    "discovery_method": "folder_deep_dive"
+  },
+  "created_at": "2025-08-06T13:40:59.409328",
+  "updated_at": "2025-08-06T13:40:59.409329"
+}

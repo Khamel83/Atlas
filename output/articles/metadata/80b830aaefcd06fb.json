@@ -1,0 +1,40 @@
+{
+  "uid": "80b830aaefcd06fb",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.theverge.com/2016/8/31/12714672/lenovo-yoga-book-announced-specs-price-release-date-ifa-2016",
+  "title": "Lenovo’s Yoga Book is a new kind of tablet The Verge",
+  "status": "selection_content_extracted",
+  "date": "2016-08-31T16:54:43",
+  "error": null,
+  "content_path": "output/articles/markdown/80b830aaefcd06fb.md",
+  "html_path": "output/articles/html/80b830aaefcd06fb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4334,
+    "selection_length": 2359,
+    "cleaned_selection_length": 2396,
+    "domain": "theverge.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "80b830aaefcd06fb",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1472687683",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Today, Lenovo has announced the all-new Yoga Book, a different kind of tablet. It uses Lenovo’s now-familiar \"watchband\" hinge to put together two different pieces. The first is the usual touchscreen you’d expect, but the second is something new: it’s a touch-sensitive surface powered by Wacom. It has light-up keys that make it a keyboard, but it also accepts input from a stylus.\n\nLenovo calls it the \"Create Pad,\" and it has one more trick: you can swap in an ink cartridge into the included stylus and take notes on real paper and the Yoga Book will copy what you’re doing in real time. Because the hinge lets you swing the screen all the way around, you can take notes on paper while it’s folded up with the screen off on the back and the tablet will still record them.\n\nAs is Lenovo’s way, there are two variants getting released in October. The first runs on Android Marshmallow and runs $499. The other is a Windows 10 version, for $549. Both versions come with the stylus/pen included and also have LTE radios. Lenovo rates the Android version at 15 hours and the Windows version at 13 hours, numbers that are hard to judge — although the 8500mAh battery is big, we don’t know what kind of power draw the \"Create Pad\" has.\n\nBoth versions of the tablet have the same specs, including a 10/1-inch 1920x1200 display, 4GB of RAM, and 64GB of storage. You can expand it via microSD as well. They also have the same processor, an Intel Atom 5x, which should tell you that these are not powerhouse machines — but that’s theoretically not going to be a problem for people who want to use it to take notes and watch a few movies.\n\nRead Next: Rewriting the tablet: How Lenovo brought a dream design to life\n\nLenovo essentially made no changes to Windows for the Yoga Book, but the Android version is heavily customized. There’s the aforementioned note-taking capabilities built-in, but the software has also been altered to act a bit more like a desktop. There’s a taskbar and the ability to run multiple apps in windows.\n\nWe’ll need to actually try the thing out to see if it works, but it’s the first tablet we’ve seen in awhile that does more than try to innovate on hardware beyond clever kickstands or physical keyboard attachments. It’s enough to call to mind the nearly forgotten Microsoft Courier concept — but let’s not dwell on what might have been.",
+    "cleaned_selection": "<p>Today, Lenovo has announced the all-new Yoga Book, a different kind of tablet. It uses Lenovo’s now-familiar \"watchband\" hinge to put together two different pieces. The first is the usual touchscreen you’d expect, but the second is something new: it’s a touch-sensitive surface powered by Wacom. It has light-up keys that make it a keyboard, but it also accepts input from a stylus.</p><p>Lenovo calls it the \"Create Pad,\" and it has one more trick: you can swap in an ink cartridge into the included stylus and take notes on real paper and the Yoga Book will copy what you’re doing in real time. Because the hinge lets you swing the screen all the way around, you can take notes on paper while it’s folded up with the screen off on the back and the tablet will still record them.</p><p>As is Lenovo’s way, there are two variants getting released in October. The first runs on Android Marshmallow and runs $499. The other is a Windows 10 version, for $549. Both versions come with the stylus/pen included and also have LTE radios. Lenovo rates the Android version at 15 hours and the Windows version at 13 hours, numbers that are hard to judge — although the 8500mAh battery is big, we don’t know what kind of power draw the \"Create Pad\" has.</p><p>Both versions of the tablet have the same specs, including a 10/1-inch 1920x1200 display, 4GB of RAM, and 64GB of storage. You can expand it via microSD as well. They also have the same processor, an Intel Atom 5x, which should tell you that these are not powerhouse machines — but that’s theoretically not going to be a problem for people who want to use it to take notes and watch a few movies.</p><p>Read Next: Rewriting the tablet: How Lenovo brought a dream design to life</p><p>Lenovo essentially made no changes to Windows for the Yoga Book, but the Android version is heavily customized. There’s the aforementioned note-taking capabilities built-in, but the software has also been altered to act a bit more like a desktop. There’s a taskbar and the ability to run multiple apps in windows.</p><p>We’ll need to actually try the thing out to see if it works, but it’s the first tablet we’ve seen in awhile that does more than try to innovate on hardware beyond clever kickstands or physical keyboard attachments. It’s enough to call to mind the nearly forgotten Microsoft Courier concept — but let’s not dwell on what might have been.</p>",
+    "domain": "theverge.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.295491",
+  "updated_at": "2025-08-06T08:47:04.295492"
+}

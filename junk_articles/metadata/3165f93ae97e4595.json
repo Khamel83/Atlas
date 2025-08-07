@@ -1,0 +1,34 @@
+{
+  "uid": "3165f93ae97e4595",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/cd63ed175865787609699dbc9e4e733d/",
+  "title": "Social vs. Science Experiments",
+  "status": "converted_from_csv",
+  "date": "2022-10-10T05:54:45",
+  "error": null,
+  "content_path": "output/articles/markdown/3165f93ae97e4595.md",
+  "html_path": "output/articles/html/3165f93ae97e4595.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1189,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8c08dd56be52c11ac8084eaf4c15fc97",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1665406485",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-10-10T05:54:45",
+  "updated_at": "2022-10-10T05:54:45"
+}

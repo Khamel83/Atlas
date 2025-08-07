@@ -1,0 +1,40 @@
+{
+  "uid": "7e3141eafb30add3",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.core77.com//posts/69828/Find-Your-Fit-Payless-is-Seeking-a-Senior-Mens-Sneaker-Designer-in-New-York-NY",
+  "title": "Design Job Find Your Fit Payless is Seeking a Senior Men's Sneaker Designer in New York, NY Core77",
+  "status": "selection_content_extracted",
+  "date": "2017-10-26T21:56:12",
+  "error": null,
+  "content_path": "output/articles/markdown/7e3141eafb30add3.md",
+  "html_path": "output/articles/html/7e3141eafb30add3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3743,
+    "selection_length": 368,
+    "cleaned_selection_length": 380,
+    "domain": "core77.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7e3141eafb30add3",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1509080172",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Find your fit with Payless ShoeSource as a Senior Footwear Designer in our New York Design Office. You know who you are. And you know what moves you. That's why your chosen career should fit you as well as your favorite pair of shoes, every step of the way. And that's what makes a career with Payless ShoeSource the perfect fit for you.\n\nView the full design job here",
+    "cleaned_selection": "<p>Find your fit with Payless ShoeSource as a Senior Footwear Designer in our New York Design Office. You know who you are. And you know what moves you. That's why your chosen career should fit you as well as your favorite pair of shoes, every step of the way. And that's what makes a career with Payless ShoeSource the perfect fit for you.</p><p>View the full design job here</p>",
+    "domain": "core77.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.975994",
+  "updated_at": "2025-08-06T08:47:03.975995"
+}

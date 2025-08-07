@@ -1,0 +1,26 @@
+{
+  "uid": "3ecde4730442264f",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1753999553",
+  "title": "Germany Opens Big Fat Pie Hole",
+  "status": "success",
+  "date": "2025-08-06T13:15:50.018705",
+  "error": null,
+  "content_path": "output/articles/markdown/3ecde4730442264f.md",
+  "html_path": "output/articles/html/3ecde4730442264f.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1753999553,
+    "content_length": 12578,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1753999553,
+    "instapaper_time": 1739567094,
+    "is_private_content": true,
+    "content_length": 12578
+  },
+  "created_at": "2025-08-06T13:15:50.018709",
+  "updated_at": "2025-08-06T13:15:50.018710"
+}

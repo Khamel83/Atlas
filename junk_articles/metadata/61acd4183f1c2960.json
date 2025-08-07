@@ -1,0 +1,34 @@
+{
+  "uid": "61acd4183f1c2960",
+  "content_type": "web_bookmark",
+  "source": "http://www.foreignpolicy.com/articles/2013/06/24/you_can_t_eat_sharia?page=full",
+  "title": "'You Can't Eat Sharia' - By Mohamed ElBaradei | Foreign Policy",
+  "status": "converted_from_csv",
+  "date": "2013-07-04T14:53:40",
+  "error": null,
+  "content_path": "output/articles/markdown/61acd4183f1c2960.md",
+  "html_path": "output/articles/html/61acd4183f1c2960.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5368,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2d703dc0c4495a5575ff2ac7d132ddb5",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1372974820",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2013-07-04T14:53:40",
+  "updated_at": "2013-07-04T14:53:40"
+}

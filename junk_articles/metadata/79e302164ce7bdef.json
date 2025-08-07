@@ -1,0 +1,34 @@
+{
+  "uid": "79e302164ce7bdef",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/7dc02b4738ae19672b83068db81aedda/",
+  "title": "The Vaccine Aristocrats",
+  "status": "converted_from_csv",
+  "date": "2021-07-27T15:48:56",
+  "error": null,
+  "content_path": "output/articles/markdown/79e302164ce7bdef.md",
+  "html_path": "output/articles/html/79e302164ce7bdef.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2070,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f09e296abfec10b6b4d6a87158a2fa7d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1627426136",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-07-27T15:48:56",
+  "updated_at": "2021-07-27T15:48:56"
+}

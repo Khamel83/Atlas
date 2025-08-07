@@ -1,0 +1,34 @@
+{
+  "uid": "b5bded59f335c0cc",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/ee00d2d53921a1022cf1699cffe8f79b/",
+  "title": "Twitter gets its hands dirty",
+  "status": "converted_from_csv",
+  "date": "2022-08-03T17:04:20",
+  "error": null,
+  "content_path": "output/articles/markdown/b5bded59f335c0cc.md",
+  "html_path": "output/articles/html/b5bded59f335c0cc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1295,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "56776ed60ac4e93e0ccea0d4fcc8adc2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1659571460",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-08-03T17:04:20",
+  "updated_at": "2022-08-03T17:04:20"
+}

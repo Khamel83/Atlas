@@ -1,0 +1,40 @@
+{
+  "uid": "2b08e473bbc687b4",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.calculatedriskblog.com/2017/06/us-demographics-millennials-take-over.html",
+  "title": "U.S. Demographics The Millennials Take Over Calculated Risk",
+  "status": "selection_content_extracted",
+  "date": "2017-06-22T12:20:38",
+  "error": null,
+  "content_path": "output/articles/markdown/2b08e473bbc687b4.md",
+  "html_path": "output/articles/html/2b08e473bbc687b4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3914,
+    "selection_length": 1294,
+    "cleaned_selection_length": 1487,
+    "domain": "calculatedriskblog.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2b08e473bbc687b4",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1498159238",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "From the Census Bureau The Nation’s Older Population Is Still Growing, Census Bureau Reports\nNew detailed estimates show the nation’s median age — the age where half of the population is younger and the other half older — rose from 35.3 years on April 1, 2000, to 37.9 years on July 1, 2016.\n“The baby-boom generation is largely responsible for this trend,” said Peter Borsella, a demographer in the Population Division. “Baby boomers began turning 65 in 2011 and will continue to do so for many years to come.”\nResidents age 65 and over grew from 35.0 million in 2000, to 49.2 million in 2016, accounting for 12.4 percent and 15.2 percent of the total population, respectively.\n\n Click on graph for larger image.\nThis graph uses the data in the July 1, 2016 estimate released today.\nUsing the Census data, here is a table showing the ten most common ages in 2010 and 2016.\nNote the younger baby boom generation dominated in 2010.  By 2016 the millennials have taken over.  The six largest groups, by age, are in their 20s - and eight of the top ten are in their 20s. \nMy view is this is positive for both housing and the economy.\n\nPopulation: Most Common Ages by Year\n\n \n\n2010\n\n2016\n\n1\n\n50\n\n25\n\n2\n\n49\n\n26\n\n3\n\n20\n\n24\n\n4\n\n19\n\n23\n\n5\n\n47\n\n27\n\n6\n\n46\n\n22\n\n7\n\n48\n\n55\n\n8\n\n51\n\n28\n\n9\n\n18\n\n21\n\n10\n\n52\n\n55",
+    "cleaned_selection": "<p>From the Census Bureau The Nation’s Older Population Is Still Growing, Census Bureau Reports<br>New detailed estimates show the nation’s median age — the age where half of the population is younger and the other half older — rose from 35.3 years on April 1, 2000, to 37.9 years on July 1, 2016.<br>“The baby-boom generation is largely responsible for this trend,” said Peter Borsella, a demographer in the Population Division. “Baby boomers began turning 65 in 2011 and will continue to do so for many years to come.”<br>Residents age 65 and over grew from 35.0 million in 2000, to 49.2 million in 2016, accounting for 12.4 percent and 15.2 percent of the total population, respectively.</p><p> Click on graph for larger image.<br>This graph uses the data in the July 1, 2016 estimate released today.<br>Using the Census data, here is a table showing the ten most common ages in 2010 and 2016.<br>Note the younger baby boom generation dominated in 2010. By 2016 the millennials have taken over. The six largest groups, by age, are in their 20s - and eight of the top ten are in their 20s. <br>My view is this is positive for both housing and the economy.</p><p>Population: Most Common Ages by Year</p><p>2010</p><p>2016</p><p>1</p><p>50</p><p>25</p><p>2</p><p>49</p><p>26</p><p>3</p><p>20</p><p>24</p><p>4</p><p>19</p><p>23</p><p>5</p><p>47</p><p>27</p><p>6</p><p>46</p><p>22</p><p>7</p><p>48</p><p>55</p><p>8</p><p>51</p><p>28</p><p>9</p><p>18</p><p>21</p><p>10</p><p>52</p><p>55</p>",
+    "domain": "calculatedriskblog.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.090285",
+  "updated_at": "2025-08-06T08:47:04.090287"
+}

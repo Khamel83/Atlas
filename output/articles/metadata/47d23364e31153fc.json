@@ -1,0 +1,40 @@
+{
+  "uid": "47d23364e31153fc",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.fangraphs.com/blogs/an-inconclusive-exploration-of-paul-goldschmidts-passivity/",
+  "title": "An Inconclusive Exploration of Paul Goldschmidt’s Passivity FanGraphs Baseball",
+  "status": "selection_content_extracted",
+  "date": "2016-02-02T14:55:10",
+  "error": null,
+  "content_path": "output/articles/markdown/47d23364e31153fc.md",
+  "html_path": "output/articles/html/47d23364e31153fc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4595,
+    "selection_length": 318,
+    "cleaned_selection_length": 325,
+    "domain": "fangraphs.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "47d23364e31153fc",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1454453710",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "I don’t believe I’m out of line when I say that, of life’s most enjoyable pleasures, many are to be used, collected, consumed, or practiced in moderation. “You can have too much of a good thing,” they say. Food and alcohol, for example. Both delightful. Both substances which, were I unaware of the consequences of […]",
+    "cleaned_selection": "<p>I don’t believe I’m out of line when I say that, of life’s most enjoyable pleasures, many are to be used, collected, consumed, or practiced in moderation. “You can have too much of a good thing,” they say. Food and alcohol, for example. Both delightful. Both substances which, were I unaware of the consequences of […]</p>",
+    "domain": "fangraphs.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.341524",
+  "updated_at": "2025-08-06T08:47:04.341526"
+}

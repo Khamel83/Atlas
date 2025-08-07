@@ -1,0 +1,40 @@
+{
+  "uid": "199accead62e001f",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://flowingdata.com/2017/10/19/american-daily-routine/",
+  "title": "American Daily Routine FlowingData",
+  "status": "selection_content_extracted",
+  "date": "2017-10-20T11:54:03",
+  "error": null,
+  "content_path": "output/articles/markdown/199accead62e001f.md",
+  "html_path": "output/articles/html/199accead62e001f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3760,
+    "selection_length": 1789,
+    "cleaned_selection_length": 1846,
+    "domain": "flowingdata.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "199accead62e001f",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1508525643",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Sleep. Work. Play. Rinse and repeat. This is the gist of most people’s daily routine, but the amount of time varies as more responsibilities kick in. Some people spend more time taking care of others in the house, some don’t have a paying job, and of course, the weekday schedule is usually different from the weekend’s.\n\nThe chart below shows a picture of the American daily routine and how it changes for different groups. Each bar represents an activity, and they sort by the time of day that most people are engaged in an activity. Color indicates the percentage of people during a given time frame.\n\nSo reading from top to bottom you get a sense of a schedule.\n\nAs a parent of two, I’m always interested in the balance between work and taking care of kids. So it’s interesting to see “caring for household members” shift up and down when you toggle between male and female. The percentages are always low for males.\n\nOr, if you toggle between employed and unemployed, you see a routine of sleep, work, commute, and relax for the former. You see dark colors in fewer bars. But when you switch to unemployed, the color range looks more sparse and the schedule shifts to the right for later wake-up times.\n\nMaybe the most important thing I learned is that schedule of the male not in the labor force (“not looking” above) on a weekend looks pretty sweet. That’s the dream right there.\n\nA Day in the Life of Americans\n\nI simulated an average day for 1,000 Americans.\n\nNotes\n\nThis is based on 2015 and 2016 data from the American Time Use Survey. I used the IPUMS time use extract builder to download the data, which is much easier than sifting through the government FTP.\n\nI used Python to aggregate the data, R to analyze and play around with the aggregates, and d3.js to visualize here.",
+    "cleaned_selection": "<p>Sleep. Work. Play. Rinse and repeat. This is the gist of most people’s daily routine, but the amount of time varies as more responsibilities kick in. Some people spend more time taking care of others in the house, some don’t have a paying job, and of course, the weekday schedule is usually different from the weekend’s.</p><p>The chart below shows a picture of the American daily routine and how it changes for different groups. Each bar represents an activity, and they sort by the time of day that most people are engaged in an activity. Color indicates the percentage of people during a given time frame.</p><p>So reading from top to bottom you get a sense of a schedule.</p><p>As a parent of two, I’m always interested in the balance between work and taking care of kids. So it’s interesting to see “caring for household members” shift up and down when you toggle between male and female. The percentages are always low for males.</p><p>Or, if you toggle between employed and unemployed, you see a routine of sleep, work, commute, and relax for the former. You see dark colors in fewer bars. But when you switch to unemployed, the color range looks more sparse and the schedule shifts to the right for later wake-up times.</p><p>Maybe the most important thing I learned is that schedule of the male not in the labor force (“not looking” above) on a weekend looks pretty sweet. That’s the dream right there.</p><p>A Day in the Life of Americans</p><p>I simulated an average day for 1,000 Americans.</p><p>Notes</p><p>This is based on 2015 and 2016 data from the American Time Use Survey. I used the IPUMS time use extract builder to download the data, which is much easier than sifting through the government FTP.</p><p>I used Python to aggregate the data, R to analyze and play around with the aggregates, and d3.js to visualize here.</p>",
+    "domain": "flowingdata.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.984765",
+  "updated_at": "2025-08-06T08:47:03.984769"
+}

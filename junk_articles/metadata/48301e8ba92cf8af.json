@@ -1,0 +1,34 @@
+{
+  "uid": "48301e8ba92cf8af",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/1df1762ef7c921d57dbd9a0fd69d612f/",
+  "title": "Who Becomes A \"Terrorist\" in Post-Roe America?",
+  "status": "converted_from_csv",
+  "date": "2022-05-10T15:00:45",
+  "error": null,
+  "content_path": "output/articles/markdown/48301e8ba92cf8af.md",
+  "html_path": "output/articles/html/48301e8ba92cf8af.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1454,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "dfb6b74e721c44b62f1e1836b99a1b1b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1652220045",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-05-10T15:00:45",
+  "updated_at": "2022-05-10T15:00:45"
+}

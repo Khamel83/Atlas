@@ -1,0 +1,34 @@
+{
+  "uid": "808575d4f034a0d1",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/81aa22f45d0413d4c251b61bdc78dd0f/",
+  "title": "Listen to This Article: Vaccine Aristocrats Strike Again",
+  "status": "converted_from_csv",
+  "date": "2022-01-15T09:53:38",
+  "error": null,
+  "content_path": "output/articles/markdown/808575d4f034a0d1.md",
+  "html_path": "output/articles/html/808575d4f034a0d1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1685,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8111e3a93351c00852d98c6cab20f113",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1642269218",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-01-15T09:53:38",
+  "updated_at": "2022-01-15T09:53:38"
+}

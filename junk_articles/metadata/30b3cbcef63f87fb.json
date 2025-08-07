@@ -1,0 +1,34 @@
+{
+  "uid": "30b3cbcef63f87fb",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/9c472b153476e6710f1794b503b52a62/",
+  "title": "Why I'm having trouble covering AI",
+  "status": "converted_from_csv",
+  "date": "2023-05-08T17:38:37",
+  "error": null,
+  "content_path": "output/articles/markdown/30b3cbcef63f87fb.md",
+  "html_path": "output/articles/html/30b3cbcef63f87fb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 876,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c68805210ebb6f0ed51908795e3aa94e",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1683592717",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-05-08T17:38:37",
+  "updated_at": "2023-05-08T17:38:37"
+}

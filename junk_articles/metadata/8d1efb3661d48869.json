@@ -1,0 +1,34 @@
+{
+  "uid": "8d1efb3661d48869",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/661398089363be26b3ef7162c4d44d63/",
+  "title": "COVID Fear and COVID Shame",
+  "status": "converted_from_csv",
+  "date": "2022-04-25T02:06:57",
+  "error": null,
+  "content_path": "output/articles/markdown/8d1efb3661d48869.md",
+  "html_path": "output/articles/html/8d1efb3661d48869.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1489,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "12a6db98c9ff4d1c294e3c0a53bd2db9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1650877617",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-04-25T02:06:57",
+  "updated_at": "2022-04-25T02:06:57"
+}

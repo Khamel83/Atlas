@@ -1,0 +1,40 @@
+{
+  "uid": "5d5235f6cfe87acf",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://qz.com/641324/how-to-get-your-job-application-noticed-every-time/",
+  "title": "How to get your job application noticed every time Quartz",
+  "status": "selection_content_extracted",
+  "date": "2016-03-17T19:53:30",
+  "error": null,
+  "content_path": "output/articles/markdown/5d5235f6cfe87acf.md",
+  "html_path": "output/articles/html/5d5235f6cfe87acf.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4540,
+    "selection_length": 158,
+    "cleaned_selection_length": 165,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5d5235f6cfe87acf",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1458269610",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "I love reading relationship advice on Reddit. Users on there ask some pretty interesting questions, and are very honest in their answers. They’re also mostly…",
+    "cleaned_selection": "<p>I love reading relationship advice on Reddit. Users on there ask some pretty interesting questions, and are very honest in their answers. They’re also mostly…</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.327979",
+  "updated_at": "2025-08-06T08:47:04.327980"
+}

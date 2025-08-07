@@ -1,0 +1,34 @@
+{
+  "uid": "dd6904a7d27d1181",
+  "content_type": "web_bookmark",
+  "source": "http://www.bloomberg.com/news/articles/2016-03-17/google-is-said-to-put-boston-dynamics-robotics-unit-up-for-sale",
+  "title": "Google Puts Boston Dynamics Up for Sale in Robotics Retreat",
+  "status": "converted_from_csv",
+  "date": "2016-03-17T11:36:09",
+  "error": null,
+  "content_path": "output/articles/markdown/dd6904a7d27d1181.md",
+  "html_path": "output/articles/html/dd6904a7d27d1181.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4543,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9298bd0443688edbec67bffd8a46c37e",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1458239769",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-03-17T11:36:09",
+  "updated_at": "2016-03-17T11:36:09"
+}

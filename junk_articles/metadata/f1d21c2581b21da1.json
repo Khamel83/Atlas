@@ -1,0 +1,34 @@
+{
+  "uid": "f1d21c2581b21da1",
+  "content_type": "web_bookmark",
+  "source": "http://a16z.com/2015/08/21/16-metrics/",
+  "title": "16 Startup Metrics | Andreessen Horowitz",
+  "status": "converted_from_csv",
+  "date": "2015-09-15T23:05:49",
+  "error": null,
+  "content_path": "output/articles/markdown/f1d21c2581b21da1.md",
+  "html_path": "output/articles/html/f1d21c2581b21da1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4745,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "04d4395604f6ff6c024e04da15fc14a0",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1442383549",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-09-15T23:05:49",
+  "updated_at": "2015-09-15T23:05:49"
+}

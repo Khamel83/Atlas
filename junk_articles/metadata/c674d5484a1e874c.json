@@ -1,0 +1,34 @@
+{
+  "uid": "c674d5484a1e874c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/907d483cfd2fb59de49c0bd83b0fa26e/",
+  "title": "Wins and Woes from our AAPI Community",
+  "status": "converted_from_csv",
+  "date": "2023-05-23T09:35:33",
+  "error": null,
+  "content_path": "output/articles/markdown/c674d5484a1e874c.md",
+  "html_path": "output/articles/html/c674d5484a1e874c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 847,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "27f079b27ae4d33dbd6e1d0a44d5272f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1684859733",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-05-23T09:35:33",
+  "updated_at": "2023-05-23T09:35:33"
+}

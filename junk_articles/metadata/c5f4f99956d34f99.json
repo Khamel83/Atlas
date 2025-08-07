@@ -1,0 +1,34 @@
+{
+  "uid": "c5f4f99956d34f99",
+  "content_type": "web_bookmark",
+  "source": "https://www.washingtonpost.com/opinions/2021/04/18/ben-carson-equity-equality-racism/",
+  "title": "Opinion | Ben Carson: Moving our focus from equality to equity won’t defeat racism. It’s another kind of racism. - The Washington Post",
+  "status": "converted_from_csv",
+  "date": "2021-04-19T13:38:40",
+  "error": null,
+  "content_path": "output/articles/markdown/c5f4f99956d34f99.md",
+  "html_path": "output/articles/html/c5f4f99956d34f99.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2274,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "167b96bec0238a29c16de6f95a4ba7c8",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1618864720",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-04-19T13:38:40",
+  "updated_at": "2021-04-19T13:38:40"
+}

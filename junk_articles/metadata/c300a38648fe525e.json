@@ -1,0 +1,34 @@
+{
+  "uid": "c300a38648fe525e",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/18b9c390ea82e1caec175657147dffdf/",
+  "title": "Wins, Woes, and Alone Time",
+  "status": "converted_from_csv",
+  "date": "2023-05-02T09:36:58",
+  "error": null,
+  "content_path": "output/articles/markdown/c300a38648fe525e.md",
+  "html_path": "output/articles/html/c300a38648fe525e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 887,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ae37475552548dd1326ce6a1984587c7",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1683045418",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-05-02T09:36:58",
+  "updated_at": "2023-05-02T09:36:58"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "728c481c167d75d1",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/f13f4c375a1508915d5311842d73dbfc/",
+  "title": "Uber Layoffs, T-Mobile-Sprint Merger Approved, Additional Notes on the Merger (Stratechery Daily Update 7-30-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-07-30T05:29:58",
+  "error": null,
+  "content_path": "output/articles/markdown/728c481c167d75d1.md",
+  "html_path": "output/articles/html/728c481c167d75d1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3069,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a3debc3c78392894d2cb0df86ff70bdc",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1564489798",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-07-30T05:29:58",
+  "updated_at": "2019-07-30T05:29:58"
+}

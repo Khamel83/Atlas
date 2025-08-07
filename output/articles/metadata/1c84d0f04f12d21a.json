@@ -1,0 +1,40 @@
+{
+  "uid": "1c84d0f04f12d21a",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/identities/2017/11/13/16643448/fbi-hate-crimes-2016",
+  "title": "A new FBI report says hate crimes — especially against Muslims — went up in 2016 Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:56:42.667899",
+  "error": null,
+  "content_path": "output/articles/markdown/1c84d0f04f12d21a.md",
+  "html_path": "output/articles/html/1c84d0f04f12d21a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d0e5a6fb14311717e4c3e2cf7ab3db7d",
+  "type_specific": {
+    "bookmark_id": 980495341,
+    "instapaper_time": 1510629831,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:56:42.667954",
+  "updated_at": "2025-08-05T13:56:42.667957"
+}

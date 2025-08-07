@@ -1,0 +1,34 @@
+{
+  "uid": "ab61e17bd7754564",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/9318ff686df7bcfe9c96b6a481164a1e/",
+  "title": "💥 NFTs, Crypto, Litigation Finance and...Bankruptcy?💥",
+  "status": "converted_from_csv",
+  "date": "2022-02-09T05:03:54",
+  "error": null,
+  "content_path": "output/articles/markdown/ab61e17bd7754564.md",
+  "html_path": "output/articles/html/ab61e17bd7754564.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1625,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ab1ddfd218deee91c602ef8305472d4f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1644411834",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-02-09T05:03:54",
+  "updated_at": "2022-02-09T05:03:54"
+}

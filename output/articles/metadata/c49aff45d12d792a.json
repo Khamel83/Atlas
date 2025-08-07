@@ -1,0 +1,42 @@
+{
+  "uid": "c49aff45d12d792a",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1664721689",
+  "title": "💥IBs Love LMEs💥",
+  "status": "success",
+  "date": "2025-08-05T13:37:35.424286",
+  "error": null,
+  "content_path": "output/articles/markdown/c49aff45d12d792a.md",
+  "html_path": "output/articles/html/c49aff45d12d792a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "087aeab30d03a466c9fcc1f09036ae8b",
+  "type_specific": {
+    "bookmark_id": 1664721689,
+    "instapaper_time": 1708272975,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:37:35.424384",
+  "updated_at": "2025-08-05T13:37:35.424388"
+}

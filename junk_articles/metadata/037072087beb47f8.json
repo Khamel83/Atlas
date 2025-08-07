@@ -1,0 +1,34 @@
+{
+  "uid": "037072087beb47f8",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/026e973e1159ced381991635cea1f0a2/",
+  "title": "Listen to This Article: Does America Hate The \"Poorly Educated\"?",
+  "status": "converted_from_csv",
+  "date": "2021-09-22T12:58:42",
+  "error": null,
+  "content_path": "output/articles/markdown/037072087beb47f8.md",
+  "html_path": "output/articles/html/037072087beb47f8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1959,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3edb872622773ba6d5586018b0702b15",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1632340722",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-09-22T12:58:42",
+  "updated_at": "2021-09-22T12:58:42"
+}

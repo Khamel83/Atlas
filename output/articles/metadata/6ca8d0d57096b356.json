@@ -1,0 +1,26 @@
+{
+  "uid": "6ca8d0d57096b356",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1755131788",
+  "title": "Trump is Trolling the AP",
+  "status": "success",
+  "date": "2025-08-06T13:15:50.014349",
+  "error": null,
+  "content_path": "output/articles/markdown/6ca8d0d57096b356.md",
+  "html_path": "output/articles/html/6ca8d0d57096b356.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1755131788,
+    "content_length": 11611,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1755131788,
+    "instapaper_time": 1739985760,
+    "is_private_content": true,
+    "content_length": 11611
+  },
+  "created_at": "2025-08-06T13:15:50.014353",
+  "updated_at": "2025-08-06T13:15:50.014354"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "f6a25a8f85590af6",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/944bda693e019b7d53317f623b0f9b14/",
+  "title": "🚗 All the Rental Car Hacks (+ Latest Deals)",
+  "status": "converted_from_csv",
+  "date": "2022-08-05T07:31:38",
+  "error": null,
+  "content_path": "output/articles/markdown/f6a25a8f85590af6.md",
+  "html_path": "output/articles/html/f6a25a8f85590af6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1291,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0fff9fb51c19fbef8ad179dc610c3e25",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1659709898",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-08-05T07:31:38",
+  "updated_at": "2022-08-05T07:31:38"
+}

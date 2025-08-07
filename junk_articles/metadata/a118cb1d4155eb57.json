@@ -1,0 +1,34 @@
+{
+  "uid": "a118cb1d4155eb57",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/8bb61ab71d027f82810bbe5905642846/",
+  "title": "Tech Companies and Hardware, The Cost of Low Margins (Stratechery Daily Update 9-4-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-09-04T05:57:33",
+  "error": null,
+  "content_path": "output/articles/markdown/a118cb1d4155eb57.md",
+  "html_path": "output/articles/html/a118cb1d4155eb57.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3035,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "21cdb2d55a7a826e062852aed4a618f8",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1567601853",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-09-04T05:57:33",
+  "updated_at": "2019-09-04T05:57:33"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "3717c0ca195e3585",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/91d9e81f9178d9d23c12b2ef88cbb215/",
+  "title": "SVB and the Wealth Creation Flywheel",
+  "status": "converted_from_csv",
+  "date": "2023-03-16T11:30:11",
+  "error": null,
+  "content_path": "output/articles/markdown/3717c0ca195e3585.md",
+  "html_path": "output/articles/html/3717c0ca195e3585.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 962,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a8e2b9f88bb443a14e7103c2fc1b8a35",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1678991411",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-03-16T11:30:11",
+  "updated_at": "2023-03-16T11:30:11"
+}

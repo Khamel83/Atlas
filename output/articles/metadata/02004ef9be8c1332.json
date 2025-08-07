@@ -1,0 +1,40 @@
+{
+  "uid": "02004ef9be8c1332",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://lareviewofbooks.org/article.php?type=&id=951&fulltext=1&media=",
+  "title": "Louis C.K. And The Rise Of The 'Laptop Loners'",
+  "status": "selection_content_extracted",
+  "date": "2012-12-30T22:36:20",
+  "error": null,
+  "content_path": "output/articles/markdown/02004ef9be8c1332.md",
+  "html_path": "output/articles/html/02004ef9be8c1332.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5436,
+    "selection_length": 779,
+    "cleaned_selection_length": 786,
+    "domain": "lareviewofbooks.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "02004ef9be8c1332",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1356935780",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "C.K. neither attempts to present life as it actually is or to woo viewers with an upgraded, escapist approximation of it. Louie’s New York can be both mimetic — the apartments are all appropriately small — and utterly fantastical: a severed head rolls down the street; a doctor tells you you’re too out of shape to exercise; Matthew Broderick directs an all-Jewish remake of the Godfather. It’s the New York of C.K.’s imagination, the city inside his brain. Like Joyce’s Dublin, it’s sign-posted with recognizable locations, but sense-warped by its auteur’s myopic subjectivity. And like a Bergman dream space, or the literal limitlessness of cyberspace, C.K.’s nebulous New York is in a state of constant flux, blessed by FX with the freedom to be inconsistent even with itself.",
+    "cleaned_selection": "<p>C.K. neither attempts to present life as it actually is or to woo viewers with an upgraded, escapist approximation of it. Louie’s New York can be both mimetic — the apartments are all appropriately small — and utterly fantastical: a severed head rolls down the street; a doctor tells you you’re too out of shape to exercise; Matthew Broderick directs an all-Jewish remake of the Godfather. It’s the New York of C.K.’s imagination, the city inside his brain. Like Joyce’s Dublin, it’s sign-posted with recognizable locations, but sense-warped by its auteur’s myopic subjectivity. And like a Bergman dream space, or the literal limitlessness of cyberspace, C.K.’s nebulous New York is in a state of constant flux, blessed by FX with the freedom to be inconsistent even with itself.</p>",
+    "domain": "lareviewofbooks.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.511208",
+  "updated_at": "2025-08-06T08:47:04.511209"
+}

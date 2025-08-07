@@ -1,0 +1,26 @@
+{
+  "uid": "a040b4a2c4028199",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1727757647",
+  "title": "The Overlooked Lesson of The Parable of the Sower",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.907117",
+  "error": null,
+  "content_path": "output/articles/markdown/a040b4a2c4028199.md",
+  "html_path": "output/articles/html/a040b4a2c4028199.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1727757647,
+    "content_length": 11229,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1727757647,
+    "instapaper_time": 1731771557,
+    "is_private_content": true,
+    "content_length": 11229
+  },
+  "created_at": "2025-08-06T13:18:33.907124",
+  "updated_at": "2025-08-06T13:18:33.907125"
+}

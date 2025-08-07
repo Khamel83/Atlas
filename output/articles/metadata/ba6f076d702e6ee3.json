@@ -1,0 +1,40 @@
+{
+  "uid": "ba6f076d702e6ee3",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/the-last-kings-of-donkey-kong-high-score/",
+  "title": "The Last Kings Of Kong FiveThirtyEight » Life | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2015-08-11T14:53:33",
+  "error": null,
+  "content_path": "output/articles/markdown/ba6f076d702e6ee3.md",
+  "html_path": "output/articles/html/ba6f076d702e6ee3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4781,
+    "selection_length": 292,
+    "cleaned_selection_length": 299,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ba6f076d702e6ee3",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1439330013",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The best “Donkey Kong” player in the world dies all the time. It’s part of his plan. Dean Saglio, a 38-year-old real estate agent from Rhode Island, knows that the only way he’s going to break his high score (1,206,800) — again — is by taking huge risks throughout the game. It may not be […]",
+    "cleaned_selection": "<p>The best “Donkey Kong” player in the world dies all the time. It’s part of his plan. Dean Saglio, a 38-year-old real estate agent from Rhode Island, knows that the only way he’s going to break his high score (1,206,800) — again — is by taking huge risks throughout the game. It may not be […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.388375",
+  "updated_at": "2025-08-06T08:47:04.388376"
+}

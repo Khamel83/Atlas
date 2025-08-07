@@ -13,7 +13,7 @@ This is the technical specification for the spec detailed in @.agent-os/specs/20
 - Add network connectivity checking for cloud-dependent features
 - Create graceful degradation when cloud services unavailable
 
-### Analysis Architecture Unification  
+### Analysis Architecture Unification
 - Create single analysis_router.py that replaces complex existing implementations
 - Maintain simple interface: analyze_router.route(transcript_file, choice="local"|"cloud"|"both")
 - Preserve all existing functionality but through simplified, unified interface
@@ -23,7 +23,7 @@ This is the technical specification for the spec detailed in @.agent-os/specs/20
 
 ### Search & Memory System
 - Implement search_engine.py using SQLite with FTS5 extension for full-text search
-- Create semantic_search.py using sentence-transformers for vector embeddings  
+- Create semantic_search.py using sentence-transformers for vector embeddings
 - Design schema: transcripts table (id, file_path, content, date, analysis_summary)
 - Add embeddings table (transcript_id, embedding_vector) for semantic search
 - Implement batch_indexer.py to retroactively index all existing transcripts

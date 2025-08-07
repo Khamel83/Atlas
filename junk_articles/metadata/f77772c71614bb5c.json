@@ -1,0 +1,34 @@
+{
+  "uid": "f77772c71614bb5c",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2021/11/22/opinion/remote-work-gen-z.html",
+  "title": "Opinion | Remote Work Is Failing Gen Z Employees - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2021-11-22T12:22:04",
+  "error": null,
+  "content_path": "output/articles/markdown/f77772c71614bb5c.md",
+  "html_path": "output/articles/html/f77772c71614bb5c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1811,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7028b81e27c9ff5083c42c4cbe80c4e1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1637612524",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-11-22T12:22:04",
+  "updated_at": "2021-11-22T12:22:04"
+}

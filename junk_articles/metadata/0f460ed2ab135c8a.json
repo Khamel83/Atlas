@@ -1,0 +1,34 @@
+{
+  "uid": "0f460ed2ab135c8a",
+  "content_type": "web_bookmark",
+  "source": "https://www.alixpartners.com/media/16971/alixpartners-disruption-insights-stakeholder-consumer-agility-is-the-answer.pdf",
+  "title": "",
+  "status": "converted_from_csv",
+  "date": "2020-12-19T11:02:48",
+  "error": null,
+  "content_path": "output/articles/markdown/0f460ed2ab135c8a.md",
+  "html_path": "output/articles/html/0f460ed2ab135c8a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2557,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2bce6198cc43ab741d6a3926d876a644",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1608404568",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-12-19T11:02:48",
+  "updated_at": "2020-12-19T11:02:48"
+}

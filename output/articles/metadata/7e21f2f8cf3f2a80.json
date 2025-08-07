@@ -1,0 +1,40 @@
+{
+  "uid": "7e21f2f8cf3f2a80",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/998558/japanese-students-are-learning-how-to-write-characters-from-a-poop-shaped-teacher/",
+  "title": "Japanese students are learning how to write characters from a poop-shaped teacher Quartz",
+  "status": "selection_content_extracted",
+  "date": "2017-06-05T23:59:13",
+  "error": null,
+  "content_path": "output/articles/markdown/7e21f2f8cf3f2a80.md",
+  "html_path": "output/articles/html/7e21f2f8cf3f2a80.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3937,
+    "selection_length": 3039,
+    "cleaned_selection_length": 3101,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7e21f2f8cf3f2a80",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1496732353",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "There’s a new way to make learning Chinese characters fun for Japanese kids—just add poop.\n\nThe series “Unko kanji drills”—”unko” meaning poop, and “kanji” the word for the Chinese characters used in Japanese writing—has sold almost two million copies since it hit the market in March. The six books in the series each feature a teacher with an emoji-like poop as a head, Unko-sensei, or Mr. Poop, who guides the children in how to write 1,000 characters through 3,018 poop-infused exercises.\n\nThe books (link in Japanese) were created by Shuji Yamamoto, a former Lehman Brothers employee who had already been dabbling in writing and publishing on the side while he was at the bank. He initially founded his own publishing house after he quit Lehman shortly before the bank went under, and mostly published self-help books, including best-sellers. He became interested (link in Japanese) in educational books, but felt that existing teaching materials were too boring—so he teamed up with Yasaku Furuya, a writer of poop-themed senryu, or haiku-like short poems usually about whimsical topics, for his project.\n\nJapanese students are expected to learn 1,000 kanji by the time they leave elementary school. Learning kanji is generally a rote-based drag, and in Japanese the process is complicated by the fact that one character can have multiple pronunciations. As kanji characters were brought over from China, each character has a pronunciation that comes from the original Chinese, known as onyomi, and a Japanese pronunciation, known as kunyomi. For example the character for eat, 食, is pronounced “shoku” in its onyomi form, and “tabe” in its kunyomi form.\n\nIn a drill where Mr. Poop teaches children how to write the character for “wind,” a small drawing shows blobs of poop blowing in the wind, alongside sentences that say, “I held poop and walked through the north wind” and, “A ghastly number of poop is being blown in by the typhoon.”\n\n【風】（小学2年生）1.うんこをがまんして北風の中を歩いた。2.風車を持ってうんこをしているおじいちゃん。3.台風でものすごい数のうんこがとんできた。#うんこ漢字 #うんこ漢字ドリル http://pic.twitter.com/jGTbSbfBF6\n\n— うんこ漢字ドリル (@unkokanji) June 4, 2017\n\nAll six books in the series are currently among the top 20 bestsellers (link in Japanese) on Amazon’s Japanese site. One reviewer wrote, “I gave this book as a gift to my best friend’s son, who dislikes kanji so much it makes him cry. He seems to be starting to do it… It’s great!”\n\nJapanese parents have been sharing photos of their children proudly holding their poop books on social media:\n\n 我が家にうんこ漢字ドリルがやってきた！ネットで購入です。くだらないけど、嫌いじゃない!(^^)!あさひ！結果を出してくれ！#うんこ漢字ドリル\n\nA post shared by yoshihiro Ito (@arigatou.6.2.y.i) on Jun 4, 2017 at 5:11am PDT\n\nIn an interview (link in Japanese) with the Nikkei newspaper, Furuya, the writer of poop poetry, said he believes the word “unko” is beloved by children, but saying it could get them in trouble with teachers and parents. These books give them liberal license to use the word as much as they want. “In other words, I want children to feel liberated when it comes to poop,” he said.",
+    "cleaned_selection": "<p>There’s a new way to make learning Chinese characters fun for Japanese kids—just add poop.</p><p>The series “Unko kanji drills”—”unko” meaning poop, and “kanji” the word for the Chinese characters used in Japanese writing—has sold almost two million copies since it hit the market in March. The six books in the series each feature a teacher with an emoji-like poop as a head, Unko-sensei, or Mr. Poop, who guides the children in how to write 1,000 characters through 3,018 poop-infused exercises.</p><p>The books (link in Japanese) were created by Shuji Yamamoto, a former Lehman Brothers employee who had already been dabbling in writing and publishing on the side while he was at the bank. He initially founded his own publishing house after he quit Lehman shortly before the bank went under, and mostly published self-help books, including best-sellers. He became interested (link in Japanese) in educational books, but felt that existing teaching materials were too boring—so he teamed up with Yasaku Furuya, a writer of poop-themed senryu, or haiku-like short poems usually about whimsical topics, for his project.</p><p>Japanese students are expected to learn 1,000 kanji by the time they leave elementary school. Learning kanji is generally a rote-based drag, and in Japanese the process is complicated by the fact that one character can have multiple pronunciations. As kanji characters were brought over from China, each character has a pronunciation that comes from the original Chinese, known as onyomi, and a Japanese pronunciation, known as kunyomi. For example the character for eat, 食, is pronounced “shoku” in its onyomi form, and “tabe” in its kunyomi form.</p><p>In a drill where Mr. Poop teaches children how to write the character for “wind,” a small drawing shows blobs of poop blowing in the wind, alongside sentences that say, “I held poop and walked through the north wind” and, “A ghastly number of poop is being blown in by the typhoon.”</p><p>【風】（小学2年生）1.うんこをがまんして北風の中を歩いた。2.風車を持ってうんこをしているおじいちゃん。3.台風でものすごい数のうんこがとんできた。#うんこ漢字 #うんこ漢字ドリル http://pic.twitter.com/jGTbSbfBF6</p><p>— うんこ漢字ドリル (@unkokanji) June 4, 2017</p><p>All six books in the series are currently among the top 20 bestsellers (link in Japanese) on Amazon’s Japanese site. One reviewer wrote, “I gave this book as a gift to my best friend’s son, who dislikes kanji so much it makes him cry. He seems to be starting to do it… It’s great!”</p><p>Japanese parents have been sharing photos of their children proudly holding their poop books on social media:</p><p> 我が家にうんこ漢字ドリルがやってきた！ネットで購入です。くだらないけど、嫌いじゃない!(^^)!あさひ！結果を出してくれ！#うんこ漢字ドリル</p><p>A post shared by yoshihiro Ito (@arigatou.6.2.y.i) on Jun 4, 2017 at 5:11am PDT</p><p>In an interview (link in Japanese) with the Nikkei newspaper, Furuya, the writer of poop poetry, said he believes the word “unko” is beloved by children, but saying it could get them in trouble with teachers and parents. These books give them liberal license to use the word as much as they want. “In other words, I want children to feel liberated when it comes to poop,” he said.</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.101280",
+  "updated_at": "2025-08-06T08:47:04.101281"
+}

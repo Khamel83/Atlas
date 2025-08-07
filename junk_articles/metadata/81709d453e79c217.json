@@ -1,0 +1,34 @@
+{
+  "uid": "81709d453e79c217",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/af500047462000dddb0169f787ddcd98/",
+  "title": "Roberto Clemente",
+  "status": "converted_from_csv",
+  "date": "2020-12-29T09:20:29",
+  "error": null,
+  "content_path": "output/articles/markdown/81709d453e79c217.md",
+  "html_path": "output/articles/html/81709d453e79c217.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2537,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "37429f63c7426ad2aa504015f5debca1",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1609262429",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-12-29T09:20:29",
+  "updated_at": "2020-12-29T09:20:29"
+}

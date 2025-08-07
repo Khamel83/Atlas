@@ -1,0 +1,34 @@
+{
+  "uid": "2c9a08dbaa15804a",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/5ec32596fcd49a296954594603c3583d/",
+  "title": "Why Netflix Should Sell Ads (Stratechery Article 4-4-2022)",
+  "status": "converted_from_csv",
+  "date": "2022-04-04T07:38:59",
+  "error": null,
+  "content_path": "output/articles/markdown/2c9a08dbaa15804a.md",
+  "html_path": "output/articles/html/2c9a08dbaa15804a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1527,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "06a8e7ff8c2b468763180586d2049520",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1649083139",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-04-04T07:38:59",
+  "updated_at": "2022-04-04T07:38:59"
+}

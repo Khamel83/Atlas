@@ -1,0 +1,40 @@
+{
+  "uid": "69c155b850808b60",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://flowingdata.com/2014/10/03/big-chicken/",
+  "title": "Big chicken FlowingData",
+  "status": "selection_content_extracted",
+  "date": "2014-10-03T13:59:22",
+  "error": null,
+  "content_path": "output/articles/markdown/69c155b850808b60.md",
+  "html_path": "output/articles/html/69c155b850808b60.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5102,
+    "selection_length": 123,
+    "cleaned_selection_length": 135,
+    "domain": "flowingdata.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "69c155b850808b60",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1412369962",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "From Vox and research from Zuidhof et al., chickens are quite big these days. The one on the left is …\n\nTags: chicken, food",
+    "cleaned_selection": "<p>From Vox and research from Zuidhof et al., chickens are quite big these days. The one on the left is …</p><p>Tags: chicken, food</p>",
+    "domain": "flowingdata.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.477278",
+  "updated_at": "2025-08-06T08:47:04.477279"
+}

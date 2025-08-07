@@ -1,0 +1,34 @@
+{
+  "uid": "76fe44c043b90cd3",
+  "content_type": "web_bookmark",
+  "source": "http://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/",
+  "title": "How American Politics Went Insane",
+  "status": "converted_from_csv",
+  "date": "2016-06-28T17:37:59",
+  "error": null,
+  "content_path": "output/articles/markdown/76fe44c043b90cd3.md",
+  "html_path": "output/articles/html/76fe44c043b90cd3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4395,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5baf50d99419d81b5863d751de231c50",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1467160679",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-06-28T17:37:59",
+  "updated_at": "2016-06-28T17:37:59"
+}

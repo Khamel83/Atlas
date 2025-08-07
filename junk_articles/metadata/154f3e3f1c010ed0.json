@@ -1,0 +1,34 @@
+{
+  "uid": "154f3e3f1c010ed0",
+  "content_type": "web_bookmark",
+  "source": "http://adage.com/article/news/insurance-industry-s-4-billion-advertising-brawl/148992/",
+  "title": "How the Insurance Industry Got Into a $4 Billion Ad Brawl",
+  "status": "converted_from_csv",
+  "date": "2017-01-22T13:09:40",
+  "error": null,
+  "content_path": "output/articles/markdown/154f3e3f1c010ed0.md",
+  "html_path": "output/articles/html/154f3e3f1c010ed0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4146,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c2a5eab806bbb71b72d4de27546c99bd",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1485119380",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-01-22T13:09:40",
+  "updated_at": "2017-01-22T13:09:40"
+}

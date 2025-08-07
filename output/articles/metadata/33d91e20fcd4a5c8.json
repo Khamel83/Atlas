@@ -1,0 +1,42 @@
+{
+  "uid": "33d91e20fcd4a5c8",
+  "content_type": "instapaper",
+  "source": "https://archive.md/cJY3B",
+  "title": "Can the rich world escape its baby crisis?",
+  "status": "success",
+  "date": "2025-08-05T13:30:18.427785",
+  "error": null,
+  "content_path": "output/articles/markdown/33d91e20fcd4a5c8.md",
+  "html_path": "output/articles/html/33d91e20fcd4a5c8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "94181bd376756a02439019be6f119d11",
+  "type_specific": {
+    "bookmark_id": 1743418676,
+    "instapaper_time": 1735951224,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:30:18.427841",
+  "updated_at": "2025-08-05T13:30:18.427843"
+}

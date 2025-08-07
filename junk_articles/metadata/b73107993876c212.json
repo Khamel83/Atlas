@@ -1,0 +1,34 @@
+{
+  "uid": "b73107993876c212",
+  "content_type": "web_bookmark",
+  "source": "http://reason.com/archives/2010/11/19/rap-and-metal-on-planet-islam/print",
+  "title": "Rap and Metal on Planet Islam - Reason Magazine",
+  "status": "converted_from_csv",
+  "date": "2010-11-19T23:35:58",
+  "error": null,
+  "content_path": "output/articles/markdown/b73107993876c212.md",
+  "html_path": "output/articles/html/b73107993876c212.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6092,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "30e6c3b50561f78e3e1aff9d3cd752c1",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1290238558",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-11-19T23:35:58",
+  "updated_at": "2010-11-19T23:35:58"
+}

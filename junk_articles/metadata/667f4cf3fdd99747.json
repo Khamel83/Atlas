@@ -1,0 +1,34 @@
+{
+  "uid": "667f4cf3fdd99747",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/magazine/archive/2021/09/blame-the-bobos-creative-class/619492/",
+  "title": "How the Creative Class Broke America",
+  "status": "converted_from_csv",
+  "date": "2021-08-04T21:37:26",
+  "error": null,
+  "content_path": "output/articles/markdown/667f4cf3fdd99747.md",
+  "html_path": "output/articles/html/667f4cf3fdd99747.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2050,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d401d267ed881e11676db8ae00b706ab",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1628138246",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-08-04T21:37:26",
+  "updated_at": "2021-08-04T21:37:26"
+}

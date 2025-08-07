@@ -1,0 +1,34 @@
+{
+  "uid": "8b80e672c055bae5",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/491f5dfc41cd44d8c55cd3be8ac4eb81/",
+  "title": "💥The \"Golden Age.” Parts V & VI.💥",
+  "status": "converted_from_csv",
+  "date": "2024-06-05T05:04:30",
+  "error": null,
+  "content_path": "output/articles/markdown/8b80e672c055bae5.md",
+  "html_path": "output/articles/html/8b80e672c055bae5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 277,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0383f2afc2dd50c77f432b49f26bbfb0",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1717589070",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-06-05T05:04:30",
+  "updated_at": "2024-06-05T05:04:30"
+}

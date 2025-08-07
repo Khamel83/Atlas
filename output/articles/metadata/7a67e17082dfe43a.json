@@ -1,0 +1,40 @@
+{
+  "uid": "7a67e17082dfe43a",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.vox.com/identities/2018/5/29/17405704/white-evangelicals-attitudes-refugees",
+  "title": "68% of white evangelicals think America shouldn’t house refugees Vox - All",
+  "status": "selection_content_extracted",
+  "date": "2018-05-29T21:59:37",
+  "error": null,
+  "content_path": "output/articles/markdown/7a67e17082dfe43a.md",
+  "html_path": "output/articles/html/7a67e17082dfe43a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3491,
+    "selection_length": 2093,
+    "cleaned_selection_length": 2130,
+    "domain": "vox.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7a67e17082dfe43a",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1527656377",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "A recent Pew poll reveals increasing American polarization on attitudes to refugees.\n\nWhite evangelical Protestants are the most likely religious group to say that the United States has no responsibility to open its borders to refugees, according to a recent poll.\n\nThe study, which was conducted by Pew, found that 68 percent of white evangelicals believed that the United States “does not have a responsibility” to house refugees, while just 25 percent believes that it does. This is higher than the American national average: 51 percent of Americans overall believe the United States does have a responsibility to allow in refugees, while just 43 percent believe it does not.\n\nThe perspective of white evangelical Protestants on the refugee crisis is particularly striking because it’s relatively unusual among Christian religious groups. For example, 43 percent of white mainline Protestants believe that America has a responsibility to house refugees, as do 50 percent of Catholics and 63 percent of black Protestants. The highest level of support from any group cited in the study was from those who identified as religiously unaffiliated, of whom a full 65 percent support American housing of refugees.\n\nThe numbers are also remarkable because they reflect a more general trend on the part of white evangelical Christians to depart from the national average when it comes to social issues. White evangelicals are increasingly echoing the GOP party platform even as other groups, including Christian groups, diverge from it.\n\nSuch a conflation means that white evangelical Christians, already historically a major part of President Trump’s base (let’s not forget that 81 percent of them voted for him in 2016), are now becoming all but synonymous with it. As Trump’s policies become increasingly designed to appeal to that base (as, for example, with his recent move of the American Embassy to Jerusalem), it’s likewise increasingly clear that the relationship between the two is symbiotic.\n\nAnd the line between white evangelical theology and GOP party platform is all but disappearing.",
+    "cleaned_selection": "<p>A recent Pew poll reveals increasing American polarization on attitudes to refugees.</p><p>White evangelical Protestants are the most likely religious group to say that the United States has no responsibility to open its borders to refugees, according to a recent poll.</p><p>The study, which was conducted by Pew, found that 68 percent of white evangelicals believed that the United States “does not have a responsibility” to house refugees, while just 25 percent believes that it does. This is higher than the American national average: 51 percent of Americans overall believe the United States does have a responsibility to allow in refugees, while just 43 percent believe it does not.</p><p>The perspective of white evangelical Protestants on the refugee crisis is particularly striking because it’s relatively unusual among Christian religious groups. For example, 43 percent of white mainline Protestants believe that America has a responsibility to house refugees, as do 50 percent of Catholics and 63 percent of black Protestants. The highest level of support from any group cited in the study was from those who identified as religiously unaffiliated, of whom a full 65 percent support American housing of refugees.</p><p>The numbers are also remarkable because they reflect a more general trend on the part of white evangelical Christians to depart from the national average when it comes to social issues. White evangelicals are increasingly echoing the GOP party platform even as other groups, including Christian groups, diverge from it.</p><p>Such a conflation means that white evangelical Christians, already historically a major part of President Trump’s base (let’s not forget that 81 percent of them voted for him in 2016), are now becoming all but synonymous with it. As Trump’s policies become increasingly designed to appeal to that base (as, for example, with his recent move of the American Embassy to Jerusalem), it’s likewise increasingly clear that the relationship between the two is symbiotic.</p><p>And the line between white evangelical theology and GOP party platform is all but disappearing.</p>",
+    "domain": "vox.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.874544",
+  "updated_at": "2025-08-06T08:47:03.874547"
+}

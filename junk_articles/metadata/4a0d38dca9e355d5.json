@@ -1,0 +1,34 @@
+{
+  "uid": "4a0d38dca9e355d5",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/3fdacf0712106660058e195f96a6b66b/",
+  "title": "Are The Days Of The \"K-Shaped\" Con Finally Over?",
+  "status": "converted_from_csv",
+  "date": "2021-03-02T09:55:39",
+  "error": null,
+  "content_path": "output/articles/markdown/4a0d38dca9e355d5.md",
+  "html_path": "output/articles/html/4a0d38dca9e355d5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2368,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b263e6404d02204cb9c468d92be4f610",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1614707739",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-03-02T09:55:39",
+  "updated_at": "2021-03-02T09:55:39"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "a4b536ca9c956280",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/4f2ea82349badb17c841232d666642d2/",
+  "title": "Deal Alert: Start Earning Points on Rent for Free",
+  "status": "converted_from_csv",
+  "date": "2022-03-28T08:39:49",
+  "error": null,
+  "content_path": "output/articles/markdown/a4b536ca9c956280.md",
+  "html_path": "output/articles/html/a4b536ca9c956280.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1540,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "27c9aec049294e4dcd86aea231795be6",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1648481989",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-03-28T08:39:49",
+  "updated_at": "2022-03-28T08:39:49"
+}

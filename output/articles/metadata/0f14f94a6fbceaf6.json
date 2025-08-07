@@ -1,0 +1,40 @@
+{
+  "uid": "0f14f94a6fbceaf6",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://flowingdata.com/2020/02/07/good-state-naming/",
+  "title": "Good state naming FlowingData",
+  "status": "selection_content_extracted",
+  "date": "2020-02-08T00:02:14",
+  "error": null,
+  "content_path": "output/articles/markdown/0f14f94a6fbceaf6.md",
+  "html_path": "output/articles/html/0f14f94a6fbceaf6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2885,
+    "selection_length": 163,
+    "cleaned_selection_length": 188,
+    "domain": "flowingdata.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0f14f94a6fbceaf6",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1581148934",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "From @haru_cchii on the Twitter:\n\nLocal German Gets Bored And Tries To Name All American States\ni think i did pretty well\n\nSeems right to me.\n\nTags: America, humor",
+    "cleaned_selection": "<p>From @haru_cchii on the Twitter:</p><p>Local German Gets Bored And Tries To Name All American States<br>i think i did pretty well</p><p>Seems right to me.</p><p>Tags: America, humor</p>",
+    "domain": "flowingdata.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.682307",
+  "updated_at": "2025-08-06T08:47:03.682308"
+}

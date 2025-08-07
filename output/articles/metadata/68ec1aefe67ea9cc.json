@@ -1,0 +1,42 @@
+{
+  "uid": "68ec1aefe67ea9cc",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1725783814",
+  "title": "💥Riled Up💥",
+  "status": "success",
+  "date": "2025-08-05T13:30:58.854645",
+  "error": null,
+  "content_path": "output/articles/markdown/68ec1aefe67ea9cc.md",
+  "html_path": "output/articles/html/68ec1aefe67ea9cc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7a77ebf42367ccb49d4b09450b6d584b",
+  "type_specific": {
+    "bookmark_id": 1725783814,
+    "instapaper_time": 1731255393,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:30:58.854677",
+  "updated_at": "2025-08-05T13:30:58.854681"
+}

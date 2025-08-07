@@ -1,0 +1,40 @@
+{
+  "uid": "40c937731be354b7",
+  "content_type": "instapaper",
+  "source": "https://thepointsguy.com/guide/best-uses-60k-amex-points/",
+  "title": "5 Best Ways to Use 60,000 Membership Rewards Points The Points Guy",
+  "status": "success",
+  "date": "2025-08-05T14:04:36.978570",
+  "error": null,
+  "content_path": "output/articles/markdown/40c937731be354b7.md",
+  "html_path": "output/articles/html/40c937731be354b7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bae922e007ec7542ccee394b58e6ef29",
+  "type_specific": {
+    "bookmark_id": 892657243,
+    "instapaper_time": 1491915220,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:04:36.978597",
+  "updated_at": "2025-08-05T14:04:36.978601"
+}

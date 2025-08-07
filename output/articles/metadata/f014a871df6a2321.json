@@ -1,0 +1,40 @@
+{
+  "uid": "f014a871df6a2321",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/2017/5/25/11851766/what-is-ramadan-2018-start-date-muslim-islam-about",
+  "title": "9 questions about Ramadan you were too embarrassed to ask Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:49:38.574501",
+  "error": null,
+  "content_path": "output/articles/markdown/f014a871df6a2321.md",
+  "html_path": "output/articles/html/f014a871df6a2321.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4672cadb43a0e2f3789d04f90005b7eb",
+  "type_specific": {
+    "bookmark_id": 1054772686,
+    "instapaper_time": 1526055095,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:49:38.574574",
+  "updated_at": "2025-08-05T13:49:38.574578"
+}

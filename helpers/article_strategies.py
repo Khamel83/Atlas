@@ -240,7 +240,7 @@ class DirectFetchStrategy(ArticleFetchStrategy):
                 },
                 title=title,
             )
-        except requests.exceptions.RequestException as e:
+        except (requests.exceptions.RequestException, Exception) as e:
             log_error(log_path, f"Direct fetch failed for {url}: {e}")
             return FetchResult(success=False, error=str(e), method="direct")
 
@@ -268,7 +268,7 @@ class TwelveFtStrategy(ArticleFetchStrategy):
                     "status_code": response.status_code,
                 },
             )
-        except requests.exceptions.RequestException as e:
+        except (requests.exceptions.RequestException, Exception) as e:
             log_error(log_path, f"12ft.io bypass failed for {url}: {e}")
             return FetchResult(success=False, error=str(e), method="12ft_bypass")
 
@@ -350,7 +350,7 @@ class GooglebotStrategy(ArticleFetchStrategy):
                 method="googlebot_spoof",
                 metadata={"status_code": response.status_code},
             )
-        except requests.exceptions.RequestException as e:
+        except (requests.exceptions.RequestException, Exception) as e:
             log_error(log_path, f"Googlebot spoof failed for {url}: {e}")
             return FetchResult(success=False, error=str(e), method="googlebot_spoof")
 
@@ -440,6 +440,21 @@ class ArticleFetcher:
             PlaywrightStrategy(),
             WaybackMachineStrategy(),
         ]
+
+    def fetch_article(
+        self, url: str, strategy: str = None, log_path: str = ""
+    ) -> FetchResult:
+        """
+        Public method to fetch an article using the orchestrated strategies.
+        If a specific strategy is provided, it will attempt to use only that strategy.
+        """
+        if strategy:
+            for s in self.strategies:
+                if s.get_strategy_name() == strategy:
+                    return s.fetch(url, log_path=log_path)
+            raise ValueError(f"Unknown strategy: {strategy}")
+
+        return self.fetch_with_fallbacks(url, log_path=log_path)
 
     def fetch_with_fallbacks(self, url: str, log_path: str) -> FetchResult:
         """

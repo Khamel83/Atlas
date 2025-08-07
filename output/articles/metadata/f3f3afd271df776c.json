@@ -1,0 +1,40 @@
+{
+  "uid": "f3f3afd271df776c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.artofmanliness.com/2016/03/23/7-things-every-homeowner-should-know-the-location-of/",
+  "title": "7 Things Every Homeowner Should Know the Location Of The Art of Manliness",
+  "status": "selection_content_extracted",
+  "date": "2016-03-23T18:30:29",
+  "error": null,
+  "content_path": "output/articles/markdown/f3f3afd271df776c.md",
+  "html_path": "output/articles/html/f3f3afd271df776c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4535,
+    "selection_length": 328,
+    "cleaned_selection_length": 335,
+    "domain": "artofmanliness.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f3f3afd271df776c",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1458783029",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "As a homeowner, there are certain maintenance tasks, safety features, and basic pieces of knowledge about your property which you should know like the back of your hand. When your washer springs a leak, do you know where the water shut-off is? When your teenage daughters have overloaded a bathroom outlet, do you know where […]",
+    "cleaned_selection": "<p>As a homeowner, there are certain maintenance tasks, safety features, and basic pieces of knowledge about your property which you should know like the back of your hand. When your washer springs a leak, do you know where the water shut-off is? When your teenage daughters have overloaded a bathroom outlet, do you know where […]</p>",
+    "domain": "artofmanliness.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.327122",
+  "updated_at": "2025-08-06T08:47:04.327124"
+}

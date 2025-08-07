@@ -1,0 +1,34 @@
+{
+  "uid": "5e738b1f21c2bad7",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/7308c4bc0b2058f17f043e9beaab0523/",
+  "title": "[UPDATE: Fixed videos] Google Fights Back (Stratechery Weekly Article 5-8-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-05-08T07:22:32",
+  "error": null,
+  "content_path": "output/articles/markdown/5e738b1f21c2bad7.md",
+  "html_path": "output/articles/html/5e738b1f21c2bad7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3151,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "40021c8ebce9e8cc1a05e0f4cc5a675a",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1557325352",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-05-08T07:22:32",
+  "updated_at": "2019-05-08T07:22:32"
+}

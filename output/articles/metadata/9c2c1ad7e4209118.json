@@ -1,0 +1,40 @@
+{
+  "uid": "9c2c1ad7e4209118",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.vox.com/2018/1/23/16905844/media-landscape-verizon-amazon-comcast-disney-fox-relationships-chart",
+  "title": "Here’s who owns everything in Big Media today Vox - All",
+  "status": "selection_content_extracted",
+  "date": "2019-06-19T23:23:17",
+  "error": null,
+  "content_path": "output/articles/markdown/9c2c1ad7e4209118.md",
+  "html_path": "output/articles/html/9c2c1ad7e4209118.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3106,
+    "selection_length": 1356,
+    "cleaned_selection_length": 1393,
+    "domain": "vox.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9c2c1ad7e4209118",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1561011797",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "It probably won’t look like this for long.\n\nThe media landscape used to be straightforward: Content companies — studios — made stuff — TV shows and movies — and sold it to pay TV distributors, who sold it to consumers.\n\nNow things are up for grabs: Netflix buys stuff from the studios, but it’s making its own stuff, too, and it’s selling it directly to consumers. That’s one of the reasons older media companies are trying to compete by consolidating. Disney, for example, recently completed its purchase of 21st Century Fox. Distributors like AT&T, which bought Time Warner last year, are becoming media companies, too.\n\nMeanwhile, giant tech companies like Google, Amazon, and Apple that used to be on the sidelines are getting closer and closer to the action. Apple’s newest TV strategy positions the company as a TV guide, a TV storefront selling services like HBO, and a TV creator that employs the likes of Steven Spielberg and Jennifer Anniston to make exclusive shows for Apple users.\n\nTo help sort this all out, we’ve created a diagram that organizes distributors, content companies and internet video companies by market cap — the value investors assign to the companies — and their main lines of business.\n\nHere’s what the Big Media universe currently looks like. We will update it periodically:\n\nThis article originally appeared on Recode.net.",
+    "cleaned_selection": "<p>It probably won’t look like this for long.</p><p>The media landscape used to be straightforward: Content companies — studios — made stuff — TV shows and movies — and sold it to pay TV distributors, who sold it to consumers.</p><p>Now things are up for grabs: Netflix buys stuff from the studios, but it’s making its own stuff, too, and it’s selling it directly to consumers. That’s one of the reasons older media companies are trying to compete by consolidating. Disney, for example, recently completed its purchase of 21st Century Fox. Distributors like AT&T, which bought Time Warner last year, are becoming media companies, too.</p><p>Meanwhile, giant tech companies like Google, Amazon, and Apple that used to be on the sidelines are getting closer and closer to the action. Apple’s newest TV strategy positions the company as a TV guide, a TV storefront selling services like HBO, and a TV creator that employs the likes of Steven Spielberg and Jennifer Anniston to make exclusive shows for Apple users.</p><p>To help sort this all out, we’ve created a diagram that organizes distributors, content companies and internet video companies by market cap — the value investors assign to the companies — and their main lines of business.</p><p>Here’s what the Big Media universe currently looks like. We will update it periodically:</p><p>This article originally appeared on Recode.net.</p>",
+    "domain": "vox.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.749541",
+  "updated_at": "2025-08-06T08:47:03.749542"
+}

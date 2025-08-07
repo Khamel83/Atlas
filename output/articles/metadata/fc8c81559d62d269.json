@@ -1,0 +1,40 @@
+{
+  "uid": "fc8c81559d62d269",
+  "content_type": "instapaper",
+  "source": "https://food52.com/blog/21915-for-the-spiciest-fried-chicken-make-hot-chicken",
+  "title": "For the Spiciest Fried Chicken, Make Hot Chicken Food52",
+  "status": "success",
+  "date": "2025-08-05T13:51:09.033580",
+  "error": null,
+  "content_path": "output/articles/markdown/fc8c81559d62d269.md",
+  "html_path": "output/articles/html/fc8c81559d62d269.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "23d1429bd3eb278c64922ca1919d8b7d",
+  "type_specific": {
+    "bookmark_id": 1034855093,
+    "instapaper_time": 1522125174,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:51:09.033624",
+  "updated_at": "2025-08-05T13:51:09.033628"
+}

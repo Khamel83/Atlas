@@ -1,0 +1,40 @@
+{
+  "uid": "d4d7d7b9c03b5f8f",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1117031766",
+  "title": "Paul Allen Passes Away, Photoshop on iPad Announced, The App Store and Incumbents (Stratechery Daily Update 10-16-2018)",
+  "status": "success",
+  "date": "2025-08-05T14:06:06.215112",
+  "error": null,
+  "content_path": "output/articles/markdown/d4d7d7b9c03b5f8f.md",
+  "html_path": "output/articles/html/d4d7d7b9c03b5f8f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "decff28ad4704e25d83bfbc26c43d7a6",
+  "type_specific": {
+    "bookmark_id": 1117031766,
+    "instapaper_time": 1539685125,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Stratechery"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:06:06.215179",
+  "updated_at": "2025-08-05T14:06:06.215182"
+}

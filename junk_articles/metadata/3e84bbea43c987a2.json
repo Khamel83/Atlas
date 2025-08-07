@@ -1,0 +1,34 @@
+{
+  "uid": "3e84bbea43c987a2",
+  "content_type": "web_bookmark",
+  "source": "https://jacobin.com/2022/10/russia-ukraine-war-explanation-class-conflict",
+  "title": "Behind Russia’s War Is Thirty Years of Post-Soviet Class Conflict",
+  "status": "converted_from_csv",
+  "date": "2022-10-09T23:54:32",
+  "error": null,
+  "content_path": "output/articles/markdown/3e84bbea43c987a2.md",
+  "html_path": "output/articles/html/3e84bbea43c987a2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1191,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "799681f7af5a9024de168baf92e4b94f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1665384872",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-10-09T23:54:32",
+  "updated_at": "2022-10-09T23:54:32"
+}

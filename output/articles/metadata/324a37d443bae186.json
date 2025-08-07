@@ -1,0 +1,40 @@
+{
+  "uid": "324a37d443bae186",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/05/deal-alert-cheap-flights-to-brazil-from-630-rt/",
+  "title": "Deal Alert Cheap Flights to Brazil from $630 RT The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-05-05T08:46:27",
+  "error": null,
+  "content_path": "output/articles/markdown/324a37d443bae186.md",
+  "html_path": "output/articles/html/324a37d443bae186.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4865,
+    "selection_length": 319,
+    "cleaned_selection_length": 326,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "324a37d443bae186",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1430840787",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Thinking about flying to Rio de Janeiro or Sao Paulo this summer? You’re probably not going to do much better than this, thanks to a tip from our friends at Stealth Trips, American, Delta and United are offering flights down to South America starting at $630 roundtrip. The easiest way to search for these flights is...",
+    "cleaned_selection": "<p>Thinking about flying to Rio de Janeiro or Sao Paulo this summer? You’re probably not going to do much better than this, thanks to a tip from our friends at Stealth Trips, American, Delta and United are offering flights down to South America starting at $630 roundtrip. The easiest way to search for these flights is...</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.414302",
+  "updated_at": "2025-08-06T08:47:04.414303"
+}

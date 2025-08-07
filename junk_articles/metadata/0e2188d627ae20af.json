@@ -1,0 +1,34 @@
+{
+  "uid": "0e2188d627ae20af",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/7eaa268feb1d7a9dac74bd3a1a6a8a54/",
+  "title": "💥3M Gets Spanked💥",
+  "status": "converted_from_csv",
+  "date": "2023-01-04T05:07:02",
+  "error": null,
+  "content_path": "output/articles/markdown/0e2188d627ae20af.md",
+  "html_path": "output/articles/html/0e2188d627ae20af.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1068,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9a51eb14f034266d24fe639049fec272",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1672837622",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-01-04T05:07:02",
+  "updated_at": "2023-01-04T05:07:02"
+}

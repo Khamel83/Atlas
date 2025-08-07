@@ -1,0 +1,42 @@
+{
+  "uid": "75fb32397f86a8fa",
+  "content_type": "instapaper",
+  "source": "https://www.nytimes.com/interactive/2025/03/04/opinion/covid-impact-five-years-later.html",
+  "title": "Opinion | How Covid Remade Our America, Five Years Later",
+  "status": "success",
+  "date": "2025-08-05T13:28:44.597491",
+  "error": null,
+  "content_path": "output/articles/markdown/75fb32397f86a8fa.md",
+  "html_path": "output/articles/html/75fb32397f86a8fa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f61f3b37f273c6d89162690d5cdfc051",
+  "type_specific": {
+    "bookmark_id": 1758306783,
+    "instapaper_time": 1741151587,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:28:44.597620",
+  "updated_at": "2025-08-05T13:28:44.597623"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "d12a2c51837ee2ab",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2016/09/29/technology/google-assistant.html",
+  "title": "A High-Stakes Bet: Turning Google Assistant Into a ‘Star Trek’ Computer",
+  "status": "converted_from_csv",
+  "date": "2016-09-29T14:28:01",
+  "error": null,
+  "content_path": "output/articles/markdown/d12a2c51837ee2ab.md",
+  "html_path": "output/articles/html/d12a2c51837ee2ab.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4298,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c587c94db00d05ebdc9d8dd4a4151165",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1475184481",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-09-29T14:28:01",
+  "updated_at": "2016-09-29T14:28:01"
+}

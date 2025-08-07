@@ -1,0 +1,34 @@
+{
+  "uid": "e40b37d7625f2399",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/d22fa2bf6658705a6ec068aa697932fc/",
+  "title": "The Time the CIA Director Came to Hear My Band",
+  "status": "converted_from_csv",
+  "date": "2021-09-24T05:02:04",
+  "error": null,
+  "content_path": "output/articles/markdown/e40b37d7625f2399.md",
+  "html_path": "output/articles/html/e40b37d7625f2399.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1953,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "77d12a4721b1f208b5ec1a2e4a74c30d",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1632484924",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-09-24T05:02:04",
+  "updated_at": "2021-09-24T05:02:04"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "d5e2becc308330a7",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://millionmilesecrets.com/2017/09/14/ending-soon-generous-transfer-bonus-thats-great-for-cheap-short-haul-flights/",
+  "title": "Ending Soon Generous Transfer Bonus That’s Great for Cheap Short-Haul Flights Million Mile Secrets",
+  "status": "selection_content_extracted",
+  "date": "2017-09-14T16:41:52",
+  "error": null,
+  "content_path": "output/articles/markdown/d5e2becc308330a7.md",
+  "html_path": "output/articles/html/d5e2becc308330a7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3816,
+    "selection_length": 1616,
+    "cleaned_selection_length": 1664,
+    "domain": "millionmilesecrets.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d5e2becc308330a7",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1505432512",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Don’t forget!  American Express is offering a 40% bonus for transferring AMEX Membership Rewards points to British Airways through September 17, 2017.\n\nUse This Bonus to Book Short Haul Flights Anywhere British Airways or Its Partners Fly for Extra Cheap\nBonus for Transferring AMEX Membership Rewards Points to British Airways\n\nThe normal rate for transferring AMEX Membership Rewards points to British Airways Avios points is 1:1.  But with this limited-time bonus, you’ll get 1,400 British Airways Avios points for every 1,000 AMEX Membership Rewards points you transfer.\n\nJust the other weekend, team member Meghan took advantage of this deal for a short-haul award ticket to Seattle from Missoula, Montana.  On British Airways’ partner, Alaska Airlines.\n\nShe loves the fact that because British Airways prices award flights according to distance, short flights cost fewer miles!\n\nSo if you’re planning to use British Airways Avios points to book an award ticket soon, you’ll want to take advantage of the 40% bonus!  Even if you don’t have a specific trip in mind, it could be worth it.  Because these deals don’t come around often.\n\nBottom Line\n\nThe 40% bonus for transferring AMEX Membership Rewards points to British Airways is ending on September 17, 2017.\n\nIf you have an upcoming trip planned and want more British Airways Avios points, this is a great deal!\n\nEven if you do NOT have a specific trip in mind, it’s still worth considering.  Because you can use British Airways Avios points for cheap flights to fun destinations like Hawaii and Ireland.  And for short-haul flights within the US and Europe!",
+    "cleaned_selection": "<p>Don’t forget! American Express is offering a 40% bonus for transferring AMEX Membership Rewards points to British Airways through September 17, 2017.</p><p>Use This Bonus to Book Short Haul Flights Anywhere British Airways or Its Partners Fly for Extra Cheap<br>Bonus for Transferring AMEX Membership Rewards Points to British Airways</p><p>The normal rate for transferring AMEX Membership Rewards points to British Airways Avios points is 1:1. But with this limited-time bonus, you’ll get 1,400 British Airways Avios points for every 1,000 AMEX Membership Rewards points you transfer.</p><p>Just the other weekend, team member Meghan took advantage of this deal for a short-haul award ticket to Seattle from Missoula, Montana. On British Airways’ partner, Alaska Airlines.</p><p>She loves the fact that because British Airways prices award flights according to distance, short flights cost fewer miles!</p><p>So if you’re planning to use British Airways Avios points to book an award ticket soon, you’ll want to take advantage of the 40% bonus! Even if you don’t have a specific trip in mind, it could be worth it. Because these deals don’t come around often.</p><p>Bottom Line</p><p>The 40% bonus for transferring AMEX Membership Rewards points to British Airways is ending on September 17, 2017.</p><p>If you have an upcoming trip planned and want more British Airways Avios points, this is a great deal!</p><p>Even if you do NOT have a specific trip in mind, it’s still worth considering. Because you can use British Airways Avios points for cheap flights to fun destinations like Hawaii and Ireland. And for short-haul flights within the US and Europe!</p>",
+    "domain": "millionmilesecrets.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.023981",
+  "updated_at": "2025-08-06T08:47:04.023983"
+}

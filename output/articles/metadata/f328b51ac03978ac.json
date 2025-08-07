@@ -1,0 +1,40 @@
+{
+  "uid": "f328b51ac03978ac",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.theverge.com/circuitbreaker/2018/2/19/17029516/wyzecam-v2-security-camera-price",
+  "title": "The WyzeCam is a $20 security camera, and it just got better The Verge",
+  "status": "selection_content_extracted",
+  "date": "2018-02-26T09:38:54",
+  "error": null,
+  "content_path": "output/articles/markdown/f328b51ac03978ac.md",
+  "html_path": "output/articles/html/f328b51ac03978ac.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3602,
+    "selection_length": 1248,
+    "cleaned_selection_length": 1280,
+    "domain": "theverge.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f328b51ac03978ac",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1519666734",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "I’ve never owned a security camera, so don’t quote me as an expert, but I’ve been reading some WyzeCam reviews this afternoon and they’re a little astonishing: a good, functional, easy-to-use, and feature-rich streaming security camera for $20.\n\nWell, now there’s a sequel.\n\nThe WyzeCam v2 still costs $20, but now it has a better camera sensor for improved day and night vision, better audio quality (WyzeCam supports two-way audio), and motion-tagging tech to detect and outline motion in its footage.\n\nThe basics of the camera are unchanged, including 1080p recording, a free 14 days of rolling cloud storage, continuous microSD recording (you supply the microSD card), time lapse, and, of course, an app.\n\nAccording to Engadget, a firmware update in March will add IFTTT support and compatibility with Amazon’s Echo Show and Echo Spot devices for looking in on your camera feeds.\n\nCheap devices that require an app and a Wi-Fi or Bluetooth connection to operate are usually my definition hell, but I’m glad to see that WyzeCam is a shining, $20 beacon in the middle of this hellscape. WyzeCam v2 is supposed to ship at the end of the month, and the company claims it will continue to support the original model through app and firmware updates.",
+    "cleaned_selection": "<p>I’ve never owned a security camera, so don’t quote me as an expert, but I’ve been reading some WyzeCam reviews this afternoon and they’re a little astonishing: a good, functional, easy-to-use, and feature-rich streaming security camera for $20.</p><p>Well, now there’s a sequel.</p><p>The WyzeCam v2 still costs $20, but now it has a better camera sensor for improved day and night vision, better audio quality (WyzeCam supports two-way audio), and motion-tagging tech to detect and outline motion in its footage.</p><p>The basics of the camera are unchanged, including 1080p recording, a free 14 days of rolling cloud storage, continuous microSD recording (you supply the microSD card), time lapse, and, of course, an app.</p><p>According to Engadget, a firmware update in March will add IFTTT support and compatibility with Amazon’s Echo Show and Echo Spot devices for looking in on your camera feeds.</p><p>Cheap devices that require an app and a Wi-Fi or Bluetooth connection to operate are usually my definition hell, but I’m glad to see that WyzeCam is a shining, $20 beacon in the middle of this hellscape. WyzeCam v2 is supposed to ship at the end of the month, and the company claims it will continue to support the original model through app and firmware updates.</p>",
+    "domain": "theverge.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.925972",
+  "updated_at": "2025-08-06T08:47:03.925974"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "1d9aa552f4d31119",
+  "content_type": "web_bookmark",
+  "source": "http://www.gq.com/news-politics/newsmakers/201310/paul-kevin-curtis-elvis-impersonator-ricin-assassinations?printable=true",
+  "title": "The Elvis Impersonator, the Karate Instructor, a Fridge Full of Severed Heads, and the Plot 2 Kill the President",
+  "status": "converted_from_csv",
+  "date": "2014-01-01T00:00:08",
+  "error": null,
+  "content_path": "output/articles/markdown/1d9aa552f4d31119.md",
+  "html_path": "output/articles/html/1d9aa552f4d31119.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5299,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "20b94b74479a6d81c1548000640a27f4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1388563208",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-01-01T00:00:08",
+  "updated_at": "2014-01-01T00:00:08"
+}

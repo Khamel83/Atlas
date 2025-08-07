@@ -1,0 +1,40 @@
+{
+  "uid": "e3fee71239e9d9fa",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/06/hyatt-65k-summer-bonus/",
+  "title": "Earn Up To 65,000 Points in Targeted Bonuses with Hyatt’s Summer Promo The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-06-02T20:14:00",
+  "error": null,
+  "content_path": "output/articles/markdown/e3fee71239e9d9fa.md",
+  "html_path": "output/articles/html/e3fee71239e9d9fa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4841,
+    "selection_length": 398,
+    "cleaned_selection_length": 405,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e3fee71239e9d9fa",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1433301240",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "With Memorial Day behind us, the unofficial summer season has started and Hyatt is celebrating with a new promotion. Unlike Starwood’s promo, which is consistent but generally underwhelming, Hyatt’s targeting Gold Passport members with different opportunities, likely based on their status and personal stay habits. Depending on your own bonus offer, it’s potentially a very lucrative promotion....",
+    "cleaned_selection": "<p>With Memorial Day behind us, the unofficial summer season has started and Hyatt is celebrating with a new promotion. Unlike Starwood’s promo, which is consistent but generally underwhelming, Hyatt’s targeting Gold Passport members with different opportunities, likely based on their status and personal stay habits. Depending on your own bonus offer, it’s potentially a very lucrative promotion....</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.408340",
+  "updated_at": "2025-08-06T08:47:04.408341"
+}

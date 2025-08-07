@@ -1,0 +1,40 @@
+{
+  "uid": "5d1c8850aa0ec320",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2014/10/what-are-points-miles-worth-october-monthly-valuations/",
+  "title": "What Are Points & Miles Worth October Monthly Valuations The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2014-10-21T16:17:53",
+  "error": null,
+  "content_path": "output/articles/markdown/5d1c8850aa0ec320.md",
+  "html_path": "output/articles/html/5d1c8850aa0ec320.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5083,
+    "selection_length": 331,
+    "cleaned_selection_length": 338,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5d1c8850aa0ec320",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1413933473",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "You can view all posts in the Monthly Valuation Series here. One of the questions I’m asked most often is “how much is a point or mile worth?” That question varies from person to person and depends on how well you can maximize a particular currency for your needs. Still, some points are worth more than others. To give readers […]",
+    "cleaned_selection": "<p>You can view all posts in the Monthly Valuation Series here. One of the questions I’m asked most often is “how much is a point or mile worth?” That question varies from person to person and depends on how well you can maximize a particular currency for your needs. Still, some points are worth more than others. To give readers […]</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.470477",
+  "updated_at": "2025-08-06T08:47:04.470478"
+}

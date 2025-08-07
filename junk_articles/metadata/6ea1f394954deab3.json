@@ -1,0 +1,34 @@
+{
+  "uid": "6ea1f394954deab3",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/706891eee0927cb17d8caa066a6fbe1d/",
+  "title": "The ZTE Ban, Tech’s Trade War Risk, China’s Delayed Approval and Apple’s Pain",
+  "status": "converted_from_csv",
+  "date": "2018-04-17T05:21:40",
+  "error": null,
+  "content_path": "output/articles/markdown/6ea1f394954deab3.md",
+  "html_path": "output/articles/html/6ea1f394954deab3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3545,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "213916837a7c7b5733fed041367f8520",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1523967700",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-04-17T05:21:40",
+  "updated_at": "2018-04-17T05:21:40"
+}

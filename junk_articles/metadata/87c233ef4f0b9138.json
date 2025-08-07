@@ -1,0 +1,34 @@
+{
+  "uid": "87c233ef4f0b9138",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/b129be69df5c96d863265293a195d0a7/",
+  "title": "💥Gasping for Air💥",
+  "status": "converted_from_csv",
+  "date": "2025-03-19T05:05:21",
+  "error": null,
+  "content_path": "output/articles/markdown/87c233ef4f0b9138.md",
+  "html_path": "output/articles/html/87c233ef4f0b9138.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 21,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "618169af08a9027f911150623fb3d784",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1742385921",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2025-03-19T05:05:21",
+  "updated_at": "2025-03-19T05:05:21"
+}

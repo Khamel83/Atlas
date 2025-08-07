@@ -1,0 +1,32 @@
+{
+  "uid": "d28398fee1e91ccb",
+  "content_type": "instapaper",
+  "source": "https://nymag.com/intelligencer/article/how-is-wealth-transferred-generational-money-kids-children.html",
+  "title": "The Sneaky Ways Parents Transfer Money to Their Adult Children",
+  "status": "success",
+  "date": "2025-08-05T12:40:12.907453",
+  "error": null,
+  "content_path": "output/articles/markdown/a03c750461291a89.md",
+  "html_path": "output/articles/html/a03c750461291a89.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cce1ddd6b06595ea3b0adaf08b7d3b3728af789f0a8909f5f029b29676ad21d5",
+  "type_specific": {
+    "bookmark_id": 1756059466
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:40:12.907474",
+  "updated_at": "2025-08-05T12:40:13.735834"
+}

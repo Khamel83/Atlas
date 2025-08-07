@@ -1,0 +1,42 @@
+{
+  "uid": "0ce5578371953127",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1706594425",
+  "title": "💥Taking an \"L\"💥",
+  "status": "success",
+  "date": "2025-08-05T13:32:39.594449",
+  "error": null,
+  "content_path": "output/articles/markdown/0ce5578371953127.md",
+  "html_path": "output/articles/html/0ce5578371953127.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a2f12b3bc4832d7149e0452afd671914",
+  "type_specific": {
+    "bookmark_id": 1706594425,
+    "instapaper_time": 1725451500,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:32:39.594888",
+  "updated_at": "2025-08-05T13:32:39.594902"
+}

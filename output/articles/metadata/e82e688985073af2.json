@@ -1,0 +1,40 @@
+{
+  "uid": "e82e688985073af2",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://millionmilesecrets.com/2014/10/09/ever-bought-a-red-bull-you-could-get-10-in-free-cash/",
+  "title": "Ever Bought a Red Bull You Could Get $10 in Free Cash Million Mile Secrets",
+  "status": "selection_content_extracted",
+  "date": "2014-10-09T06:17:58",
+  "error": null,
+  "content_path": "output/articles/markdown/e82e688985073af2.md",
+  "html_path": "output/articles/html/e82e688985073af2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5095,
+    "selection_length": 465,
+    "cleaned_selection_length": 480,
+    "domain": "millionmilesecrets.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e82e688985073af2",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1412860678",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "You could get $10 because Red Bull was recently involved in a class action lawsuit.   You can apply for compensation if you purchased a Red Bull product between January 1, 2002, and October 3, 2014.  I know this isn’t strictly … Continue reading →\n\n       \n\nRelated Stories\n\nWhich Is the Better No Annual Fee Business Card?\n\nSave Money on Airline Tickets: Hidden City Ticketing\n\nStart Earning 5X Points (5% Cash Back) at Amazon, Zappos, and Select Department Stores",
+    "cleaned_selection": "<p>You could get $10 because Red Bull was recently involved in a class action lawsuit. You can apply for compensation if you purchased a Red Bull product between January 1, 2002, and October 3, 2014. I know this isn’t strictly … Continue reading →</p><p>Related Stories</p><p>Which Is the Better No Annual Fee Business Card?</p><p>Save Money on Airline Tickets: Hidden City Ticketing</p><p>Start Earning 5X Points (5% Cash Back) at Amazon, Zappos, and Select Department Stores</p>",
+    "domain": "millionmilesecrets.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.474456",
+  "updated_at": "2025-08-06T08:47:04.474457"
+}

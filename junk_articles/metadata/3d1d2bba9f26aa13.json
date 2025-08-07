@@ -1,0 +1,34 @@
+{
+  "uid": "3d1d2bba9f26aa13",
+  "content_type": "web_bookmark",
+  "source": "http://vimeo.com/50506937",
+  "title": "Cinematic Table Flips",
+  "status": "converted_from_csv",
+  "date": "2014-06-09T13:44:38",
+  "error": null,
+  "content_path": "output/articles/markdown/3d1d2bba9f26aa13.md",
+  "html_path": "output/articles/html/3d1d2bba9f26aa13.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5247,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "91911ed103f65219555664c55a7bbf94",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1402346678",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-06-09T13:44:38",
+  "updated_at": "2014-06-09T13:44:38"
+}

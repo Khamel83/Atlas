@@ -1,0 +1,40 @@
+{
+  "uid": "9b2d06bd70fb8a50",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/policy-and-politics/2017/6/19/15764176/prisons-abolition-alternatives",
+  "title": "The case for abolishing prisons Vox - All",
+  "status": "success",
+  "date": "2025-08-05T14:02:46.605369",
+  "error": null,
+  "content_path": "output/articles/markdown/9b2d06bd70fb8a50.md",
+  "html_path": "output/articles/html/9b2d06bd70fb8a50.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b5a5ec2b9ccbcf2c2e7262b694d5c302",
+  "type_specific": {
+    "bookmark_id": 920980700,
+    "instapaper_time": 1497875198,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:02:46.605448",
+  "updated_at": "2025-08-05T14:02:46.605452"
+}

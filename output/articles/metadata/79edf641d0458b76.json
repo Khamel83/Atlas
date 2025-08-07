@@ -1,0 +1,40 @@
+{
+  "uid": "79edf641d0458b76",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://kottke.org/17/03/racing-the-subway-between-stops-on-foot",
+  "title": "Racing the subway between stops on foot kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2017-03-15T07:19:33",
+  "error": null,
+  "content_path": "output/articles/markdown/79edf641d0458b76.md",
+  "html_path": "output/articles/html/79edf641d0458b76.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4060,
+    "selection_length": 819,
+    "cleaned_selection_length": 827,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "79edf641d0458b76",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1489587573",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "In 2012, Francois De La Taille posted a video of himself racing a Paris Metro train from one station to the next, on foot. He exited the train, dashed out of the station, sprinted down the street (after pausing for a bus crossing the road), ran into the next station (after falling on the stairs), and hopped back onto the same train he’d just gotten off of.\n\nTwo years later, James Heptonstall did the same thing on the London Tube and, after a slow start, it went viral. Soon, people from all over the world were racing their hometown subway trains: Taiwan, Stockholm, Hong Kong, etc. If you’re wondering whether such a thing would be possible in NYC, the answer is yes, even if you pick the wrong door to start with:\n\n(via @ftrain)\n\nTags: London   London Underground   NYC   Paris   running   sports   subway   video",
+    "cleaned_selection": "<p>In 2012, Francois De La Taille posted a video of himself racing a Paris Metro train from one station to the next, on foot. He exited the train, dashed out of the station, sprinted down the street (after pausing for a bus crossing the road), ran into the next station (after falling on the stairs), and hopped back onto the same train he’d just gotten off of.</p><p>Two years later, James Heptonstall did the same thing on the London Tube and, after a slow start, it went viral. Soon, people from all over the world were racing their hometown subway trains: Taiwan, Stockholm, Hong Kong, etc. If you’re wondering whether such a thing would be possible in NYC, the answer is yes, even if you pick the wrong door to start with:</p><p>(via @ftrain)</p><p>Tags: London London Underground NYC Paris running sports subway video</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.156918",
+  "updated_at": "2025-08-06T08:47:04.156920"
+}

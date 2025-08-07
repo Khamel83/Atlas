@@ -1,0 +1,34 @@
+{
+  "uid": "60e0e8932b6f5ded",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0e2c017e01b6321249f23bf3b93a5443/",
+  "title": "Q&A: When to wash hands, mom brain, anesthesia during c-sections, and late walkers",
+  "status": "converted_from_csv",
+  "date": "2023-10-11T03:02:48",
+  "error": null,
+  "content_path": "output/articles/markdown/60e0e8932b6f5ded.md",
+  "html_path": "output/articles/html/60e0e8932b6f5ded.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 593,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cdfac293570bb89e0aa400a0fafc3eb2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1697018568",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-10-11T03:02:48",
+  "updated_at": "2023-10-11T03:02:48"
+}

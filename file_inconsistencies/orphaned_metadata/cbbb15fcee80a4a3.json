@@ -1,0 +1,32 @@
+{
+  "uid": "cbbb15fcee80a4a3",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1756064164",
+  "title": "Listen to This Article - Bipartisan Coalition Finally Tells Europe, and the FBI, to Shove It",
+  "status": "error",
+  "date": "2025-08-05T12:40:12.901271",
+  "error": "Failed to fetch content for 'Listen to This Article - Bipartisan Coalition Finally Tells Europe, and the FBI, to Shove It' from instapaper://private-content/1756064164: No connection adapters were found for 'instapaper://private-content/1756064164'",
+  "content_path": null,
+  "html_path": null,
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": null,
+  "type_specific": {
+    "bookmark_id": 1756064164
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:40:12.901274",
+  "updated_at": "2025-08-05T12:40:12.905330"
+}

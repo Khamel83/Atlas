@@ -1,0 +1,40 @@
+{
+  "uid": "5e892f533732d009",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/1745815/sesame-streets-50th-season-will-focus-on-mistakes-and-resilience/",
+  "title": "Sesame Street turns 50 and celebrates children’s right to make mistakes Quartz",
+  "status": "selection_content_extracted",
+  "date": "2019-11-10T12:34:14",
+  "error": null,
+  "content_path": "output/articles/markdown/5e892f533732d009.md",
+  "html_path": "output/articles/html/5e892f533732d009.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2964,
+    "selection_length": 2158,
+    "cleaned_selection_length": 2200,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5e892f533732d009",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1573418054",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The 50th season of Sesame Street kicked off yesterday (Nov. 9) with a new message for kids: Failure isn’t always a bad thing.\n\nThis season, the popular cast of muppets will focus on the role that making mistakes can play in building young children’s resilience. Entitled “Oops and Aha!: Embracing the Power of Possibilities,” this theme is especially relevant in the US, where preschool-aged children are increasingly pressured to meet “school readiness” standards and where pediatricians have to prescribe play time to over-scheduled kids.\n\n“Today’s preschool kids are under an unprecedented amount of stress and pressure to meet certain academic and social-emotional benchmarks, often before they’re developmentally ready,” Rosemarie Truglio, Sesame Workshop’s senior vice president for curriculum and content, said in a release. “That result-oriented mindset can make kids afraid to take even the safest risks—never trying to pour their own milk for fear of spilling it.”\n\nYUCK I hate celebrations. Have a rotten 50th birthday Sesame Street… #Sesame50\n\n— Oscar the Grouch (@OscarTheGrouch) November 10, 2019\n\nBetween birth and age school age, children’s brains develop quickly, and science shows play can help them learn to focus attention, communicate, problem-solve, and work with others. Sesame Street has long touted the benefits of play and pressure-free learning environments for kids. But in a world where hyper-competitive education systems can sometimes determine a child’s future before they are even born, that message is all the more important.\n\nThe show’s 50th season will focus on the role that caregivers can play in allowing—and even at times encouraging—kids to make mistakes and learn to bounce back from them. According to Sesame Workshop, one episode will feature 3-year-old muppet Rudy Cadabby getting upset when he “ruins” a drawing. Alan Muraoka, the current owner of Hooper’s Store, then encourages Rudy to keep trying, and Rudy eventually makes a new drawing inspired by his mistake.\n\nThe goal is to model important values like confidence, perseverance, and resilience—values that researchers say today’s preschoolers are lacking.",
+    "cleaned_selection": "<p>The 50th season of Sesame Street kicked off yesterday (Nov. 9) with a new message for kids: Failure isn’t always a bad thing.</p><p>This season, the popular cast of muppets will focus on the role that making mistakes can play in building young children’s resilience. Entitled “Oops and Aha!: Embracing the Power of Possibilities,” this theme is especially relevant in the US, where preschool-aged children are increasingly pressured to meet “school readiness” standards and where pediatricians have to prescribe play time to over-scheduled kids.</p><p>“Today’s preschool kids are under an unprecedented amount of stress and pressure to meet certain academic and social-emotional benchmarks, often before they’re developmentally ready,” Rosemarie Truglio, Sesame Workshop’s senior vice president for curriculum and content, said in a release. “That result-oriented mindset can make kids afraid to take even the safest risks—never trying to pour their own milk for fear of spilling it.”</p><p>YUCK I hate celebrations. Have a rotten 50th birthday Sesame Street… #Sesame50</p><p>— Oscar the Grouch (@OscarTheGrouch) November 10, 2019</p><p>Between birth and age school age, children’s brains develop quickly, and science shows play can help them learn to focus attention, communicate, problem-solve, and work with others. Sesame Street has long touted the benefits of play and pressure-free learning environments for kids. But in a world where hyper-competitive education systems can sometimes determine a child’s future before they are even born, that message is all the more important.</p><p>The show’s 50th season will focus on the role that caregivers can play in allowing—and even at times encouraging—kids to make mistakes and learn to bounce back from them. According to Sesame Workshop, one episode will feature 3-year-old muppet Rudy Cadabby getting upset when he “ruins” a drawing. Alan Muraoka, the current owner of Hooper’s Store, then encourages Rudy to keep trying, and Rudy eventually makes a new drawing inspired by his mistake.</p><p>The goal is to model important values like confidence, perseverance, and resilience—values that researchers say today’s preschoolers are lacking.</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.713750",
+  "updated_at": "2025-08-06T08:47:03.713753"
+}

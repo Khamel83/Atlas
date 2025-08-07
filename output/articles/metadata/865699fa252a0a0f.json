@@ -1,0 +1,40 @@
+{
+  "uid": "865699fa252a0a0f",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://tywkiwdbi.blogspot.com/2018/01/when-you-only-have-few-minutes-to-live.html",
+  "title": "When you only have a few minutes to live... TYWKIWDBI (Tai",
+  "status": "selection_content_extracted",
+  "date": "2018-01-18T14:45:47",
+  "error": null,
+  "content_path": "output/articles/markdown/865699fa252a0a0f.md",
+  "html_path": "output/articles/html/865699fa252a0a0f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3652,
+    "selection_length": 137,
+    "cleaned_selection_length": 157,
+    "domain": "tywkiwdbi.blogspot.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "865699fa252a0a0f",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1516315547",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "... your priorities change.  The graph shows viewership at Pornhub at the time of the (false) nuclear\n\nbomb warning.  Via\n\nBoing Boing\n\n.",
+    "cleaned_selection": "<p>... your priorities change. The graph shows viewership at Pornhub at the time of the (false) nuclear</p><p>bomb warning. Via</p><p>Boing Boing</p><p>.</p>",
+    "domain": "tywkiwdbi.blogspot.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.935709",
+  "updated_at": "2025-08-06T08:47:03.935711"
+}

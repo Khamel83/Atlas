@@ -1,0 +1,34 @@
+{
+  "uid": "0b2c24dc1360a080",
+  "content_type": "web_bookmark",
+  "source": "https://www.latimes.com/business/story/2023-04-26/snack-chatbot-ai-dating-app",
+  "title": "I tried Snack's dating app and let an AI chatbot flirt for me - Los Angeles Times",
+  "status": "converted_from_csv",
+  "date": "2023-04-27T09:51:01",
+  "error": null,
+  "content_path": "output/articles/markdown/0b2c24dc1360a080.md",
+  "html_path": "output/articles/html/0b2c24dc1360a080.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 897,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "63183178e7a7a13e61fa8d2f0f0e3829",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1682614261",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-04-27T09:51:01",
+  "updated_at": "2023-04-27T09:51:01"
+}

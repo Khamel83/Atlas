@@ -1,0 +1,34 @@
+{
+  "uid": "26ca8e8a4febde92",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html",
+  "title": "The End of Chefs: Moving Beyond Toxic Kitchen Culture - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2020-08-04T13:45:16",
+  "error": null,
+  "content_path": "output/articles/markdown/26ca8e8a4febde92.md",
+  "html_path": "output/articles/html/26ca8e8a4febde92.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2790,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b329cea0db4213fb3646a26944c25acb",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1596573916",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-08-04T13:45:16",
+  "updated_at": "2020-08-04T13:45:16"
+}

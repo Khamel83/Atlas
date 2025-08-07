@@ -1,0 +1,34 @@
+{
+  "uid": "2c38d4425328f0dd",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/c71e7643ae75b560db154d1e511284cf/",
+  "title": "Everything platforms know about the war but won't tell us",
+  "status": "converted_from_csv",
+  "date": "2022-03-10T16:47:21",
+  "error": null,
+  "content_path": "output/articles/markdown/2c38d4425328f0dd.md",
+  "html_path": "output/articles/html/2c38d4425328f0dd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1573,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2d10a99bcb398ac51fc61441c19972ca",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1646959641",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-03-10T16:47:21",
+  "updated_at": "2022-03-10T16:47:21"
+}

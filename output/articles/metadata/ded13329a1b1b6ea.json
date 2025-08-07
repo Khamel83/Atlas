@@ -1,0 +1,40 @@
+{
+  "uid": "ded13329a1b1b6ea",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://ritholtz.com/2019/09/investing-for-the-elite/",
+  "title": "Investing for the Elite The Big Picture",
+  "status": "selection_content_extracted",
+  "date": "2019-09-26T06:28:53",
+  "error": null,
+  "content_path": "output/articles/markdown/ded13329a1b1b6ea.md",
+  "html_path": "output/articles/html/ded13329a1b1b6ea.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3009,
+    "selection_length": 2440,
+    "cleaned_selection_length": 2507,
+    "domain": "ritholtz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ded13329a1b1b6ea",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1569504533",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Where Wealthy Families Are Invested\n\nSource: Institutional Investor\n\n \n\n \n\nThe chart above is utterly fascinating: It is based on a survey commissioned by UBS Group of family offices globally. These ultra-wealthy families accidentally revealed a mindset that seems to be counter-productive.\n\nIt goes something like this:\n\n“We’re special, and we prefer a more ‘sophisticated’ form of investing, one that is complex and nuanced and holds the promise of greater performance (even if it might underperform).”\n\nI have been debating this crowd for at least a decade. I created a presentation called “Romancing Alpha, Forsaking Beta” for an event of ultra high net worth investors at Tiger 21. It was a very soft admonition that the approach taken by many family offices was complicated, expensive, and failed to deliver alpha.\n\nIt was an inoffensive data-filled  discussion that suggested family offices take a closer look at their actual, post tax, net of fees performance. “If you are fortunate enough to have invested in the top 2% of alternatives — hedge funds, venture capital or private equity — then great, keep your money there.” But everyone else should perform a review to see how they would have done with a simple 60/40 allocation (including munis). And to repeat, run your comparisons and results on an after fee, post tax basis.\n\nThat argument failed. Many seem to be convinced their investments were top 2% (hence the suggestion to audit the actual numbers). I doubt I persuaded anyone in the room.\n\nIn fact, since then, this allocation to alternatives has gotten even greater. The biggest winner of flows is private equity. Institutional Investor has the data: “Alternative assets account for a large portion of family office allocations, rising 1.4 percentage points last year to more than 40 percent of their portfolios.”\n\nThe ultra-wealthy have more than 40% in alternatives!\n\nMeanwhile, Mom & Pop have become fee-sensitive, moving billions to Vanguard and Blackrock.\n\nThey win.\n\nThe ultra-wealthy have doubled down, pursuing sexy, pricey alpha at the expense of cheap, effective beta. The consultants still rake in fees. The smart money has become dumb. Wall Street is perplexed. The dumb money is no longer dumb, and are kicking everyone else’s ass.\n\nMaybe it is time to retire the phrase “dumb money — at least as applied to main street investors . . .\n\n \n\nThe post Investing for the Elite appeared first on The Big Picture.",
+    "cleaned_selection": "<p>Where Wealthy Families Are Invested</p><p>Source: Institutional Investor</p><p>The chart above is utterly fascinating: It is based on a survey commissioned by UBS Group of family offices globally. These ultra-wealthy families accidentally revealed a mindset that seems to be counter-productive.</p><p>It goes something like this:</p><p>“We’re special, and we prefer a more ‘sophisticated’ form of investing, one that is complex and nuanced and holds the promise of greater performance (even if it might underperform).”</p><p>I have been debating this crowd for at least a decade. I created a presentation called “Romancing Alpha, Forsaking Beta” for an event of ultra high net worth investors at Tiger 21. It was a very soft admonition that the approach taken by many family offices was complicated, expensive, and failed to deliver alpha.</p><p>It was an inoffensive data-filled discussion that suggested family offices take a closer look at their actual, post tax, net of fees performance. “If you are fortunate enough to have invested in the top 2% of alternatives — hedge funds, venture capital or private equity — then great, keep your money there.” But everyone else should perform a review to see how they would have done with a simple 60/40 allocation (including munis). And to repeat, run your comparisons and results on an after fee, post tax basis.</p><p>That argument failed. Many seem to be convinced their investments were top 2% (hence the suggestion to audit the actual numbers). I doubt I persuaded anyone in the room.</p><p>In fact, since then, this allocation to alternatives has gotten even greater. The biggest winner of flows is private equity. Institutional Investor has the data: “Alternative assets account for a large portion of family office allocations, rising 1.4 percentage points last year to more than 40 percent of their portfolios.”</p><p>The ultra-wealthy have more than 40% in alternatives!</p><p>Meanwhile, Mom & Pop have become fee-sensitive, moving billions to Vanguard and Blackrock.</p><p>They win.</p><p>The ultra-wealthy have doubled down, pursuing sexy, pricey alpha at the expense of cheap, effective beta. The consultants still rake in fees. The smart money has become dumb. Wall Street is perplexed. The dumb money is no longer dumb, and are kicking everyone else’s ass.</p><p>Maybe it is time to retire the phrase “dumb money — at least as applied to main street investors . . .</p><p>The post Investing for the Elite appeared first on The Big Picture.</p>",
+    "domain": "ritholtz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.720076",
+  "updated_at": "2025-08-06T08:47:03.720077"
+}

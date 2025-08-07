@@ -1,0 +1,34 @@
+{
+  "uid": "82507a9555a0e143",
+  "content_type": "web_bookmark",
+  "source": "https://www.wired.com/story/a-new-look-inside-theranos-dysfunctional-corporate-culture/",
+  "title": "A New Look Inside Theranos’ Dysfunctional Corporate Culture | WIRED",
+  "status": "converted_from_csv",
+  "date": "2018-05-22T16:36:39",
+  "error": null,
+  "content_path": "output/articles/markdown/82507a9555a0e143.md",
+  "html_path": "output/articles/html/82507a9555a0e143.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3500,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c0c3241e40b06699c1ac0ca08c0b7295",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1527032199",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-05-22T16:36:39",
+  "updated_at": "2018-05-22T16:36:39"
+}

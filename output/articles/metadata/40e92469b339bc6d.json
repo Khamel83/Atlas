@@ -1,0 +1,40 @@
+{
+  "uid": "40e92469b339bc6d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://marginalrevolution.com/marginalrevolution/2018/01/tyler-cowens-12-rules-life.html",
+  "title": "Tyler Cowen’s 12 rules for life Marginal REVOLUTION",
+  "status": "selection_content_extracted",
+  "date": "2018-01-25T09:30:36",
+  "error": null,
+  "content_path": "output/articles/markdown/40e92469b339bc6d.md",
+  "html_path": "output/articles/html/40e92469b339bc6d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3647,
+    "selection_length": 1933,
+    "cleaned_selection_length": 1994,
+    "domain": "marginalrevolution.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "40e92469b339bc6d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1516901436",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "After reading Jordan Peterson’s 12 rules, a few people asked me what my list would look like.  I would stress that what follows is not a universal or eternally valid account, but rather a few ideas that strike me in the here and now, perhaps as the result of recent conversations.  I suspect the same is true for everyone’s rules lists, so please keep this in perspective.  Here goes:\n\n1. Assume your temperament will always be somewhat childish and impatient, and set your rules accordingly, knowing that you cannot abide by rules for rules sake.  Hope to leverage your impatience toward your longer-run advantage.\n\n2. Study the symbolic systems of art, music, literature. and religion, if only to help yourself better understand alternative points of view in political and intellectual discourse.  Don’t just spend time with the creations you like right away.  Avoid “devalue and dismiss.”\n\n3. When the price goes up, buy less.  Try to understand what the price really is, however, and good luck with that.\n\n4. Marry well.\n\n5. Organize at least some significant portion of your knowledge of the world in terms of place, whether by country, region, or city.  If you do that, virtually every person will be interesting to you, if only because almost everyone has some valuable knowledge of particular places.\n\n6. When shooting the basketball, give it more arc than you think is necessary.  Consistently.\n\n7. Learn how to learn from those who offend you.\n\n8. Cultivate mentors, and be willing to serve as mentors to others.  This never loses its importance.\n\n9. I don’t know.\n\n10. Heed Cowen’s Three Laws.\n\n11. Do not heed Cowen’s Three Laws.\n\n12. Every now and then read or reread Erasmus, Montaigne, Homer, Shakespeare, or Joyce’s Ulysses, so that you do not take any rules too seriously.  The human condition seems to defeat our attempts to order it.\n\nThe post Tyler Cowen’s 12 rules for life appeared first on Marginal REVOLUTION.",
+    "cleaned_selection": "<p>After reading Jordan Peterson’s 12 rules, a few people asked me what my list would look like. I would stress that what follows is not a universal or eternally valid account, but rather a few ideas that strike me in the here and now, perhaps as the result of recent conversations. I suspect the same is true for everyone’s rules lists, so please keep this in perspective. Here goes:</p><p>1. Assume your temperament will always be somewhat childish and impatient, and set your rules accordingly, knowing that you cannot abide by rules for rules sake. Hope to leverage your impatience toward your longer-run advantage.</p><p>2. Study the symbolic systems of art, music, literature. and religion, if only to help yourself better understand alternative points of view in political and intellectual discourse. Don’t just spend time with the creations you like right away. Avoid “devalue and dismiss.”</p><p>3. When the price goes up, buy less. Try to understand what the price really is, however, and good luck with that.</p><p>4. Marry well.</p><p>5. Organize at least some significant portion of your knowledge of the world in terms of place, whether by country, region, or city. If you do that, virtually every person will be interesting to you, if only because almost everyone has some valuable knowledge of particular places.</p><p>6. When shooting the basketball, give it more arc than you think is necessary. Consistently.</p><p>7. Learn how to learn from those who offend you.</p><p>8. Cultivate mentors, and be willing to serve as mentors to others. This never loses its importance.</p><p>9. I don’t know.</p><p>10. Heed Cowen’s Three Laws.</p><p>11. Do not heed Cowen’s Three Laws.</p><p>12. Every now and then read or reread Erasmus, Montaigne, Homer, Shakespeare, or Joyce’s Ulysses, so that you do not take any rules too seriously. The human condition seems to defeat our attempts to order it.</p><p>The post Tyler Cowen’s 12 rules for life appeared first on Marginal REVOLUTION.</p>",
+    "domain": "marginalrevolution.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.932773",
+  "updated_at": "2025-08-06T08:47:03.932774"
+}

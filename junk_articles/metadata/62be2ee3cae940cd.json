@@ -1,0 +1,34 @@
+{
+  "uid": "62be2ee3cae940cd",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/fdf98b01625e2001d98a997ababdf12d/",
+  "title": "What's Your Biggest Joy This Summer?",
+  "status": "converted_from_csv",
+  "date": "2023-07-29T05:05:03",
+  "error": null,
+  "content_path": "output/articles/markdown/62be2ee3cae940cd.md",
+  "html_path": "output/articles/html/62be2ee3cae940cd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 741,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e6481440d4a8ef69f402e580b10e37d3",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1690632303",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-07-29T05:05:03",
+  "updated_at": "2023-07-29T05:05:03"
+}

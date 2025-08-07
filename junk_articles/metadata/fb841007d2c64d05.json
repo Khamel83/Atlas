@@ -1,0 +1,34 @@
+{
+  "uid": "fb841007d2c64d05",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/793647519a63fdea454be31c4f031a56/",
+  "title": "New Data on Pregnancy and Vaccines",
+  "status": "converted_from_csv",
+  "date": "2021-04-29T02:00:49",
+  "error": null,
+  "content_path": "output/articles/markdown/fb841007d2c64d05.md",
+  "html_path": "output/articles/html/fb841007d2c64d05.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2251,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "64bde8b66d32f0f90cc086660273cdbc",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1619686849",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-04-29T02:00:49",
+  "updated_at": "2021-04-29T02:00:49"
+}

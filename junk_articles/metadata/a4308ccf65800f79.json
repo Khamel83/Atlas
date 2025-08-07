@@ -1,0 +1,34 @@
+{
+  "uid": "a4308ccf65800f79",
+  "content_type": "web_bookmark",
+  "source": "http://www.slate.com/articles/news_and_politics/fighting_words/features/2007/god_is_not_great/mormonism_a_racket_becomes_a_religion.html",
+  "title": "Mormonism: A Racket Becomes a Religion - Slate Magazine",
+  "status": "converted_from_csv",
+  "date": "2012-01-02T19:24:55",
+  "error": null,
+  "content_path": "output/articles/markdown/a4308ccf65800f79.md",
+  "html_path": "output/articles/html/a4308ccf65800f79.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5564,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "baa81d9cde8eb86d8605c3983d17808d",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1325561095",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-01-02T19:24:55",
+  "updated_at": "2012-01-02T19:24:55"
+}

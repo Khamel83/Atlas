@@ -1,0 +1,34 @@
+{
+  "uid": "9a6d27ca95e9369c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/b8a0d613b842ab7ca4871057e8065372/",
+  "title": "Loudoun County Freedom of Information Request #1: The Equity Collaborative Documents",
+  "status": "converted_from_csv",
+  "date": "2021-12-17T10:31:24",
+  "error": null,
+  "content_path": "output/articles/markdown/9a6d27ca95e9369c.md",
+  "html_path": "output/articles/html/9a6d27ca95e9369c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1749,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4fdd8d4b5b6ad79fb5ff9bfa05fc533f",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1639765884",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-12-17T10:31:24",
+  "updated_at": "2021-12-17T10:31:24"
+}

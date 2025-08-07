@@ -1,0 +1,40 @@
+{
+  "uid": "f30818a67fb9ec3e",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://food52.com/blog/20447-top-design-trends-state-by-state",
+  "title": "The Top Interior Design Trends, State by State Food52",
+  "status": "selection_content_extracted",
+  "date": "2017-09-06T13:56:32",
+  "error": null,
+  "content_path": "output/articles/markdown/f30818a67fb9ec3e.md",
+  "html_path": "output/articles/html/f30818a67fb9ec3e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3832,
+    "selection_length": 2448,
+    "cleaned_selection_length": 2725,
+    "domain": "food52.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f30818a67fb9ec3e",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1504731392",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Last month, furniture company Joybird decided to determine the most popular interior design trends across America. The company’s methodology involved compiling a list of 15 different design trends, from bohemian to coastal to shabby chic, and then combing through Google Trends data to assess each category's search popularity over the course of the past year.\n\nPhoto by Joybird\n\nThe company’s findings? In terms of popularity, bohemian won out as the most searched overall in the country. It commanded eight states, from Alaska to New Jersey, scattered across regions. Victorian wasn’t too far behind, the most popular in seven states. Traditional decor is hot in Hawaii; Idaho’s fallen for shabby chic. The lone state to pine for coastal design was South Carolina, while modern farmhouse was only popular in Utah.\n\nOf course, Joybird is working off the assumption that search frequency corresponds to actual popularity, so take these findings with a dose of skepticism. Browse the full list below. What most compels me: Rustic wasn’t the most popular design search term in any state, nor was “casual modern,” a category that didn’t even merit a place on the key of the company’s visualization! Poor casual modern. Always a bridesmaid.\n\nAlabama: Bohemian\n\nAlaska: Bohemian\n\nArizona: Traditional\n\nArkansas: Shabby chic\n\nCalifornia: Transitional\n\nColorado: Industrial\n\nConnecticut: Victorian\n\nDelaware: Victorian\n\nFlorida: Contemporary\n\nGeorgia: Bohemian\n\nHawaii: Traditional\n\nIdaho: Shabby chic\n\nIllinois: Contemporary\n\nIndiana: Victorian\n\nIowa: Industrial\n\nKansas: Contemporary\n\nKentucky: Traditional\n\nLouisiana: Shabby chic\n\nMaine: Victorian\n\nMaryland: Contemporary\n\nMassachusetts: Transitional\n\nMichigan: Industrial\n\nMinnesota: Mid-Century Modern\n\nMississippi: Shabby chic\n\nMissouri: Victorian\n\nMontana: Bohemian\n\nNebraska: Victorian\n\nNevada: Victorian\n\nNew Hampshire: Bohemian\n\nNew Jersey: Bohemian\n\nNew Mexico: Art Deco\n\nNew York: Contemporary\n\nNorth Carolina: Contemporary\n\nNorth Dakota: Bohemian\n\nOhio: Industrial\n\nOklahoma: Vintage\n\nOregon: Industrial\n\nPennsylvania: Vintage\n\nRhode Island: Vintage\n\nSouth Carolina: Coastal\n\nSouth Dakota: Western\n\nTennessee: Shabby chic\n\nTexas: Contemporary\n\nUtah: Modern farmhouse\n\nVermont: Vintage\n\nVirginia: Contemporary\n\nWashington: Mid-Century Modern\n\nWest Virginia: Bohemian\n\nWisconsin: Industrial\n\nWyoming: Western\n\nHave thoughts on the most popular design in your state? Let us know in the comments!",
+    "cleaned_selection": "<p>Last month, furniture company Joybird decided to determine the most popular interior design trends across America. The company’s methodology involved compiling a list of 15 different design trends, from bohemian to coastal to shabby chic, and then combing through Google Trends data to assess each category's search popularity over the course of the past year.</p><p>Photo by Joybird</p><p>The company’s findings? In terms of popularity, bohemian won out as the most searched overall in the country. It commanded eight states, from Alaska to New Jersey, scattered across regions. Victorian wasn’t too far behind, the most popular in seven states. Traditional decor is hot in Hawaii; Idaho’s fallen for shabby chic. The lone state to pine for coastal design was South Carolina, while modern farmhouse was only popular in Utah.</p><p>Of course, Joybird is working off the assumption that search frequency corresponds to actual popularity, so take these findings with a dose of skepticism. Browse the full list below. What most compels me: Rustic wasn’t the most popular design search term in any state, nor was “casual modern,” a category that didn’t even merit a place on the key of the company’s visualization! Poor casual modern. Always a bridesmaid.</p><p>Alabama: Bohemian</p><p>Alaska: Bohemian</p><p>Arizona: Traditional</p><p>Arkansas: Shabby chic</p><p>California: Transitional</p><p>Colorado: Industrial</p><p>Connecticut: Victorian</p><p>Delaware: Victorian</p><p>Florida: Contemporary</p><p>Georgia: Bohemian</p><p>Hawaii: Traditional</p><p>Idaho: Shabby chic</p><p>Illinois: Contemporary</p><p>Indiana: Victorian</p><p>Iowa: Industrial</p><p>Kansas: Contemporary</p><p>Kentucky: Traditional</p><p>Louisiana: Shabby chic</p><p>Maine: Victorian</p><p>Maryland: Contemporary</p><p>Massachusetts: Transitional</p><p>Michigan: Industrial</p><p>Minnesota: Mid-Century Modern</p><p>Mississippi: Shabby chic</p><p>Missouri: Victorian</p><p>Montana: Bohemian</p><p>Nebraska: Victorian</p><p>Nevada: Victorian</p><p>New Hampshire: Bohemian</p><p>New Jersey: Bohemian</p><p>New Mexico: Art Deco</p><p>New York: Contemporary</p><p>North Carolina: Contemporary</p><p>North Dakota: Bohemian</p><p>Ohio: Industrial</p><p>Oklahoma: Vintage</p><p>Oregon: Industrial</p><p>Pennsylvania: Vintage</p><p>Rhode Island: Vintage</p><p>South Carolina: Coastal</p><p>South Dakota: Western</p><p>Tennessee: Shabby chic</p><p>Texas: Contemporary</p><p>Utah: Modern farmhouse</p><p>Vermont: Vintage</p><p>Virginia: Contemporary</p><p>Washington: Mid-Century Modern</p><p>West Virginia: Bohemian</p><p>Wisconsin: Industrial</p><p>Wyoming: Western</p><p>Have thoughts on the most popular design in your state? Let us know in the comments!</p>",
+    "domain": "food52.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.043116",
+  "updated_at": "2025-08-06T08:47:04.043117"
+}

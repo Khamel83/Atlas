@@ -1,0 +1,40 @@
+{
+  "uid": "a5d4d2160ef45b7c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://stratechery.com/2016/bitcoin-and-diversity/",
+  "title": "Bitcoin and Diversity Stratechery by Ben Thompson",
+  "status": "selection_content_extracted",
+  "date": "2016-03-08T08:00:25",
+  "error": null,
+  "content_path": "output/articles/markdown/a5d4d2160ef45b7c.md",
+  "html_path": "output/articles/html/a5d4d2160ef45b7c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4549,
+    "selection_length": 226,
+    "cleaned_selection_length": 238,
+    "domain": "stratechery.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a5d4d2160ef45b7c",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1457452825",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "First, an exploration of the block size debate that is roiling the Bitcoin world, and then how lessons from that debate apply to diversity in tech.\n\nThe post Bitcoin and Diversity appeared first on Stratechery by Ben Thompson.",
+    "cleaned_selection": "<p>First, an exploration of the block size debate that is roiling the Bitcoin world, and then how lessons from that debate apply to diversity in tech.</p><p>The post Bitcoin and Diversity appeared first on Stratechery by Ben Thompson.</p>",
+    "domain": "stratechery.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.329577",
+  "updated_at": "2025-08-06T08:47:04.329578"
+}

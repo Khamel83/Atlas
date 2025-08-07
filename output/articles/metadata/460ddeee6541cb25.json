@@ -1,0 +1,40 @@
+{
+  "uid": "460ddeee6541cb25",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1042312/foursquare-founder-dennis-crowley-shares-six-essential-lessons-on-tenacity/",
+  "title": "The founder of one of the most successful startups in America says one personality trait is the key to success Quartz",
+  "status": "success",
+  "date": "2025-08-05T14:01:08.657752",
+  "error": null,
+  "content_path": "output/articles/markdown/460ddeee6541cb25.md",
+  "html_path": "output/articles/html/460ddeee6541cb25.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d41235eb440aad93569d6208f8b95138",
+  "type_specific": {
+    "bookmark_id": 937317490,
+    "instapaper_time": 1501559367,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:01:08.657779",
+  "updated_at": "2025-08-05T14:01:08.657783"
+}

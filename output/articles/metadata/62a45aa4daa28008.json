@@ -1,0 +1,40 @@
+{
+  "uid": "62a45aa4daa28008",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/12/ny-to-london-391-round-trip-on-norwegian/",
+  "title": "Deal Alert New York to London from $391 Round-Trip on Norwegian The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-12-17T15:50:36",
+  "error": null,
+  "content_path": "output/articles/markdown/62a45aa4daa28008.md",
+  "html_path": "output/articles/html/62a45aa4daa28008.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4662,
+    "selection_length": 337,
+    "cleaned_selection_length": 344,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "62a45aa4daa28008",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1450396236",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Airfare deals are typically only available on limited dates. We recommend that you use Google Flights to find dates to fly, then book through an online travel agency, such as Orbitz, which allows you to cancel flights without penalty by 11pm Eastern Time within one day of booking. In this case, however, you’ll need to search through...",
+    "cleaned_selection": "<p>Airfare deals are typically only available on limited dates. We recommend that you use Google Flights to find dates to fly, then book through an online travel agency, such as Orbitz, which allows you to cancel flights without penalty by 11pm Eastern Time within one day of booking. In this case, however, you’ll need to search through...</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.359433",
+  "updated_at": "2025-08-06T08:47:04.359434"
+}

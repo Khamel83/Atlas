@@ -1,0 +1,34 @@
+{
+  "uid": "b62980e73218d962",
+  "content_type": "web_bookmark",
+  "source": "http://www.haaretz.com/misc/article-print-page/obama-will-go-down-in-history-as-the-president-who-lost-egypt-1.340057?trailingPath=2.169%2C2.246%2C2.247%2C",
+  "title": "Haaretz.Com",
+  "status": "converted_from_csv",
+  "date": "2011-01-31T07:41:55",
+  "error": null,
+  "content_path": "output/articles/markdown/b62980e73218d962.md",
+  "html_path": "output/articles/html/b62980e73218d962.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5938,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0529c39ffd70fbcceb25f97798d2f191",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1296488515",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-01-31T07:41:55",
+  "updated_at": "2011-01-31T07:41:55"
+}

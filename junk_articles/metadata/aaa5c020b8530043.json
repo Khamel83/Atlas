@@ -1,0 +1,34 @@
+{
+  "uid": "aaa5c020b8530043",
+  "content_type": "web_bookmark",
+  "source": "https://www.fastcompany.com/40426817/dear-art-school-grads-do-what-you-love-but-never-for-free",
+  "title": "Dear Art School Grads, Do What You Love—But Never For Free",
+  "status": "converted_from_csv",
+  "date": "2017-06-05T11:25:36",
+  "error": null,
+  "content_path": "output/articles/markdown/aaa5c020b8530043.md",
+  "html_path": "output/articles/html/aaa5c020b8530043.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3940,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3c99327210ebf73de4337874e5ea7ae8",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1496687136",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-06-05T11:25:36",
+  "updated_at": "2017-06-05T11:25:36"
+}

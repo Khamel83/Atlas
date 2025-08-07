@@ -1,0 +1,34 @@
+{
+  "uid": "8e8d4a1416d241c3",
+  "content_type": "web_bookmark",
+  "source": "http://www.theatlantic.com/technology/archive/2015/11/why-dont-we-know-where-all-the-trains-are/415152/",
+  "title": "Why New York Subway Lines Are Missing Countdown Clocks",
+  "status": "converted_from_csv",
+  "date": "2015-11-23T13:33:31",
+  "error": null,
+  "content_path": "output/articles/markdown/8e8d4a1416d241c3.md",
+  "html_path": "output/articles/html/8e8d4a1416d241c3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4680,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c484f23e8ab10f742422345bdb6ac50b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1448314411",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-11-23T13:33:31",
+  "updated_at": "2015-11-23T13:33:31"
+}

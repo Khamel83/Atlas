@@ -1,0 +1,34 @@
+{
+  "uid": "f6e0c2fbe88c273f",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/4f05bff03c1d95f811170f2081d525fd/",
+  "title": "New Developmental Milestones from the CDC",
+  "status": "converted_from_csv",
+  "date": "2022-02-21T02:29:21",
+  "error": null,
+  "content_path": "output/articles/markdown/f6e0c2fbe88c273f.md",
+  "html_path": "output/articles/html/f6e0c2fbe88c273f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1608,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6a8f924e3c64e4832eabd0dff08ff688",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1645439361",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-02-21T02:29:21",
+  "updated_at": "2022-02-21T02:29:21"
+}

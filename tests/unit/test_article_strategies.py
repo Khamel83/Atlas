@@ -123,6 +123,77 @@ class TestContentAnalyzer:
         assert analyzer.extract_title_from_html(html) == "Untitled"
 
 
+@pytest.fixture
+def mock_requests():
+    with patch("requests.get") as mock_get, patch("requests.post") as mock_post, patch(
+        "requests.head"
+    ) as mock_head, patch("requests.put") as mock_put, patch(
+        "requests.delete"
+    ) as mock_delete:
+        mock_response = Mock()
+        mock_response.raise_for_status.return_value = None
+        mock_response.headers = MagicMock(spec=dict)
+        mock_response.headers.keys.return_value = []
+        mock_get.return_value = mock_response
+        mock_post.return_value = mock_response
+        mock_head.return_value = mock_response
+        mock_put.return_value = mock_response
+        mock_delete.return_value = mock_response
+        yield {
+            "get": mock_get,
+            "post": mock_post,
+            "head": mock_head,
+            "put": mock_put,
+            "delete": mock_delete,
+            "response": mock_response,
+        }
+
+
+@pytest.fixture
+def mock_playwright():
+    with patch("helpers.article_strategies.sync_playwright") as mock_sync_playwright:
+        mock_playwright_instance = MagicMock()
+        mock_browser = MagicMock()
+        mock_context = MagicMock()
+        mock_page = MagicMock()
+
+        mock_sync_playwright.return_value.__enter__.return_value = (
+            mock_playwright_instance
+        )
+        mock_playwright_instance.chromium.launch.return_value = mock_browser
+        mock_browser.new_context.return_value = mock_context
+        mock_context.new_page.return_value = mock_page
+
+        yield {
+            "playwright": mock_sync_playwright,
+            "browser": mock_browser,
+            "context": mock_context,
+            "page": mock_page,
+        }
+
+
+@pytest.fixture
+def sample_article_html():
+    return """
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test Article Title</title>
+        <meta name="author" content="Test Author">
+        <meta name="description" content="Test Description">
+        <meta property="article:published_time" content="2023-01-01T12:00:00Z">
+    </head>
+    <body>
+        <article>
+            <h1>Test Article Title</h1>
+            <p>This is the content of the test article.</p>
+            <p>It has multiple paragraphs for testing.</p>
+        </article>
+    </body>
+    </html>
+    """
+
+
 class TestDirectFetchStrategy:
     """Test the DirectFetchStrategy class."""
 

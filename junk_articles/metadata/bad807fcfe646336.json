@@ -1,0 +1,34 @@
+{
+  "uid": "bad807fcfe646336",
+  "content_type": "web_bookmark",
+  "source": "http://www.foreignpolicy.com/articles/2011/02/10/10_reasons_americans_should_care_about_the_egyptian_revolution?print=yes&hidecomments=yes&page=full",
+  "title": "10 Reasons Americans Should Care About the Egyptian Revolution - By Stephen M. Walt | Foreign Policy",
+  "status": "converted_from_csv",
+  "date": "2011-02-16T07:19:50",
+  "error": null,
+  "content_path": "output/articles/markdown/bad807fcfe646336.md",
+  "html_path": "output/articles/html/bad807fcfe646336.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5903,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d14251dbb89115a3adee21d2e9d3b0c7",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1297869590",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-02-16T07:19:50",
+  "updated_at": "2011-02-16T07:19:50"
+}

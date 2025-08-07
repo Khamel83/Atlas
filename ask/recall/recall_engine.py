@@ -134,7 +134,7 @@ class RecallEngine:
         """
         Mark a content item as reviewed with enhanced feedback tracking.
         """
-        from datetime import datetime
+        from datetime import datetime, timedelta
 
         if (
             not hasattr(content_metadata, "type_specific")

@@ -1,0 +1,40 @@
+{
+  "uid": "311355303d485db3",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1102505/the-businesses-amazon-is-most-likely-to-struggle-to-take-over/",
+  "title": "These are the businesses still immune to Amazon Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:57:41.523443",
+  "error": null,
+  "content_path": "output/articles/markdown/311355303d485db3.md",
+  "html_path": "output/articles/html/311355303d485db3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1e12913c2d47ed0cea11e83bde657b1c",
+  "type_specific": {
+    "bookmark_id": 968076377,
+    "instapaper_time": 1508092587,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:57:41.523643",
+  "updated_at": "2025-08-05T13:57:41.523647"
+}

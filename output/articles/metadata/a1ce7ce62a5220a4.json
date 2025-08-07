@@ -1,0 +1,28 @@
+{
+  "uid": "a1ce7ce62a5220a4",
+  "content_type": "instapaper_starred_additional_content",
+  "source": "https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html",
+  "title": "Layoffs and Unemployment Grow Among College Graduates",
+  "status": "success",
+  "date": "2025-08-06T13:40:59.406886",
+  "error": null,
+  "content_path": "output/articles/markdown/a1ce7ce62a5220a4.md",
+  "html_path": "output/articles/html/a1ce7ce62a5220a4.html",
+  "fetch_method": "instapaper_api_starred_folder_maximization",
+  "fetch_details": {
+    "bookmark_id": 1763535985,
+    "content_length": 3389,
+    "successful": true,
+    "extraction_batch": "maximization_discovery",
+    "folder": "starred"
+  },
+  "type_specific": {
+    "bookmark_id": 1763535985,
+    "instapaper_time": 1743056107,
+    "folder": "starred",
+    "content_length": 3389,
+    "discovery_method": "folder_deep_dive"
+  },
+  "created_at": "2025-08-06T13:40:59.406895",
+  "updated_at": "2025-08-06T13:40:59.406896"
+}

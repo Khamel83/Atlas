@@ -1,0 +1,32 @@
+{
+  "uid": "39544c12e4ccd1d6",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1745941285",
+  "title": "AI's Uneven Arrival (Stratechery Article 1-13-2025)",
+  "status": "error",
+  "date": "2025-08-05T12:40:21.945877",
+  "error": "Failed to fetch content for 'AI's Uneven Arrival (Stratechery Article 1-13-2025)' from instapaper://private-content/1745941285: No connection adapters were found for 'instapaper://private-content/1745941285'",
+  "content_path": null,
+  "html_path": null,
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": null,
+  "type_specific": {
+    "bookmark_id": 1745941285
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:40:21.945882",
+  "updated_at": "2025-08-05T12:40:21.957395"
+}

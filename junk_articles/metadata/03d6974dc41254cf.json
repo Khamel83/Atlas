@@ -1,0 +1,34 @@
+{
+  "uid": "03d6974dc41254cf",
+  "content_type": "web_bookmark",
+  "source": "http://www.foreignaffairs.com/print/66771",
+  "title": "The Demographic Future",
+  "status": "converted_from_csv",
+  "date": "2010-12-30T00:16:05",
+  "error": null,
+  "content_path": "output/articles/markdown/03d6974dc41254cf.md",
+  "html_path": "output/articles/html/03d6974dc41254cf.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6016,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bb641d749ed92d171afa89c038345a48",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1293696965",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-12-30T00:16:05",
+  "updated_at": "2010-12-30T00:16:05"
+}

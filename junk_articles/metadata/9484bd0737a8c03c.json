@@ -1,0 +1,34 @@
+{
+  "uid": "9484bd0737a8c03c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/21d38480aee44398b1a458ddfb21572e/",
+  "title": "Give a ParentData Gift Subscription",
+  "status": "converted_from_csv",
+  "date": "2021-12-07T05:04:58",
+  "error": null,
+  "content_path": "output/articles/markdown/9484bd0737a8c03c.md",
+  "html_path": "output/articles/html/9484bd0737a8c03c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1777,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ae9207b8e735c3660bd67a398a8da559",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1638882298",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-12-07T05:04:58",
+  "updated_at": "2021-12-07T05:04:58"
+}

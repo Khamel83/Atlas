@@ -1,0 +1,34 @@
+{
+  "uid": "dc8d89b304d3fd0a",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/e69143b475f5117d5d89da25739bb766/",
+  "title": "💥A Rare SPAC-lash💥",
+  "status": "converted_from_csv",
+  "date": "2020-12-16T05:01:45",
+  "error": null,
+  "content_path": "output/articles/markdown/dc8d89b304d3fd0a.md",
+  "html_path": "output/articles/html/dc8d89b304d3fd0a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2564,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c45bc727b930e828c8386bee7717bb38",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1608123705",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-12-16T05:01:45",
+  "updated_at": "2020-12-16T05:01:45"
+}

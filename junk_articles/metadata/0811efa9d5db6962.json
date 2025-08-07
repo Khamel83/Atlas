@@ -1,0 +1,34 @@
+{
+  "uid": "0811efa9d5db6962",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/924469e05b6065c9e541750a1d85ef69/",
+  "title": "Patreon Acquires Memberful, An Interview with Patreon CEO Jack Conte and Memberful CEO Drew Strojny (Stratechery Daily Update 8-9-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-08-08T09:16:48",
+  "error": null,
+  "content_path": "output/articles/markdown/0811efa9d5db6962.md",
+  "html_path": "output/articles/html/0811efa9d5db6962.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3427,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6c0cb717fc3304e321abf1bfdd331228",
+  "type_specific": {
+    "folder": "Stratechery",
+    "instapaper_timestamp": "1533745008",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-08-08T09:16:48",
+  "updated_at": "2018-08-08T09:16:48"
+}

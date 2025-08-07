@@ -1,0 +1,40 @@
+{
+  "uid": "a58189efa61dae79",
+  "content_type": "instapaper",
+  "source": "https://www.theverge.com/2020/6/30/21307285/niantic-punchdrunk-ar-immersive-theater-sleep-no-more-pokemon-go",
+  "title": "Niantic partners with Sleep No More creator to build immersive AR theater experiences The Verge",
+  "status": "success",
+  "date": "2025-08-05T13:41:01.105453",
+  "error": null,
+  "content_path": "output/articles/markdown/a58189efa61dae79.md",
+  "html_path": "output/articles/html/a58189efa61dae79.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8b0ecde2f07065fed5c5d4c62d0b58ed",
+  "type_specific": {
+    "bookmark_id": 1319836598,
+    "instapaper_time": 1593573226,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:41:01.105506",
+  "updated_at": "2025-08-05T13:41:01.105508"
+}

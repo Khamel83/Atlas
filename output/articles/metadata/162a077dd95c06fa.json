@@ -1,0 +1,40 @@
+{
+  "uid": "162a077dd95c06fa",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://ritholtz.com/2016/01/sunday-reads-35/",
+  "title": "10 Sunday Reads The Big Picture",
+  "status": "selection_content_extracted",
+  "date": "2016-01-17T13:57:36",
+  "error": null,
+  "content_path": "output/articles/markdown/162a077dd95c06fa.md",
+  "html_path": "output/articles/html/162a077dd95c06fa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4627,
+    "selection_length": 396,
+    "cleaned_selection_length": 413,
+    "domain": "ritholtz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "162a077dd95c06fa",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1453067856",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "My easy like Sunday morning reads: • Why This Market Meltdown Isn’t a Repeat of 2008 (WSJ) see also A bear market in stocks will be over before you know it (MarketWatch) • The Growing Influence of Impact Investing (ThinkAdvisor) • The Feds Are Finally Going After Wall Street’s Bad Actors in a Serious Way. It’s Not Enough.…\n\nRead More\n\nThe post 10 Sunday Reads appeared first on The Big Picture.",
+    "cleaned_selection": "<p>My easy like Sunday morning reads: • Why This Market Meltdown Isn’t a Repeat of 2008 (WSJ) see also A bear market in stocks will be over before you know it (MarketWatch) • The Growing Influence of Impact Investing (ThinkAdvisor) • The Feds Are Finally Going After Wall Street’s Bad Actors in a Serious Way. It’s Not Enough.…</p><p>Read More</p><p>The post 10 Sunday Reads appeared first on The Big Picture.</p>",
+    "domain": "ritholtz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.348826",
+  "updated_at": "2025-08-06T08:47:04.348828"
+}

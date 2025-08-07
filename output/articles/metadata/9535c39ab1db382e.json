@@ -1,0 +1,40 @@
+{
+  "uid": "9535c39ab1db382e",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://kottke.org/17/05/roses-are-red-violets-are-insane",
+  "title": "Roses are red, violets are insane… kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2017-05-03T11:47:17",
+  "error": null,
+  "content_path": "output/articles/markdown/9535c39ab1db382e.md",
+  "html_path": "output/articles/html/9535c39ab1db382e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3988,
+    "selection_length": 252,
+    "cleaned_selection_length": 267,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9535c39ab1db382e",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1493837237",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "…this optical illusion broke my brain. And then for a second, I was like, I got it. Then my brain broke again. Repeat for several minutes. (via bb)\n\nUpdate: This illusion was made by Charlie Deck. (via @tdhooper)\n\nTags: Charlie Deck   optical illusions",
+    "cleaned_selection": "<p>…this optical illusion broke my brain. And then for a second, I was like, I got it. Then my brain broke again. Repeat for several minutes. (via bb)</p><p>Update: This illusion was made by Charlie Deck. (via @tdhooper)</p><p>Tags: Charlie Deck optical illusions</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.118725",
+  "updated_at": "2025-08-06T08:47:04.118727"
+}

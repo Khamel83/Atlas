@@ -1,0 +1,40 @@
+{
+  "uid": "642aefd394e4b99a",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://awealthofcommonsense.com/2016/04/what-do-share-buybacks-really-tell-us-about-the-stock-market/",
+  "title": "What Do Share Buybacks Really Tell Us About the Stock Market A Wealth of Common Sense",
+  "status": "selection_content_extracted",
+  "date": "2016-04-05T16:40:56",
+  "error": null,
+  "content_path": "output/articles/markdown/642aefd394e4b99a.md",
+  "html_path": "output/articles/html/642aefd394e4b99a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4494,
+    "selection_length": 358,
+    "cleaned_selection_length": 365,
+    "domain": "awealthofcommonsense.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "642aefd394e4b99a",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1459899656",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Investors are worried about stock buybacks. The following comes from a recent Bloomberg piece: Chief executive officers, who just announced the biggest round of monthly repurchases ever, executed about $550 billion of buybacks last year, according to data compiled by S&P Dow Jones Indices. That compares with a net $85 billion of deposits by customers......",
+    "cleaned_selection": "<p>Investors are worried about stock buybacks. The following comes from a recent Bloomberg piece: Chief executive officers, who just announced the biggest round of monthly repurchases ever, executed about $550 billion of buybacks last year, according to data compiled by S&P Dow Jones Indices. That compares with a net $85 billion of deposits by customers......</p>",
+    "domain": "awealthofcommonsense.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.324778",
+  "updated_at": "2025-08-06T08:47:04.324780"
+}

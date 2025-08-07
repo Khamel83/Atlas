@@ -1,0 +1,34 @@
+{
+  "uid": "90bde1a1209d9a5b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/77083671212125d244dfa492aed6e093/",
+  "title": "Margins takes on Web3",
+  "status": "converted_from_csv",
+  "date": "2022-01-10T08:35:55",
+  "error": null,
+  "content_path": "output/articles/markdown/90bde1a1209d9a5b.md",
+  "html_path": "output/articles/html/90bde1a1209d9a5b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1700,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ca2dcfa2970a21f32eb500cd0b55bad5",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1641832555",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-01-10T08:35:55",
+  "updated_at": "2022-01-10T08:35:55"
+}

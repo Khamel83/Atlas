@@ -1,0 +1,34 @@
+{
+  "uid": "ccd05cec7ae8fe17",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2010/11/21/magazine/21FOB-onlanguage-t.html?partner=rss&emc=rss&pagewanted=print",
+  "title": "On Language - 'Resonate' - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2010-11-19T23:33:32",
+  "error": null,
+  "content_path": "output/articles/markdown/ccd05cec7ae8fe17.md",
+  "html_path": "output/articles/html/ccd05cec7ae8fe17.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6089,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "db47f65c7f37c1ca73aa1df3a4f51f56",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1290238412",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-11-19T23:33:32",
+  "updated_at": "2010-11-19T23:33:32"
+}

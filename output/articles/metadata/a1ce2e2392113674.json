@@ -1,0 +1,42 @@
+{
+  "uid": "a1ce2e2392113674",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1655993430",
+  "title": "Listen to This Article: The War Party Tantrum",
+  "status": "success",
+  "date": "2025-08-05T13:38:42.798681",
+  "error": null,
+  "content_path": "output/articles/markdown/a1ce2e2392113674.md",
+  "html_path": "output/articles/html/a1ce2e2392113674.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7b857b41b5b893c02f1fbf9bb40f8e15",
+  "type_specific": {
+    "bookmark_id": 1655993430,
+    "instapaper_time": 1704377597,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:38:42.798696",
+  "updated_at": "2025-08-05T13:38:42.798697"
+}

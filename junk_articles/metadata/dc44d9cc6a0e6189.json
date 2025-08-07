@@ -1,0 +1,34 @@
+{
+  "uid": "dc44d9cc6a0e6189",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/af99af5f02fb8818085395adc5c90e2d/",
+  "title": "Interview with Dennis Kucinich on his new book, \"The Division of Light and Power\"",
+  "status": "converted_from_csv",
+  "date": "2021-06-01T11:41:16",
+  "error": null,
+  "content_path": "output/articles/markdown/dc44d9cc6a0e6189.md",
+  "html_path": "output/articles/html/dc44d9cc6a0e6189.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2185,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "37e26334fbc60c0cf988f192dbdb3779",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1622572876",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-06-01T11:41:16",
+  "updated_at": "2021-06-01T11:41:16"
+}

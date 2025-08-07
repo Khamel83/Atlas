@@ -1,0 +1,34 @@
+{
+  "uid": "89b0375bbd66b460",
+  "content_type": "web_bookmark",
+  "source": "http://kottke.org/15/08/how-to-spend-time-alone-in-nyc",
+  "title": "How to spend time alone in NYC kottke.org",
+  "status": "converted_from_csv",
+  "date": "2015-08-05T14:50:53",
+  "error": null,
+  "content_path": "output/articles/markdown/89b0375bbd66b460.md",
+  "html_path": "output/articles/html/89b0375bbd66b460.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4788,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d73cfe90776655c31080c3cb6b4dd6c9",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1438811453",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-08-05T14:50:53",
+  "updated_at": "2015-08-05T14:50:53"
+}

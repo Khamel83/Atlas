@@ -1,0 +1,34 @@
+{
+  "uid": "b3fc5590a75994d1",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/8ff8510a0dee3fe49a84474d92e9fbf9/",
+  "title": "Vertical Integrators: Part IV",
+  "status": "converted_from_csv",
+  "date": "2024-09-17T05:55:52",
+  "error": null,
+  "content_path": "output/articles/markdown/b3fc5590a75994d1.md",
+  "html_path": "output/articles/html/b3fc5590a75994d1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 190,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a9edcbe7d574696a221f34d49772aa98",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1726577752",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-09-17T05:55:52",
+  "updated_at": "2024-09-17T05:55:52"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "c3228e7047d16ba5",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/3918f702997eec5e40c3d02bc96895b1/",
+  "title": "Spotify and the Labels, Labels and Aggregation, Newspapers and Texture (Stratechery Daily Update 9-10-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-09-10T05:02:04",
+  "error": null,
+  "content_path": "output/articles/markdown/c3228e7047d16ba5.md",
+  "html_path": "output/articles/html/c3228e7047d16ba5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3400,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bce244530b1df29bde33c972fae83736",
+  "type_specific": {
+    "folder": "Stratechery",
+    "instapaper_timestamp": "1536580924",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-09-10T05:02:04",
+  "updated_at": "2018-09-10T05:02:04"
+}

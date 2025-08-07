@@ -1,0 +1,34 @@
+{
+  "uid": "d63e30a241c75706",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/3c2256555e6d71afcc8f518d7838116a/",
+  "title": "😎BK Pros Weigh In.😎",
+  "status": "converted_from_csv",
+  "date": "2022-12-21T05:03:51",
+  "error": null,
+  "content_path": "output/articles/markdown/d63e30a241c75706.md",
+  "html_path": "output/articles/html/d63e30a241c75706.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1078,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "49c7310168ce1bb6899056407764f78c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1671627831",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-12-21T05:03:51",
+  "updated_at": "2022-12-21T05:03:51"
+}

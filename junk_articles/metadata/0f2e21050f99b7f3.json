@@ -1,0 +1,34 @@
+{
+  "uid": "0f2e21050f99b7f3",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/cb5f03b9cba71ace01ed61829e5e9730/",
+  "title": "Telling the Truth About Marriage with Young Kids",
+  "status": "converted_from_csv",
+  "date": "2023-03-06T05:01:41",
+  "error": null,
+  "content_path": "output/articles/markdown/0f2e21050f99b7f3.md",
+  "html_path": "output/articles/html/0f2e21050f99b7f3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 979,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "90d81f918aed48e75c0aeeaf2a74f448",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1678107701",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-03-06T05:01:41",
+  "updated_at": "2023-03-06T05:01:41"
+}

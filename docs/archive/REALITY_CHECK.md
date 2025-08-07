@@ -74,7 +74,7 @@
 The cognitive amplification features that make Atlas valuable are completely unimplemented:
 
 - **ask/proactive/** - Proactive intelligence engine
-- **ask/temporal/** - Temporal intelligence system  
+- **ask/temporal/** - Temporal intelligence system
 - **ask/socratic/** - Socratic method engine
 - **ask/recall/** - Active recall integration
 - **ask/insights/** - Insight generation engine
@@ -136,4 +136,4 @@ The cognitive amplification features that make Atlas valuable are completely uni
 
 **The goal isn't to build a perfect content management system. It's to build a system that makes humans think better over time.**
 
-This reality check ensures we're honest about progress and focused on what actually matters: cognitive amplification, not just content storage. 
+This reality check ensures we're honest about progress and focused on what actually matters: cognitive amplification, not just content storage.

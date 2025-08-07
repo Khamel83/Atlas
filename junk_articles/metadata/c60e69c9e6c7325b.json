@@ -1,0 +1,34 @@
+{
+  "uid": "c60e69c9e6c7325b",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2010/09/11/your-money/11money.html?ref=homepage&src=me&pagewanted=print",
+  "title": "Your Money - Testing Software to Write Wills on the Home Computer - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2010-09-12T15:50:35",
+  "error": null,
+  "content_path": "output/articles/markdown/c60e69c9e6c7325b.md",
+  "html_path": "output/articles/html/c60e69c9e6c7325b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6169,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1292ecd10cc4752a1deb56c1a7ddea04",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1284331835",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-09-12T15:50:35",
+  "updated_at": "2010-09-12T15:50:35"
+}

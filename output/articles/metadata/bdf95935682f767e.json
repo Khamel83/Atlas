@@ -1,0 +1,40 @@
+{
+  "uid": "bdf95935682f767e",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1080044/bis-says-central-bank-cryptocurrencies-could-be-a-good-idea/",
+  "title": "The best explainer on how blockchains will upend banking comes from an unexpected source Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:59:28.513913",
+  "error": null,
+  "content_path": "output/articles/markdown/bdf95935682f767e.md",
+  "html_path": "output/articles/html/bdf95935682f767e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "895ad5431c6d5245cfd44d5cd4d29357",
+  "type_specific": {
+    "bookmark_id": 956707831,
+    "instapaper_time": 1505767054,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:59:28.514469",
+  "updated_at": "2025-08-05T13:59:28.514477"
+}

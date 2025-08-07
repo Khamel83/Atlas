@@ -1,0 +1,34 @@
+{
+  "uid": "2e1999e2c024d674",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/295299b1597870540698d4b35a2bb17f/",
+  "title": "Q&A: Puddle Jumpers, Underpants, Womb Optimizations, and More",
+  "status": "converted_from_csv",
+  "date": "2022-07-29T06:33:10",
+  "error": null,
+  "content_path": "output/articles/markdown/2e1999e2c024d674.md",
+  "html_path": "output/articles/html/2e1999e2c024d674.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1304,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "14d4fadd127a37b05a2ae18b0cdfd4d1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1659101590",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-07-29T06:33:10",
+  "updated_at": "2022-07-29T06:33:10"
+}

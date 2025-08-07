@@ -1,0 +1,34 @@
+{
+  "uid": "347c6a3b11de8fea",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/ff984c6a26c9b6bd04024390e7c19f12/",
+  "title": "Wins, Woes, and Body Love",
+  "status": "converted_from_csv",
+  "date": "2023-01-31T09:25:46",
+  "error": null,
+  "content_path": "output/articles/markdown/347c6a3b11de8fea.md",
+  "html_path": "output/articles/html/347c6a3b11de8fea.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1028,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "873aa033ce2104e68e177e44641c2b5c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1675185946",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-01-31T09:25:46",
+  "updated_at": "2023-01-31T09:25:46"
+}

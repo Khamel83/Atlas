@@ -1,0 +1,40 @@
+{
+  "uid": "7f65091919e596fb",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://millionmilesecrets.com/2014/10/21/get-another-year-of-las-vegas-vip-line-night-club-access-buffet-line-passes-more/",
+  "title": "Get Another Year of Las Vegas VIP Line Night Club Access, Buffet Line Passes & More Million Mile Secrets",
+  "status": "selection_content_extracted",
+  "date": "2014-10-21T05:18:24",
+  "error": null,
+  "content_path": "output/articles/markdown/7f65091919e596fb.md",
+  "html_path": "output/articles/html/7f65091919e596fb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5084,
+    "selection_length": 431,
+    "cleaned_selection_length": 448,
+    "domain": "millionmilesecrets.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7f65091919e596fb",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1413893904",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "If you have Hyatt elite status, you may have been enjoying the perks of elite status at MGM hotels in Las Vegas.  But the year’s almost up and it’s time to renew your M life (MGM Resorts’ loyalty program) elite … Continue reading →\n\n       \n\nRelated Stories\n\nFly Virgin Atlantic to UK, Stay at Hilton With Ink Plus 70,000 Point Bonus\n\nCan You Get More Than 1 Chase Ink Plus Card?\n\nUp to 15 Hyatt Nights With Chase Ink Sign-Up Bonus",
+    "cleaned_selection": "<p>If you have Hyatt elite status, you may have been enjoying the perks of elite status at MGM hotels in Las Vegas. But the year’s almost up and it’s time to renew your M life (MGM Resorts’ loyalty program) elite … Continue reading →</p><p>Related Stories</p><p>Fly Virgin Atlantic to UK, Stay at Hilton With Ink Plus 70,000 Point Bonus</p><p>Can You Get More Than 1 Chase Ink Plus Card?</p><p>Up to 15 Hyatt Nights With Chase Ink Sign-Up Bonus</p>",
+    "domain": "millionmilesecrets.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.471106",
+  "updated_at": "2025-08-06T08:47:04.471107"
+}

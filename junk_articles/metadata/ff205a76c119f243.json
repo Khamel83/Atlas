@@ -1,0 +1,34 @@
+{
+  "uid": "ff205a76c119f243",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/430d918bdf4024baacaf290e7b96756d/",
+  "title": "How a single engineer brought down Twitter on Monday",
+  "status": "converted_from_csv",
+  "date": "2023-03-06T13:02:09",
+  "error": null,
+  "content_path": "output/articles/markdown/ff205a76c119f243.md",
+  "html_path": "output/articles/html/ff205a76c119f243.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 976,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "56efec062ccda0b585e5444b05630752",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1678136529",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-03-06T13:02:09",
+  "updated_at": "2023-03-06T13:02:09"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "04890fddd655b77c",
+  "content_type": "web_bookmark",
+  "source": "http://blog.stephenwolfram.com/2018/11/logic-explainability-and-the-future-of-understanding/",
+  "title": "Logic, Explainability and the Future of Understanding—Stephen Wolfram Blog",
+  "status": "converted_from_csv",
+  "date": "2018-11-06T23:26:11",
+  "error": null,
+  "content_path": "output/articles/markdown/04890fddd655b77c.md",
+  "html_path": "output/articles/html/04890fddd655b77c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3349,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4a79c2119776c546db5bc5c33db5d73a",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1541575571",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-11-06T23:26:11",
+  "updated_at": "2018-11-06T23:26:11"
+}

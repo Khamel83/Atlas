@@ -1,0 +1,40 @@
+{
+  "uid": "3282bc90d52b5fd7",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.artofmanliness.com/2015/10/08/complete-guide-to-being-a-groom/",
+  "title": "The Complete Guide to Being a Groom The Art of Manliness",
+  "status": "selection_content_extracted",
+  "date": "2015-10-08T14:46:00",
+  "error": null,
+  "content_path": "output/articles/markdown/3282bc90d52b5fd7.md",
+  "html_path": "output/articles/html/3282bc90d52b5fd7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4732,
+    "selection_length": 328,
+    "cleaned_selection_length": 335,
+    "domain": "artofmanliness.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3282bc90d52b5fd7",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1444340760",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Relatively speaking, grooms have it easy. It’s not our family that is traditionally responsible for budgeting or planning the wedding. And it’s the bride who’s usually much more interested and invested in how the whole shindig turns out. As the old cliché has it, the groom’s only responsibility is to show up on time. While […]",
+    "cleaned_selection": "<p>Relatively speaking, grooms have it easy. It’s not our family that is traditionally responsible for budgeting or planning the wedding. And it’s the bride who’s usually much more interested and invested in how the whole shindig turns out. As the old cliché has it, the groom’s only responsibility is to show up on time. While […]</p>",
+    "domain": "artofmanliness.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.373179",
+  "updated_at": "2025-08-06T08:47:04.373180"
+}

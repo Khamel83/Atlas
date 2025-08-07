@@ -1,0 +1,34 @@
+{
+  "uid": "c551ef771187cae2",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/4f16667b296952fbc4014df5123d4f1e/",
+  "title": "Follow Ups and Microplastics",
+  "status": "converted_from_csv",
+  "date": "2020-10-23T02:16:08",
+  "error": null,
+  "content_path": "output/articles/markdown/c551ef771187cae2.md",
+  "html_path": "output/articles/html/c551ef771187cae2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2700,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4a5bd95ed17c2d20cf6fc1de2f5dc23c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1603444568",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-10-23T02:16:08",
+  "updated_at": "2020-10-23T02:16:08"
+}

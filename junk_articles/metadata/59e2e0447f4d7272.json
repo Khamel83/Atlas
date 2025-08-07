@@ -1,0 +1,34 @@
+{
+  "uid": "59e2e0447f4d7272",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/",
+  "title": "How the Pandemic Will End",
+  "status": "converted_from_csv",
+  "date": "2020-03-26T12:46:57",
+  "error": null,
+  "content_path": "output/articles/markdown/59e2e0447f4d7272.md",
+  "html_path": "output/articles/html/59e2e0447f4d7272.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2855,
+    "selection": "https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7bb903a9c80f543dfbc223a23ceafd43",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1585252017",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/"
+  },
+  "video_id": null,
+  "created_at": "2020-03-26T12:46:57",
+  "updated_at": "2020-03-26T12:46:57"
+}

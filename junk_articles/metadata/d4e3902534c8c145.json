@@ -1,0 +1,34 @@
+{
+  "uid": "d4e3902534c8c145",
+  "content_type": "web_bookmark",
+  "source": "http://www.theawl.com/2014/11/serial-and-white-reporter-privilege",
+  "title": "'Serial' and White Reporter Privilege",
+  "status": "converted_from_csv",
+  "date": "2014-11-19T05:47:15",
+  "error": null,
+  "content_path": "output/articles/markdown/d4e3902534c8c145.md",
+  "html_path": "output/articles/html/d4e3902534c8c145.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5047,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0ebdd8c01eb41ee7125c5cb1cb4d7964",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1416404835",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-11-19T05:47:15",
+  "updated_at": "2014-11-19T05:47:15"
+}

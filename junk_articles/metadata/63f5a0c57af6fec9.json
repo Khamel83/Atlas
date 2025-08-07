@@ -1,0 +1,34 @@
+{
+  "uid": "63f5a0c57af6fec9",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/996bbebbb377201c9d52faf2773399ef/",
+  "title": "💥Another Failed Liability Management Exercise💥",
+  "status": "converted_from_csv",
+  "date": "2023-02-02T05:05:40",
+  "error": null,
+  "content_path": "output/articles/markdown/63f5a0c57af6fec9.md",
+  "html_path": "output/articles/html/63f5a0c57af6fec9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1026,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "93b8e5cb8c11213f3488870a7c433e58",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1675343140",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-02-02T05:05:40",
+  "updated_at": "2023-02-02T05:05:40"
+}

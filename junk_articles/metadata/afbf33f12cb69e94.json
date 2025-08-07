@@ -1,0 +1,34 @@
+{
+  "uid": "afbf33f12cb69e94",
+  "content_type": "web_bookmark",
+  "source": "http://thebaffler.com/salvos/there-goes-the-neighborhood",
+  "title": "There Goes the Neighborhood - The Baffler",
+  "status": "converted_from_csv",
+  "date": "2015-10-18T12:23:09",
+  "error": null,
+  "content_path": "output/articles/markdown/afbf33f12cb69e94.md",
+  "html_path": "output/articles/html/afbf33f12cb69e94.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4725,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "dedd55cc434d453ca1835248142eef3b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1445196189",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-10-18T12:23:09",
+  "updated_at": "2015-10-18T12:23:09"
+}

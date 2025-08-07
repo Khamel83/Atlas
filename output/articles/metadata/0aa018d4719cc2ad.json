@@ -1,0 +1,40 @@
+{
+  "uid": "0aa018d4719cc2ad",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://therumpus.net/2011/04/dear-sugar-the-rumpus-advice-column-71-the-ghost-ship-that-didnt-carry-us/",
+  "title": "Dear Sugar: The Ghost Ship That Didn't Carry Us [via Longreads]",
+  "status": "selection_content_extracted",
+  "date": "2011-07-25T19:35:01",
+  "error": null,
+  "content_path": "output/articles/markdown/0aa018d4719cc2ad.md",
+  "html_path": "output/articles/html/0aa018d4719cc2ad.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5692,
+    "selection_length": 447,
+    "cleaned_selection_length": 454,
+    "domain": "therumpus.net",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0aa018d4719cc2ad",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1311647701",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "What don’t you know? Make a list. Write down everything you don’t know about your future life—which is everything, of course—but use your imagination. What are the thoughts and images that come to mind when you picture yourself at twice the age you are now? What springs forth if you imagine the 82 year-old self who opted to “keep enjoying the same life” and what when you picture the 82 year-old self with a thirty-nine year old son or daughter?",
+    "cleaned_selection": "<p>What don’t you know? Make a list. Write down everything you don’t know about your future life—which is everything, of course—but use your imagination. What are the thoughts and images that come to mind when you picture yourself at twice the age you are now? What springs forth if you imagine the 82 year-old self who opted to “keep enjoying the same life” and what when you picture the 82 year-old self with a thirty-nine year old son or daughter?</p>",
+    "domain": "therumpus.net",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.533796",
+  "updated_at": "2025-08-06T08:47:04.533801"
+}

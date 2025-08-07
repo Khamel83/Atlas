@@ -1,0 +1,34 @@
+{
+  "uid": "6acb8f1542323560",
+  "content_type": "web_bookmark",
+  "source": "https://www.elle.com/life-love/opinions-features/a39788285/pandemic-hibernation-concussion-year-of-sleep/",
+  "title": "I Slept Through a Year of the Pandemic",
+  "status": "converted_from_csv",
+  "date": "2022-05-12T09:14:24",
+  "error": null,
+  "content_path": "output/articles/markdown/6acb8f1542323560.md",
+  "html_path": "output/articles/html/6acb8f1542323560.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1447,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "766785675db338d44295a10b2607bbc9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1652372064",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-05-12T09:14:24",
+  "updated_at": "2022-05-12T09:14:24"
+}

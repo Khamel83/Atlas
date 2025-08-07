@@ -1,0 +1,34 @@
+{
+  "uid": "c6266922065ca60c",
+  "content_type": "web_bookmark",
+  "source": "http://www.ft.com/cms/s/2/93a47a62-daf0-11e1-8074-00144feab49a.html#axzz24EbMGxQO",
+  "title": "A man walks into a bank - FT.com",
+  "status": "converted_from_csv",
+  "date": "2012-08-25T12:29:09",
+  "error": null,
+  "content_path": "output/articles/markdown/c6266922065ca60c.md",
+  "html_path": "output/articles/html/c6266922065ca60c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5443,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bbfcc205b685255985e2cba5b03101c9",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1345922949",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-08-25T12:29:09",
+  "updated_at": "2012-08-25T12:29:09"
+}

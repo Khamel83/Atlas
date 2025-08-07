@@ -1,0 +1,40 @@
+{
+  "uid": "0ad685ff46422ca7",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/1641097/mary-meeker-report-nearly-every-american-is-on-their-phone-or-tablet-while-watching-tv/",
+  "title": "Nearly every American is on their phone or tablet while watching TV Quartz",
+  "status": "selection_content_extracted",
+  "date": "2019-06-12T13:07:12",
+  "error": null,
+  "content_path": "output/articles/markdown/0ad685ff46422ca7.md",
+  "html_path": "output/articles/html/0ad685ff46422ca7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3118,
+    "selection_length": 1114,
+    "cleaned_selection_length": 1151,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0ad685ff46422ca7",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1560370032",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "It’s not just you, it’s nearly everyone.\n\nRoughly 88% of Americans use a second device, like a phone or a tablet, while watching TV, according to the longtime internet researcher and venture capitalist Mary Meeker. She released her annual internet trends report today (June 11).\n\nUsing data from Nielsen, her slides also show that most TV watchers were doing what you might call “research” on these devices, with 71% looking up content related to the program they were watching, and 41% are messaging friends or family about what’s on their TV screen.\n\nMeeker also showed, based on eMarketer data, that Americans spend an average of 3.6 hours on their phones or tablets every day, up from 3.3 last year, and up from 0.3 hours just a decade ago. Also, the amount of time the US spends on its phones has finally surpassed the amount of time spent watching TV.\n\nBond Capital\n\nAmericans are also increasingly watching videos on the mobile devices, instead of the larger screens they may own. In 2018, 28% of all the time Americans spent watching footage daily was on mobile, according to Meeker’s report.\n\nBond Capital",
+    "cleaned_selection": "<p>It’s not just you, it’s nearly everyone.</p><p>Roughly 88% of Americans use a second device, like a phone or a tablet, while watching TV, according to the longtime internet researcher and venture capitalist Mary Meeker. She released her annual internet trends report today (June 11).</p><p>Using data from Nielsen, her slides also show that most TV watchers were doing what you might call “research” on these devices, with 71% looking up content related to the program they were watching, and 41% are messaging friends or family about what’s on their TV screen.</p><p>Meeker also showed, based on eMarketer data, that Americans spend an average of 3.6 hours on their phones or tablets every day, up from 3.3 last year, and up from 0.3 hours just a decade ago. Also, the amount of time the US spends on its phones has finally surpassed the amount of time spent watching TV.</p><p>Bond Capital</p><p>Americans are also increasingly watching videos on the mobile devices, instead of the larger screens they may own. In 2018, 28% of all the time Americans spent watching footage daily was on mobile, according to Meeker’s report.</p><p>Bond Capital</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.751711",
+  "updated_at": "2025-08-06T08:47:03.751712"
+}

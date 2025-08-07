@@ -1,12 +1,13 @@
 # Atlas: Cognitive Amplification Platform
 
-**Documentation up-to-date as of July 2025**
+**Documentation up-to-date as of January 2025**
 
 ## 🚀 System Overview
 
-- **Unified Job Scheduling:** All automated jobs (ingestion, maintenance, model discovery) are managed by APScheduler and a web UI (FastAPI + Jinja2). Jobs are persistent, visible, and fully manageable in the web interface, with real log viewing and last run status.
-- **Enhanced Model Selection:** The model selector always tries free models first, with tiered fallback to paid options. Usage is tracked for cost optimization. Model discovery is automated and configuration is via `.env`. See `docs/ENHANCED_MODEL_SELECTOR_GUIDE.md`.
-- **Bulletproof Capture & Processing:** All content is captured in a never-fail stage, then processed in a robust queue with retries and comprehensive logging. See `docs/CAPTURE_ARCHITECTURE.md` and `docs/IMPLEMENTATION_GUIDE.md`.
+- **Environment-Aware Configuration**: Advanced configuration system with dev/test/prod profiles, inheritance, comprehensive validation, and migration tools. All configuration is validated with detailed error reporting and fix suggestions.
+- **Enhanced Model Selection**: Intelligent model selection with free models first, tiered fallback to paid options, and cost optimization. Supports OpenRouter, DeepSeek, and local Ollama providers.
+- **Bulletproof Capture & Processing**: All content is captured in a never-fail stage, then processed in a robust queue with retries and comprehensive logging. See `docs/CAPTURE_ARCHITECTURE.md` and `docs/IMPLEMENTATION_GUIDE.md`.
+- **Security-Hardened**: Secure credential handling, API key validation, file permission checks, and privacy controls throughout the system.
 
 For full details, see the authoritative documentation in `docs/PROJECT_ROADMAP.md`, `docs/ENHANCED_MODEL_SELECTOR_GUIDE.md`, and `docs/IMPLEMENTATION_GUIDE.md`.
 
@@ -71,7 +72,7 @@ See [docs/IMPLEMENTATION_GUIDE.md](docs/IMPLEMENTATION_GUIDE.md) for full detail
 
 ## 🧱 What Actually Works Right Now
 
-### ✅ **Article Ingestion** 
+### ✅ **Article Ingestion**
 - Multi-layer fallback system with 6 different methods
 - Handles paywalls, JavaScript sites, and dead links
 - Extracts clean text using readability algorithms
@@ -88,6 +89,12 @@ See [docs/IMPLEMENTATION_GUIDE.md](docs/IMPLEMENTATION_GUIDE.md) for full detail
 - Downloads recent episodes automatically
 - Transcription support (local Whisper or OpenRouter API)
 - Episode metadata extraction
+
+### ✅ **Instapaper Integration**
+- Complete CSV export processing (6,000+ bookmarks supported)
+- Converts to Atlas format with full metadata preservation
+- Handles both web bookmarks and private content (newsletters)
+- API extraction for recent bookmarks with full content
 
 ### ✅ **Robust Infrastructure**
 - Comprehensive error handling and retry system
@@ -153,11 +160,11 @@ output/
 
 ## ⚠️ Current Limitations
 
-- **Configuration required** - Need to set up .env file (see QUICK_START.md)
-- **AI features optional** - Requires OpenRouter API key for summarization/categorization
-- **Command-line only** - No web interface
-- **Manual input** - No automatic feed discovery
-- **Basic search** - No full-text search implemented
+- **API keys required** - LLM provider API key needed for AI features (OpenRouter, DeepSeek, or local Ollama)
+- **Manual input** - No automatic feed discovery yet
+- **Basic search** - Full-text search in development
+- **Local processing** - All processing happens locally (privacy-first design)
+- **Configuration learning curve** - Advanced configuration system requires initial setup
 
 ## 🔮 Future Enhancements
 
@@ -191,18 +198,40 @@ pip install -r requirements.txt
 ```
 
 ### Configuration
+
+Atlas uses an advanced environment-aware configuration system:
+
 ```bash
-# Copy template and customize
-cp .env.example .env
+# Create the config directory and copy template
+mkdir -p config
+cp env.template config/.env
+
+# Set your environment (auto-detected by default)
+export ATLAS_ENVIRONMENT=development  # or production, test, staging
+
+# Validate your configuration
+python scripts/validate_config.py
 ```
 
-### Minimum .env Configuration
+### Essential Configuration
+
+Choose your LLM provider:
+
 ```bash
-DATA_DIRECTORY=output
-TRANSCRIBE_ENABLED=false
+# Option A: OpenRouter (recommended - best model variety)
+echo 'OPENROUTER_API_KEY=sk-or-v1-your-key' >> config/.env
+echo 'LLM_PROVIDER=openrouter' >> config/.env
+
+# Option B: DeepSeek (cost-effective)
+echo 'DEEPSEEK_API_KEY=your-key' >> config/.env
+echo 'LLM_PROVIDER=deepseek' >> config/.env
+
+# Option C: Local Ollama (free)
+echo 'LLM_PROVIDER=ollama' >> config/.env
+echo 'LLM_MODEL=llama2' >> config/.env
 ```
 
-**Important**: For full functionality, especially for AI features, you will need to set `OPENROUTER_API_KEY` in your `.env` file. Refer to the `.env.example` for all available configuration options.
+**Important**: Atlas includes comprehensive configuration validation that will guide you through any setup issues. See [docs/CONFIGURATION_REFERENCE.md](docs/CONFIGURATION_REFERENCE.md) for complete configuration options.
 
 ## 🧪 Testing
 
@@ -238,18 +267,29 @@ pytest -m integration
 
 ### Getting Help
 
-1. Check [QUICK_START.md](QUICK_START.md) for setup issues
-2. Review [docs/CURRENT_STATUS.md](docs/CURRENT_STATUS.md) for known limitations
-3. Check logs in `output/logs/` for detailed error information
-4. Review the retry queue in `retries/` for failed items
+1. **Configuration Issues**: Run `python scripts/validate_config.py` for detailed diagnostics
+2. **Setup Problems**: Check [QUICK_START.md](QUICK_START.md) and [docs/CONFIGURATION_QUICK_START.md](docs/CONFIGURATION_QUICK_START.md)
+3. **Environment Issues**: See [docs/CONFIGURATION_REFERENCE.md](docs/CONFIGURATION_REFERENCE.md) for troubleshooting
+4. **Migration Needs**: Use `python scripts/migrate_config.py --check` for configuration updates
+5. **Logs**: Check logs in `output/logs/` for detailed error information
+6. **Retry Queue**: Review failed items in `retries/` directory
 
 ## 📚 Documentation
 
+### Quick Start & Setup
 - **[QUICK_START.md](QUICK_START.md)** - 5-minute setup guide
+- **[docs/CONFIGURATION_QUICK_START.md](docs/CONFIGURATION_QUICK_START.md)** - Environment-specific setup
+- **[docs/CONFIGURATION_REFERENCE.md](docs/CONFIGURATION_REFERENCE.md)** - Complete configuration guide
+
+### Project Status & Development
 - **[docs/CURRENT_STATUS.md](docs/CURRENT_STATUS.md)** - Accurate current state
 - **[docs/PROJECT_ROADMAP.md](docs/PROJECT_ROADMAP.md)** - Development roadmap
+- **[docs/IMPLEMENTATION_GUIDE.md](docs/IMPLEMENTATION_GUIDE.md)** - Technical implementation details
+
+### Research & Architecture
 - **[docs/SIMILAR_PROJECTS_RESEARCH.md](docs/SIMILAR_PROJECTS_RESEARCH.md)** - Research findings
 - **[docs/INTEGRATION_GUIDE.md](docs/INTEGRATION_GUIDE.md)** - Future integration plans
+- **[docs/COGNITIVE_AMPLIFICATION_PHILOSOPHY.md](docs/COGNITIVE_AMPLIFICATION_PHILOSOPHY.md)** - Philosophy and design principles
 
 ## 🎯 Project Status
 
@@ -257,13 +297,13 @@ pytest -m integration
 
 **What Works**: Multi-source content ingestion, robust error handling, comprehensive logging, retry mechanisms, and structured output.
 
-**What Doesn't**: AI features require API keys, no web interface, manual input file management, and some advanced features are still in development.
+**What Doesn't**: Some advanced features are still in development, manual input file management, and full-text search not yet implemented.
 
-**Bottom Line**: Atlas is a working system that needs better onboarding and documentation, not major architectural changes.
+**Bottom Line**: Atlas is a working system with robust configuration management, comprehensive validation, and excellent cognitive amplification features. The configuration system is now production-ready with environment profiles and detailed validation.
 
 ---
 
-**Note**: This README reflects the actual current state of Atlas as of January 2025. For the most up-to-date status, see [docs/CURRENT_STATUS.md](docs/CURRENT_STATUS.md). 
+**Note**: This README reflects the actual current state of Atlas as of January 2025. For the most up-to-date status, see [docs/CURRENT_STATUS.md](docs/CURRENT_STATUS.md).
 
 ## 🤝 Getting Help & Contributing
 
@@ -271,7 +311,7 @@ pytest -m integration
 - For technical details, see [docs/IMPLEMENTATION_GUIDE.md](docs/IMPLEMENTATION_GUIDE.md).
 - For philosophy and roadmap, see [docs/COGNITIVE_AMPLIFICATION_PHILOSOPHY.md](docs/COGNITIVE_AMPLIFICATION_PHILOSOPHY.md) and [docs/PROJECT_ROADMAP.md](docs/PROJECT_ROADMAP.md).
 - To submit issues or pull requests, use the GitHub repository (branch protection is enabled; all changes via PR).
-- All contributors are welcome—Atlas is open source and community-driven! 
+- All contributors are welcome—Atlas is open source and community-driven!
 # Atlas is synced!
 
 ---
@@ -300,7 +340,3 @@ chmod +x .git/hooks/post-commit
 3. **Main = Source of Truth**: `main` reflects stable, synced progress. Merge finalized work to `main` regularly.
 4. **No Orphan Work**: No changes live only locally — GitHub must always reflect real state.
 5. **Commit Descriptions Matter**: Use clear `type: message` format (`chore:`, `docs:`, `test:` etc.)
-
-
-
-

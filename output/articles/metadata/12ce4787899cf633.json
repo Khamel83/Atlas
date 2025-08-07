@@ -1,0 +1,40 @@
+{
+  "uid": "12ce4787899cf633",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://kottke.org/19/03/clouds-in-unexpected-places",
+  "title": "Clouds in Unexpected Places kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2019-03-08T21:23:27",
+  "error": null,
+  "content_path": "output/articles/markdown/12ce4787899cf633.md",
+  "html_path": "output/articles/html/12ce4787899cf633.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3210,
+    "selection_length": 968,
+    "cleaned_selection_length": 991,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "12ce4787899cf633",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1552109007",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Dutch artist Berndnaut Smilde creates ephemeral water vapor sculptures (you know, clouds!) in places you normally wouldn’t find them, like inside churches & museums. He shared some of his process with National Geographic:\n\nThe ingredients for Smilde’s clouds: just smoke and water vapor. He requires a cold and damp space with no air circulation, lest the clouds never form or fall straight to the ground. He mists an area with a spray bottle to put water vapor into the air. Then he turns on fog machines that spout tiny particles, and the vapor condenses around them.\n\nSmilde runs around the forming cloud, coaxing it into a shape about 10 feet across and six feet tall. Then he steps back long enough for a photographer to snap several images. Once the air clears, he’ll start over, repeating the process dozens of times until he’s happy with the results. Later, he’ll retouch the photos to remove his tools.\n\n(via moss & fog)\n\nTags: art   Berndnaut Smilde   clouds",
+    "cleaned_selection": "<p>Dutch artist Berndnaut Smilde creates ephemeral water vapor sculptures (you know, clouds!) in places you normally wouldn’t find them, like inside churches & museums. He shared some of his process with National Geographic:</p><p>The ingredients for Smilde’s clouds: just smoke and water vapor. He requires a cold and damp space with no air circulation, lest the clouds never form or fall straight to the ground. He mists an area with a spray bottle to put water vapor into the air. Then he turns on fog machines that spout tiny particles, and the vapor condenses around them.</p><p>Smilde runs around the forming cloud, coaxing it into a shape about 10 feet across and six feet tall. Then he steps back long enough for a photographer to snap several images. Once the air clears, he’ll start over, repeating the process dozens of times until he’s happy with the results. Later, he’ll retouch the photos to remove his tools.</p><p>(via moss & fog)</p><p>Tags: art Berndnaut Smilde clouds</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.786547",
+  "updated_at": "2025-08-06T08:47:03.786548"
+}

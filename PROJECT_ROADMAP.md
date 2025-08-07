@@ -1,16 +1,16 @@
 # Atlas Project Roadmap
 *The Single Source of Truth for Atlas Development*
 
-**Last Updated**: January 2025  
-**Document Status**: Authoritative - All project planning references this document  
+**Last Updated**: January 2025
+**Document Status**: Authoritative - All project planning references this document
 **Project Phase**: Critical Implementation Phase
 
 ## Executive Summary
 
 Atlas is a sophisticated local-first content ingestion and cognitive amplification platform that is **95% architecturally complete** but requires critical implementation work to bridge documentation and actual functionality. The system has excellent foundational architecture but needs focused development to deliver on its cognitive amplification promises.
 
-**Current Status**: 4 critical implementation gaps block core cognitive features  
-**Estimated Resolution**: 57-89 hours of focused development (6-9 weeks)  
+**Current Status**: 4 critical implementation gaps block core cognitive features
+**Estimated Resolution**: 57-89 hours of focused development (6-9 weeks)
 **Next Milestone**: Fully functional cognitive amplification platform
 
 ## Project Vision and Goals
@@ -95,7 +95,7 @@ Transform how users interact with and derive insights from their personal knowle
 ### 🚨 Remaining Critical Implementation Gap
 
 #### **1. Configuration Documentation (2-4 hours)**
-**Status**: Setup instructions reference wrong paths/files  
+**Status**: Setup instructions reference wrong paths/files
 **Impact**: New users cannot run the system
 
 ## Implementation Phases
@@ -165,6 +165,22 @@ Transform how users interact with and derive insights from their personal knowle
    - Exponential backoff implementation
    - Circuit breaker patterns
    - Comprehensive failure tracking
+
+#### Offshoot Project: Podclean - Advanced Podcast Processing (Separate Timeline)
+**Objective**: Develop a specialized, two-pass podcast processing system for ad-cutting and high-quality transcription. This is a related but independent project.
+
+**Deliverables**:
+1. **Fast Ad Cut (Pass A)**: Implement rapid ad detection and removal for playable cleaned audio files (target latency 5-30 min).
+   - Chapters-based ad detection (Podcasting 2.0 spec)
+   - Fast transcription model (e.g., small Whisper) with text rules for ad phrase detection
+   - `ffmpeg` integration for non-destructive (skip chapters) and destructive cuts
+   - Generated RSS feed for cleaned media.
+2. **Full Transcription (Pass B)**: Implement slower, higher-quality transcription and cleanup for detailed analysis.
+   - Larger Whisper model with better settings for accuracy
+   - Optional LLM-based cleanup for transcripts
+   - Storage of full transcripts and cleaned text for external consumption (e.g., by Atlas).
+3. **Correction Mechanisms**: Implement API endpoints for manual ad segment marking and re-processing.
+4. **Robust Failure Handling**: Define policies for confidence thresholds, excessive cuts, and original file retention.
 
 ### **Phase 3: Advanced Intelligence (Weeks 8-11)**
 *Priority: Cognitive amplification and insights*
@@ -350,7 +366,7 @@ uvicorn web.app:app --reload --port 8000
 
 ### **Timeline Summary**
 - **Phase 1 (Critical Fixes)**: 3 weeks, 47-74 hours
-- **Phase 2 (Advanced Features)**: 4 weeks, 100-150 hours  
+- **Phase 2 (Advanced Features)**: 4 weeks, 100-150 hours
 - **Phase 3 (Intelligence Platform)**: 4 weeks, 125-175 hours
 - **Total Project**: 11 weeks, 272-399 hours
 

@@ -1,0 +1,40 @@
+{
+  "uid": "0f298a64949051be",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://marginalrevolution.com/marginalrevolution/2018/01/jordan-petersons-12-rules-life.html",
+  "title": "Jordan Peterson’s 12 rules for life Marginal REVOLUTION",
+  "status": "selection_content_extracted",
+  "date": "2018-01-22T05:41:57",
+  "error": null,
+  "content_path": "output/articles/markdown/0f298a64949051be.md",
+  "html_path": "output/articles/html/0f298a64949051be.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3651,
+    "selection_length": 917,
+    "cleaned_selection_length": 994,
+    "domain": "marginalrevolution.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0f298a64949051be",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1516628517",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Peterson’s 12 rules\n\nRule 1 Stand up straight with your shoulders back\n\nRule 2 Treat yourself like you would someone you are responsible for helping\n\nRule 3 Make friends with people who want the best for you\n\nRule 4 Compare yourself with who you were yesterday, not with who someone else is today\n\nRule 5 Do not let your children do anything that makes you dislike them\n\nRule 6 Set your house in perfect order before you criticise the world\n\nRule 7 Pursue what is meaningful (not what is expedient)\n\nRule 8 Tell the truth – or, at least, don’t lie\n\nRule 9 Assume that the person you are listening to might know something you don’t\n\nRule 10 Be precise in your speech\n\nRule 11 Do not bother children when they are skate-boarding\n\nRule 12 Pet a cat when you encounter one on the street\n\nThey are from this article, via Michelle Dawson.\n\nThe post Jordan Peterson’s 12 rules for life appeared first on Marginal REVOLUTION.",
+    "cleaned_selection": "<p>Peterson’s 12 rules</p><p>Rule 1 Stand up straight with your shoulders back</p><p>Rule 2 Treat yourself like you would someone you are responsible for helping</p><p>Rule 3 Make friends with people who want the best for you</p><p>Rule 4 Compare yourself with who you were yesterday, not with who someone else is today</p><p>Rule 5 Do not let your children do anything that makes you dislike them</p><p>Rule 6 Set your house in perfect order before you criticise the world</p><p>Rule 7 Pursue what is meaningful (not what is expedient)</p><p>Rule 8 Tell the truth – or, at least, don’t lie</p><p>Rule 9 Assume that the person you are listening to might know something you don’t</p><p>Rule 10 Be precise in your speech</p><p>Rule 11 Do not bother children when they are skate-boarding</p><p>Rule 12 Pet a cat when you encounter one on the street</p><p>They are from this article, via Michelle Dawson.</p><p>The post Jordan Peterson’s 12 rules for life appeared first on Marginal REVOLUTION.</p>",
+    "domain": "marginalrevolution.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.935103",
+  "updated_at": "2025-08-06T08:47:03.935105"
+}

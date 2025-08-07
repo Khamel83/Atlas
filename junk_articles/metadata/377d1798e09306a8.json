@@ -1,0 +1,34 @@
+{
+  "uid": "377d1798e09306a8",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/34987e092316a2e53c9abec5435bea17/",
+  "title": "Beacons: Not Boring Memo",
+  "status": "converted_from_csv",
+  "date": "2021-02-25T05:56:38",
+  "error": null,
+  "content_path": "output/articles/markdown/377d1798e09306a8.md",
+  "html_path": "output/articles/html/377d1798e09306a8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2377,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5c2e858e80b684b95f678ad2b30a167d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1614261398",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-02-25T05:56:38",
+  "updated_at": "2021-02-25T05:56:38"
+}

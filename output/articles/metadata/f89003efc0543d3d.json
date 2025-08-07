@@ -1,0 +1,40 @@
+{
+  "uid": "f89003efc0543d3d",
+  "content_type": "instapaper",
+  "source": "https://slate.com/culture/2020/01/ramy-youssef-golden-globes-speech-allahu-akbar.html",
+  "title": "Ramy Youssef Won a Golden Globe, Took the Stage, and Said “Allahu Akbar.’ That’s Huge. Slate Magazine",
+  "status": "success",
+  "date": "2025-08-05T13:41:50.759495",
+  "error": null,
+  "content_path": "output/articles/markdown/f89003efc0543d3d.md",
+  "html_path": "output/articles/html/f89003efc0543d3d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "972cc0cc071ae38a68a8f4f7a5d1aa86",
+  "type_specific": {
+    "bookmark_id": 1265977760,
+    "instapaper_time": 1578283013,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:41:50.759549",
+  "updated_at": "2025-08-05T13:41:50.759551"
+}

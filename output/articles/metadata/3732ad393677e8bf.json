@@ -1,0 +1,40 @@
+{
+  "uid": "3732ad393677e8bf",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/public-transit-should-be-ubers-new-best-friend/",
+  "title": "Public Transit Should Be Uber’s New Best Friend FiveThirtyEight » Economics | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2015-08-28T08:13:39",
+  "error": null,
+  "content_path": "output/articles/markdown/3732ad393677e8bf.md",
+  "html_path": "output/articles/html/3732ad393677e8bf.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4771,
+    "selection_length": 313,
+    "cleaned_selection_length": 320,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3732ad393677e8bf",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1440774819",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "If Uber is worth its $50 billion valuation, it will have to do more than win over the market historically occupied by the taxi and limo industry — it will have to identify new types of customers. The biggest potential market is among people who own their own cars: The average American household spends around […]",
+    "cleaned_selection": "<p>If Uber is worth its $50 billion valuation, it will have to do more than win over the market historically occupied by the taxi and limo industry — it will have to identify new types of customers. The biggest potential market is among people who own their own cars: The average American household spends around […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.385711",
+  "updated_at": "2025-08-06T08:47:04.385713"
+}

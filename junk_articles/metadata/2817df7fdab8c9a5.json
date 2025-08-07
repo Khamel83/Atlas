@@ -1,0 +1,34 @@
+{
+  "uid": "2817df7fdab8c9a5",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/b674d966d43cb7e1bb758f6937e05701/",
+  "title": "The Dropbox Comp (Stratechery Weekly Article 2018-2-26)",
+  "status": "converted_from_csv",
+  "date": "2018-02-26T07:33:44",
+  "error": null,
+  "content_path": "output/articles/markdown/2817df7fdab8c9a5.md",
+  "html_path": "output/articles/html/2817df7fdab8c9a5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3603,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "efb7fa2283bf6586c1f815607ccdd9a1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1519659224",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-02-26T07:33:44",
+  "updated_at": "2018-02-26T07:33:44"
+}

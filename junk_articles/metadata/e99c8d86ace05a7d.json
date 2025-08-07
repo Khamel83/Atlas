@@ -1,0 +1,34 @@
+{
+  "uid": "e99c8d86ace05a7d",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/35f2b176f6a494c8c0cd860c61141955/",
+  "title": "The Iowa Fiasco, The Best Feature, Three Lessons (Stratechery Daily Update 2-5-2020)",
+  "status": "converted_from_csv",
+  "date": "2020-02-05T05:59:17",
+  "error": null,
+  "content_path": "output/articles/markdown/e99c8d86ace05a7d.md",
+  "html_path": "output/articles/html/e99c8d86ace05a7d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2891,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a826d248f64f205070416989d63f2d97",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1580911157",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-02-05T05:59:17",
+  "updated_at": "2020-02-05T05:59:17"
+}

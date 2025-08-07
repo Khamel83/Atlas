@@ -1,0 +1,40 @@
+{
+  "uid": "d80edd2cee0f92a6",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/05/singapore-airlines-first-credit-card/",
+  "title": "Which Rewards Cards Can Help Me Fly Singapore First Class The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-05-10T10:48:51",
+  "error": null,
+  "content_path": "output/articles/markdown/d80edd2cee0f92a6.md",
+  "html_path": "output/articles/html/d80edd2cee0f92a6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4864,
+    "selection_length": 338,
+    "cleaned_selection_length": 344,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d80edd2cee0f92a6",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1431280131",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "TPG reader Joe tweeted me with this question about Singapore Airlines: @thepointsguy– “What would be the best card strategy to save up for Singapore first class?”  I recently flew Singapore Airlines First Class SFO-ICN, and it was an awesome experience even though it wasn’t on their A380 Suites Class, which is rumored to be even more...",
+    "cleaned_selection": "<p>TPG reader Joe tweeted me with this question about Singapore Airlines: @thepointsguy– “What would be the best card strategy to save up for Singapore first class?” I recently flew Singapore Airlines First Class SFO-ICN, and it was an awesome experience even though it wasn’t on their A380 Suites Class, which is rumored to be even more...</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.413693",
+  "updated_at": "2025-08-06T08:47:04.413695"
+}

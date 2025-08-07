@@ -1,0 +1,34 @@
+{
+  "uid": "0339ab6dac0a5afd",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/1737cc3f94b2981501264fe3572694d7/",
+  "title": "The Cult of the Vaccine Neurotic",
+  "status": "converted_from_csv",
+  "date": "2021-10-07T16:05:55",
+  "error": null,
+  "content_path": "output/articles/markdown/0339ab6dac0a5afd.md",
+  "html_path": "output/articles/html/0339ab6dac0a5afd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1922,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ac47b5d9276cc5f1a1fb45157e214d19",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1633647955",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-10-07T16:05:55",
+  "updated_at": "2021-10-07T16:05:55"
+}

@@ -79,7 +79,7 @@ mkdir -p logs
 ```bash
 # Check if basic components exist
 ls -la helpers/  # Should show core modules
-ls -la ask/      # Should show cognitive modules  
+ls -la ask/      # Should show cognitive modules
 ls -la web/      # Should show web interface
 ls -la tests/    # Should show test structure
 
@@ -183,7 +183,7 @@ netstat -tulpn | grep :6379  # Should show redis if running
 netstat -tulpn | grep :7700  # Should show meilisearch if running
 ```
 
-#### **DNS Configuration**  
+#### **DNS Configuration**
 ```bash
 # Verify external DNS works (for content ingestion)
 nslookup google.com  # Should resolve successfully
@@ -205,7 +205,7 @@ https://docs.python.org/3/tutorial/introduction.html
 # YouTube
 https://www.youtube.com/watch?v=HN1UjzRSdBk
 
-# Podcasts  
+# Podcasts
 https://feeds.simplecast.com/54nAGcIl
 ```
 
@@ -244,7 +244,7 @@ pip install black isort mypy flake8
 
 # Test tools work correctly
 black --version
-isort --version  
+isort --version
 mypy --version
 
 # Create basic mypy configuration
@@ -342,7 +342,7 @@ chmod -R u+rw .  # Ensure user can read/write all files
 chmod +x scripts/*.py  # Make scripts executable
 ```
 
-### **Port Conflicts** 
+### **Port Conflicts**
 ```bash
 # Problem: "Address already in use" errors
 # Solution: Find and kill conflicting processes

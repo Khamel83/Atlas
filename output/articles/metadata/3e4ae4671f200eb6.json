@@ -1,0 +1,40 @@
+{
+  "uid": "3e4ae4671f200eb6",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1140490602",
+  "title": "Tumblr’s App Store Ban, Tumblr’s NSFW Deadline, Verizon Writes Down Oath (Stratechery Daily Update 12-17-2018)",
+  "status": "success",
+  "date": "2025-08-05T14:05:32.736767",
+  "error": null,
+  "content_path": "output/articles/markdown/3e4ae4671f200eb6.md",
+  "html_path": "output/articles/html/3e4ae4671f200eb6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8c4d750e69b66b24a253a5e235d6b567",
+  "type_specific": {
+    "bookmark_id": 1140490602,
+    "instapaper_time": 1545046242,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Stratechery"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:05:32.736831",
+  "updated_at": "2025-08-05T14:05:32.736835"
+}

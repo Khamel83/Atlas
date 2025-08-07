@@ -1,0 +1,18 @@
+# Atlas Commit Message
+#
+# Format: <type>(<scope>): <description>
+#
+# Types:
+# - feat: new feature
+# - fix: bug fix
+# - docs: documentation changes
+# - style: formatting changes
+# - refactor: code restructuring
+# - test: adding/updating tests
+# - chore: maintenance tasks
+#
+# Examples:
+# feat(helpers): add new config validation function
+# fix(web): resolve dashboard loading issue
+# test(unit): add comprehensive config tests
+# docs(readme): update installation instructions

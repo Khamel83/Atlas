@@ -1,0 +1,40 @@
+{
+  "uid": "5de6e615888df70e",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.grantland.com/blog/the-triangle/post/_/id/15575/how-basketball-reference-got-every-box-score",
+  "title": "How Basketball-Reference Got Every Box Score - The Triangle Blog - Grantland",
+  "status": "selection_content_extracted",
+  "date": "2012-02-03T12:45:31",
+  "error": null,
+  "content_path": "output/articles/markdown/5de6e615888df70e.md",
+  "html_path": "output/articles/html/5de6e615888df70e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5513,
+    "selection_length": 117,
+    "cleaned_selection_length": 124,
+    "domain": "grantland.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5de6e615888df70e",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1328301931",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "RT @Grantland33: How Basketball-Reference Got Every Box Score in NBA History. By @realrobertmays http://t.co/omT1ubxh",
+    "cleaned_selection": "<p>RT @Grantland33: How Basketball-Reference Got Every Box Score in NBA History. By @realrobertmays http://t.co/omT1ubxh</p>",
+    "domain": "grantland.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.520664",
+  "updated_at": "2025-08-06T08:47:04.520665"
+}

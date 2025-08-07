@@ -1,0 +1,34 @@
+{
+  "uid": "648c191796db777b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/f026165cefddd2b719aeb682c60fe3b7/",
+  "title": "Platforms in an Aggregator World (Stratechery Daily Update 5-26-2020)",
+  "status": "converted_from_csv",
+  "date": "2020-05-27T07:55:28",
+  "error": null,
+  "content_path": "output/articles/markdown/648c191796db777b.md",
+  "html_path": "output/articles/html/648c191796db777b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2831,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7e6f4a84554f32ad39ab05e851cba40d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1590591328",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-05-27T07:55:28",
+  "updated_at": "2020-05-27T07:55:28"
+}

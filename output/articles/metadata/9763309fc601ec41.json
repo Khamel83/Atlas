@@ -1,0 +1,40 @@
+{
+  "uid": "9763309fc601ec41",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.theverge.com/tldr/2017/4/6/15206284/fast-and-the-furious-supercut-catch-up-all-movies-burger-fiction",
+  "title": "It only takes seven minutes to catch up on the Fast and Furious movies The Verge",
+  "status": "selection_content_extracted",
+  "date": "2017-04-07T05:28:19",
+  "error": null,
+  "content_path": "output/articles/markdown/9763309fc601ec41.md",
+  "html_path": "output/articles/html/9763309fc601ec41.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4026,
+    "selection_length": 1947,
+    "cleaned_selection_length": 1984,
+    "domain": "theverge.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9763309fc601ec41",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1491568099",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "One of my regrets in life — not one of the main ones, like opening a credit card specifically to finance a spontaneous trip to E.B. White’s rural estate — is never taking the time to watch a Fast & the Furious movie. Who could have guessed that these seemingly chauvinist, boring movies about street racing and close-ups of butt cheeks would eventually become a beloved cinematic tradition about family, family, family, and hilarious naming conventions?\n\nWho could have guessed that The Fate of the Furious would someday be a movie I would want very much to watch, but would feel excluded from due to my utter lack of context? Not me!\n\nwho has time to watch seven movies?\n\nYet here we are, and the folks at Burger Fiction, the one good YouTube supercut channel, have put together a seven-minute explanation of the furious evolution of Fast & the Furious to help me out. Over 16 years and seven (going on eight) films, the franchise appears to have gone from absurd to more absurd, and then heartfelt and absurd. I love it, I think.\n\nSorry if I’m late to this (I am), but “I take the cash and I take the respect” is a good catchphrase. Cool with everyone if I start using it? On the other hand, “I live my life a quarter-mile at a time” is not a good catchphrase. It’s irresponsible, and a brag about endangering the lives of others. But I like most of the improbable things I saw happening in this supercut, especially where the Rock busts himself out of a restrictive arm cast that was presumably there for his safety and healing. Live on the edge!\n\nAnyway, now I’m all caught up. I can’t wait to see a car movie with my friends, who I sometimes refer to as... family.\n\nNote: In April 2015 The Verge made a similar and, I would cautiously say, better video about Furious films one through six. I didn’t work here yet, and I missed it. It’s too late to go back now, in my opinion, but if you want to watch it to get double the furious, here it is:",
+    "cleaned_selection": "<p>One of my regrets in life — not one of the main ones, like opening a credit card specifically to finance a spontaneous trip to E.B. White’s rural estate — is never taking the time to watch a Fast & the Furious movie. Who could have guessed that these seemingly chauvinist, boring movies about street racing and close-ups of butt cheeks would eventually become a beloved cinematic tradition about family, family, family, and hilarious naming conventions?</p><p>Who could have guessed that The Fate of the Furious would someday be a movie I would want very much to watch, but would feel excluded from due to my utter lack of context? Not me!</p><p>who has time to watch seven movies?</p><p>Yet here we are, and the folks at Burger Fiction, the one good YouTube supercut channel, have put together a seven-minute explanation of the furious evolution of Fast & the Furious to help me out. Over 16 years and seven (going on eight) films, the franchise appears to have gone from absurd to more absurd, and then heartfelt and absurd. I love it, I think.</p><p>Sorry if I’m late to this (I am), but “I take the cash and I take the respect” is a good catchphrase. Cool with everyone if I start using it? On the other hand, “I live my life a quarter-mile at a time” is not a good catchphrase. It’s irresponsible, and a brag about endangering the lives of others. But I like most of the improbable things I saw happening in this supercut, especially where the Rock busts himself out of a restrictive arm cast that was presumably there for his safety and healing. Live on the edge!</p><p>Anyway, now I’m all caught up. I can’t wait to see a car movie with my friends, who I sometimes refer to as... family.</p><p>Note: In April 2015 The Verge made a similar and, I would cautiously say, better video about Furious films one through six. I didn’t work here yet, and I missed it. It’s too late to go back now, in my opinion, but if you want to watch it to get double the furious, here it is:</p>",
+    "domain": "theverge.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.140899",
+  "updated_at": "2025-08-06T08:47:04.140900"
+}

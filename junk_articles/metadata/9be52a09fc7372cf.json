@@ -1,0 +1,34 @@
+{
+  "uid": "9be52a09fc7372cf",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/a8df99c6fcb237da1ea51927dd941303/",
+  "title": "Revisiting Google’s Cloud Numbers, Apple’s Earnings, Additional Notes on Apple’s Earnings (Stratechery Daily Update 7-31-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-07-31T06:28:49",
+  "error": null,
+  "content_path": "output/articles/markdown/9be52a09fc7372cf.md",
+  "html_path": "output/articles/html/9be52a09fc7372cf.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3068,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7ac022344ba59233f977ba9d65c9197c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1564579729",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-07-31T06:28:49",
+  "updated_at": "2019-07-31T06:28:49"
+}

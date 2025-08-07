@@ -1,0 +1,26 @@
+{
+  "uid": "2ea208b637b42bf4",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1757710870",
+  "title": "💥Putting in Musk-ian Hours💥",
+  "status": "success",
+  "date": "2025-08-06T13:15:50.000838",
+  "error": null,
+  "content_path": "output/articles/markdown/2ea208b637b42bf4.md",
+  "html_path": "output/articles/html/2ea208b637b42bf4.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1757710870,
+    "content_length": 20746,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1757710870,
+    "instapaper_time": 1740932182,
+    "is_private_content": true,
+    "content_length": 20746
+  },
+  "created_at": "2025-08-06T13:15:50.000844",
+  "updated_at": "2025-08-06T13:15:50.000845"
+}

@@ -1,0 +1,135 @@
+{
+  "cleanup_timestamp": "2025-08-06_09-06-03",
+  "junk_articles_moved": 5207,
+  "quality_articles_remaining": 2525,
+  "junk_breakdown": {
+    "about_blank": 1,
+    "no_content_message": 2432,
+    "minimal_content": 2774,
+    "invalid_urls": 0,
+    "other_junk": 0
+  },
+  "cleanup_directory": "junk_articles",
+  "sample_junk_files": [
+    {
+      "uid": "70b33d0694f400b6",
+      "reason": "minimal_content",
+      "source": "instapaper-private://email/399974cd872a4a4fc8ae5af58aedb972/",
+      "title": "The pleasure and the pleasure"
+    },
+    {
+      "uid": "816e76e1ce022210",
+      "reason": "minimal_content",
+      "source": "instapaper-private://email/ede72d76ced86df91bf8642970928fb7/",
+      "title": "😬Smile Direct Club Inc. is Out of Alignment😬"
+    },
+    {
+      "uid": "16d7bf866b94ba19",
+      "reason": "no_content_message",
+      "source": "https://www.nytimes.com/2018/12/20/opinion/conservative-economics-trump.html",
+      "title": "Opinion | Hard-Money Men, Suddenly Going Soft"
+    },
+    {
+      "uid": "6ba93af089354524",
+      "reason": "minimal_content",
+      "source": "instapaper-private://email/8dbc99563ef47ee5afb2112c9390b5d6/",
+      "title": "Weekly Dose of Optimism #55"
+    },
+    {
+      "uid": "312056bf6abba4cc",
+      "reason": "minimal_content",
+      "source": "instapaper-private://email/f46c28eedb10298ab2925fa1b884004c/",
+      "title": "The Limits of Data"
+    },
+    {
+      "uid": "9dc5e01ed90a32d5",
+      "reason": "minimal_content",
+      "source": "instapaper-private://email/a413561ce38dc714e66bb9a3801a2aeb/",
+      "title": "Guantanamo Bay, From Cage To Threshold"
+    },
+    {
+      "uid": "ac3155794c80f8d5",
+      "reason": "no_content_message",
+      "source": "http://www.nytimes.com/2010/09/19/magazine/19FOB-WWLN-Kelly-t.html?ref=magazine&pagewanted=print",
+      "title": "The Way We Live Now - Home-Schooling for the Techn..."
+    },
+    {
+      "uid": "b2de17f6647b1607",
+      "reason": "no_content_message",
+      "source": "https://www.bloomberg.com/news/features/2016-12-08/google-makes-so-much-money-it-never-had-to-worry-about-financial-discipline",
+      "title": "Google Makes So Much Money, It Never Had to Worry ..."
+    },
+    {
+      "uid": "cf198b01c2c7f7f0",
+      "reason": "minimal_content",
+      "source": "instapaper-private://email/c333f564baaab000089dfb92b67dc6c8/",
+      "title": "The Great Online Game"
+    },
+    {
+      "uid": "1a124d4116fa9f7c",
+      "reason": "no_content_message",
+      "source": "http://www.nytimes.com/2013/12/14/world/middleeast/a-disappearing-american-spy-and-the-cia.html",
+      "title": "A Disappearing Spy, and a Scandal at the C.I.A. - ..."
+    },
+    {
+      "uid": "3a4d87022d0c48c6",
+      "reason": "minimal_content",
+      "source": "instapaper-private://email/49cd8ba10d4408027dc4b8ef583883c9/",
+      "title": "Q&A: Tattoos, COVID boosters, overnight potty trai..."
+    },
+    {
+      "uid": "f0a9545b7d6f4ac0",
+      "reason": "no_content_message",
+      "source": "http://www.nytimes.com/2016/02/04/business/dealbook/toxic-loans-in-china-weigh-on-global-growth.html",
+      "title": "Toxic Loans Around the World Weigh on Global Growt..."
+    },
+    {
+      "uid": "8ff72f396a313787",
+      "reason": "minimal_content",
+      "source": "instapaper-private://email/9a1f31510c964784ba367796d81cad55/",
+      "title": "Dad Life"
+    },
+    {
+      "uid": "8bf1d0fac31e7b64",
+      "reason": "no_content_message",
+      "source": "http://www.nytimes.com/2015/03/31/upshot/red-meat-is-not-the-enemy.html",
+      "title": "Red Meat Is Not the Enemy"
+    },
+    {
+      "uid": "505df173ff4beef4",
+      "reason": "minimal_content",
+      "source": "instapaper-private://email/7432271f1ba5a2d0359d618dee13ef0d/",
+      "title": "Weekly Dose of Optimism #18"
+    },
+    {
+      "uid": "347c6a3b11de8fea",
+      "reason": "minimal_content",
+      "source": "instapaper-private://email/ff984c6a26c9b6bd04024390e7c19f12/",
+      "title": "Wins, Woes, and Body Love"
+    },
+    {
+      "uid": "faf30954fda1b0b7",
+      "reason": "no_content_message",
+      "source": "https://www.nytimes.com/2019/07/19/upshot/trump-electoral-college-edge-.html",
+      "title": "Trump’s Electoral College Edge Could Grow in 2020,..."
+    },
+    {
+      "uid": "64538c6cbc61dbdf",
+      "reason": "minimal_content",
+      "source": "instapaper-private://email/fe4e8c6aa1e51ce3f20941bd5da62094/",
+      "title": "How creator funds fall short for creators"
+    },
+    {
+      "uid": "2135b3adbdf066f8",
+      "reason": "no_content_message",
+      "source": "http://www.nytimes.com/2010/09/28/health/28real.html?_r=1&ref=homepage&src=me&pagewanted=print",
+      "title": "Really? - The Claim - Gargling With Salt Water Can..."
+    },
+    {
+      "uid": "0aeee0085c46c906",
+      "reason": "minimal_content",
+      "source": "instapaper-private://email/32aac10d6c31c47f06a7e144ec9abb65/",
+      "title": "Twitter's Chickens Come Home to Roost"
+    }
+  ]
+}

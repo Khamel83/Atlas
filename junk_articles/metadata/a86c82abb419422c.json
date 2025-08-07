@@ -1,0 +1,34 @@
+{
+  "uid": "a86c82abb419422c",
+  "content_type": "web_bookmark",
+  "source": "https://nymag.com/intelligencer/2020/12/four-seasons-total-landscaping-the-full-est-possible-story.html",
+  "title": "Four Seasons Total Landscaping: The Full(est Possible) Story",
+  "status": "converted_from_csv",
+  "date": "2020-12-29T10:22:23",
+  "error": null,
+  "content_path": "output/articles/markdown/a86c82abb419422c.md",
+  "html_path": "output/articles/html/a86c82abb419422c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2536,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "17692ba40f0f026d0bf2db1a58419bb7",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1609266143",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-12-29T10:22:23",
+  "updated_at": "2020-12-29T10:22:23"
+}

@@ -1,0 +1,36 @@
+{
+  "uid": "be2873976c3cc1c6",
+  "content_type": "instapaper_newsletter",
+  "source": "instapaper://private-content/1737266636",
+  "title": "💥This Party Sucks💥",
+  "status": "success",
+  "date": "2024-12-15T08:16:19",
+  "error": null,
+  "content_path": "output/articles/markdown/be2873976c3cc1c6.md",
+  "html_path": "output/articles/html/be2873976c3cc1c6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api_private_content",
+  "fetch_details": {
+    "bookmark_id": 1737266636,
+    "extraction_method": "bookmarks_get_text",
+    "content_length": 22406,
+    "successful": true
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1737266636",
+  "type_specific": {
+    "bookmark_id": 1737266636,
+    "instapaper_time": 1734279379,
+    "starred": true,
+    "is_private_content": true,
+    "private_source": "email",
+    "content_length": 22406
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T22:01:13.969017",
+  "updated_at": "2025-08-05T22:01:13.969018"
+}

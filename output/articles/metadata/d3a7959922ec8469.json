@@ -1,0 +1,40 @@
+{
+  "uid": "d3a7959922ec8469",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://food52.com/blog/14432-12-recipes-for-taco-night-that-s-tonight",
+  "title": "12 Recipes for Taco Night (That's Tonight!) Food52",
+  "status": "selection_content_extracted",
+  "date": "2015-10-16T11:33:46",
+  "error": null,
+  "content_path": "output/articles/markdown/d3a7959922ec8469.md",
+  "html_path": "output/articles/html/d3a7959922ec8469.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4727,
+    "selection_length": 1293,
+    "cleaned_selection_length": 1349,
+    "domain": "food52.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d3a7959922ec8469",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1445020426",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "We love a good potluck—our pals crammed around one table, reaching over each other, each contributing a part of the meal, and the meal very much more than the sum of its parts. But what we really love? A taco potluck. Put one person in charge of the cocktails, make sure there's plenty to fill the tortillas with (fried avocado! carnitas!), and fill in the table with all the fixings. Give everyone something to taco 'bout with these 12 recipes: \n\nStart with a cocktail:\n\nSmoky and Spicy Paloma by Hi, I'm Brian.\n\n \n\nMichelada (a.k.a. Bloody Beer) by The Flying Foodie\n\n \n\n \n\nTaco fillings (for everyone!): \n\nTinga Chicken by nannydeb\n\n \n\nLow-Maintenance Fish Tacos by Amanda Hesser\n\n \n\nEasy Lentil Walnut Tacos with Cabbage Lime Slaw by Gena Hamshaw\n\n \n\nFried Avocado Tacos with Sesame and Lime by arielleclementine\n\n \n\nPork Belly Carnitas by meatified\n\n \n\nDiana Kennedy's Scrambled Ricotta (Requesón Revuelto a La Mexicana) by Genius Recipes\n\n \n\nDon't forget the fixin's:\n\nThe Splendid Table's Refried Beans with Cinnamon and Cloves by Genius Recipes\n\n \n\nRoberto Santibañez' Classic Guacamole by Genius Recipes\n\n \n\nCooked Green Salsa (Salsa Verde) by Pati Jinich\n\n \n\nOr dessert!: \n\nMexican Chocolate Churro Rounds by Kendra Vaculin\n\nWhat's your taco night essential? Tell us in the comments.",
+    "cleaned_selection": "<p>We love a good potluck—our pals crammed around one table, reaching over each other, each contributing a part of the meal, and the meal very much more than the sum of its parts. But what we really love? A taco potluck. Put one person in charge of the cocktails, make sure there's plenty to fill the tortillas with (fried avocado! carnitas!), and fill in the table with all the fixings. Give everyone something to taco 'bout with these 12 recipes: </p><p>Start with a cocktail:</p><p>Smoky and Spicy Paloma by Hi, I'm Brian.</p><p>Michelada (a.k.a. Bloody Beer) by The Flying Foodie</p><p>Taco fillings (for everyone!): </p><p>Tinga Chicken by nannydeb</p><p>Low-Maintenance Fish Tacos by Amanda Hesser</p><p>Easy Lentil Walnut Tacos with Cabbage Lime Slaw by Gena Hamshaw</p><p>Fried Avocado Tacos with Sesame and Lime by arielleclementine</p><p>Pork Belly Carnitas by meatified</p><p>Diana Kennedy's Scrambled Ricotta (Requesón Revuelto a La Mexicana) by Genius Recipes</p><p>Don't forget the fixin's:</p><p>The Splendid Table's Refried Beans with Cinnamon and Cloves by Genius Recipes</p><p>Roberto Santibañez' Classic Guacamole by Genius Recipes</p><p>Cooked Green Salsa (Salsa Verde) by Pati Jinich</p><p>Or dessert!: </p><p>Mexican Chocolate Churro Rounds by Kendra Vaculin</p><p>What's your taco night essential? Tell us in the comments.</p>",
+    "domain": "food52.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.371859",
+  "updated_at": "2025-08-06T08:47:04.371862"
+}

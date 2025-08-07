@@ -1,0 +1,40 @@
+{
+  "uid": "7df20f6ec6bb352f",
+  "content_type": "instapaper",
+  "source": "https://food52.com/blog/19583-the-no-recipe-route-to-the-crispiest-juiciest-fried-chicken",
+  "title": "The No-Recipe Route to the Crispiest, Juiciest Fried Chicken Food52",
+  "status": "success",
+  "date": "2025-08-05T14:04:08.269323",
+  "error": null,
+  "content_path": "output/articles/markdown/7df20f6ec6bb352f.md",
+  "html_path": "output/articles/html/7df20f6ec6bb352f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ea3d2f54c4976a2e22853a564a142f8f",
+  "type_specific": {
+    "bookmark_id": 901340378,
+    "instapaper_time": 1493689769,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:04:08.269361",
+  "updated_at": "2025-08-05T14:04:08.269364"
+}

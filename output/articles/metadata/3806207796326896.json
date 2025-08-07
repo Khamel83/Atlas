@@ -1,0 +1,40 @@
+{
+  "uid": "3806207796326896",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.wired.com/2016/02/ultimate-simpsons-search-engine-pairs-quotes-with-stills/",
+  "title": "Ultimate Simpsons Search Engine Pairs Quotes With Stills WIRED",
+  "status": "selection_content_extracted",
+  "date": "2016-02-03T10:40:26",
+  "error": null,
+  "content_path": "output/articles/markdown/3806207796326896.md",
+  "html_path": "output/articles/html/3806207796326896.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4593,
+    "selection_length": 158,
+    "cleaned_selection_length": 170,
+    "domain": "wired.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3806207796326896",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1454524826",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Meet Frinkiac. You're going to be spending a lot of time together.\n\nThe post Ultimate Simpsons Search Engine Pairs Quotes With Stills appeared first on WIRED.",
+    "cleaned_selection": "<p>Meet Frinkiac. You're going to be spending a lot of time together.</p><p>The post Ultimate Simpsons Search Engine Pairs Quotes With Stills appeared first on WIRED.</p>",
+    "domain": "wired.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.340789",
+  "updated_at": "2025-08-06T08:47:04.340792"
+}

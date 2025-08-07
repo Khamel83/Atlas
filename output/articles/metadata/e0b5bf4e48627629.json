@@ -1,0 +1,40 @@
+{
+  "uid": "e0b5bf4e48627629",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2014/09/when-does-it-make-sense-to-book-a-non-saver-award.html",
+  "title": "When Does it Make Sense to Book a Non-Saver Award Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2014-09-17T22:18:05",
+  "error": null,
+  "content_path": "output/articles/markdown/e0b5bf4e48627629.md",
+  "html_path": "output/articles/html/e0b5bf4e48627629.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5136,
+    "selection_length": 361,
+    "cleaned_selection_length": 368,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e0b5bf4e48627629",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1411017485",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Conventional wisdom (a.k.a. the blogosphere) tells us we should squeeze as much out of our mileage redemptions as possible. This involves investigating the best programs for particular destinations, booking premium seats to get the most bang for your buck, and redeeming the lowest award level possible — saver awards. It makes sense. A saver award requires […]",
+    "cleaned_selection": "<p>Conventional wisdom (a.k.a. the blogosphere) tells us we should squeeze as much out of our mileage redemptions as possible. This involves investigating the best programs for particular destinations, booking premium seats to get the most bang for your buck, and redeeming the lowest award level possible — saver awards. It makes sense. A saver award requires […]</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.488994",
+  "updated_at": "2025-08-06T08:47:04.488995"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "9e82159e67273824",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/9814fd527c6fd7ecd3606dca90d4682e/",
+  "title": "The Enchanted Notebook",
+  "status": "converted_from_csv",
+  "date": "2022-09-26T05:47:04",
+  "error": null,
+  "content_path": "output/articles/markdown/9e82159e67273824.md",
+  "html_path": "output/articles/html/9e82159e67273824.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1215,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fb4ead417146deed402a3af158cebeb2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1664196424",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-09-26T05:47:04",
+  "updated_at": "2022-09-26T05:47:04"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "2fb3bd15365aec33",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/1558161/the-best-credit-cards-to-have-in-your-wallet/",
+  "title": "The best credit cards to have in your wallet Quartz",
+  "status": "selection_content_extracted",
+  "date": "2019-03-08T21:48:41",
+  "error": null,
+  "content_path": "output/articles/markdown/2fb3bd15365aec33.md",
+  "html_path": "output/articles/html/2fb3bd15365aec33.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3207,
+    "selection_length": 133,
+    "cleaned_selection_length": 140,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2fb3bd15365aec33",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1552110521",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "These days, using the right credit card to buy groceries can earn you a free trip to Florida. But getting that trip takes having the…",
+    "cleaned_selection": "<p>These days, using the right credit card to buy groceries can earn you a free trip to Florida. But getting that trip takes having the…</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.783242",
+  "updated_at": "2025-08-06T08:47:03.783243"
+}

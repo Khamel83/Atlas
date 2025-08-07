@@ -12,7 +12,7 @@ Atlas has **4 critical implementation gaps** that prevent core cognitive feature
 
 #### Missing Methods:
 - `get_forgotten_content()` - Query old/stale content for proactive surfacing
-- `get_all_metadata()` - Retrieve all metadata for pattern analysis  
+- `get_all_metadata()` - Retrieve all metadata for pattern analysis
 - `get_temporal_patterns()` - Time-based relationship analysis
 - `get_recall_items()` - Spaced repetition scheduling data
 - `get_tag_patterns()` - Tag frequency and source analysis
@@ -114,7 +114,7 @@ Atlas has **4 critical implementation gaps** that prevent core cognitive feature
 
 ### **Time Breakdown**:
 - **MetadataManager methods**: 20-30 hours
-- **Ask subsystem fixes**: 15-25 hours  
+- **Ask subsystem fixes**: 15-25 hours
 - **Web dashboard updates**: 10-15 hours
 - **Documentation fixes**: 2-4 hours
 - **Testing and integration**: 10-15 hours
@@ -122,7 +122,7 @@ Atlas has **4 critical implementation gaps** that prevent core cognitive feature
 
 ### **Team Requirements**:
 - **1 Senior Python Developer** - 40-60 hours
-- **1 Web Developer** - 10-15 hours  
+- **1 Web Developer** - 10-15 hours
 - **1 Technical Writer** - 2-4 hours
 - **1 QA Engineer** - 10-15 hours
 

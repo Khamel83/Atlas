@@ -1,0 +1,34 @@
+{
+  "uid": "1713d9fc1f0996ba",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/1fad72b6e01caf90945725657897f5a1/",
+  "title": "Zuckerberg’s House Hearing, Toutiao’s Apology, Apple’s Siri Hire (Stratechery Daily Update 4-12-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-04-12T04:52:01",
+  "error": null,
+  "content_path": "output/articles/markdown/1713d9fc1f0996ba.md",
+  "html_path": "output/articles/html/1713d9fc1f0996ba.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3549,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "210c19a760f282463b180ae3bc011b3c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1523533921",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-04-12T04:52:01",
+  "updated_at": "2018-04-12T04:52:01"
+}

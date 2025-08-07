@@ -1,0 +1,34 @@
+{
+  "uid": "bc947e428a9ca9d6",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/health/archive/2021/09/coronavirus-pandemic-ventilation-rethinking-air/620000/",
+  "title": "The Plan to Stop Every Respiratory Virus at Once",
+  "status": "converted_from_csv",
+  "date": "2021-09-09T12:48:39",
+  "error": null,
+  "content_path": "output/articles/markdown/bc947e428a9ca9d6.md",
+  "html_path": "output/articles/html/bc947e428a9ca9d6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1985,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "efdde1a61934bfc679066914e1d3f6a6",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1631216919",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-09-09T12:48:39",
+  "updated_at": "2021-09-09T12:48:39"
+}

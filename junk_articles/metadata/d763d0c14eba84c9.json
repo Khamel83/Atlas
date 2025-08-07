@@ -1,0 +1,34 @@
+{
+  "uid": "d763d0c14eba84c9",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/a5c38f9bef032ae721b748c2bf7fdbe9/",
+  "title": "PREWRITE DO NOT PUBLISH: It happened again",
+  "status": "converted_from_csv",
+  "date": "2020-11-27T04:10:17",
+  "error": null,
+  "content_path": "output/articles/markdown/d763d0c14eba84c9.md",
+  "html_path": "output/articles/html/d763d0c14eba84c9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2621,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a5d38d60c08964f0eeb24d5c9bf18b44",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1606479017",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-11-27T04:10:17",
+  "updated_at": "2020-11-27T04:10:17"
+}

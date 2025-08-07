@@ -1,0 +1,34 @@
+{
+  "uid": "74b6a884e698c408",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0624467a70f939fb921436dc031149a6/",
+  "title": "After the QAnon Ban, Who's Next?",
+  "status": "converted_from_csv",
+  "date": "2020-10-07T17:56:07",
+  "error": null,
+  "content_path": "output/articles/markdown/74b6a884e698c408.md",
+  "html_path": "output/articles/html/74b6a884e698c408.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2735,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4fdc1683fb82b26e31c5019f03f80099",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1602118567",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-10-07T17:56:07",
+  "updated_at": "2020-10-07T17:56:07"
+}

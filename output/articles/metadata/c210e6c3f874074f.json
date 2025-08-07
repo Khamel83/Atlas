@@ -1,0 +1,40 @@
+{
+  "uid": "c210e6c3f874074f",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.fangraphs.com/blogs/evaluating-the-2016-prospects-chicago-white-sox/",
+  "title": "Evaluating the 2016 Prospects Chicago White Sox FanGraphs Baseball",
+  "status": "selection_content_extracted",
+  "date": "2016-01-28T07:07:36",
+  "error": null,
+  "content_path": "output/articles/markdown/c210e6c3f874074f.md",
+  "html_path": "output/articles/html/c210e6c3f874074f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4609,
+    "selection_length": 316,
+    "cleaned_selection_length": 323,
+    "domain": "fangraphs.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c210e6c3f874074f",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1453993656",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Other clubs: Braves, Cubs, Diamondbacks, Orioles, Red Sox. The White Sox have seen their lowly regarded farm system weakened by the Todd Frazier deal, but they still have a few guys at the top who could be impact players. This system’s biggest strength is in its depth of depth pieces, including a lot of bullpen […]",
+    "cleaned_selection": "<p>Other clubs: Braves, Cubs, Diamondbacks, Orioles, Red Sox. The White Sox have seen their lowly regarded farm system weakened by the Todd Frazier deal, but they still have a few guys at the top who could be impact players. This system’s biggest strength is in its depth of depth pieces, including a lot of bullpen […]</p>",
+    "domain": "fangraphs.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.344285",
+  "updated_at": "2025-08-06T08:47:04.344286"
+}

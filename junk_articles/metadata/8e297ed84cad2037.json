@@ -1,0 +1,34 @@
+{
+  "uid": "8e297ed84cad2037",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2024/05/08/magazine/401k-retirement-crisis.html",
+  "title": "Was the 401(k) a Mistake?",
+  "status": "converted_from_csv",
+  "date": "2024-05-08T10:23:58",
+  "error": null,
+  "content_path": "output/articles/markdown/8e297ed84cad2037.md",
+  "html_path": "output/articles/html/8e297ed84cad2037.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 296,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3dc9a39032136d5df8f9edaf8b97e46e",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1715189038",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-05-08T10:23:58",
+  "updated_at": "2024-05-08T10:23:58"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "258067bf46752d5d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.core77.com//posts/67982/Four-New-Objects-We-Didnt-Expect-to-See-From-Ikea",
+  "title": "Four New Objects We Didn't Expect to See From Ikea Core77",
+  "status": "selection_content_extracted",
+  "date": "2017-07-26T13:50:36",
+  "error": null,
+  "content_path": "output/articles/markdown/258067bf46752d5d.md",
+  "html_path": "output/articles/html/258067bf46752d5d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3873,
+    "selection_length": 1442,
+    "cleaned_selection_length": 1494,
+    "domain": "core77.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "258067bf46752d5d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1501102236",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Ikea's getting ready to release their 2018 catalog. While it won't be available until August, we got a look at a pre-release version, and went through it to see if anything jumped out at us. We found the new furniture offerings to be standard fare, but there are four new objects that we didn't quite expect to see:\n\nSNOFSA Clock $12.99\n\nMade from glass and powder-coated steel done up with a brass finish, this visually arresting, Art-Deco-ish clock speaks of the designers being given some leeway.\n\nÖSTERNÄS Leather handles $9.99/2pk and $12.99/2pk\n\nMade from \"Through dyed grain leather from cattle, with a treated and pigmented surface and stainless steel,\" these leather handle pulls take a cue from luxury furniture, and will go a long way towards dressing up an otherwise plain storage unit.\n\nTILLSYN Hourglass $7.99\n\nIt's not Marc Newson's $12,000 Hodinkee model, though it borrows the colors of the beads. I've also recently spotted hourglasses for sale at CB2; in this age of digital timers, are throwback hourglasses becoming a thing?\n\nFADO Table lamp $19.99\n\nBuyers can choose between a yellow or grey tint for the glass globe, which is roughly 9\" in diameters. The Edison-looking bulb within is actually an LED bulb. It's obviously a mood light and not a task light, but it's a damn sight better looking than the cheapie paper-clad models Ikea is known for.\n\nThe 2018 Ikea Catalog will be available to the public in early August.",
+    "cleaned_selection": "<p>Ikea's getting ready to release their 2018 catalog. While it won't be available until August, we got a look at a pre-release version, and went through it to see if anything jumped out at us. We found the new furniture offerings to be standard fare, but there are four new objects that we didn't quite expect to see:</p><p>SNOFSA Clock $12.99</p><p>Made from glass and powder-coated steel done up with a brass finish, this visually arresting, Art-Deco-ish clock speaks of the designers being given some leeway.</p><p>ÖSTERNÄS Leather handles $9.99/2pk and $12.99/2pk</p><p>Made from \"Through dyed grain leather from cattle, with a treated and pigmented surface and stainless steel,\" these leather handle pulls take a cue from luxury furniture, and will go a long way towards dressing up an otherwise plain storage unit.</p><p>TILLSYN Hourglass $7.99</p><p>It's not Marc Newson's $12,000 Hodinkee model, though it borrows the colors of the beads. I've also recently spotted hourglasses for sale at CB2; in this age of digital timers, are throwback hourglasses becoming a thing?</p><p>FADO Table lamp $19.99</p><p>Buyers can choose between a yellow or grey tint for the glass globe, which is roughly 9\" in diameters. The Edison-looking bulb within is actually an LED bulb. It's obviously a mood light and not a task light, but it's a damn sight better looking than the cheapie paper-clad models Ikea is known for.</p><p>The 2018 Ikea Catalog will be available to the public in early August.</p>",
+    "domain": "core77.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.069976",
+  "updated_at": "2025-08-06T08:47:04.069978"
+}

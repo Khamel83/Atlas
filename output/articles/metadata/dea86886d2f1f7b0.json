@@ -1,0 +1,40 @@
+{
+  "uid": "dea86886d2f1f7b0",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://food52.com/blog/17540-15-reasons-in-recipe-form-to-sing-the-praises-of-the-cast-iron-pan",
+  "title": "15 Reasons (in Recipe Form) to Sing the Praises of the Cast Iron Pan Food52",
+  "status": "selection_content_extracted",
+  "date": "2016-07-29T20:15:21",
+  "error": null,
+  "content_path": "output/articles/markdown/dea86886d2f1f7b0.md",
+  "html_path": "output/articles/html/dea86886d2f1f7b0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4363,
+    "selection_length": 1854,
+    "cleaned_selection_length": 1977,
+    "domain": "food52.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "dea86886d2f1f7b0",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1469848521",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "A chef's right hand may be their knife, but the left hand—at least in my kitchen—is the castiron skillet, which earns its keep at least twice over. Some love their cast iron pans so much they go on and write odes to it in the form of ​cookbooks​, like Charlotte Druckman did. Use it on the grill, or in the oven, or over a roaring fire at your campsite, or on top of a wood-burning oven, or on your stovetop for everything from a brunchy pan of shakshuka to a birthday cake.\n\nThe pan itself is mythic and revered, often with a story about where it came from (my dad pulled mine off the side of the road and seasoned it for me) and it's happy as a clam as long as you care for it (a process oft-debated).\n\nIt also carries a dose of cabin-in-the-woods romanticism to it—so there's no better time to sing its praises than during Summer Camp Week.\n\nHere are just a few of the recipes that inspire us to pull out our skillets:\n\nSauteed Corn, Green Onions, and Shiitake Mushrooms\nby healthierkitchen\nChimichurri Shrimp\nby Alexandra Stafford\nMoroccan Chicken Hash with Harissa Cream\nby hardlikearmour\nRaspberry-Rhubarb Crumble with Cracklin' Oat Bran Topping\nby Sarah Jampel\nSkillet-Grilled Fish Tacos with Cilantro-Lime Crema\nby Alexandra Stafford\nJosh Ozersky's 3-Minute Hash Browns\nby Genius Recipes\nBrown Butter Nutella Skillet Cookie\nby Phyllis Grant\nSpring Vegetable Jumble with Lemon-Tarragon Butter\nby fiveandspice\n\nFresh Fig Cornbread\nby fiveandspice\nAvocado Cornbread\nby aargersi\n\nSkillet Strata with Bacon, Cheddar, and Greens\nby Alexandra Stafford\nDyers Island Lobster Hash\nby Stephen Gray\nSocca (Farinata)\nby Gena Hamshaw\nCreamed Leek and Egg Skillet Pizza\nby fiveandspice\nNew England Spider Cake\nby Sarah Jampel\n\nIs there one recipe you always make in your cast-iron pan? Or a fable about how your pan came into your life? Tell us in the comments.",
+    "cleaned_selection": "<p>A chef's right hand may be their knife, but the left hand—at least in my kitchen—is the castiron skillet, which earns its keep at least twice over. Some love their cast iron pans so much they go on and write odes to it in the form of ​cookbooks​, like Charlotte Druckman did. Use it on the grill, or in the oven, or over a roaring fire at your campsite, or on top of a wood-burning oven, or on your stovetop for everything from a brunchy pan of shakshuka to a birthday cake.</p><p>The pan itself is mythic and revered, often with a story about where it came from (my dad pulled mine off the side of the road and seasoned it for me) and it's happy as a clam as long as you care for it (a process oft-debated).</p><p>It also carries a dose of cabin-in-the-woods romanticism to it—so there's no better time to sing its praises than during Summer Camp Week.</p><p>Here are just a few of the recipes that inspire us to pull out our skillets:</p><p>Sauteed Corn, Green Onions, and Shiitake Mushrooms<br>by healthierkitchen<br>Chimichurri Shrimp<br>by Alexandra Stafford<br>Moroccan Chicken Hash with Harissa Cream<br>by hardlikearmour<br>Raspberry-Rhubarb Crumble with Cracklin' Oat Bran Topping<br>by Sarah Jampel<br>Skillet-Grilled Fish Tacos with Cilantro-Lime Crema<br>by Alexandra Stafford<br>Josh Ozersky's 3-Minute Hash Browns<br>by Genius Recipes<br>Brown Butter Nutella Skillet Cookie<br>by Phyllis Grant<br>Spring Vegetable Jumble with Lemon-Tarragon Butter<br>by fiveandspice</p><p>Fresh Fig Cornbread<br>by fiveandspice<br>Avocado Cornbread<br>by aargersi</p><p>Skillet Strata with Bacon, Cheddar, and Greens<br>by Alexandra Stafford<br>Dyers Island Lobster Hash<br>by Stephen Gray<br>Socca (Farinata)<br>by Gena Hamshaw<br>Creamed Leek and Egg Skillet Pizza<br>by fiveandspice<br>New England Spider Cake<br>by Sarah Jampel</p><p>Is there one recipe you always make in your cast-iron pan? Or a fable about how your pan came into your life? Tell us in the comments.</p>",
+    "domain": "food52.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.304286",
+  "updated_at": "2025-08-06T08:47:04.304287"
+}

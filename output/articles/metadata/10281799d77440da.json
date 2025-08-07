@@ -1,0 +1,40 @@
+{
+  "uid": "10281799d77440da",
+  "content_type": "instapaper",
+  "source": "https://www.theverge.com/2021/1/11/22225548/mode-smart-cannabis-device-dosing-algorithm-ces",
+  "title": "Mode aims high for the perfect puff of weed The Verge",
+  "status": "success",
+  "date": "2025-08-05T13:40:37.439180",
+  "error": null,
+  "content_path": "output/articles/markdown/10281799d77440da.md",
+  "html_path": "output/articles/html/10281799d77440da.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3719aacb1b5c000770d0abd5225db3b4",
+  "type_specific": {
+    "bookmark_id": 1377493501,
+    "instapaper_time": 1610431954,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:40:37.439516",
+  "updated_at": "2025-08-05T13:40:37.439520"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "c4094cc7556f94db",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1085281/weight-loss-researchers-may-have-found-a-way-to-convert-bad-fat-into-good-fat-that-burns-calories/",
+  "title": "Researchers may have found a way to convert “bad” fat into “good” fat that burns calories Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:59:20.440196",
+  "error": null,
+  "content_path": "output/articles/markdown/c4094cc7556f94db.md",
+  "html_path": "output/articles/html/c4094cc7556f94db.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "68afb42ec407e8a960504b39d14a3235",
+  "type_specific": {
+    "bookmark_id": 958500740,
+    "instapaper_time": 1506112074,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:59:20.440227",
+  "updated_at": "2025-08-05T13:59:20.440231"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "6065b8a3f24847ce",
+  "content_type": "instapaper",
+  "source": "https://thepointsguy.com/2017/09/treehouses-you-can-stay-in/",
+  "title": "11 Treehouses You Can Actually Stay In The Points Guy",
+  "status": "success",
+  "date": "2025-08-05T14:00:30.058029",
+  "error": null,
+  "content_path": "output/articles/markdown/6065b8a3f24847ce.md",
+  "html_path": "output/articles/html/6065b8a3f24847ce.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "aa2d891f638e48ac3514a2f068619e45",
+  "type_specific": {
+    "bookmark_id": 950290878,
+    "instapaper_time": 1504392136,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:00:30.058058",
+  "updated_at": "2025-08-05T14:00:30.058061"
+}

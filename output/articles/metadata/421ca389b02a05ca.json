@@ -1,0 +1,40 @@
+{
+  "uid": "421ca389b02a05ca",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.vox.com/science-and-health/2017/7/14/15882210/solar-eclipse-2017-us-posters",
+  "title": "These gorgeous posters of national parks will make you excited for the solar eclipse Vox - All",
+  "status": "selection_content_extracted",
+  "date": "2017-07-14T12:28:32",
+  "error": null,
+  "content_path": "output/articles/markdown/421ca389b02a05ca.md",
+  "html_path": "output/articles/html/421ca389b02a05ca.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3888,
+    "selection_length": 2398,
+    "cleaned_selection_length": 2457,
+    "domain": "vox.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "421ca389b02a05ca",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1500060512",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "There’s still time to plan a trip to watch the rare solar eclipse, which will cut across the US on August 21. And if you want to experience it in some of the most beautiful spots in the country, you’re in luck: There are 20 national parks and nine national trails in the path of the totality.​\n\nArtist and educator Tyler Nordgren, a professor of physics and astronomy at the University of Redlands in California​, saw an opportunity to use the National Parks to educate people about space science.\n\nAnd so he decided to put his artistic talent to use for the upcoming solar eclipse. His posters are inspired by the art used in midcentury Works Progress Administration materials. (Check out these WPA-style posters from the Department of Energy celebrating the US energy revolution.) And they’re pretty cool.\n\nTyler Nordgren\nTyler Nordgren\nTyler Nordgren\nNordgren first starting drawing professionally when he made the illustration for the cover of his book. He once teamed up with the NPS on a poster campaign to “See the Milky Way” where “Half the park is after dark” — a slogan he came up with on his own.\n\nYou can read his artist’s statement here.\n\nTyler Nordgren\nMost of the US will see a partial eclipse on August 21. If you want the full experience, you'll need to be within the 60-mile-wide path of the totality — when the sky goes dark for a few minutes in the middle of the day. Luckily, NASA has mapped out the best places to be for this sight in August.\n\nAs for Nordgren, he'll be watching the eclipse from right outside the main headquarters of John Day Fossil Beds National Monument in Oregon. While the location will be great for viewing, Nordgren told me via email, the state has a lot to get ready for.\n\n“The state is very worried about the possibility of 100,000 people descending on that sparsely populated part of the state, getting in massive 8-hour long traffic jams, and having some newbie-camper in the forest accidentally starting a major forest fire that traps tens of thousands,” he writes. “So it could be great, or it could be a major apocalypse, in which case, maybe the ancients will have been right about eclipses all along. Fortunately, Oregon officials are hoping for the best but planning for the worst.”\n\nIf you’re not up for braving the eclipse-catching crowds in the path of the totality, you’ll still be able to catch a partial eclipse from anywhere in the US.",
+    "cleaned_selection": "<p>There’s still time to plan a trip to watch the rare solar eclipse, which will cut across the US on August 21. And if you want to experience it in some of the most beautiful spots in the country, you’re in luck: There are 20 national parks and nine national trails in the path of the totality.​</p><p>Artist and educator Tyler Nordgren, a professor of physics and astronomy at the University of Redlands in California​, saw an opportunity to use the National Parks to educate people about space science.</p><p>And so he decided to put his artistic talent to use for the upcoming solar eclipse. His posters are inspired by the art used in midcentury Works Progress Administration materials. (Check out these WPA-style posters from the Department of Energy celebrating the US energy revolution.) And they’re pretty cool.</p><p>Tyler Nordgren<br>Tyler Nordgren<br>Tyler Nordgren<br>Nordgren first starting drawing professionally when he made the illustration for the cover of his book. He once teamed up with the NPS on a poster campaign to “See the Milky Way” where “Half the park is after dark” — a slogan he came up with on his own.</p><p>You can read his artist’s statement here.</p><p>Tyler Nordgren<br>Most of the US will see a partial eclipse on August 21. If you want the full experience, you'll need to be within the 60-mile-wide path of the totality — when the sky goes dark for a few minutes in the middle of the day. Luckily, NASA has mapped out the best places to be for this sight in August.</p><p>As for Nordgren, he'll be watching the eclipse from right outside the main headquarters of John Day Fossil Beds National Monument in Oregon. While the location will be great for viewing, Nordgren told me via email, the state has a lot to get ready for.</p><p>“The state is very worried about the possibility of 100,000 people descending on that sparsely populated part of the state, getting in massive 8-hour long traffic jams, and having some newbie-camper in the forest accidentally starting a major forest fire that traps tens of thousands,” he writes. “So it could be great, or it could be a major apocalypse, in which case, maybe the ancients will have been right about eclipses all along. Fortunately, Oregon officials are hoping for the best but planning for the worst.”</p><p>If you’re not up for braving the eclipse-catching crowds in the path of the totality, you’ll still be able to catch a partial eclipse from anywhere in the US.</p>",
+    "domain": "vox.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.080648",
+  "updated_at": "2025-08-06T08:47:04.080650"
+}

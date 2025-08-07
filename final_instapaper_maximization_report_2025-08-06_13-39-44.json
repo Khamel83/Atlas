@@ -1,0 +1,200 @@
+{
+  "maximization_timestamp": "2025-08-06_13-39-44",
+  "total_tests_run": 7,
+  "total_new_content_found": 28,
+  "test_results": {
+    "archive_folder": {
+      "new_content_found": 10,
+      "extractable_archive_content": {
+        "1872510144": {
+          "title": "The AI bubble is so big it's propping up the US economy (for now)",
+          "content_length": 25792,
+          "strategy": "archive_strategy_2"
+        },
+        "1872383588": {
+          "title": "What the Columbia Settlement Really Means",
+          "content_length": 18887,
+          "strategy": "archive_strategy_2"
+        },
+        "1871942583": {
+          "title": "Where Human Labor Meets ‘Digital Labor’",
+          "content_length": 5095,
+          "strategy": "archive_strategy_2"
+        },
+        "1871454062": {
+          "title": "AI Is Coming for the Consultants. Inside McKinsey, ‘This Is Existential.’",
+          "content_length": 1143,
+          "strategy": "archive_strategy_2"
+        },
+        "1871332105": {
+          "title": "A.I. Researchers Are Negotiating $250 Million Pay Packages. Just Like NBA Stars.",
+          "content_length": 4422,
+          "strategy": "archive_strategy_2"
+        },
+        "1871331769": {
+          "title": "Thanks for Your $1 Billion Job Offer, Mark Zuckerberg. I’m Gonna Pass.",
+          "content_length": 1237,
+          "strategy": "archive_strategy_2"
+        },
+        "1869333217": {
+          "title": "Joel Embiid sees you",
+          "content_length": 82171,
+          "strategy": "archive_strategy_2"
+        },
+        "1860830101": {
+          "title": "The Trouble With Wanting Men",
+          "content_length": 32761,
+          "strategy": "archive_strategy_2"
+        },
+        "1858976170": {
+          "title": "Opinion | Why People Can’t Quit ChatGPT - The New York Times",
+          "content_length": 10760,
+          "strategy": "archive_strategy_2"
+        },
+        "1849979055": {
+          "title": "Can the NFL overcome Trump’s anti-Canada rhetoric? The Bills are banking on it",
+          "content_length": 21625,
+          "strategy": "archive_strategy_2"
+        }
+      }
+    },
+    "starred_folder": {
+      "new_content_found": 18,
+      "starred_content": {
+        "1872510144": {
+          "title": "The AI bubble is so big it's propping up the US economy (for now)",
+          "content_length": 25792
+        },
+        "1872383588": {
+          "title": "What the Columbia Settlement Really Means",
+          "content_length": 18887
+        },
+        "1871942583": {
+          "title": "Where Human Labor Meets ‘Digital Labor’",
+          "content_length": 5095
+        },
+        "1871454062": {
+          "title": "AI Is Coming for the Consultants. Inside McKinsey, ‘This Is Existential.’",
+          "content_length": 1143
+        },
+        "1871332105": {
+          "title": "A.I. Researchers Are Negotiating $250 Million Pay Packages. Just Like NBA Stars.",
+          "content_length": 4422
+        },
+        "1871331769": {
+          "title": "Thanks for Your $1 Billion Job Offer, Mark Zuckerberg. I’m Gonna Pass.",
+          "content_length": 1237
+        },
+        "1869333217": {
+          "title": "Joel Embiid sees you",
+          "content_length": 82171
+        },
+        "1860830101": {
+          "title": "The Trouble With Wanting Men",
+          "content_length": 32761
+        },
+        "1858976170": {
+          "title": "Opinion | Why People Can’t Quit ChatGPT - The New York Times",
+          "content_length": 10760
+        },
+        "1849979055": {
+          "title": "Can the NFL overcome Trump’s anti-Canada rhetoric? The Bills are banking on it",
+          "content_length": 21625
+        },
+        "1847447083": {
+          "title": "Debacle in the desert: will the Athletics’ $1.75bn stadium on the Vegas Strip ever be built?",
+          "content_length": 11643
+        },
+        "1774696548": {
+          "title": "The ultimate guide to negotiating your comp",
+          "content_length": 23479
+        },
+        "1771463981": {
+          "title": "The Populist Right Must Own Tariffs",
+          "content_length": 8988
+        },
+        "1770773020": {
+          "title": "The group chats that changed America",
+          "content_length": 43757
+        },
+        "1764578927": {
+          "title": "Favorite Products/AI - Q2 2025 Survey Results",
+          "content_length": 7228
+        },
+        "1764517418": {
+          "title": "Hyperlegible 002: Utsav Mamoria",
+          "content_length": 6343
+        },
+        "1764322695": {
+          "title": "💥Dodge This💥",
+          "content_length": 70318
+        },
+        "1764169049": {
+          "title": "Note to Readers",
+          "content_length": 16573
+        }
+      }
+    },
+    "pagination_strategies": {
+      "new_content_found": 0,
+      "unique_items_found": 500
+    },
+    "folder_redistribution": {
+      "new_content_found": 0,
+      "folder_analysis": {
+        "unread": {
+          "total_items": 102,
+          "private_newsletters": 66
+        },
+        "archive": {
+          "total_items": 102,
+          "private_newsletters": 66
+        },
+        "starred": {
+          "total_items": 102,
+          "private_newsletters": 66
+        },
+        "all": {
+          "total_items": 102,
+          "private_newsletters": 66
+        }
+      }
+    },
+    "alternative_endpoints": {
+      "new_content_found": 0,
+      "endpoint_results": {
+        "folders/list": {
+          "status_code": 200,
+          "response_length": 1083
+        },
+        "bookmarks/list": {
+          "status_code": 200,
+          "response_length": 8707
+        },
+        "account/verify_credentials": {
+          "status_code": 200,
+          "response_length": 102
+        }
+      }
+    },
+    "csv_batch_processing": {
+      "new_content_found": 0,
+      "note": "Would require CSV bookmark ID parsing implementation"
+    },
+    "search_api": {
+      "new_content_found": 0,
+      "note": "Search API exploration completed"
+    }
+  },
+  "best_strategies": [
+    [
+      "archive_folder",
+      10
+    ],
+    [
+      "starred_folder",
+      18
+    ]
+  ],
+  "conclusion": "ADDITIONAL_CONTENT_FOUND"
+}

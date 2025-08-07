@@ -1,0 +1,34 @@
+{
+  "uid": "6877edbb26f8914b",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/health/archive/2017/09/love-in-the-time-of-individualism/540474/",
+  "title": "Eli Finkel and Mark Regnerus on How Romance in America Has Changed - The Atlantic",
+  "status": "converted_from_csv",
+  "date": "2017-09-27T13:16:34",
+  "error": null,
+  "content_path": "output/articles/markdown/6877edbb26f8914b.md",
+  "html_path": "output/articles/html/6877edbb26f8914b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3785,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a1426bc6fc2406dd448783cf7b673428",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1506543394",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-09-27T13:16:34",
+  "updated_at": "2017-09-27T13:16:34"
+}

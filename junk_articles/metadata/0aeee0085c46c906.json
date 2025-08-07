@@ -1,0 +1,34 @@
+{
+  "uid": "0aeee0085c46c906",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/32aac10d6c31c47f06a7e144ec9abb65/",
+  "title": "Twitter's Chickens Come Home to Roost",
+  "status": "converted_from_csv",
+  "date": "2022-04-14T14:50:49",
+  "error": null,
+  "content_path": "output/articles/markdown/0aeee0085c46c906.md",
+  "html_path": "output/articles/html/0aeee0085c46c906.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1505,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cbac0f1cb380e3ee305c0c3554880fd9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1649973049",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-04-14T14:50:49",
+  "updated_at": "2022-04-14T14:50:49"
+}

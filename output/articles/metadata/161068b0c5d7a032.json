@@ -1,0 +1,26 @@
+{
+  "uid": "161068b0c5d7a032",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1723462655",
+  "title": "💥Inexact💥",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.914954",
+  "error": null,
+  "content_path": "output/articles/markdown/161068b0c5d7a032.md",
+  "html_path": "output/articles/html/161068b0c5d7a032.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1723462655,
+    "content_length": 14350,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1723462655,
+    "instapaper_time": 1730650640,
+    "is_private_content": true,
+    "content_length": 14350
+  },
+  "created_at": "2025-08-06T13:18:33.914966",
+  "updated_at": "2025-08-06T13:18:33.914969"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "7d8d0f09dc86a3e6",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/b2d6b24e4edf93c908b30c04820d6cc7/",
+  "title": "Aggregator's AI Risk (Stratechery Article 3-4-2024)",
+  "status": "converted_from_csv",
+  "date": "2024-03-04T07:51:08",
+  "error": null,
+  "content_path": "output/articles/markdown/7d8d0f09dc86a3e6.md",
+  "html_path": "output/articles/html/7d8d0f09dc86a3e6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 361,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d0d1c45e47c41498d981e5809f648589",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1709567468",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-03-04T07:51:08",
+  "updated_at": "2024-03-04T07:51:08"
+}

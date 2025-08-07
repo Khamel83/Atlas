@@ -1,0 +1,40 @@
+{
+  "uid": "e9d1cd120df9dd9c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://kottke.org/17/08/the-best-photos-and-videos-of-the-2017-solar-eclipse",
+  "title": "The best photos and videos of the 2017 solar eclipse kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2017-08-23T09:28:17",
+  "error": null,
+  "content_path": "output/articles/markdown/e9d1cd120df9dd9c.md",
+  "html_path": "output/articles/html/e9d1cd120df9dd9c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3840,
+    "selection_length": 843,
+    "cleaned_selection_length": 852,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e9d1cd120df9dd9c",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1503505697",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Photo and video credits from the top: Nashville progression photo by Richard Sparkman. HDR photo with Moon detail by Dennis Sprinkle (this one blew my mind a little). Rock climber by Ted Hesser (the story behind the photo). Progression photo by Jasman Lion Mander. Photo from the Alaska Airlines flight by Tanya Harrison. Video of the eclipse shadow moving across the Earth from the NOAA’s DSCOVR satellite. Neon cowboy photo by Rick Armstrong. ISS transit photo and video by Joel Kowsky. Partial eclipse video by NASA’s SDO spacecraft. Partial eclipse video by the ESA’s Proba-2 satellite. Video of the eclipse shadow moving across the US by the NOAA’s GOES-16 weather satellite.\n\nMore eclipse photos on Petapixel (and here), BBC, Bored Panda, The Verge, and the NY Times.\n\nTags: 2017 solar eclipse   astronomy   photography   science   video",
+    "cleaned_selection": "<p>Photo and video credits from the top: Nashville progression photo by Richard Sparkman. HDR photo with Moon detail by Dennis Sprinkle (this one blew my mind a little). Rock climber by Ted Hesser (the story behind the photo). Progression photo by Jasman Lion Mander. Photo from the Alaska Airlines flight by Tanya Harrison. Video of the eclipse shadow moving across the Earth from the NOAA’s DSCOVR satellite. Neon cowboy photo by Rick Armstrong. ISS transit photo and video by Joel Kowsky. Partial eclipse video by NASA’s SDO spacecraft. Partial eclipse video by the ESA’s Proba-2 satellite. Video of the eclipse shadow moving across the US by the NOAA’s GOES-16 weather satellite.</p><p>More eclipse photos on Petapixel (and here), BBC, Bored Panda, The Verge, and the NY Times.</p><p>Tags: 2017 solar eclipse astronomy photography science video</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.050735",
+  "updated_at": "2025-08-06T08:47:04.050771"
+}

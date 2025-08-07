@@ -1,0 +1,34 @@
+{
+  "uid": "4e91264a010558a9",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/3a88c7415f0b1053513c1612abffabdb/",
+  "title": "The News is America's New Religion, and We're in a Religious War",
+  "status": "converted_from_csv",
+  "date": "2021-09-30T07:24:35",
+  "error": null,
+  "content_path": "output/articles/markdown/4e91264a010558a9.md",
+  "html_path": "output/articles/html/4e91264a010558a9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1942,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ea584101a6cb72ef091286dcac8224dc",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1633011875",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-09-30T07:24:35",
+  "updated_at": "2021-09-30T07:24:35"
+}

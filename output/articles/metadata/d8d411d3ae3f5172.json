@@ -1,0 +1,40 @@
+{
+  "uid": "d8d411d3ae3f5172",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1127838/egypt-artists-el-side-effect-merge-everyday-scenes-from-egypt-with-outer-space/",
+  "title": "This photo collection visualizes everyday Egypt in outer space Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:55:07.838383",
+  "error": null,
+  "content_path": "output/articles/markdown/d8d411d3ae3f5172.md",
+  "html_path": "output/articles/html/d8d411d3ae3f5172.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4987e8810e63c0c7598c0271a6f3ba2c",
+  "type_specific": {
+    "bookmark_id": 988309048,
+    "instapaper_time": 1512236881,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:55:07.838550",
+  "updated_at": "2025-08-05T13:55:07.838554"
+}

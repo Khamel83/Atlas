@@ -1,0 +1,34 @@
+{
+  "uid": "703c4591ada51fb9",
+  "content_type": "web_bookmark",
+  "source": "http://www.thesartorialist.com/milan/on-the-street-via-solari-milan-10/",
+  "title": "On the Street…Via Solari, Milan The Sartorialist",
+  "status": "converted_from_csv",
+  "date": "2015-04-10T06:19:33",
+  "error": null,
+  "content_path": "output/articles/markdown/703c4591ada51fb9.md",
+  "html_path": "output/articles/html/703c4591ada51fb9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4891,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e901e19859bd0f3559334dcd9efb7fed",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1428671973",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-04-10T06:19:33",
+  "updated_at": "2015-04-10T06:19:33"
+}

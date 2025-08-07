@@ -1,0 +1,26 @@
+{
+  "uid": "df284a18d4aa9ecb",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1721626974",
+  "title": "Infinity Missions",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.918979",
+  "error": null,
+  "content_path": "output/articles/markdown/df284a18d4aa9ecb.md",
+  "html_path": "output/articles/html/df284a18d4aa9ecb.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1721626974,
+    "content_length": 42034,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1721626974,
+    "instapaper_time": 1730208846,
+    "is_private_content": true,
+    "content_length": 42034
+  },
+  "created_at": "2025-08-06T13:18:33.918984",
+  "updated_at": "2025-08-06T13:18:33.918986"
+}

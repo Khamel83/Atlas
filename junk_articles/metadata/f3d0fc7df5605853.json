@@ -1,0 +1,34 @@
+{
+  "uid": "f3d0fc7df5605853",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/bac52dcbc4a08b1bda11a8520c3755ff/",
+  "title": "Playing Solo Games",
+  "status": "converted_from_csv",
+  "date": "2021-10-18T05:56:01",
+  "error": null,
+  "content_path": "output/articles/markdown/f3d0fc7df5605853.md",
+  "html_path": "output/articles/html/f3d0fc7df5605853.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1899,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "635bccbfb80ebcb5df8f9a9aac385363",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1634561761",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-10-18T05:56:01",
+  "updated_at": "2021-10-18T05:56:01"
+}

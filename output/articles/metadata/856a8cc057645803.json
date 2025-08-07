@@ -1,0 +1,40 @@
+{
+  "uid": "856a8cc057645803",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://grantland.com/the-triangle/the-rams-make-or-break-season/",
+  "title": "The Rams’ Make-or-Break Season Grantland » Contributors » Bill Barnwell",
+  "status": "selection_content_extracted",
+  "date": "2015-08-17T08:48:29",
+  "error": null,
+  "content_path": "output/articles/markdown/856a8cc057645803.md",
+  "html_path": "output/articles/html/856a8cc057645803.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4775,
+    "selection_length": 105,
+    "cleaned_selection_length": 112,
+    "domain": "grantland.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "856a8cc057645803",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1439826509",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Will a new QB and a seasoned defense be enough for Jeff Fisher's squad to make the leap and save his job?",
+    "cleaned_selection": "<p>Will a new QB and a seasoned defense be enough for Jeff Fisher's squad to make the leap and save his job?</p>",
+    "domain": "grantland.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.387395",
+  "updated_at": "2025-08-06T08:47:04.387396"
+}

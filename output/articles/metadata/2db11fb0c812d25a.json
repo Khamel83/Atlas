@@ -1,0 +1,40 @@
+{
+  "uid": "2db11fb0c812d25a",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.vox.com/identities/2017/2/15/14625018/pew-survey-muslims-atheists-religion",
+  "title": "Survey American attitudes toward Muslims have improved Vox - All",
+  "status": "selection_content_extracted",
+  "date": "2017-02-15T13:24:14",
+  "error": null,
+  "content_path": "output/articles/markdown/2db11fb0c812d25a.md",
+  "html_path": "output/articles/html/2db11fb0c812d25a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4108,
+    "selection_length": 2427,
+    "cleaned_selection_length": 2484,
+    "domain": "vox.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2db11fb0c812d25a",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1487193854",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The country is — slowly but surely — moving in a more inclusive direction.\n\nAmericans have warmed toward almost all major religious groups, including Muslims and atheists, over the past few years.\n\nThat was the conclusion of a new report by the Pew Research Center, which gauged Americans’ attitudes toward religious groups by asking nearly 4,000 US adults to rate different groups through a “feeling” thermometer. Pew did a similar survey in 2014, but this time it found much higher ratings for different religious groups almost across the board.\n\nFor example: In June 2014, Americans on average gave Muslims 40 degrees — a very chilly rating. But in January 2017, that jumped up to 48 degrees. That’s still far from welcoming — and atheists and Mormons don’t fare much better — but it’s a notable increase in just a few years.\n\nPersonal proximity to a religion seemed to play a big role in the findings. People who identified as the religion they were rating were, not surprisingly, more likely to rate it higher. And people who knew someone who practiced the religion they were rating were — also not surprisingly, given a lot of sociological research — also more likely to rate it higher.\n\nThe latter could explain why Americans rated Muslims more highly this time around. According to Pew, “Fewer than half of Americans say they personally know a Mormon (43%) or a Muslim (45%), though more Americans say they know a Muslim today than said this in June of 2014 (38%).”\n\nAnother factor seemed to be partisanship. While Pew found that both Republicans and Democrats reported warmer feelings toward various religious groups, Democrats were much more likely to demonstrate big increases compared to 2014. So while Republicans saw a 6-degree bump in feelings toward Muslims, Democrats saw a bigger 10-degree jump.\n\nThe only group to not see any sort of increase, including among both Democrats and Republicans, was evangelical Christians.\n\nAgain, feelings toward some groups, particularly Muslims and atheists, remain fairly chilly. And it remains to be seen whether the increases will have any effect on views toward specific policies, such as President Donald Trump’s executive order to restrict immigration from seven Muslim-majority countries.\n\nBut Pew’s survey shows a notable improvement, indicating that America is slowly but surely moving in a more inclusive direction.\n\nWatch: Why Mormons identify with Syrian refugees",
+    "cleaned_selection": "<p>The country is — slowly but surely — moving in a more inclusive direction.</p><p>Americans have warmed toward almost all major religious groups, including Muslims and atheists, over the past few years.</p><p>That was the conclusion of a new report by the Pew Research Center, which gauged Americans’ attitudes toward religious groups by asking nearly 4,000 US adults to rate different groups through a “feeling” thermometer. Pew did a similar survey in 2014, but this time it found much higher ratings for different religious groups almost across the board.</p><p>For example: In June 2014, Americans on average gave Muslims 40 degrees — a very chilly rating. But in January 2017, that jumped up to 48 degrees. That’s still far from welcoming — and atheists and Mormons don’t fare much better — but it’s a notable increase in just a few years.</p><p>Personal proximity to a religion seemed to play a big role in the findings. People who identified as the religion they were rating were, not surprisingly, more likely to rate it higher. And people who knew someone who practiced the religion they were rating were — also not surprisingly, given a lot of sociological research — also more likely to rate it higher.</p><p>The latter could explain why Americans rated Muslims more highly this time around. According to Pew, “Fewer than half of Americans say they personally know a Mormon (43%) or a Muslim (45%), though more Americans say they know a Muslim today than said this in June of 2014 (38%).”</p><p>Another factor seemed to be partisanship. While Pew found that both Republicans and Democrats reported warmer feelings toward various religious groups, Democrats were much more likely to demonstrate big increases compared to 2014. So while Republicans saw a 6-degree bump in feelings toward Muslims, Democrats saw a bigger 10-degree jump.</p><p>The only group to not see any sort of increase, including among both Democrats and Republicans, was evangelical Christians.</p><p>Again, feelings toward some groups, particularly Muslims and atheists, remain fairly chilly. And it remains to be seen whether the increases will have any effect on views toward specific policies, such as President Donald Trump’s executive order to restrict immigration from seven Muslim-majority countries.</p><p>But Pew’s survey shows a notable improvement, indicating that America is slowly but surely moving in a more inclusive direction.</p><p>Watch: Why Mormons identify with Syrian refugees</p>",
+    "domain": "vox.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.168701",
+  "updated_at": "2025-08-06T08:47:04.168703"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "e82d185734612149",
+  "content_type": "instapaper",
+  "source": "https://fivethirtyeight.com/features/the-56-best-and-weirdest-charts-we-made-in-2019/",
+  "title": "The 56 Best — And Weirdest — Charts We Made In 2019 FiveThirtyEight",
+  "status": "success",
+  "date": "2025-08-05T13:41:54.780599",
+  "error": null,
+  "content_path": "output/articles/markdown/e82d185734612149.md",
+  "html_path": "output/articles/html/e82d185734612149.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "30a9cf8bfbbf0c0b4b829856547c9218",
+  "type_specific": {
+    "bookmark_id": 1263937214,
+    "instapaper_time": 1577569985,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:41:54.780705",
+  "updated_at": "2025-08-05T13:41:54.780710"
+}

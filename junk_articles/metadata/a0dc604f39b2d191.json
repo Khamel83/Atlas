@@ -1,0 +1,34 @@
+{
+  "uid": "a0dc604f39b2d191",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/03/27/magazine/mag-27Poker-t.html?partner=rss&emc=rss&pagewanted=print",
+  "title": "Online Poker’s Big Winner - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-04-03T21:22:28",
+  "error": null,
+  "content_path": "output/articles/markdown/a0dc604f39b2d191.md",
+  "html_path": "output/articles/html/a0dc604f39b2d191.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5808,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0afee809ead7150378e3a56a1f314c11",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1301890948",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-04-03T21:22:28",
+  "updated_at": "2011-04-03T21:22:28"
+}

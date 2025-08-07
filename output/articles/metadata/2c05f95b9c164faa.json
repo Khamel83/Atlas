@@ -1,0 +1,40 @@
+{
+  "uid": "2c05f95b9c164faa",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://theringer.com/top-100-simpsons-episodes-944725de5843",
+  "title": "The Insider’s Guide to the 100 Best ‘Simpsons’ Episodes Ever The Ringer - Medium",
+  "status": "selection_content_extracted",
+  "date": "2017-04-17T16:19:26",
+  "error": null,
+  "content_path": "output/articles/markdown/2c05f95b9c164faa.md",
+  "html_path": "output/articles/html/2c05f95b9c164faa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4011,
+    "selection_length": 1232,
+    "cleaned_selection_length": 1260,
+    "domain": "theringer.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2c05f95b9c164faa",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1492471166",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Best. Episodes. Ever.\n\nIt’s been 30 years since ‘The Simpsons’ first appeared in our homes. Now, the creators behind some of the show’s greatest half hours talk about TV’s most enduring institution.\n(Dan Evans)\nOn April 19, 1987, Homer, Marge, Bart, Lisa, and Maggie made their debut during a short on The Tracey Ullman Show. Two years later, Fox gave them their own program. In the three decades since, The Simpsons has become an American institution. To celebrate the 30th birthday of the greatest set of television characters of all time, let’s look back at the stories behind the 100 best Simpsons episodes.\n\nTo compile this list, I sought feedback from both hardcore Simpsons fans and former members of the show’s creative staff. Still, it was an inherently subjective undertaking. “You could choose every other episode from the first 200 episodes for your top 100 and you wouldn’t be too far off,” one Simpsons writer told me. I don’t claim to be a scientician, but I tried to be meticulous. So crack open a Duff and enjoy.\n\nThe Insider’s Guide to the 100 Best ‘Simpsons’ Episodes Ever was originally published in The Ringer on Medium, where people are continuing the conversation by highlighting and responding to this story.",
+    "cleaned_selection": "<p>Best. Episodes. Ever.</p><p>It’s been 30 years since ‘The Simpsons’ first appeared in our homes. Now, the creators behind some of the show’s greatest half hours talk about TV’s most enduring institution.<br>(Dan Evans)<br>On April 19, 1987, Homer, Marge, Bart, Lisa, and Maggie made their debut during a short on The Tracey Ullman Show. Two years later, Fox gave them their own program. In the three decades since, The Simpsons has become an American institution. To celebrate the 30th birthday of the greatest set of television characters of all time, let’s look back at the stories behind the 100 best Simpsons episodes.</p><p>To compile this list, I sought feedback from both hardcore Simpsons fans and former members of the show’s creative staff. Still, it was an inherently subjective undertaking. “You could choose every other episode from the first 200 episodes for your top 100 and you wouldn’t be too far off,” one Simpsons writer told me. I don’t claim to be a scientician, but I tried to be meticulous. So crack open a Duff and enjoy.</p><p>The Insider’s Guide to the 100 Best ‘Simpsons’ Episodes Ever was originally published in The Ringer on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>",
+    "domain": "theringer.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.131411",
+  "updated_at": "2025-08-06T08:47:04.131413"
+}

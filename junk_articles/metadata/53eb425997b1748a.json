@@ -1,0 +1,34 @@
+{
+  "uid": "53eb425997b1748a",
+  "content_type": "web_bookmark",
+  "source": "http://online.wsj.com/article/SB10001424052748703983104576262921972017168.html?mod=rss_whats_news_us",
+  "title": "The Confessions of an Inside Trader - WSJ.com",
+  "status": "converted_from_csv",
+  "date": "2011-04-16T22:25:26",
+  "error": null,
+  "content_path": "output/articles/markdown/53eb425997b1748a.md",
+  "html_path": "output/articles/html/53eb425997b1748a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5778,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bc49e5364db80ba54f50e1f7005d95a2",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1303017926",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-04-16T22:25:26",
+  "updated_at": "2011-04-16T22:25:26"
+}

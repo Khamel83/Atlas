@@ -1,0 +1,40 @@
+{
+  "uid": "928b52f6dbe1203b",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.nytimes.com/2012/02/08/us/radical-muslim-americans-pose-little-threat-study-says.html?src=tp&smid=fb-share",
+  "title": "login",
+  "status": "selection_content_extracted",
+  "date": "2012-02-07T23:18:13",
+  "error": null,
+  "content_path": "output/articles/markdown/928b52f6dbe1203b.md",
+  "html_path": "output/articles/html/928b52f6dbe1203b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5510,
+    "selection_length": 127,
+    "cleaned_selection_length": 134,
+    "domain": "nytimes.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "928b52f6dbe1203b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1328685493",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "&quot;Of about 14,000 murders in the United States last year, not a single one resulted from Islamic extremism&quot; -- Hooray?",
+    "cleaned_selection": "<p>&quot;Of about 14,000 murders in the United States last year, not a single one resulted from Islamic extremism&quot; -- Hooray?</p>",
+    "domain": "nytimes.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.519581",
+  "updated_at": "2025-08-06T08:47:04.519582"
+}

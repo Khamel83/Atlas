@@ -1,0 +1,34 @@
+{
+  "uid": "a15f3c37fa31fb24",
+  "content_type": "web_bookmark",
+  "source": "http://www.newyorker.com/magazine/2012/03/26/the-song-machine",
+  "title": "The Song Machine",
+  "status": "converted_from_csv",
+  "date": "2015-10-22T19:26:24",
+  "error": null,
+  "content_path": "output/articles/markdown/a15f3c37fa31fb24.md",
+  "html_path": "output/articles/html/a15f3c37fa31fb24.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4717,
+    "selection": "http://www.newyorker.com/magazine/2012/03/26/the-song-machine"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "69997c05e0481bf47bcfd23f0bf425b5",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1445567184",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "http://www.newyorker.com/magazine/2012/03/26/the-song-machine"
+  },
+  "video_id": null,
+  "created_at": "2015-10-22T19:26:24",
+  "updated_at": "2015-10-22T19:26:24"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "837c786fb7fee903",
+  "content_type": "web_bookmark",
+  "source": "http://www.economist.com/node/16564142/print",
+  "title": "A special report on Egypt: A slow learning curve | The Economist",
+  "status": "converted_from_csv",
+  "date": "2010-07-20T18:29:22",
+  "error": null,
+  "content_path": "output/articles/markdown/837c786fb7fee903.md",
+  "html_path": "output/articles/html/837c786fb7fee903.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6197,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "547ca40daf36e8a791e37ce13425b8b1",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1279675762",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-07-20T18:29:22",
+  "updated_at": "2010-07-20T18:29:22"
+}

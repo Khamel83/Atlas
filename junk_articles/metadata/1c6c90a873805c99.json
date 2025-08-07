@@ -1,0 +1,34 @@
+{
+  "uid": "1c6c90a873805c99",
+  "content_type": "web_bookmark",
+  "source": "https://www.theringer.com/nba/2018/1/12/16880892/nba-kris-dunn-chicago-bulls",
+  "title": "Dunn, Dunn, Dunn, Dunn: Is that Kris Dunn’s Music? - The Ringer",
+  "status": "converted_from_csv",
+  "date": "2018-01-12T15:36:05",
+  "error": null,
+  "content_path": "output/articles/markdown/1c6c90a873805c99.md",
+  "html_path": "output/articles/html/1c6c90a873805c99.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3660,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "381d119f689f93fbcf9ce24481fe82d3",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1515800165",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-01-12T15:36:05",
+  "updated_at": "2018-01-12T15:36:05"
+}

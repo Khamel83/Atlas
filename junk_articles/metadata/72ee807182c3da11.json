@@ -1,0 +1,34 @@
+{
+  "uid": "72ee807182c3da11",
+  "content_type": "web_bookmark",
+  "source": "http://xkcd.com/1468/",
+  "title": "Worrying xkcd.com",
+  "status": "converted_from_csv",
+  "date": "2015-01-01T22:39:15",
+  "error": null,
+  "content_path": "output/articles/markdown/72ee807182c3da11.md",
+  "html_path": "output/articles/html/72ee807182c3da11.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5001,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f7c294f55dcc5d8089ea4319de1c6aa8",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1420180755",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-01-01T22:39:15",
+  "updated_at": "2015-01-01T22:39:15"
+}

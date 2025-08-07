@@ -1,0 +1,40 @@
+{
+  "uid": "09ad6828dc33f1f1",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.chicagomag.com/Chicago-Magazine/October-2006/The-Strange-Case-of-the-Dentist-and-the-Pimp/",
+  "title": "The Strange Case of the Dentist and the Pimps - Chicago magazine - October 2006 - Chicago",
+  "status": "selection_content_extracted",
+  "date": "2012-01-21T15:20:30",
+  "error": null,
+  "content_path": "output/articles/markdown/09ad6828dc33f1f1.md",
+  "html_path": "output/articles/html/09ad6828dc33f1f1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5514,
+    "selection_length": 186,
+    "cleaned_selection_length": 193,
+    "domain": "chicagomag.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "09ad6828dc33f1f1",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1327188030",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "I moved into the apartment building right after this all went down - the condo board went even crazier (they even tried to claim they owned the rights to pictures taken of the building).",
+    "cleaned_selection": "<p>I moved into the apartment building right after this all went down - the condo board went even crazier (they even tried to claim they owned the rights to pictures taken of the building).</p>",
+    "domain": "chicagomag.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.521197",
+  "updated_at": "2025-08-06T08:47:04.521199"
+}

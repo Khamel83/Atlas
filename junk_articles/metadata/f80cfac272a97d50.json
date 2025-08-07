@@ -1,0 +1,34 @@
+{
+  "uid": "f80cfac272a97d50",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/43246274baf0cfe3fd8ab59e9df16d12/",
+  "title": "💥Carl Icahn Doing Carl-Icahn-y Things💥",
+  "status": "converted_from_csv",
+  "date": "2023-04-12T05:08:35",
+  "error": null,
+  "content_path": "output/articles/markdown/f80cfac272a97d50.md",
+  "html_path": "output/articles/html/f80cfac272a97d50.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 921,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "238b3c331e635055a0904b411b00aff1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1681301315",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-04-12T05:08:35",
+  "updated_at": "2023-04-12T05:08:35"
+}

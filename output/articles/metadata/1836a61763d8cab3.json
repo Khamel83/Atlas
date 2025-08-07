@@ -1,0 +1,40 @@
+{
+  "uid": "1836a61763d8cab3",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/08/philly-newark-to-costa-rica-from-193/",
+  "title": "Deal Alert PhillyNewark to Costa Rica on United from $193 The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-08-04T19:59:36",
+  "error": null,
+  "content_path": "output/articles/markdown/1836a61763d8cab3.md",
+  "html_path": "output/articles/html/1836a61763d8cab3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4791,
+    "selection_length": 361,
+    "cleaned_selection_length": 368,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1836a61763d8cab3",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1438743576",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Airfare deals are typically only available on limited dates. We recommend that you use Google Flights to find dates to fly, then book through an online travel agency, such as Orbitz, which allows you to cancel flights without penalty by 11pm Eastern Time within one day of booking. Remember: Fares may disappear quickly, so book right away and take advantage...",
+    "cleaned_selection": "<p>Airfare deals are typically only available on limited dates. We recommend that you use Google Flights to find dates to fly, then book through an online travel agency, such as Orbitz, which allows you to cancel flights without penalty by 11pm Eastern Time within one day of booking. Remember: Fares may disappear quickly, so book right away and take advantage...</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.392182",
+  "updated_at": "2025-08-06T08:47:04.392183"
+}

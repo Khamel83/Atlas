@@ -1,0 +1,34 @@
+{
+  "uid": "4376c100e0a34187",
+  "content_type": "web_bookmark",
+  "source": "https://noahpinion.substack.com/p/the-build-nothing-country",
+  "title": "The Build-Nothing Country - by Noah Smith - Noahpinion",
+  "status": "converted_from_csv",
+  "date": "2023-02-28T10:30:07",
+  "error": null,
+  "content_path": "output/articles/markdown/4376c100e0a34187.md",
+  "html_path": "output/articles/html/4376c100e0a34187.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 989,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bc635559f58b2675b8baa997657d7ed8",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1677609007",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-02-28T10:30:07",
+  "updated_at": "2023-02-28T10:30:07"
+}

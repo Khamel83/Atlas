@@ -1,0 +1,34 @@
+{
+  "uid": "81a33c2796d8cd40",
+  "content_type": "web_bookmark",
+  "source": "http://well.blogs.nytimes.com/2010/11/24/phys-ed-the-benefits-of-weight-training-for-kids/?pagemode=print",
+  "title": "The Benefits of Weight Training for Kids - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2010-11-26T18:52:32",
+  "error": null,
+  "content_path": "output/articles/markdown/81a33c2796d8cd40.md",
+  "html_path": "output/articles/html/81a33c2796d8cd40.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6073,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1e727cb8b0bb8ca9bf85ce996e276f25",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1290826352",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-11-26T18:52:32",
+  "updated_at": "2010-11-26T18:52:32"
+}

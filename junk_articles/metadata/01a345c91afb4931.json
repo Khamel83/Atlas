@@ -1,0 +1,34 @@
+{
+  "uid": "01a345c91afb4931",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/050d44d9d87ce4c29f11956c729d08b1/",
+  "title": "Listen to This Article: Campaign 2024, Officially Chaos",
+  "status": "converted_from_csv",
+  "date": "2023-08-04T11:10:16",
+  "error": null,
+  "content_path": "output/articles/markdown/01a345c91afb4931.md",
+  "html_path": "output/articles/html/01a345c91afb4931.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 721,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "491ad30167dcd0f81df7ea8c1027ece0",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1691172616",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-08-04T11:10:16",
+  "updated_at": "2023-08-04T11:10:16"
+}

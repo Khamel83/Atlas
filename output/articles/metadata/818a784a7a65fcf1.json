@@ -1,0 +1,40 @@
+{
+  "uid": "818a784a7a65fcf1",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://qz.com/611644/we-talked-to-five-experts-about-what-it-would-take-to-actually-institute-universal-basic-income/",
+  "title": "We talked to five experts about what it would take to actually institute Universal Basic Income Quartz",
+  "status": "selection_content_extracted",
+  "date": "2016-02-06T10:19:20",
+  "error": null,
+  "content_path": "output/articles/markdown/818a784a7a65fcf1.md",
+  "html_path": "output/articles/html/818a784a7a65fcf1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4583,
+    "selection_length": 166,
+    "cleaned_selection_length": 173,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "818a784a7a65fcf1",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1454782760",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Universal Basic Income (UBI) proposals are gaining in popularity across the political spectrum. The measures would see governments hand a set monthly income to every…",
+    "cleaned_selection": "<p>Universal Basic Income (UBI) proposals are gaining in popularity across the political spectrum. The measures would see governments hand a set monthly income to every…</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.336850",
+  "updated_at": "2025-08-06T08:47:04.336851"
+}

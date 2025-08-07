@@ -1,0 +1,34 @@
+{
+  "uid": "6b5ffd2a49e0f9f0",
+  "content_type": "web_bookmark",
+  "source": "https://www.newyorker.com/magazine/2020/09/14/how-my-mother-and-i-became-chinese-propaganda",
+  "title": "How My Mother and I Became Chinese Propaganda",
+  "status": "converted_from_csv",
+  "date": "2020-09-18T13:29:41",
+  "error": null,
+  "content_path": "output/articles/markdown/6b5ffd2a49e0f9f0.md",
+  "html_path": "output/articles/html/6b5ffd2a49e0f9f0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2760,
+    "selection": "https://www.newyorker.com/magazine/2020/09/14/how-my-mother-and-i-became-chinese-propaganda"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bc56e335fb11526e5fc9966ac312d7dd",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1600460981",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "https://www.newyorker.com/magazine/2020/09/14/how-my-mother-and-i-became-chinese-propaganda"
+  },
+  "video_id": null,
+  "created_at": "2020-09-18T13:29:41",
+  "updated_at": "2020-09-18T13:29:41"
+}

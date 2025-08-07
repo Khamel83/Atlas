@@ -1,0 +1,34 @@
+{
+  "uid": "6675928a4c13a5c2",
+  "content_type": "web_bookmark",
+  "source": "https://marker.medium.com/meet-the-investor-who-bet-early-on-warby-parker-dollar-shave-club-and-glossier-9809fc9ea1e",
+  "title": "Meet the Investor Who Bet Early on Warby Parker, Dollar Shave Club, and Glossier",
+  "status": "converted_from_csv",
+  "date": "2020-02-13T13:31:02",
+  "error": null,
+  "content_path": "output/articles/markdown/6675928a4c13a5c2.md",
+  "html_path": "output/articles/html/6675928a4c13a5c2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2877,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3d088813316d3dc540cfd21b9cb283b8",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1581629462",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-02-13T13:31:02",
+  "updated_at": "2020-02-13T13:31:02"
+}

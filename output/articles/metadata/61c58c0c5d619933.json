@@ -1,0 +1,40 @@
+{
+  "uid": "61c58c0c5d619933",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/policy-and-politics/2017/9/22/16345092/california-new-jersey-state-legislature-advances",
+  "title": "How 2 state legislatures are quietly making America a better place Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:59:18.994352",
+  "error": null,
+  "content_path": "output/articles/markdown/61c58c0c5d619933.md",
+  "html_path": "output/articles/html/61c58c0c5d619933.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2807fb7421ca2fbab8f76d6fffdf92cd",
+  "type_specific": {
+    "bookmark_id": 958516021,
+    "instapaper_time": 1506113174,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:59:18.994391",
+  "updated_at": "2025-08-05T13:59:18.994395"
+}

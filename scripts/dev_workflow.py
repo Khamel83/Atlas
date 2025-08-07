@@ -474,27 +474,27 @@ from helpers.config import load_config
 
 class TestPathManager:
     """Test cases for PathManager class."""
-    
+
     def setup_method(self):
         """Setup test environment."""
         self.config = load_config()
         self.path_manager = PathManager(self.config)
-    
+
     def test_initialization(self):
         """Test PathManager initialization."""
         assert self.path_manager is not None
         assert self.path_manager.config == self.config
-    
+
     def test_path_generation(self):
         """Test basic path generation."""
         # Add specific tests based on actual PathManager methods
         pass
-    
+
     def test_path_validation(self):
         """Test path validation logic."""
         # Add validation tests
         pass
-    
+
     def test_error_handling(self):
         """Test error handling in path operations."""
         # Add error handling tests
@@ -534,21 +534,21 @@ from helpers.config import load_config
 
 class TestBaseIngestor:
     """Test cases for BaseIngestor class."""
-    
+
     def setup_method(self):
         """Setup test environment."""
         self.config = load_config()
-    
+
     def test_initialization(self):
         """Test BaseIngestor initialization."""
         # Add initialization tests
         pass
-    
+
     def test_common_methods(self):
         """Test common ingestor methods."""
         # Add method tests
         pass
-    
+
     def test_error_handling(self):
         """Test error handling in base ingestor."""
         # Add error handling tests

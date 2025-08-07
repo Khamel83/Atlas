@@ -1,0 +1,34 @@
+{
+  "uid": "9083680e30a13977",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6464a404a366ab40091952a09d1e8125/",
+  "title": "Unwitting Collaboration & Web3 Experimentation",
+  "status": "converted_from_csv",
+  "date": "2021-04-12T05:54:23",
+  "error": null,
+  "content_path": "output/articles/markdown/9083680e30a13977.md",
+  "html_path": "output/articles/html/9083680e30a13977.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2293,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fc62b5e64d01b0653bc22a50e2dc6649",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1618232063",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-04-12T05:54:23",
+  "updated_at": "2021-04-12T05:54:23"
+}

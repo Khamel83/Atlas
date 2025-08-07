@@ -1,0 +1,34 @@
+{
+  "uid": "06f84d9dcd6e4d95",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/1e6e4d06e502708bf5b81d8c2428a486/",
+  "title": "Congrats! You are signed up for a free subscription to Popular Information",
+  "status": "converted_from_csv",
+  "date": "2020-11-21T13:41:49",
+  "error": null,
+  "content_path": "output/articles/markdown/06f84d9dcd6e4d95.md",
+  "html_path": "output/articles/html/06f84d9dcd6e4d95.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2646,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "adc1e6b73d0c526a78394fa2cb446cdc",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1605994909",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-11-21T13:41:49",
+  "updated_at": "2020-11-21T13:41:49"
+}

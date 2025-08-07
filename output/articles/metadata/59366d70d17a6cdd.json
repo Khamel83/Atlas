@@ -1,0 +1,40 @@
+{
+  "uid": "59366d70d17a6cdd",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://qz.com/589041/uber-pulled-off-a-spectacular-political-coup-and-hardly-anyone-noticed/",
+  "title": "Uber pulled off a spectacular political coup and hardly anyone noticed Quartz",
+  "status": "selection_content_extracted",
+  "date": "2016-01-21T14:51:28",
+  "error": null,
+  "content_path": "output/articles/markdown/59366d70d17a6cdd.md",
+  "html_path": "output/articles/html/59366d70d17a6cdd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4617,
+    "selection_length": 145,
+    "cleaned_selection_length": 152,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "59366d70d17a6cdd",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1453416688",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "On Jan. 12, 2015, his last day as Illinois governor, Pat Quinn signed legislation to regulate Uber and Lyft across the state. The particulars of…",
+    "cleaned_selection": "<p>On Jan. 12, 2015, his last day as Illinois governor, Pat Quinn signed legislation to regulate Uber and Lyft across the state. The particulars of…</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.345895",
+  "updated_at": "2025-08-06T08:47:04.345896"
+}

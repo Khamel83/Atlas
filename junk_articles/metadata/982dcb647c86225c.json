@@ -1,0 +1,34 @@
+{
+  "uid": "982dcb647c86225c",
+  "content_type": "web_bookmark",
+  "source": "http://www.washingtontimes.com/news/2013/mar/14/sacred-mystery-blockbuster-ratings-bible-confound-/?page=all#pagebreak",
+  "title": "Sacred mystery: Blockbuster ratings for 'The Bible' confound Hollywood - Washington Times",
+  "status": "converted_from_csv",
+  "date": "2013-03-15T15:34:22",
+  "error": null,
+  "content_path": "output/articles/markdown/982dcb647c86225c.md",
+  "html_path": "output/articles/html/982dcb647c86225c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5383,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6f43bcc2d42e3f11cd01f183b159bcf0",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1363386862",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2013-03-15T15:34:22",
+  "updated_at": "2013-03-15T15:34:22"
+}

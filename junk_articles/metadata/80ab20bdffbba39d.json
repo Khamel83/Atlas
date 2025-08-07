@@ -1,0 +1,34 @@
+{
+  "uid": "80ab20bdffbba39d",
+  "content_type": "web_bookmark",
+  "source": "https://theathletic.com/2436514/2021/03/09/what-if-the-bears-never-traded-for-jay-cutler/",
+  "title": "What if the Bears never traded for Jay Cutler?",
+  "status": "converted_from_csv",
+  "date": "2021-03-09T11:35:59",
+  "error": null,
+  "content_path": "output/articles/markdown/80ab20bdffbba39d.md",
+  "html_path": "output/articles/html/80ab20bdffbba39d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2353,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bf1ffcd53d3dfe06c95ebcfeaa358429",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1615318559",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-03-09T11:35:59",
+  "updated_at": "2021-03-09T11:35:59"
+}

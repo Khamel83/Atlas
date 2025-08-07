@@ -1,0 +1,34 @@
+{
+  "uid": "2114705c586eb250",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2018/06/18/magazine/how-desus-mero-conquered-late-night.html",
+  "title": "How ‘Desus & Mero’ Conquered Late Night - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2018-06-18T15:26:55",
+  "error": null,
+  "content_path": "output/articles/markdown/2114705c586eb250.md",
+  "html_path": "output/articles/html/2114705c586eb250.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3474,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "53439bd4e77fdacd635747ff1bc44abc",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1529360815",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-06-18T15:26:55",
+  "updated_at": "2018-06-18T15:26:55"
+}

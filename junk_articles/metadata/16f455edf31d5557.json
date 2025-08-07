@@ -1,0 +1,34 @@
+{
+  "uid": "16f455edf31d5557",
+  "content_type": "web_bookmark",
+  "source": "http://www.theatlantic.com/business/archive/2016/04/why-so-many-smart-people-arent-happy/479832/",
+  "title": "Why So Many Smart People Aren’t Happy",
+  "status": "converted_from_csv",
+  "date": "2016-05-01T07:21:49",
+  "error": null,
+  "content_path": "output/articles/markdown/16f455edf31d5557.md",
+  "html_path": "output/articles/html/16f455edf31d5557.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4454,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "68750d9732d380275678edec82aad51d",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1462112509",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-05-01T07:21:49",
+  "updated_at": "2016-05-01T07:21:49"
+}

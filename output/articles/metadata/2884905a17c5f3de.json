@@ -1,0 +1,40 @@
+{
+  "uid": "2884905a17c5f3de",
+  "content_type": "instapaper",
+  "source": "https://millionmilesecrets.com/news/southwest-american-airlines-class-action-payment/",
+  "title": "Have You Flown With Southwest or American Airlines Since 2011 They Might Owe You Cash! Million Mile Secrets",
+  "status": "success",
+  "date": "2025-08-05T13:47:18.690810",
+  "error": null,
+  "content_path": "output/articles/markdown/2884905a17c5f3de.md",
+  "html_path": "output/articles/html/2884905a17c5f3de.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "295b85f13ba38e546b6304baac639d44",
+  "type_specific": {
+    "bookmark_id": 1142625323,
+    "instapaper_time": 1545525402,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:47:18.690837",
+  "updated_at": "2025-08-05T13:47:18.690840"
+}

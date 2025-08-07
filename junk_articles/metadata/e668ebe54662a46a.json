@@ -1,0 +1,34 @@
+{
+  "uid": "e668ebe54662a46a",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/24761e189beae43dce53c841a29f05eb/",
+  "title": "Discord: Imagine a Place",
+  "status": "converted_from_csv",
+  "date": "2021-11-08T05:57:27",
+  "error": null,
+  "content_path": "output/articles/markdown/e668ebe54662a46a.md",
+  "html_path": "output/articles/html/e668ebe54662a46a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1842,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "11584cff6f58100180b3d7de62c5fa46",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1636379847",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-11-08T05:57:27",
+  "updated_at": "2021-11-08T05:57:27"
+}

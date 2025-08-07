@@ -1,0 +1,34 @@
+{
+  "uid": "fd7e576f0e4ab116",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/65ea69d0b6eebae3657849f47b2fd49d/",
+  "title": "Nine wild details from the new Elon Musk biography",
+  "status": "converted_from_csv",
+  "date": "2023-09-12T17:01:49",
+  "error": null,
+  "content_path": "output/articles/markdown/fd7e576f0e4ab116.md",
+  "html_path": "output/articles/html/fd7e576f0e4ab116.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 647,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "af0c80445f1a4cf351b61412dbe381bc",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1694563309",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-09-12T17:01:49",
+  "updated_at": "2023-09-12T17:01:49"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "d576c787f0daebe7",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.vox.com/policy-and-politics/2016/11/8/13561676/donald-trump-closing-argument-loss-waste",
+  "title": "Donald Trump’s closing argument if I lose, this was all a “waste of time” Vox - All",
+  "status": "selection_content_extracted",
+  "date": "2016-11-08T16:38:35",
+  "error": null,
+  "content_path": "output/articles/markdown/d576c787f0daebe7.md",
+  "html_path": "output/articles/html/d576c787f0daebe7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4249,
+    "selection_length": 2066,
+    "cleaned_selection_length": 2103,
+    "domain": "vox.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d576c787f0daebe7",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1478651915",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Donald Trump has made his closing argument: If he doesn’t get elected president, it will be the “single greatest waste of time,” the Republican nominee told a crowd at a campaign rally Monday afternoon in an effort to get out the vote.\n\nIt might seem like an odd counter to his campaign’s insistence that Trump’s nomination has started a movement in the United States — one that cannot be silenced — but Trump isn’t changing his underlying message. According to him, he is the only person who knows what is wrong with America, and he alone can fix it.\n\n“Go vote because believe me, if we don’t win, all of us, honestly, we’ve all wasted our time,” he said at the rally. “They may say good things about us as a movement. It won’t mean a damn thing.”\n\nPrivately, Trump seems to have accepted a potential loss. Campaign manager Kellyanne Conway told New York magazine’s Gabe Sherman that Trump privately told her that if he loses, “that’s okay too.” She responded that he had a responsibility to the movement he started.\n\nTrump’s public claim that the election would be a “waste,” though, is among some of the most fitting articulations of the worldview he’s built over the years: Politics, as in life, is a zero-sum game. In Trump’s world, you either get everything you want or the most disastrous deal in history.\n\n“For Donald Trump, calling someone a loser is not merely an insult, and calling someone a winner is not merely a compliment,” my colleague Dylan Matthews wrote after Vox’s staff reviewed 12 of Trump’s books. “He’s always believed in the fundamental zero-sum nature of the world. Whether he’s discussing real estate in New York, or his ’00s reality TV career, or his views on immigration and trade, he consistently views life as a succession of deals. Those deals are best thought of as fights over who gets what share of a fixed pot of resources. The idea of collaborating for mutual benefit rarely arises. Life is dealmaking, and dealmaking is about crushing your enemies.”\n\nLosing to Hillary Clinton is no different — it’s losing, and it’s about him.",
+    "cleaned_selection": "<p>Donald Trump has made his closing argument: If he doesn’t get elected president, it will be the “single greatest waste of time,” the Republican nominee told a crowd at a campaign rally Monday afternoon in an effort to get out the vote.</p><p>It might seem like an odd counter to his campaign’s insistence that Trump’s nomination has started a movement in the United States — one that cannot be silenced — but Trump isn’t changing his underlying message. According to him, he is the only person who knows what is wrong with America, and he alone can fix it.</p><p>“Go vote because believe me, if we don’t win, all of us, honestly, we’ve all wasted our time,” he said at the rally. “They may say good things about us as a movement. It won’t mean a damn thing.”</p><p>Privately, Trump seems to have accepted a potential loss. Campaign manager Kellyanne Conway told New York magazine’s Gabe Sherman that Trump privately told her that if he loses, “that’s okay too.” She responded that he had a responsibility to the movement he started.</p><p>Trump’s public claim that the election would be a “waste,” though, is among some of the most fitting articulations of the worldview he’s built over the years: Politics, as in life, is a zero-sum game. In Trump’s world, you either get everything you want or the most disastrous deal in history.</p><p>“For Donald Trump, calling someone a loser is not merely an insult, and calling someone a winner is not merely a compliment,” my colleague Dylan Matthews wrote after Vox’s staff reviewed 12 of Trump’s books. “He’s always believed in the fundamental zero-sum nature of the world. Whether he’s discussing real estate in New York, or his ’00s reality TV career, or his views on immigration and trade, he consistently views life as a succession of deals. Those deals are best thought of as fights over who gets what share of a fixed pot of resources. The idea of collaborating for mutual benefit rarely arises. Life is dealmaking, and dealmaking is about crushing your enemies.”</p><p>Losing to Hillary Clinton is no different — it’s losing, and it’s about him.</p>",
+    "domain": "vox.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.262392",
+  "updated_at": "2025-08-06T08:47:04.262393"
+}

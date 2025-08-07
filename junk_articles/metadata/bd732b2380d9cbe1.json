@@ -1,0 +1,34 @@
+{
+  "uid": "bd732b2380d9cbe1",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6b16b2dfa4748a3df209146e7c700fa7/",
+  "title": "Could Spotify Be Netflix?, Calculating Spotify's LTV and CAC (Stratechery Weekly Article 2018-3-6)",
+  "status": "converted_from_csv",
+  "date": "2018-03-06T05:25:05",
+  "error": null,
+  "content_path": "output/articles/markdown/bd732b2380d9cbe1.md",
+  "html_path": "output/articles/html/bd732b2380d9cbe1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3592,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9b6ae32f99ede68e062ef12ad82badc3",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1520342705",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-03-06T05:25:05",
+  "updated_at": "2018-03-06T05:25:05"
+}

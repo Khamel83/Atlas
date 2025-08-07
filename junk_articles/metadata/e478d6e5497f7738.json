@@ -1,0 +1,34 @@
+{
+  "uid": "e478d6e5497f7738",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/589424297074ae1fe655a63d1ad587e5/",
+  "title": "The \"Gentlemen's Agreement\": When TV News Won't Identify Defense Lobbyists",
+  "status": "converted_from_csv",
+  "date": "2022-04-26T06:08:13",
+  "error": null,
+  "content_path": "output/articles/markdown/e478d6e5497f7738.md",
+  "html_path": "output/articles/html/e478d6e5497f7738.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1484,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3a3524de0e2aa1a1b883538f1783a6a0",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1650978493",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-04-26T06:08:13",
+  "updated_at": "2022-04-26T06:08:13"
+}

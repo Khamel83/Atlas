@@ -1,0 +1,34 @@
+{
+  "uid": "276b71268d3f281d",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/a6c27e4102a739353185c2cdb267d0b8/",
+  "title": "Low interest rates are a curse — we need massive fiscal imprudence",
+  "status": "converted_from_csv",
+  "date": "2020-11-24T03:04:20",
+  "error": null,
+  "content_path": "output/articles/markdown/276b71268d3f281d.md",
+  "html_path": "output/articles/html/276b71268d3f281d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2633,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "70227c45dbe62c2c02f61179897e84ff",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1606215860",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-11-24T03:04:20",
+  "updated_at": "2020-11-24T03:04:20"
+}

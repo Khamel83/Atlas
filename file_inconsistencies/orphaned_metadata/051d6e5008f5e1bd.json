@@ -1,0 +1,32 @@
+{
+  "uid": "051d6e5008f5e1bd",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1696103447",
+  "title": "Why the Democrats Lost Tech",
+  "status": "error",
+  "date": "2025-08-05T12:41:28.190911",
+  "error": "Failed to fetch content for 'Why the Democrats Lost Tech' from instapaper://private-content/1696103447: No connection adapters were found for 'instapaper://private-content/1696103447'",
+  "content_path": null,
+  "html_path": null,
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": null,
+  "type_specific": {
+    "bookmark_id": 1696103447
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:41:28.190915",
+  "updated_at": "2025-08-05T12:41:28.197506"
+}

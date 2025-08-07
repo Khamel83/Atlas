@@ -1,0 +1,34 @@
+{
+  "uid": "8c97035862d05c5e",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/2aaeb57cd5025e2a924b4f6950a7a158/",
+  "title": "Wins, Woes, and Starting Solids",
+  "status": "converted_from_csv",
+  "date": "2022-09-13T09:27:09",
+  "error": null,
+  "content_path": "output/articles/markdown/8c97035862d05c5e.md",
+  "html_path": "output/articles/html/8c97035862d05c5e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1234,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "82c0e1bc37c6d6bfe1703029f9af497a",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1663086429",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-09-13T09:27:09",
+  "updated_at": "2022-09-13T09:27:09"
+}

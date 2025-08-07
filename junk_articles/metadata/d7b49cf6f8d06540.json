@@ -1,0 +1,34 @@
+{
+  "uid": "d7b49cf6f8d06540",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2022/05/10/business/economy-boom-times.html",
+  "title": "For Tens of Millions of Americans, the Good Times Are Right Now",
+  "status": "converted_from_csv",
+  "date": "2022-05-10T20:01:25",
+  "error": null,
+  "content_path": "output/articles/markdown/d7b49cf6f8d06540.md",
+  "html_path": "output/articles/html/d7b49cf6f8d06540.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1453,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "466a85c4758e965df9f3ab98d161596d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1652238085",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-05-10T20:01:25",
+  "updated_at": "2022-05-10T20:01:25"
+}

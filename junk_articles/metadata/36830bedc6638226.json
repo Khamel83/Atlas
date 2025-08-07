@@ -1,0 +1,34 @@
+{
+  "uid": "36830bedc6638226",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/02/13/magazine/13FOB-WWLN-t.html?_r=1&partner=rss&emc=rss&pagewanted=print",
+  "title": "Why a Member of the Muslim Brotherhood Was Late to the Revolution - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-02-11T11:13:27",
+  "error": null,
+  "content_path": "output/articles/markdown/36830bedc6638226.md",
+  "html_path": "output/articles/html/36830bedc6638226.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5917,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "31cfae40fa9ef7a361303d52ac51da89",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1297451607",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-02-11T11:13:27",
+  "updated_at": "2011-02-11T11:13:27"
+}

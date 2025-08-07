@@ -1,0 +1,32 @@
+{
+  "uid": "e72b50408aece055",
+  "content_type": "instapaper",
+  "source": "https://thebaffler.com/latest/spreadsheet-assassins-king",
+  "title": "Spreadsheet Assassins | Matthew King",
+  "status": "success",
+  "date": "2025-08-05T12:41:34.067057",
+  "error": null,
+  "content_path": "output/articles/markdown/78bcc3f8f4c63449.md",
+  "html_path": "output/articles/html/78bcc3f8f4c63449.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "eeb1c4dcbe17e2a677cde10ab0debd967f7a5bae8b8880e52e6eca8e79597d9a",
+  "type_specific": {
+    "bookmark_id": 1686889602
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:41:34.067062",
+  "updated_at": "2025-08-05T12:41:35.166779"
+}

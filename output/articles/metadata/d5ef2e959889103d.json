@@ -1,0 +1,40 @@
+{
+  "uid": "d5ef2e959889103d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.theverge.com/2016/9/1/12758606/cooks-science-americas-test-kitchen-recipes-why",
+  "title": "Cook’s Science demystifies the magic of good cooking The Verge",
+  "status": "selection_content_extracted",
+  "date": "2016-09-01T18:13:53",
+  "error": null,
+  "content_path": "output/articles/markdown/d5ef2e959889103d.md",
+  "html_path": "output/articles/html/d5ef2e959889103d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4330,
+    "selection_length": 2441,
+    "cleaned_selection_length": 2476,
+    "domain": "theverge.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d5ef2e959889103d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1472778833",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Cook’s Science, a new website from America’s Test Kitchen, launched at the end of July, and has rapidly become excellent lunch-break material. Like all brands under the America’s Test Kitchen umbrella, this new website is grounded in exploring the science of good food and using the scientific method to develop recipes. Unlike other products or brands out of America’s Test Kitchen, everything on the Cook’s Science website is free.\n\nThe publication mixes reported stories, videos, and recipes on favorite foods, like a deep dive into the history and science of ice cream, and recent trends, like making runny egg-yolk sauce. Birnbaum and Souza hope that through the stories they report and the “good, foolproof recipes” they create, more home cooks will be inspired to look into the science of what’s on their plate, and the people and cultures behind each dish.\n\n”We leave the test kitchen to report on the people, places and technology inspiring the world of food and science,” Cook’s Science executive editor Molly Birnbaum writes in an email. Birnbaum has a background in narrative journalism, and she and Souza had collaborated for years, including on the cookbooks The Science of Good Cooking and Cook’s Science, set to publish in October.\n\nThe website blends food science with food stories\n“We wanted to push how we cover science at ATK a little bit further,” Birnbaum says. “We wanted to combine my experience in narrative journalism with Dan’s experience developing recipes using the scientific method.”\n\nFor example, have you ever wondered about the origins of your favorite salsa-soaked happy-hour foods? According to a feature in Cook’s Science, tacos and corn chips wouldn’t exist were it not for a fascinating technique called nixtamalization, invented by the Maya, a Mesoamerican civilization that lived from approximately 2000 BC to 1700 AD.\n\nAlthough many hundreds of years have passed since the Maya discovered nixtamalization, there really isn’t a substitute for the process, Souza says. But, luckily, it isn’t contained simply to tortilla factories or hip restaurants, like Empellón Al Pastor in New York City, featured in the Cook’s Science article. Adventurous home cooks can try their hand at nixtamalizing corn and making fresh tortillas with a recipe created by Tim Chin, test cook at Cook’s Science. The feature goes details each step of the process. As a bonus, they created a recipe for nixtamalized corn bread.",
+    "cleaned_selection": "<p>Cook’s Science, a new website from America’s Test Kitchen, launched at the end of July, and has rapidly become excellent lunch-break material. Like all brands under the America’s Test Kitchen umbrella, this new website is grounded in exploring the science of good food and using the scientific method to develop recipes. Unlike other products or brands out of America’s Test Kitchen, everything on the Cook’s Science website is free.</p><p>The publication mixes reported stories, videos, and recipes on favorite foods, like a deep dive into the history and science of ice cream, and recent trends, like making runny egg-yolk sauce. Birnbaum and Souza hope that through the stories they report and the “good, foolproof recipes” they create, more home cooks will be inspired to look into the science of what’s on their plate, and the people and cultures behind each dish.</p><p>”We leave the test kitchen to report on the people, places and technology inspiring the world of food and science,” Cook’s Science executive editor Molly Birnbaum writes in an email. Birnbaum has a background in narrative journalism, and she and Souza had collaborated for years, including on the cookbooks The Science of Good Cooking and Cook’s Science, set to publish in October.</p><p>The website blends food science with food stories<br>“We wanted to push how we cover science at ATK a little bit further,” Birnbaum says. “We wanted to combine my experience in narrative journalism with Dan’s experience developing recipes using the scientific method.”</p><p>For example, have you ever wondered about the origins of your favorite salsa-soaked happy-hour foods? According to a feature in Cook’s Science, tacos and corn chips wouldn’t exist were it not for a fascinating technique called nixtamalization, invented by the Maya, a Mesoamerican civilization that lived from approximately 2000 BC to 1700 AD.</p><p>Although many hundreds of years have passed since the Maya discovered nixtamalization, there really isn’t a substitute for the process, Souza says. But, luckily, it isn’t contained simply to tortilla factories or hip restaurants, like Empellón Al Pastor in New York City, featured in the Cook’s Science article. Adventurous home cooks can try their hand at nixtamalizing corn and making fresh tortillas with a recipe created by Tim Chin, test cook at Cook’s Science. The feature goes details each step of the process. As a bonus, they created a recipe for nixtamalized corn bread.</p>",
+    "domain": "theverge.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.294319",
+  "updated_at": "2025-08-06T08:47:04.294321"
+}

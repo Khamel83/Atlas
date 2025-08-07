@@ -1,0 +1,40 @@
+{
+  "uid": "94e2c66d8f683a0a",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1100851174",
+  "title": "Xbox All Access Pass, The Eighth-Generation of Consoles, Console Subscriptions: Now and the Future (Stratechery Daily Update 9-5-2018)",
+  "status": "success",
+  "date": "2025-08-05T14:06:26.501120",
+  "error": null,
+  "content_path": "output/articles/markdown/94e2c66d8f683a0a.md",
+  "html_path": "output/articles/html/94e2c66d8f683a0a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "63d37e148ae57b155ac61a1c844288a1",
+  "type_specific": {
+    "bookmark_id": 1100851174,
+    "instapaper_time": 1536147885,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Stratechery"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:06:26.501149",
+  "updated_at": "2025-08-05T14:06:26.501152"
+}

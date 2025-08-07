@@ -1,0 +1,40 @@
+{
+  "uid": "367662851d15bf5d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://frequentmiler.boardingarea.com/2014/12/18/heres-your-ticket-to-hertz-presidents-circle-without-delta-or-united-status/",
+  "title": "Here’s your ticket to Hertz President’s Circle, without Delta or United status The Frequent Miler",
+  "status": "selection_content_extracted",
+  "date": "2014-12-18T07:15:08",
+  "error": null,
+  "content_path": "output/articles/markdown/367662851d15bf5d.md",
+  "html_path": "output/articles/html/367662851d15bf5d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5015,
+    "selection_length": 682,
+    "cleaned_selection_length": 698,
+    "domain": "frequentmiler.boardingarea.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "367662851d15bf5d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1418915708",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Click here to view in browser: Here’s your ticket to Hertz President’s Circle, without Delta or United status\n\nFirst United partnered up with Hertz, and now Delta has done the same.  Both programs offer a way for elites to get high level elite status (President’s Circle) with Hertz, for free. To qualify for President’s Circle with United status (starting Jan 1), you must have United Platinum status (or higher), or be a primary cardholder of either: MileagePlus Club or Presidential Plus Card. To qualify for President’s Circle with... Continue Reading\n\nThe post Here’s your ticket to Hertz President’s Circle, without Delta or United status appeared first on The Frequent Miler.",
+    "cleaned_selection": "<p>Click here to view in browser: Here’s your ticket to Hertz President’s Circle, without Delta or United status</p><p>First United partnered up with Hertz, and now Delta has done the same. Both programs offer a way for elites to get high level elite status (President’s Circle) with Hertz, for free. To qualify for President’s Circle with United status (starting Jan 1), you must have United Platinum status (or higher), or be a primary cardholder of either: MileagePlus Club or Presidential Plus Card. To qualify for President’s Circle with... Continue Reading</p><p>The post Here’s your ticket to Hertz President’s Circle, without Delta or United status appeared first on The Frequent Miler.</p>",
+    "domain": "frequentmiler.boardingarea.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.447010",
+  "updated_at": "2025-08-06T08:47:04.447011"
+}

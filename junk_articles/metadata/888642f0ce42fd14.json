@@ -1,0 +1,34 @@
+{
+  "uid": "888642f0ce42fd14",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/c24eb9d563c70a73d42f37f7684dde1a/",
+  "title": "Q&A: 37-week induction, vaccines, risks from multiple C-sections, and breast milk storage",
+  "status": "converted_from_csv",
+  "date": "2023-07-14T02:58:06",
+  "error": null,
+  "content_path": "output/articles/markdown/888642f0ce42fd14.md",
+  "html_path": "output/articles/html/888642f0ce42fd14.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 774,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e64c448a6d6180856a23327329ea308e",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1689328686",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-07-14T02:58:06",
+  "updated_at": "2023-07-14T02:58:06"
+}

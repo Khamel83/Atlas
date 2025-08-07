@@ -1,0 +1,34 @@
+{
+  "uid": "784b78daa78fd344",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/63c7ee5a2375624cd7772809fd3da74b/",
+  "title": "Learning to Read: Why (Some) Schools Still Get It So Wrong",
+  "status": "converted_from_csv",
+  "date": "2021-10-11T02:09:04",
+  "error": null,
+  "content_path": "output/articles/markdown/784b78daa78fd344.md",
+  "html_path": "output/articles/html/784b78daa78fd344.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1918,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "14d92fed01148bb080a71ad825f4c841",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1633943344",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-10-11T02:09:04",
+  "updated_at": "2021-10-11T02:09:04"
+}

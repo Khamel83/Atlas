@@ -1,0 +1,34 @@
+{
+  "uid": "da13f1f0856ccbc3",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/c745b5d994f39481929ce8f4d6244834/",
+  "title": "Callin Discussion on \"As America Falls Apart, Profits Soar,\" at 4 p.m.",
+  "status": "converted_from_csv",
+  "date": "2021-11-15T12:19:48",
+  "error": null,
+  "content_path": "output/articles/markdown/da13f1f0856ccbc3.md",
+  "html_path": "output/articles/html/da13f1f0856ccbc3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1828,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2c2986d894018e5e6d2cd40d26b6ec32",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1637007588",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-11-15T12:19:48",
+  "updated_at": "2021-11-15T12:19:48"
+}

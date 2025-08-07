@@ -1,0 +1,34 @@
+{
+  "uid": "a726b583d8c590fb",
+  "content_type": "web_bookmark",
+  "source": "https://www.vox.com/culture/2017/10/25/16070928/peak-indie-rock-1997",
+  "title": "The life and death of the indie-rock heyday",
+  "status": "converted_from_csv",
+  "date": "2017-10-25T20:33:00",
+  "error": null,
+  "content_path": "output/articles/markdown/a726b583d8c590fb.md",
+  "html_path": "output/articles/html/a726b583d8c590fb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3750,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c4e8c7b22a181e3329659fe95c4709e4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1508988780",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-10-25T20:33:00",
+  "updated_at": "2017-10-25T20:33:00"
+}

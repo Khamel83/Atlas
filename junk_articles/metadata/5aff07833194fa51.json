@@ -1,0 +1,34 @@
+{
+  "uid": "5aff07833194fa51",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/2efb97ca6e7fcaf72a99266971607acc/",
+  "title": "Spying and Smearing is \"Un-American,\" not Tucker Carlson",
+  "status": "converted_from_csv",
+  "date": "2021-07-14T12:36:37",
+  "error": null,
+  "content_path": "output/articles/markdown/5aff07833194fa51.md",
+  "html_path": "output/articles/html/5aff07833194fa51.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2099,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bc8595057507a2dd206149b5f15792e3",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1626291397",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-07-14T12:36:37",
+  "updated_at": "2021-07-14T12:36:37"
+}

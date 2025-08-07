@@ -1,0 +1,34 @@
+{
+  "uid": "9f68d35c90fe5a43",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2021/04/05/opinion/katherine-may-winter-covid.html",
+  "title": "Opinion | ‘When It Is Summer in the Light, and Winter in the Shade’ - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2021-04-05T16:53:40",
+  "error": null,
+  "content_path": "output/articles/markdown/9f68d35c90fe5a43.md",
+  "html_path": "output/articles/html/9f68d35c90fe5a43.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2306,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4d5a6d16f809b01dfd02d980a70cc049",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1617666820",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-04-05T16:53:40",
+  "updated_at": "2021-04-05T16:53:40"
+}

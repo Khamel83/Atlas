@@ -1,0 +1,34 @@
+{
+  "uid": "d4b44cd52b2d0be2",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/67f53699bf0261cabafdc97c94599094/",
+  "title": "The Bastard Children of the 2001 Authorization to Use Military Force",
+  "status": "converted_from_csv",
+  "date": "2021-12-14T07:02:33",
+  "error": null,
+  "content_path": "output/articles/markdown/d4b44cd52b2d0be2.md",
+  "html_path": "output/articles/html/d4b44cd52b2d0be2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1760,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9f8122cc8177545c63e9e9df009b4af7",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1639494153",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-12-14T07:02:33",
+  "updated_at": "2021-12-14T07:02:33"
+}

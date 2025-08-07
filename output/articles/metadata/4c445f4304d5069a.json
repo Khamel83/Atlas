@@ -1,0 +1,42 @@
+{
+  "uid": "4c445f4304d5069a",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1653357866",
+  "title": "Parenting Through Grief",
+  "status": "success",
+  "date": "2025-08-05T13:38:59.084205",
+  "error": null,
+  "content_path": "output/articles/markdown/4c445f4304d5069a.md",
+  "html_path": "output/articles/html/4c445f4304d5069a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a839434ca9fab6ba2110c537205f8f80",
+  "type_specific": {
+    "bookmark_id": 1653357866,
+    "instapaper_time": 1703156087,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:38:59.084220",
+  "updated_at": "2025-08-05T13:38:59.084222"
+}

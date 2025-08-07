@@ -1,0 +1,40 @@
+{
+  "uid": "a8cac316f91b367c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://frequentmiler.boardingarea.com/2014/10/15/how-to-find-redbird/",
+  "title": "How to find REDbird The Frequent Miler",
+  "status": "selection_content_extracted",
+  "date": "2014-10-15T17:53:53",
+  "error": null,
+  "content_path": "output/articles/markdown/a8cac316f91b367c.md",
+  "html_path": "output/articles/html/a8cac316f91b367c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5087,
+    "selection_length": 511,
+    "cleaned_selection_length": 520,
+    "domain": "frequentmiler.boardingarea.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a8cac316f91b367c",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1413420833",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "REDbird (AKA the Target Prepaid REDcard) is in hot demand, but it is currently available only in select areas.  Why should you care about REDbird?  If you can get over the technical hurdles involved in obtaining a card and registering it, you’ll find it to be the single easiest (and fee-free) option for increasing credit card spend.  For details, please see: REDcard changes everything. While Target slowly rolls out this... Continue Reading\n\nThe post How to find REDbird appeared first on The Frequent Miler.",
+    "cleaned_selection": "<p>REDbird (AKA the Target Prepaid REDcard) is in hot demand, but it is currently available only in select areas. Why should you care about REDbird? If you can get over the technical hurdles involved in obtaining a card and registering it, you’ll find it to be the single easiest (and fee-free) option for increasing credit card spend. For details, please see: REDcard changes everything. While Target slowly rolls out this... Continue Reading</p><p>The post How to find REDbird appeared first on The Frequent Miler.</p>",
+    "domain": "frequentmiler.boardingarea.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.472677",
+  "updated_at": "2025-08-06T08:47:04.472679"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "ed61c5cd701af9d7",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/fd4e96a8ebac199fc31603d608a06b96/",
+  "title": "Braintrust: Fighting Capitalism with Capitalism",
+  "status": "converted_from_csv",
+  "date": "2022-01-31T05:58:41",
+  "error": null,
+  "content_path": "output/articles/markdown/ed61c5cd701af9d7.md",
+  "html_path": "output/articles/html/ed61c5cd701af9d7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1645,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "10d8332df48c098c93caf227bd66ae7d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1643637521",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-01-31T05:58:41",
+  "updated_at": "2022-01-31T05:58:41"
+}

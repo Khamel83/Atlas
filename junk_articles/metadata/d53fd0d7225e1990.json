@@ -1,0 +1,34 @@
+{
+  "uid": "d53fd0d7225e1990",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0236add0af342df124e5ce6c1cb55f7f/",
+  "title": "Clubhouse’s Inevitability (Stratechery Weekly Article 2-15-2021)",
+  "status": "converted_from_csv",
+  "date": "2021-02-15T08:02:23",
+  "error": null,
+  "content_path": "output/articles/markdown/d53fd0d7225e1990.md",
+  "html_path": "output/articles/html/d53fd0d7225e1990.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2409,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "96d978b05974753a6def591ab71189e3",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1613404943",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-02-15T08:02:23",
+  "updated_at": "2021-02-15T08:02:23"
+}

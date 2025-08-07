@@ -1,0 +1,40 @@
+{
+  "uid": "583cc8e85ea9fdf4",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://ritholtz.com/2020/08/public-to-private-equity/",
+  "title": "Public to Private Equity The Big Picture",
+  "status": "selection_content_extracted",
+  "date": "2020-08-06T22:33:09",
+  "error": null,
+  "content_path": "output/articles/markdown/583cc8e85ea9fdf4.md",
+  "html_path": "output/articles/html/583cc8e85ea9fdf4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2789,
+    "selection_length": 1906,
+    "cleaned_selection_length": 1937,
+    "domain": "ritholtz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "583cc8e85ea9fdf4",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1596778389",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Source: Morgan Stanley\n\n \n \nMorgan Stanley has a fascinating report on reduced number of publicly traded companies, and the rise of SPACs, Buyout funds, and Private Equity:\n\n \n\nOver the past quarter century there has been a marked shift in U.S. equities from public markets to private markets controlled by buyout and venture capital firms. This change has had reverberations for asset managers, investors, executives, and policy makers. In this report we seek to answer the following questions:\n\n• What have been the major drivers behind the shift from public to private equities in the U.S.?\n• Why are there fewer public companies today than there were 25 years ago?\n• What are the long-term trends in buyouts?\n• What are the long-term trends in venture capital?\n• Where do we go from here?\n\nMarkets have become more sophisticated over time as the result of the growth in institutional money management, financial innovation, and sharply lower technology costs. Large institutional investors, including pension funds and endowments, face the prospect of swelling future liabilities and diminished expected returns for most asset classes. As a result, they have reduced their portfolio allocation to public securities and have increased their allocation to private equity, where returns have historically been higher.\n\nFrom the end of World War II through the early 1970s, many companies went public to raise capital to fund their growth. Today, young companies often rely more on intangible assets and have a less voracious appetite for capital. They also have unprecedented access to capital through the private markets. Consequently, many young companies have elected to stay private longer than did the companies of prior generations.\n\n \n\nMore charts after the jump\n\n \n\n \n\n \n\n \n\n \n\nAll data and text sourced from: Morgan Stanley\n\n \n\nThe post Public to Private Equity appeared first on The Big Picture.",
+    "cleaned_selection": "<p>Source: Morgan Stanley</p><p>Morgan Stanley has a fascinating report on reduced number of publicly traded companies, and the rise of SPACs, Buyout funds, and Private Equity:</p><p>Over the past quarter century there has been a marked shift in U.S. equities from public markets to private markets controlled by buyout and venture capital firms. This change has had reverberations for asset managers, investors, executives, and policy makers. In this report we seek to answer the following questions:</p><p>• What have been the major drivers behind the shift from public to private equities in the U.S.?<br>• Why are there fewer public companies today than there were 25 years ago?<br>• What are the long-term trends in buyouts?<br>• What are the long-term trends in venture capital?<br>• Where do we go from here?</p><p>Markets have become more sophisticated over time as the result of the growth in institutional money management, financial innovation, and sharply lower technology costs. Large institutional investors, including pension funds and endowments, face the prospect of swelling future liabilities and diminished expected returns for most asset classes. As a result, they have reduced their portfolio allocation to public securities and have increased their allocation to private equity, where returns have historically been higher.</p><p>From the end of World War II through the early 1970s, many companies went public to raise capital to fund their growth. Today, young companies often rely more on intangible assets and have a less voracious appetite for capital. They also have unprecedented access to capital through the private markets. Consequently, many young companies have elected to stay private longer than did the companies of prior generations.</p><p>More charts after the jump</p><p>All data and text sourced from: Morgan Stanley</p><p>The post Public to Private Equity appeared first on The Big Picture.</p>",
+    "domain": "ritholtz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.629506",
+  "updated_at": "2025-08-06T08:47:03.629508"
+}

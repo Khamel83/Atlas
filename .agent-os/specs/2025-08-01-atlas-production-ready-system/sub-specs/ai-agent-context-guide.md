@@ -17,7 +17,7 @@ Every AI agent must load this core context before starting any task:
 #### **Phase-Specific Context**
 ```
 Phase 1: @.agent-os/specs/.../sub-specs/technical-spec.md (Infrastructure section)
-Phase 2: @.agent-os/specs/.../sub-specs/technical-spec.md (Performance section)  
+Phase 2: @.agent-os/specs/.../sub-specs/technical-spec.md (Performance section)
 Phase 3: @.agent-os/specs/.../sub-specs/api-spec.md (Complete API specification)
 Phase 4: @.agent-os/specs/.../sub-specs/reliability-best-practices.md
 Phase 5: @.agent-os/specs/.../sub-specs/github-automation.md
@@ -39,7 +39,7 @@ Phase 6: All previous specs for comprehensive testing
 Read: helpers/{relevant_module}.py
 Read: tests/unit/test_{relevant_module}.py (if exists)
 
-# Step 2: Understand testing patterns  
+# Step 2: Understand testing patterns
 Read: tests/conftest.py
 Read: pytest.ini
 Scan: tests/ directory structure
@@ -149,7 +149,7 @@ Consider: Setup and troubleshooting scenarios
 #### **Key Files to Always Read**
 ```
 helpers/config.py                    # Current configuration system
-tests/conftest.py                   # Testing setup and fixtures  
+tests/conftest.py                   # Testing setup and fixtures
 scripts/ directory                  # Existing automation scripts
 .env.example                        # Environment configuration template
 requirements.txt                    # Current dependencies
@@ -157,7 +157,7 @@ requirements.txt                    # Current dependencies
 
 ### **Phase 2: Core Feature Completion**
 
-#### **Critical Knowledge**  
+#### **Critical Knowledge**
 - **Content Processing Pipeline**: How articles, videos, podcasts are processed
 - **Cognitive Features**: How the 5 ask modules work and integrate
 - **Performance Bottlenecks**: Known slow areas and optimization opportunities
@@ -178,7 +178,7 @@ web/app.py                         # Current API structure
 - **Data Serialization**: How to expose internal data structures via API
 
 #### **Key Files to Always Read**
-```  
+```
 web/app.py                         # Existing API implementation
 helpers/metadata_manager.py        # Data access layer
 @.agent-os/specs/.../sub-specs/api-spec.md  # Complete API requirements
@@ -263,7 +263,7 @@ Production configuration          # Deployment and operational setup
 
 ### **Missing Integration Context**
 - **Problem**: Building features that don't integrate well with existing system
-- **Solution**: Always understand how new work connects to existing patterns  
+- **Solution**: Always understand how new work connects to existing patterns
 
 ### **Scope Creep from Insufficient Context**
 - **Problem**: Task becomes much larger when implementation details are discovered

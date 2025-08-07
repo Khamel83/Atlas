@@ -1,0 +1,36 @@
+{
+  "uid": "88c87291bb586f72",
+  "content_type": "instapaper_newsletter",
+  "source": "instapaper://private-content/1760105299",
+  "title": "The Narrows of the Book",
+  "status": "success",
+  "date": "2025-03-12T09:00:28",
+  "error": null,
+  "content_path": "output/articles/markdown/88c87291bb586f72.md",
+  "html_path": "output/articles/html/88c87291bb586f72.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api_private_content",
+  "fetch_details": {
+    "bookmark_id": 1760105299,
+    "extraction_method": "bookmarks_get_text",
+    "content_length": 9781,
+    "successful": true
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1760105299",
+  "type_specific": {
+    "bookmark_id": 1760105299,
+    "instapaper_time": 1741795228,
+    "starred": true,
+    "is_private_content": true,
+    "private_source": "email",
+    "content_length": 9781
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T21:58:52.032669",
+  "updated_at": "2025-08-05T21:58:52.032671"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "3204ae014b863723",
+  "content_type": "web_bookmark",
+  "source": "https://www.interviewmagazine.com/film/m-almost-gets-arrested-meets-riz-ahmed-lunch",
+  "title": "M.I.A. almost gets arrested, meets Riz Ahmed for lunch - Interview Magazine",
+  "status": "converted_from_csv",
+  "date": "2018-04-17T11:55:42",
+  "error": null,
+  "content_path": "output/articles/markdown/3204ae014b863723.md",
+  "html_path": "output/articles/html/3204ae014b863723.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3544,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8ef816ce1bde5030ce34d606119aab3b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1523991342",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-04-17T11:55:42",
+  "updated_at": "2018-04-17T11:55:42"
+}

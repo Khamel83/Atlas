@@ -50,4 +50,3 @@
 - **increase_free_usage**: {'current_percentage': 0, 'target_percentage': 85, 'suggested_models': ['cognitivecomputations/dolphin-mistral-24b-venice-edition:free', 'google/gemma-3n-e2b-it:free', 'tencent/hunyuan-a13b-instruct:free', 'tngtech/deepseek-r1t2-chimera:free', 'openrouter/cypher-alpha:free']}
 
 ### Performance Improvements
-

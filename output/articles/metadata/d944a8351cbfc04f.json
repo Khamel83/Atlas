@@ -1,0 +1,40 @@
+{
+  "uid": "d944a8351cbfc04f",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/datalab/roundtable-is-the-republican-establishment-losing-control-of-the-party/",
+  "title": "Is The Republican Establishment Losing Control Of The Party FiveThirtyEight » Nate Silver | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2015-09-03T10:55:34",
+  "error": null,
+  "content_path": "output/articles/markdown/d944a8351cbfc04f.md",
+  "html_path": "output/articles/html/d944a8351cbfc04f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4759,
+    "selection_length": 350,
+    "cleaned_selection_length": 357,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d944a8351cbfc04f",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1441302934",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The 2016 Republican presidential primary field is unusually large and unusually unsettled, and the first debate earlier this month didn’t do much to change either of those things. So we gathered FiveThirtyEight’s political writers in Slack to talk about the state of the race. This is an edited transcript of the conversation. micah (Micah Cohen, […]",
+    "cleaned_selection": "<p>The 2016 Republican presidential primary field is unusually large and unusually unsettled, and the first debate earlier this month didn’t do much to change either of those things. So we gathered FiveThirtyEight’s political writers in Slack to talk about the state of the race. This is an edited transcript of the conversation. micah (Micah Cohen, […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.383409",
+  "updated_at": "2025-08-06T08:47:04.383410"
+}

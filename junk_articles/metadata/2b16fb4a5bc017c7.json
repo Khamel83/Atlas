@@ -1,0 +1,34 @@
+{
+  "uid": "2b16fb4a5bc017c7",
+  "content_type": "web_bookmark",
+  "source": "http://www.rollingstone.com/politics/news/the-gop-clown-car-rolls-on-20151117",
+  "title": "The GOP Clown Car Rolls On",
+  "status": "converted_from_csv",
+  "date": "2015-11-17T20:32:15",
+  "error": null,
+  "content_path": "output/articles/markdown/2b16fb4a5bc017c7.md",
+  "html_path": "output/articles/html/2b16fb4a5bc017c7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4687,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ed30456e0a1c6ed385d9ef3b734bbd5e",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1447821135",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-11-17T20:32:15",
+  "updated_at": "2015-11-17T20:32:15"
+}

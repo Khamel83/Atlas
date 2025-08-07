@@ -1,0 +1,34 @@
+{
+  "uid": "ae98b97ceed3b78f",
+  "content_type": "web_bookmark",
+  "source": "https://www.businessinsider.com/us-dell-workers-reject-return-to-office-hybrid-work-2024-6",
+  "title": "Almost half of Dell's full-time US workforce has rejected the company's return-to-office push",
+  "status": "converted_from_csv",
+  "date": "2024-06-19T20:52:56",
+  "error": null,
+  "content_path": "output/articles/markdown/ae98b97ceed3b78f.md",
+  "html_path": "output/articles/html/ae98b97ceed3b78f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 267,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "04e8128d9288b98256b712ddaebda741",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1718855576",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-06-19T20:52:56",
+  "updated_at": "2024-06-19T20:52:56"
+}

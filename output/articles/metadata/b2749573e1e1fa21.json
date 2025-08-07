@@ -1,0 +1,40 @@
+{
+  "uid": "b2749573e1e1fa21",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.timesfreepress.com/news/2011/jun/12/burden-so-great/",
+  "title": "A Burden So Great [via Longreads]",
+  "status": "selection_content_extracted",
+  "date": "2011-07-25T19:35:01",
+  "error": null,
+  "content_path": "output/articles/markdown/b2749573e1e1fa21.md",
+  "html_path": "output/articles/html/b2749573e1e1fa21.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5693,
+    "selection_length": 641,
+    "cleaned_selection_length": 648,
+    "domain": "timesfreepress.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b2749573e1e1fa21",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1311647701",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Police know him. They’ve arrested him 160 times on paper, and countless times without documents, after his binges. He is a nuisance who owes the county nearly $30,000 in court fines and has paid nothing more than $1,000 toward the bill since he started getting locked up for public intoxication in 1993 as an unemployed 28-year-old. And so it comes to this day, when the judge and the district attorney and the public defender want to know why Darryl is still plaguing East Ridge, and why, at 45, he keeps flirting with a roadside death, and does it again and again and again. Darryl, his mother and sister are called to the defendant stand.",
+    "cleaned_selection": "<p>Police know him. They’ve arrested him 160 times on paper, and countless times without documents, after his binges. He is a nuisance who owes the county nearly $30,000 in court fines and has paid nothing more than $1,000 toward the bill since he started getting locked up for public intoxication in 1993 as an unemployed 28-year-old. And so it comes to this day, when the judge and the district attorney and the public defender want to know why Darryl is still plaguing East Ridge, and why, at 45, he keeps flirting with a roadside death, and does it again and again and again. Darryl, his mother and sister are called to the defendant stand.</p>",
+    "domain": "timesfreepress.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.534359",
+  "updated_at": "2025-08-06T08:47:04.534361"
+}

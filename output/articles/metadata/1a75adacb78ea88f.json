@@ -1,0 +1,40 @@
+{
+  "uid": "1a75adacb78ea88f",
+  "content_type": "instapaper",
+  "source": "https://thepointsguy.com/2017/11/chase-cards-digital-priority-pass/",
+  "title": "Chase Sapphire Reserve and Ritz Cardholders Now Have Access to Digital Priority Pass The Points Guy",
+  "status": "success",
+  "date": "2025-08-05T13:56:37.227544",
+  "error": null,
+  "content_path": "output/articles/markdown/1a75adacb78ea88f.md",
+  "html_path": "output/articles/html/1a75adacb78ea88f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a72defd8bec4db3c529553385c0754fb",
+  "type_specific": {
+    "bookmark_id": 983181807,
+    "instapaper_time": 1511183307,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:56:37.227572",
+  "updated_at": "2025-08-05T13:56:37.227576"
+}

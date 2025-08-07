@@ -1,0 +1,40 @@
+{
+  "uid": "bf65f5c5fe3f485f",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/07/rio-from-562/",
+  "title": "Deal Alert AA to Rio de Janeiro from $562 The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-07-31T20:46:56",
+  "error": null,
+  "content_path": "output/articles/markdown/bf65f5c5fe3f485f.md",
+  "html_path": "output/articles/html/bf65f5c5fe3f485f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4797,
+    "selection_length": 361,
+    "cleaned_selection_length": 368,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bf65f5c5fe3f485f",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1438400816",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Airfare deals are typically only available on limited dates. We recommend that you use Google Flights to find dates to fly, then book through an online travel agency, such as Orbitz, which allows you to cancel flights without penalty by 11pm Eastern Time within one day of booking. Remember: Fares may disappear quickly, so book right away and take advantage...",
+    "cleaned_selection": "<p>Airfare deals are typically only available on limited dates. We recommend that you use Google Flights to find dates to fly, then book through an online travel agency, such as Orbitz, which allows you to cancel flights without penalty by 11pm Eastern Time within one day of booking. Remember: Fares may disappear quickly, so book right away and take advantage...</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.393840",
+  "updated_at": "2025-08-06T08:47:04.393841"
+}

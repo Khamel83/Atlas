@@ -1,0 +1,40 @@
+{
+  "uid": "ff111ac481e9bb25",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/1089647/college-degrees-offer-four-times-more-net-worth-to-americans-says-new-fed-reserve-report/",
+  "title": "Americans who go to college are four times better off than everyone else Quartz",
+  "status": "selection_content_extracted",
+  "date": "2017-09-28T21:56:14",
+  "error": null,
+  "content_path": "output/articles/markdown/ff111ac481e9bb25.md",
+  "html_path": "output/articles/html/ff111ac481e9bb25.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3784,
+    "selection_length": 1836,
+    "cleaned_selection_length": 1873,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ff111ac481e9bb25",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1506660974",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Few things are both as dreadfully necessary and blisteringly expensive as a college degree in America—once an idle pastime of the privileged elite, now one of the most important entry points into the modern workforce.\n\nWhile Americans without university degrees have seen a fair rise in household income in recent years, they still lag far behind their college-educated peers. Per triennial data from the US Federal Reserve published this week, people with college degrees these days have a median net worth more than four times that of people without. “Shares of income and wealth held by affluent families have reached historically high levels,” the Fed wrote in its report.\n\nIt’s not that college-educated Americans are making dramatically more money than before—in fact, their median net worth has only grown 2% between 2013 and 2016—but rather that those without college degrees still have a long way to go to catch up. In that three-year period for which Fed data was collected, the median net worth for those with only a high school diploma actually jumped around 25%, from $54,100 to $67,100. But the median net worth for those with college degrees is $292,100.\n\nWhat’s the fix for such large disparity? Of course there’s no panacea—but a combination of government policy programs pledging free or reduced college tuition, university-led initiatives to make degrees more accessible to a wider population, and shifts in employers’ hiring priorities could all help. Such efforts are all in the works, but it’s unclear how long it will be until we see their effects in the Fed’s future reports.\n\nUniversity education is also only one facet of the US’s broader struggle with wealth inequality—even as household income in the country is overall on the rise.\n\nRead this next: It’s the end of the university as we know it\n\nMost Popular",
+    "cleaned_selection": "<p>Few things are both as dreadfully necessary and blisteringly expensive as a college degree in America—once an idle pastime of the privileged elite, now one of the most important entry points into the modern workforce.</p><p>While Americans without university degrees have seen a fair rise in household income in recent years, they still lag far behind their college-educated peers. Per triennial data from the US Federal Reserve published this week, people with college degrees these days have a median net worth more than four times that of people without. “Shares of income and wealth held by affluent families have reached historically high levels,” the Fed wrote in its report.</p><p>It’s not that college-educated Americans are making dramatically more money than before—in fact, their median net worth has only grown 2% between 2013 and 2016—but rather that those without college degrees still have a long way to go to catch up. In that three-year period for which Fed data was collected, the median net worth for those with only a high school diploma actually jumped around 25%, from $54,100 to $67,100. But the median net worth for those with college degrees is $292,100.</p><p>What’s the fix for such large disparity? Of course there’s no panacea—but a combination of government policy programs pledging free or reduced college tuition, university-led initiatives to make degrees more accessible to a wider population, and shifts in employers’ hiring priorities could all help. Such efforts are all in the works, but it’s unclear how long it will be until we see their effects in the Fed’s future reports.</p><p>University education is also only one facet of the US’s broader struggle with wealth inequality—even as household income in the country is overall on the rise.</p><p>Read this next: It’s the end of the university as we know it</p><p>Most Popular</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.005166",
+  "updated_at": "2025-08-06T08:47:04.005170"
+}

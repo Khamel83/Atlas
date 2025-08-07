@@ -1,0 +1,34 @@
+{
+  "uid": "d49fbffc110b7e74",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2019/03/02/business/jeff-bezos-lauren-sanchez-amazon-hollywood.html",
+  "title": "How Jeff Bezos Went to Hollywood and Lost Control",
+  "status": "converted_from_csv",
+  "date": "2019-03-02T11:40:07",
+  "error": null,
+  "content_path": "output/articles/markdown/d49fbffc110b7e74.md",
+  "html_path": "output/articles/html/d49fbffc110b7e74.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3219,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8f0b6974534d2fb47250f7b0720be4f0",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1551555607",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-03-02T11:40:07",
+  "updated_at": "2019-03-02T11:40:07"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "717c4ec037aff51c",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2015/01/06/upshot/heres-how-lack-of-competition-can-hurt-consumers.html",
+  "title": "Here’s How Lack of Competition Can Hurt Consumers",
+  "status": "converted_from_csv",
+  "date": "2015-01-05T09:47:32",
+  "error": null,
+  "content_path": "output/articles/markdown/717c4ec037aff51c.md",
+  "html_path": "output/articles/html/717c4ec037aff51c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4997,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "975db40d16bdcfe3e28e5199efac2a87",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1420480052",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-01-05T09:47:32",
+  "updated_at": "2015-01-05T09:47:32"
+}

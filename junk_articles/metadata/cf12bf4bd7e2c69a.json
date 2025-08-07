@@ -1,0 +1,34 @@
+{
+  "uid": "cf12bf4bd7e2c69a",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2015/02/08/magazine/eddie-huang-against-the-world.html",
+  "title": "Eddie Huang Against the World",
+  "status": "converted_from_csv",
+  "date": "2015-02-03T12:23:34",
+  "error": null,
+  "content_path": "output/articles/markdown/cf12bf4bd7e2c69a.md",
+  "html_path": "output/articles/html/cf12bf4bd7e2c69a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4952,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2740bbc70461a8765d5fe3245c2c8da8",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1422995014",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-02-03T12:23:34",
+  "updated_at": "2015-02-03T12:23:34"
+}

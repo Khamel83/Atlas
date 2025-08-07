@@ -1,0 +1,34 @@
+{
+  "uid": "fdc232291e57f639",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/08a7f7538ac90b485a8a4777d3e5a58f/",
+  "title": "The Services iPhone (Stratechery Article 9-8-2022)",
+  "status": "converted_from_csv",
+  "date": "2022-09-08T05:03:11",
+  "error": null,
+  "content_path": "output/articles/markdown/fdc232291e57f639.md",
+  "html_path": "output/articles/html/fdc232291e57f639.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1240,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "68381e432238ca716f897990d59bf580",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1662638591",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-09-08T05:03:11",
+  "updated_at": "2022-09-08T05:03:11"
+}

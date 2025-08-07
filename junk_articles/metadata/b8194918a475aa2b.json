@@ -1,0 +1,34 @@
+{
+  "uid": "b8194918a475aa2b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/7976c603bb8144feb71964ac113757a0/",
+  "title": "The FTC takes aim at X",
+  "status": "converted_from_csv",
+  "date": "2023-09-14T17:01:20",
+  "error": null,
+  "content_path": "output/articles/markdown/b8194918a475aa2b.md",
+  "html_path": "output/articles/html/b8194918a475aa2b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 642,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2504edf21a164b531e990d0f8d27bbd2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1694736080",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-09-14T17:01:20",
+  "updated_at": "2023-09-14T17:01:20"
+}

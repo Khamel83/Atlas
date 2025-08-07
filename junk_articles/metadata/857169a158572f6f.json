@@ -1,0 +1,34 @@
+{
+  "uid": "857169a158572f6f",
+  "content_type": "web_bookmark",
+  "source": "http://lifehacker.com/the-best-places-to-retire-outside-of-the-us-1693356084",
+  "title": "The Best Places to Retire Outside of the US",
+  "status": "converted_from_csv",
+  "date": "2015-03-24T15:37:01",
+  "error": null,
+  "content_path": "output/articles/markdown/857169a158572f6f.md",
+  "html_path": "output/articles/html/857169a158572f6f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4900,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9003b3846d29f9df57b9df076a920133",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1427236621",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-03-24T15:37:01",
+  "updated_at": "2015-03-24T15:37:01"
+}

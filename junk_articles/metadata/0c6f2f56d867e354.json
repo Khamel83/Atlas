@@ -1,0 +1,34 @@
+{
+  "uid": "0c6f2f56d867e354",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/df16628755b0fff1952f798df7f98d68/",
+  "title": "Startup Stock Options Options with Secfi",
+  "status": "converted_from_csv",
+  "date": "2021-04-22T05:56:53",
+  "error": null,
+  "content_path": "output/articles/markdown/0c6f2f56d867e354.md",
+  "html_path": "output/articles/html/0c6f2f56d867e354.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2265,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "00453173b9d7d95fb45d1c2cd81c19e2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1619096213",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-04-22T05:56:53",
+  "updated_at": "2021-04-22T05:56:53"
+}

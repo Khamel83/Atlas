@@ -1,0 +1,34 @@
+{
+  "uid": "bea1debdd1ed4c80",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6943e52b4f1fbc9d1694d6c216cad97f/",
+  "title": "Listen to This Article: Yes, Virginia, There is a Deep State",
+  "status": "converted_from_csv",
+  "date": "2021-10-19T11:03:32",
+  "error": null,
+  "content_path": "output/articles/markdown/bea1debdd1ed4c80.md",
+  "html_path": "output/articles/html/bea1debdd1ed4c80.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1894,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6c4a6a138abdd9df53d56335530b82cf",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1634666612",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-10-19T11:03:32",
+  "updated_at": "2021-10-19T11:03:32"
+}

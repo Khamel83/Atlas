@@ -1,0 +1,40 @@
+{
+  "uid": "f40a485f2c997704",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/10/award-travelers-guide-to-starwood-preferred-guest/",
+  "title": "The Award Traveler’s Guide to Starwood Preferred Guest The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-10-26T20:00:48",
+  "error": null,
+  "content_path": "output/articles/markdown/f40a485f2c997704.md",
+  "html_path": "output/articles/html/f40a485f2c997704.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4709,
+    "selection_length": 294,
+    "cleaned_selection_length": 301,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f40a485f2c997704",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1445914848",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "To get the most out of your hotel points, it helps to know the ins and outs for earning and redeeming award stays. TPG Contributor Richard Kerr shows you how to get the most of out the popular Starwood Preferred Guest program. It’s interesting to me how often I’m met with a blank stare when...",
+    "cleaned_selection": "<p>To get the most out of your hotel points, it helps to know the ins and outs for earning and redeeming award stays. TPG Contributor Richard Kerr shows you how to get the most of out the popular Starwood Preferred Guest program. It’s interesting to me how often I’m met with a blank stare when...</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.368650",
+  "updated_at": "2025-08-06T08:47:04.368651"
+}

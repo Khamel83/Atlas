@@ -1,0 +1,34 @@
+{
+  "uid": "fc025fe2f6f10e68",
+  "content_type": "web_bookmark",
+  "source": "http://www.theatlantic.com/magazine/print/2009/09/how-american-health-care-killed-my-father/7617/",
+  "title": "The Atlantic :: Magazine :: How American Health Care Killed My Father",
+  "status": "converted_from_csv",
+  "date": "2010-06-27T10:03:17",
+  "error": null,
+  "content_path": "output/articles/markdown/fc025fe2f6f10e68.md",
+  "html_path": "output/articles/html/fc025fe2f6f10e68.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6210,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "668aefc30510dc67a8158832d46b60ec",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1277658197",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-06-27T10:03:17",
+  "updated_at": "2010-06-27T10:03:17"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "fc07aa7dff71f7fa",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/26a2a29b112ebd1101db17214373abcc/",
+  "title": "Apple, Epic, and the App Store (Stratechery Weekly Article 8-17-2020)",
+  "status": "converted_from_csv",
+  "date": "2020-08-17T10:02:05",
+  "error": null,
+  "content_path": "output/articles/markdown/fc07aa7dff71f7fa.md",
+  "html_path": "output/articles/html/fc07aa7dff71f7fa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2784,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "349871bc77327dc40e653c4e5b93417d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1597683725",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-08-17T10:02:05",
+  "updated_at": "2020-08-17T10:02:05"
+}

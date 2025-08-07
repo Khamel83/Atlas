@@ -1,0 +1,40 @@
+{
+  "uid": "04426b3f959aebe8",
+  "content_type": "instapaper",
+  "source": "https://thepointsguy.com/2017/07/la-photographers-follow-instagram/",
+  "title": "12 Los Angeles Photographers to Follow on Instagram The Points Guy",
+  "status": "success",
+  "date": "2025-08-05T14:02:11.612994",
+  "error": null,
+  "content_path": "output/articles/markdown/04426b3f959aebe8.md",
+  "html_path": "output/articles/html/04426b3f959aebe8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "664e05031940bb6ab274403a074ee0db",
+  "type_specific": {
+    "bookmark_id": 931280928,
+    "instapaper_time": 1500220522,
+    "starred": true,
+    "progress": 0.352022,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:02:11.613022",
+  "updated_at": "2025-08-05T14:02:11.613026"
+}

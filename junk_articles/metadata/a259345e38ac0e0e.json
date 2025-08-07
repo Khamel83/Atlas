@@ -1,0 +1,34 @@
+{
+  "uid": "a259345e38ac0e0e",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/949bfb4654874ce75324d7fac1a65346/",
+  "title": "When Terrorism Is White, As It So Often Is",
+  "status": "converted_from_csv",
+  "date": "2022-05-16T15:27:20",
+  "error": null,
+  "content_path": "output/articles/markdown/a259345e38ac0e0e.md",
+  "html_path": "output/articles/html/a259345e38ac0e0e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1439,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "dfdae0ff872aa23e61667b272b7221f3",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1652740040",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-05-16T15:27:20",
+  "updated_at": "2022-05-16T15:27:20"
+}

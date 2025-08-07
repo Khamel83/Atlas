@@ -1,0 +1,34 @@
+{
+  "uid": "99fdea5a9f5773cd",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/45a983fb9bcac213049107d2a470c7e8/",
+  "title": "What's Behind the Decline in Teen Mental Health?",
+  "status": "converted_from_csv",
+  "date": "2023-03-16T02:14:07",
+  "error": null,
+  "content_path": "output/articles/markdown/99fdea5a9f5773cd.md",
+  "html_path": "output/articles/html/99fdea5a9f5773cd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 963,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5757166493122ebef591a7a0f1fe15c5",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1678958047",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-03-16T02:14:07",
+  "updated_at": "2023-03-16T02:14:07"
+}

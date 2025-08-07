@@ -1,0 +1,34 @@
+{
+  "uid": "e808697851a03a4b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/299fb22e5cd6333f873f26d002dc888a/",
+  "title": "Q&A: Sports and head injuries, mold and Christmas trees, motion sickness, and vitamin D",
+  "status": "converted_from_csv",
+  "date": "2023-12-12T03:14:16",
+  "error": null,
+  "content_path": "output/articles/markdown/e808697851a03a4b.md",
+  "html_path": "output/articles/html/e808697851a03a4b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 475,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8b54cafc91604d9a896d76f255e1ba13",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1702379656",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-12-12T03:14:16",
+  "updated_at": "2023-12-12T03:14:16"
+}

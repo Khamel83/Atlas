@@ -1,0 +1,40 @@
+{
+  "uid": "303e18615cddc31c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://qz.com/579526/a-letter-to-a-young-muslim-on-the-future-of-western-islam/",
+  "title": "A letter to a young Muslim on the future of Western Islam Quartz",
+  "status": "selection_content_extracted",
+  "date": "2015-12-27T08:05:33",
+  "error": null,
+  "content_path": "output/articles/markdown/303e18615cddc31c.md",
+  "html_path": "output/articles/html/303e18615cddc31c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4656,
+    "selection_length": 164,
+    "cleaned_selection_length": 171,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "303e18615cddc31c",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1451232333",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "We have failed you. While jihadist movements continue to expand their reach, anti-Muslim bigotry is becoming more and more mainstream. Both narratives mean to deny…",
+    "cleaned_selection": "<p>We have failed you. While jihadist movements continue to expand their reach, anti-Muslim bigotry is becoming more and more mainstream. Both narratives mean to deny…</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.358054",
+  "updated_at": "2025-08-06T08:47:04.358055"
+}

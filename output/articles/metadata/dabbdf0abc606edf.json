@@ -1,0 +1,28 @@
+{
+  "uid": "dabbdf0abc606edf",
+  "content_type": "instapaper_archive_additional_content",
+  "source": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-negotiating",
+  "title": "The ultimate guide to negotiating your comp",
+  "status": "success",
+  "date": "2025-08-06T13:40:59.397545",
+  "error": null,
+  "content_path": "output/articles/markdown/dabbdf0abc606edf.md",
+  "html_path": "output/articles/html/dabbdf0abc606edf.html",
+  "fetch_method": "instapaper_api_archive_folder_maximization",
+  "fetch_details": {
+    "bookmark_id": 1774696548,
+    "content_length": 23479,
+    "successful": true,
+    "extraction_batch": "maximization_discovery",
+    "folder": "archive"
+  },
+  "type_specific": {
+    "bookmark_id": 1774696548,
+    "instapaper_time": 1747333738,
+    "folder": "archive",
+    "content_length": 23479,
+    "discovery_method": "folder_deep_dive"
+  },
+  "created_at": "2025-08-06T13:40:59.397551",
+  "updated_at": "2025-08-06T13:40:59.397552"
+}

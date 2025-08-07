@@ -1,0 +1,40 @@
+{
+  "uid": "6e1961790bb144ba",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/07/airline-elite-status-match/",
+  "title": "Airline Elite Status Match and Challenge Options for the Rest of 2015 The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-07-15T08:08:03",
+  "error": null,
+  "content_path": "output/articles/markdown/6e1961790bb144ba.md",
+  "html_path": "output/articles/html/6e1961790bb144ba.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4814,
+    "selection_length": 364,
+    "cleaned_selection_length": 371,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6e1961790bb144ba",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1436972883",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Elite airline status provides a lot of great perks, but earning it takes determination. Today, TPG Senior Points & Miles Correspondent Nick Ewen looks at ways to circumvent the usual qualification requirements by way of status matches and challenges. We’ve officially reached the halfway point of 2015! With just six months left to (re)qualify for elite status,...",
+    "cleaned_selection": "<p>Elite airline status provides a lot of great perks, but earning it takes determination. Today, TPG Senior Points & Miles Correspondent Nick Ewen looks at ways to circumvent the usual qualification requirements by way of status matches and challenges. We’ve officially reached the halfway point of 2015! With just six months left to (re)qualify for elite status,...</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.400052",
+  "updated_at": "2025-08-06T08:47:04.400054"
+}

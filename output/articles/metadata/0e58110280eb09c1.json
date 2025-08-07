@@ -1,0 +1,40 @@
+{
+  "uid": "0e58110280eb09c1",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://kottke.org/19/09/six-maps-that-reveal-americas-expanding-racial-diversity",
+  "title": "Six Maps that Reveal America’s Expanding Racial Diversity kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2019-09-17T15:03:49",
+  "error": null,
+  "content_path": "output/articles/markdown/0e58110280eb09c1.md",
+  "html_path": "output/articles/html/0e58110280eb09c1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3018,
+    "selection_length": 966,
+    "cleaned_selection_length": 982,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0e58110280eb09c1",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1568757829",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Using 2020 census estimates, a series of six maps and the accompanying article from William H. Frey at the Brookings Institution show how the racial makeup on the United States is expected to have changed since the last census in 2010.\n\nHispanics and Asian Americans are the fastest-growing racial minority groups nationally, increasing by 18.6% and 27.4%, respectively, from 2010 to 2018. There is also a growing dispersion of both groups to new destinations, which tend to lie further afield than the familiar large metro areas.\n\nIn 1990, 39% of all U.S. Hispanics resided in just four metro areas: Los Angeles, New York, Miami, and Chicago. In 2018, 39% of U.S. Hispanics resided in seven metro areas, with Houston, Riverside, Calif., and Dallas added to the list (and each eclipsing Chicago in size). And beyond these, Hispanic growth is high in areas with smaller Hispanic settlements in all parts of the country.\n\nTags: demographics   maps   USA   William Frey",
+    "cleaned_selection": "<p>Using 2020 census estimates, a series of six maps and the accompanying article from William H. Frey at the Brookings Institution show how the racial makeup on the United States is expected to have changed since the last census in 2010.</p><p>Hispanics and Asian Americans are the fastest-growing racial minority groups nationally, increasing by 18.6% and 27.4%, respectively, from 2010 to 2018. There is also a growing dispersion of both groups to new destinations, which tend to lie further afield than the familiar large metro areas.</p><p>In 1990, 39% of all U.S. Hispanics resided in just four metro areas: Los Angeles, New York, Miami, and Chicago. In 2018, 39% of U.S. Hispanics resided in seven metro areas, with Houston, Riverside, Calif., and Dallas added to the list (and each eclipsing Chicago in size). And beyond these, Hispanic growth is high in areas with smaller Hispanic settlements in all parts of the country.</p><p>Tags: demographics maps USA William Frey</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.721224",
+  "updated_at": "2025-08-06T08:47:03.721225"
+}

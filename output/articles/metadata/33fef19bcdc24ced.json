@@ -1,0 +1,40 @@
+{
+  "uid": "33fef19bcdc24ced",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://qz.com/849178/stop-normalizing-a-useful-google-chrome-extension-that-autocorrects-alt-white-to-neo-nazi/",
+  "title": "A useful Google Chrome extension autocorrects “alt-right” to “neo-Nazi” Quartz",
+  "status": "selection_content_extracted",
+  "date": "2016-11-30T15:48:35",
+  "error": null,
+  "content_path": "output/articles/markdown/33fef19bcdc24ced.md",
+  "html_path": "output/articles/html/33fef19bcdc24ced.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4228,
+    "selection_length": 2850,
+    "cleaned_selection_length": 2907,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "33fef19bcdc24ced",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1480549715",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Since the election of Donald Trump, the controversial term “alternative-right” or “alt-right” has emerged in mainstream media to describe a loose configuration of people who rally behind incendiary, white nationalist polemic in the US.\n\nBut an anonymous New York City-based designer says that the use of “alt-right” instead of “white supremacist” is nothing more than linguistic sanitation, and has created two Google Chrome extensions to fix that. The extensions automatically replace all instances of the term “alt-right” on the internet with “white supremacist” or “Neo-Nazi.”\n\n“This gentle sounding name is the rebranding of White Supremacy and White Nationalism, and its normalization must be stopped,” the designer, operating under the pseudonym George Zola wrote on his/her website.\n\nRebranded hatred is still hatred. Rebranded white supremacy is still white supremacy. Rebranded nazism is still nazism. #StopNormalizing\n\n— #STOPNORMALIZING (@STOPNORMALIZING) November 29, 2016\n\nHe’s not the only one to call out the term “alt-right.” On Nov. 28, the AP updated its style guide stating that “alt-right” should only be used in quotation marks and with a definition. In a blog post, John Daniszewski, AP’s vice president for standards noted that the news agency has simply described such beliefs as “racist, neo-Nazi or white supremacist” in the past.\n\nThe term “Alternative-Right” originates with Richard Spencer, president of the far right advocacy group National Policy Institute (NPI) who used it in a speech in 2010 speech and recently led members in a “Hail Trump” salute, as the Atlantic captured on video. It was propagated by fringe media exec Steve Bannon, now a senior strategist for Trump.\n\nThe free web browser extension for “white supremacist” was downloaded 1,200 times on its first day, Nov. 16. As of Nov. 29, links to the extension had reportedly been shared 63,000 times on Facebook.\n\nZola tells Quartz that he developed the Neo-Nazi version in response for a clamor for the more loaded term, and says he’s focusing on getting the extensions ready for FireFox and Safari.\n\n“I’m not sure how much further we’ll take the Chrome Extension approach, we have larger goals of making noise,” Zola explains. “Any way we can prompt conversation and get people to consider the importance of their own word choice as well as question the word choice of the media is what we’re aiming for.”\n\nZola also shares that the response to his self-initiated political protest has been shockingly positive. “When we started this, I expected a lot of hate mail. However, the response has been overwhelmingly positive and personally touching,” he says. The project has even drawn out personal stories from those affected by Nazi occupation. “We’ve received messages of hope…we’ve inspired them by presenting simple yet powerful messages of defiance.”",
+    "cleaned_selection": "<p>Since the election of Donald Trump, the controversial term “alternative-right” or “alt-right” has emerged in mainstream media to describe a loose configuration of people who rally behind incendiary, white nationalist polemic in the US.</p><p>But an anonymous New York City-based designer says that the use of “alt-right” instead of “white supremacist” is nothing more than linguistic sanitation, and has created two Google Chrome extensions to fix that. The extensions automatically replace all instances of the term “alt-right” on the internet with “white supremacist” or “Neo-Nazi.”</p><p>“This gentle sounding name is the rebranding of White Supremacy and White Nationalism, and its normalization must be stopped,” the designer, operating under the pseudonym George Zola wrote on his/her website.</p><p>Rebranded hatred is still hatred. Rebranded white supremacy is still white supremacy. Rebranded nazism is still nazism. #StopNormalizing</p><p>— #STOPNORMALIZING (@STOPNORMALIZING) November 29, 2016</p><p>He’s not the only one to call out the term “alt-right.” On Nov. 28, the AP updated its style guide stating that “alt-right” should only be used in quotation marks and with a definition. In a blog post, John Daniszewski, AP’s vice president for standards noted that the news agency has simply described such beliefs as “racist, neo-Nazi or white supremacist” in the past.</p><p>The term “Alternative-Right” originates with Richard Spencer, president of the far right advocacy group National Policy Institute (NPI) who used it in a speech in 2010 speech and recently led members in a “Hail Trump” salute, as the Atlantic captured on video. It was propagated by fringe media exec Steve Bannon, now a senior strategist for Trump.</p><p>The free web browser extension for “white supremacist” was downloaded 1,200 times on its first day, Nov. 16. As of Nov. 29, links to the extension had reportedly been shared 63,000 times on Facebook.</p><p>Zola tells Quartz that he developed the Neo-Nazi version in response for a clamor for the more loaded term, and says he’s focusing on getting the extensions ready for FireFox and Safari.</p><p>“I’m not sure how much further we’ll take the Chrome Extension approach, we have larger goals of making noise,” Zola explains. “Any way we can prompt conversation and get people to consider the importance of their own word choice as well as question the word choice of the media is what we’re aiming for.”</p><p>Zola also shares that the response to his self-initiated political protest has been shockingly positive. “When we started this, I expected a lot of hate mail. However, the response has been overwhelmingly positive and personally touching,” he says. The project has even drawn out personal stories from those affected by Nazi occupation. “We’ve received messages of hope…we’ve inspired them by presenting simple yet powerful messages of defiance.”</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.251730",
+  "updated_at": "2025-08-06T08:47:04.251732"
+}

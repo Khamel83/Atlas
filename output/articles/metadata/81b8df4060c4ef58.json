@@ -1,0 +1,40 @@
+{
+  "uid": "81b8df4060c4ef58",
+  "content_type": "instapaper",
+  "source": "https://www.core77.com//posts/80896/Art-Institute-of-Chicago-Makes-50000-Famous-Artworks-Freely-Downloadable",
+  "title": "Art Institute of Chicago Makes 50,000 Famous Artworks Freely Downloadable Core77",
+  "status": "success",
+  "date": "2025-08-05T13:48:11.916341",
+  "error": null,
+  "content_path": "output/articles/markdown/81b8df4060c4ef58.md",
+  "html_path": "output/articles/html/81b8df4060c4ef58.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "99c765a56a8f44996fc589ac3e959d86",
+  "type_specific": {
+    "bookmark_id": 1127851509,
+    "instapaper_time": 1542061825,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:48:11.916370",
+  "updated_at": "2025-08-05T13:48:11.916373"
+}

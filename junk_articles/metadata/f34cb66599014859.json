@@ -1,0 +1,34 @@
+{
+  "uid": "f34cb66599014859",
+  "content_type": "web_bookmark",
+  "source": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
+  "title": "Machine Bias: There’s Software Used Across the Country to Predict Future Criminals. And it’s Biased Against Blacks.",
+  "status": "converted_from_csv",
+  "date": "2016-05-24T09:28:13",
+  "error": null,
+  "content_path": "output/articles/markdown/f34cb66599014859.md",
+  "html_path": "output/articles/html/f34cb66599014859.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4431,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "162ff75ee94a7e11d7f027524e09f355",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1464107293",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-05-24T09:28:13",
+  "updated_at": "2016-05-24T09:28:13"
+}

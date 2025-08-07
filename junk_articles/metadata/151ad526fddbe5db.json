@@ -1,0 +1,34 @@
+{
+  "uid": "151ad526fddbe5db",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/eb1bb46f26cac981e8df9c525019750c/",
+  "title": "Making Ordinary Russians Suffer for Putin's Invasion",
+  "status": "converted_from_csv",
+  "date": "2022-03-01T12:09:16",
+  "error": null,
+  "content_path": "output/articles/markdown/151ad526fddbe5db.md",
+  "html_path": "output/articles/html/151ad526fddbe5db.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1592,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e33a0fdd6baa58297f54137d559be2fc",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1646165356",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-03-01T12:09:16",
+  "updated_at": "2022-03-01T12:09:16"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "1022a3519a18d940",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/030ce3ee24ac33e30bd91a31abea2537/",
+  "title": "Wins and Woes from our LGBTQIA+ Community",
+  "status": "converted_from_csv",
+  "date": "2023-06-27T09:31:44",
+  "error": null,
+  "content_path": "output/articles/markdown/1022a3519a18d940.md",
+  "html_path": "output/articles/html/1022a3519a18d940.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 803,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bca061be1aba25faf65e19c8f1a4e68a",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1687883504",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-06-27T09:31:44",
+  "updated_at": "2023-06-27T09:31:44"
+}

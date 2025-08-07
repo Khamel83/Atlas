@@ -1,0 +1,40 @@
+{
+  "uid": "5c6fdbe6d9dd7cb7",
+  "content_type": "instapaper",
+  "source": "http://ritholtz.com/2018/05/egyptian-billionaire-naguib-sawiris/",
+  "title": "Egyptian billionaire Naguib Sawiris The Big Picture",
+  "status": "success",
+  "date": "2025-08-05T13:49:45.833748",
+  "error": null,
+  "content_path": "output/articles/markdown/5c6fdbe6d9dd7cb7.md",
+  "html_path": "output/articles/html/5c6fdbe6d9dd7cb7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "03bdd6fff42ca428883ef23fae6e5f77",
+  "type_specific": {
+    "bookmark_id": 1054680353,
+    "instapaper_time": 1526040657,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:49:45.833789",
+  "updated_at": "2025-08-05T13:49:45.833793"
+}

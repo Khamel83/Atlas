@@ -1,0 +1,34 @@
+{
+  "uid": "18d496de7927cc7d",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2010/11/28/magazine/28FOB-idealab-t.html?partner=rss&emc=rss&pagewanted=print",
+  "title": "The Tea Party’s Radical Constitutionalism - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-01-05T21:09:01",
+  "error": null,
+  "content_path": "output/articles/markdown/18d496de7927cc7d.md",
+  "html_path": "output/articles/html/18d496de7927cc7d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6074,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c6023c58cd1ebd26ff7bc69652cdb2f7",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1294290541",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-01-05T21:09:01",
+  "updated_at": "2011-01-05T21:09:01"
+}

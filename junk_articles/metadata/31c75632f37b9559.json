@@ -1,0 +1,34 @@
+{
+  "uid": "31c75632f37b9559",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/c94baa70f500dc5f9a85d7e8b86c89dc/",
+  "title": "I Read The Whole Internet",
+  "status": "converted_from_csv",
+  "date": "2021-07-25T05:02:14",
+  "error": null,
+  "content_path": "output/articles/markdown/31c75632f37b9559.md",
+  "html_path": "output/articles/html/31c75632f37b9559.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2077,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c46992b02946cd181df5dca326ed16ef",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1627214534",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-07-25T05:02:14",
+  "updated_at": "2021-07-25T05:02:14"
+}

@@ -1,0 +1,42 @@
+{
+  "uid": "196be23426640383",
+  "content_type": "instapaper",
+  "source": "https://www.theverge.com/2024/7/24/24204706/marc-andreessen-ben-horowitz-a16z-trump-donations",
+  "title": "The moral bankruptcy of Marc Andreessen and Ben Horowitz",
+  "status": "success",
+  "date": "2025-08-05T13:33:35.416319",
+  "error": null,
+  "content_path": "output/articles/markdown/196be23426640383.md",
+  "html_path": "output/articles/html/196be23426640383.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cf39cdeed7671c60377aad00227a83e8",
+  "type_specific": {
+    "bookmark_id": 1696674402,
+    "instapaper_time": 1721928538,
+    "starred": true,
+    "progress": 0.944204,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:33:35.416353",
+  "updated_at": "2025-08-05T13:33:35.416356"
+}

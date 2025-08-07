@@ -1,0 +1,40 @@
+{
+  "uid": "98c878605e2dfa59",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.core77.com//posts/41263/The-First-Shipping-Container-House-Weve-Seen-That-Actually-Looks-Awesome",
+  "title": "The First Shipping Container House We've Seen That Actually Looks Awesome Core77",
+  "status": "selection_content_extracted",
+  "date": "2015-10-02T09:15:51",
+  "error": null,
+  "content_path": "output/articles/markdown/98c878605e2dfa59.md",
+  "html_path": "output/articles/html/98c878605e2dfa59.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4736,
+    "selection_length": 1760,
+    "cleaned_selection_length": 1787,
+    "domain": "core77.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "98c878605e2dfa59",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1443802551",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "To be blunt, most houses we've seen that are built out of shipping containers look like total crap. So our hats are off to architect David Fenster, who designed this beautiful 1,200-square-foot home, sited in the Santa Cruz Mountains, out of shipping containers. Using a series of clever design tricks—look for the \"redneck bay window,\" \"shower tower,\" inside-outside catwalk and how the kitchen was handled--Fenster has managed to create an airy, functional, spacious-feeling house that doesn't make it feel like you're living in a steel box:\n\nAmazingly, this was reportedly Fenster's first time working with shipping containers. I discovered this by reading a Yelp review of Modulus, the Silicon Valley firm Fenster founded. Writes Connie DeWitt, who commissioned the home with husband Kam Kasravi:\n\n…Although they had never worked with this material, they were intrigued and jumped into the project with both feet. David, the principal, created an amazing, beautiful design that was perfectly suited to our challenging site and that met all of our requirements (and many that we hadn't even thought of) from the first concept. Refreshingly different from the stereotype I had of architects, David listened to what we wanted and didn't impose his personal aesthetic vision on us. It was truly a collaborative effort.\n\nIf having an architectural firm that listens to your needs, understands that real people have real budget constraints, and that has sensitivity to and an understanding of the practicalities of getting things built in the real world—while also creating innovative, breathtaking designs—you will not be disappointed in Modulus.\n\nIt's kind of weird reading Yelp reviews of architects. Can you imagine if they had them for industrial designers?",
+    "cleaned_selection": "<p>To be blunt, most houses we've seen that are built out of shipping containers look like total crap. So our hats are off to architect David Fenster, who designed this beautiful 1,200-square-foot home, sited in the Santa Cruz Mountains, out of shipping containers. Using a series of clever design tricks—look for the \"redneck bay window,\" \"shower tower,\" inside-outside catwalk and how the kitchen was handled--Fenster has managed to create an airy, functional, spacious-feeling house that doesn't make it feel like you're living in a steel box:</p><p>Amazingly, this was reportedly Fenster's first time working with shipping containers. I discovered this by reading a Yelp review of Modulus, the Silicon Valley firm Fenster founded. Writes Connie DeWitt, who commissioned the home with husband Kam Kasravi:</p><p>…Although they had never worked with this material, they were intrigued and jumped into the project with both feet. David, the principal, created an amazing, beautiful design that was perfectly suited to our challenging site and that met all of our requirements (and many that we hadn't even thought of) from the first concept. Refreshingly different from the stereotype I had of architects, David listened to what we wanted and didn't impose his personal aesthetic vision on us. It was truly a collaborative effort.</p><p>If having an architectural firm that listens to your needs, understands that real people have real budget constraints, and that has sensitivity to and an understanding of the practicalities of getting things built in the real world—while also creating innovative, breathtaking designs—you will not be disappointed in Modulus.</p><p>It's kind of weird reading Yelp reviews of architects. Can you imagine if they had them for industrial designers?</p>",
+    "domain": "core77.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.374706",
+  "updated_at": "2025-08-06T08:47:04.374707"
+}

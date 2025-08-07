@@ -1,0 +1,40 @@
+{
+  "uid": "5fc14d3b074f8bad",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.getrichslowly.org/blog/2015/01/05/what-else-to-consider-when-accepting-a-job-offer/",
+  "title": "What else to consider when accepting a job offer Get Rich Slowly - Personal Finance That Makes Sense.",
+  "status": "selection_content_extracted",
+  "date": "2015-01-05T18:26:43",
+  "error": null,
+  "content_path": "output/articles/markdown/5fc14d3b074f8bad.md",
+  "html_path": "output/articles/html/5fc14d3b074f8bad.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4995,
+    "selection_length": 456,
+    "cleaned_selection_length": 468,
+    "domain": "getrichslowly.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5fc14d3b074f8bad",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1420511203",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "This article is by staff writer Honey Smith.\n\nLet’s say that you and your prospective employer come to a satisfactory arrangement and you accept a new position. Surely you can loosen the purse strings a bit and relax now, right? Well, maybe. Sometimes promises and expectations don’t align with reality. While this can sometimes occur because a company is deceptive, other times this happens because everyone — both employer and potential employee — are...",
+    "cleaned_selection": "<p>This article is by staff writer Honey Smith.</p><p>Let’s say that you and your prospective employer come to a satisfactory arrangement and you accept a new position. Surely you can loosen the purse strings a bit and relax now, right? Well, maybe. Sometimes promises and expectations don’t align with reality. While this can sometimes occur because a company is deceptive, other times this happens because everyone — both employer and potential employee — are...</p>",
+    "domain": "getrichslowly.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.439820",
+  "updated_at": "2025-08-06T08:47:04.439822"
+}

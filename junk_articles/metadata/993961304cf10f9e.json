@@ -1,0 +1,34 @@
+{
+  "uid": "993961304cf10f9e",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6cb376e9efe42a19f30bc37a249b0a94/",
+  "title": "Listen to This Article: Joe Biden's Awesome First Year",
+  "status": "converted_from_csv",
+  "date": "2022-01-20T12:17:24",
+  "error": null,
+  "content_path": "output/articles/markdown/993961304cf10f9e.md",
+  "html_path": "output/articles/html/993961304cf10f9e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1671,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ab1c29ac458ebec84199fb06ed762aa3",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1642709844",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-01-20T12:17:24",
+  "updated_at": "2022-01-20T12:17:24"
+}

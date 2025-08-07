@@ -1,0 +1,34 @@
+{
+  "uid": "acb9eed49301885b",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2016/04/02/your-money/to-buy-or-rent-a-home-weighing-which-is-better.html?nytmobile=0",
+  "title": "To Buy or Rent a Home? Weighing Which Is Better - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2016-04-02T10:51:26",
+  "error": null,
+  "content_path": "output/articles/markdown/acb9eed49301885b.md",
+  "html_path": "output/articles/html/acb9eed49301885b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4506,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7e185ce173234f9efadcc35327c7e176",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1459619486",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-04-02T10:51:26",
+  "updated_at": "2016-04-02T10:51:26"
+}

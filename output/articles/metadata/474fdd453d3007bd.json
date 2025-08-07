@@ -1,0 +1,40 @@
+{
+  "uid": "474fdd453d3007bd",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2015/06/does-plenti-offer-plenty-of-rewards.html",
+  "title": "Does Plenti Offer Plenty of Rewards Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-06-10T06:05:35",
+  "error": null,
+  "content_path": "output/articles/markdown/474fdd453d3007bd.md",
+  "html_path": "output/articles/html/474fdd453d3007bd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4837,
+    "selection_length": 358,
+    "cleaned_selection_length": 365,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "474fdd453d3007bd",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1433941535",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "No matter where we turn, the opportunity to earn points and miles seems endless. To make things even more convoluted, it seems like new points programs launch weekly, each vying for our attention (and, more importantly, our dollars) while touting themselves as the superior program. The latest new rewards program is Plenti, offering points for purchases […]",
+    "cleaned_selection": "<p>No matter where we turn, the opportunity to earn points and miles seems endless. To make things even more convoluted, it seems like new points programs launch weekly, each vying for our attention (and, more importantly, our dollars) while touting themselves as the superior program. The latest new rewards program is Plenti, offering points for purchases […]</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.406775",
+  "updated_at": "2025-08-06T08:47:04.406778"
+}

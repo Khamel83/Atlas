@@ -1,0 +1,34 @@
+{
+  "uid": "b1fa106ac8d67d57",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/dfbcc051c7f18ea72de041d3d4bdd8a5/",
+  "title": "Huawei CFO Arrested, Australia’s Awful Law (Stratechery Daily Update 12-10-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-12-10T04:49:55",
+  "error": null,
+  "content_path": "output/articles/markdown/b1fa106ac8d67d57.md",
+  "html_path": "output/articles/html/b1fa106ac8d67d57.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3313,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "dc512f09ebeea53d6a7674fc4e0806a5",
+  "type_specific": {
+    "folder": "Stratechery",
+    "instapaper_timestamp": "1544446195",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-12-10T04:49:55",
+  "updated_at": "2018-12-10T04:49:55"
+}

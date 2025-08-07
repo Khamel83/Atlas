@@ -1,0 +1,34 @@
+{
+  "uid": "92836dcc48f14fd1",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/d827c744b0e419094d530ac63d146068/",
+  "title": "Pelvic Health with the Vagina Whisperer",
+  "status": "converted_from_csv",
+  "date": "2022-04-14T01:54:52",
+  "error": null,
+  "content_path": "output/articles/markdown/92836dcc48f14fd1.md",
+  "html_path": "output/articles/html/92836dcc48f14fd1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1508,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "902020184c0fd043c1eb27a7a62713bb",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1649926492",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-04-14T01:54:52",
+  "updated_at": "2022-04-14T01:54:52"
+}

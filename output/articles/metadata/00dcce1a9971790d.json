@@ -1,0 +1,40 @@
+{
+  "uid": "00dcce1a9971790d",
+  "content_type": "instapaper",
+  "source": "https://tywkiwdbi.blogspot.com/2020/08/thisis-worthlisteningto.html",
+  "title": "This.........is worth.........................listening.........to TYWKIWDBI (Tai",
+  "status": "success",
+  "date": "2025-08-05T13:40:52.496429",
+  "error": null,
+  "content_path": "output/articles/markdown/00dcce1a9971790d.md",
+  "html_path": "output/articles/html/00dcce1a9971790d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9a3e2fc0de2be6a0d8e1cfb4da982577",
+  "type_specific": {
+    "bookmark_id": 1334576306,
+    "instapaper_time": 1597819899,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:40:52.496457",
+  "updated_at": "2025-08-05T13:40:52.496460"
+}

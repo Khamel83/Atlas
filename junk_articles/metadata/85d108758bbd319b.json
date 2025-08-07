@@ -1,0 +1,34 @@
+{
+  "uid": "85d108758bbd319b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/92f1073b0817147a3f4f8a5505b87317/",
+  "title": "Paid Parental Leave",
+  "status": "converted_from_csv",
+  "date": "2021-11-29T01:58:38",
+  "error": null,
+  "content_path": "output/articles/markdown/85d108758bbd319b.md",
+  "html_path": "output/articles/html/85d108758bbd319b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1799,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b645dac12b3a4250fd694373f7a009d2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1638179918",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-11-29T01:58:38",
+  "updated_at": "2021-11-29T01:58:38"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "c0f3e986194e6d52",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/1f1e7329c1b8b7cee5bbdaf1a52994df/",
+  "title": "Visa/Plaid Follow-Up; Apple v FBI, Round 2; 2020 Differences (Stratechery Daily Update 1-15-2020)",
+  "status": "converted_from_csv",
+  "date": "2020-01-15T06:17:48",
+  "error": null,
+  "content_path": "output/articles/markdown/c0f3e986194e6d52.md",
+  "html_path": "output/articles/html/c0f3e986194e6d52.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2913,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "63597ab3138c1d9e2931db60c5fe2249",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1579097868",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-01-15T06:17:48",
+  "updated_at": "2020-01-15T06:17:48"
+}

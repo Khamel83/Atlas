@@ -1,0 +1,34 @@
+{
+  "uid": "501b4c22e6225be5",
+  "content_type": "web_bookmark",
+  "source": "https://www.washingtonpost.com/news/acts-of-faith/wp/2016/01/30/obama-to-make-first-visit-of-his-presidency-to-a-u-s-mosque-next-week/",
+  "title": "Obama to make first visit of his presidency to a U.S. mosque next week",
+  "status": "converted_from_csv",
+  "date": "2016-01-30T18:23:30",
+  "error": null,
+  "content_path": "output/articles/markdown/501b4c22e6225be5.md",
+  "html_path": "output/articles/html/501b4c22e6225be5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4601,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c45a767bcb4539d6429cea06058720fa",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1454207010",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-01-30T18:23:30",
+  "updated_at": "2016-01-30T18:23:30"
+}

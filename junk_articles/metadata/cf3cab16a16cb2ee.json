@@ -1,0 +1,34 @@
+{
+  "uid": "cf3cab16a16cb2ee",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2010/09/19/magazine/19video-t.html?_r=1&hpw=&pagewanted=print",
+  "title": "Video Games Win a Beachhead in the Classroom - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-06-03T06:41:04",
+  "error": null,
+  "content_path": "output/articles/markdown/cf3cab16a16cb2ee.md",
+  "html_path": "output/articles/html/cf3cab16a16cb2ee.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6164,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "06d10f34e8801f3f09e4fb782060a403",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1307108464",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-06-03T06:41:04",
+  "updated_at": "2011-06-03T06:41:04"
+}

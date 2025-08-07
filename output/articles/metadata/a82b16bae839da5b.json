@@ -1,0 +1,40 @@
+{
+  "uid": "a82b16bae839da5b",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://qz.com/615917/this-us-veteran-behind-an-oscar-nominated-war-movie-talks-afghanistan-art-and-serial/",
+  "title": "Why an Army veteran put a Muslim-American woman at the heart of his Oscar-nominated war movie Quartz",
+  "status": "selection_content_extracted",
+  "date": "2016-02-15T08:05:31",
+  "error": null,
+  "content_path": "output/articles/markdown/a82b16bae839da5b.md",
+  "html_path": "output/articles/html/a82b16bae839da5b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4571,
+    "selection_length": 160,
+    "cleaned_selection_length": 167,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a82b16bae839da5b",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1455552331",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "More than one Academy Award-winner has been accused of demonizing Muslims, but “Day One,” the Oscar-nominated short film set against the US war in Afghanistan,…",
+    "cleaned_selection": "<p>More than one Academy Award-winner has been accused of demonizing Muslims, but “Day One,” the Oscar-nominated short film set against the US war in Afghanistan,…</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.333086",
+  "updated_at": "2025-08-06T08:47:04.333089"
+}

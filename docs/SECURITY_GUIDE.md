@@ -100,4 +100,4 @@ If you work in regulated industries (healthcare, finance, etc.):
 - **Export restrictions** may apply to AI/cryptographic software
 - **Privacy laws** (GDPR, CCPA, etc.) may apply even for personal use
 
-Remember: Security is an ongoing process, not a one-time setup. 
+Remember: Security is an ongoing process, not a one-time setup.

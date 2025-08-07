@@ -1,0 +1,28 @@
+{
+  "uid": "6e339a2fd46196d0",
+  "content_type": "instapaper_archive_additional_content",
+  "source": "https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html",
+  "title": "A.I. Researchers Are Negotiating $250 Million Pay Packages. Just Like NBA Stars.",
+  "status": "success",
+  "date": "2025-08-06T13:40:59.387319",
+  "error": null,
+  "content_path": "output/articles/markdown/6e339a2fd46196d0.md",
+  "html_path": "output/articles/html/6e339a2fd46196d0.html",
+  "fetch_method": "instapaper_api_archive_folder_maximization",
+  "fetch_details": {
+    "bookmark_id": 1871332105,
+    "content_length": 4422,
+    "successful": true,
+    "extraction_batch": "maximization_discovery",
+    "folder": "archive"
+  },
+  "type_specific": {
+    "bookmark_id": 1871332105,
+    "instapaper_time": 1754159848,
+    "folder": "archive",
+    "content_length": 4422,
+    "discovery_method": "folder_deep_dive"
+  },
+  "created_at": "2025-08-06T13:40:59.387321",
+  "updated_at": "2025-08-06T13:40:59.387322"
+}

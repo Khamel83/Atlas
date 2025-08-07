@@ -1,0 +1,34 @@
+{
+  "uid": "a0fd16010c14527b",
+  "content_type": "web_bookmark",
+  "source": "http://online.wsj.com/article/SB10001424052702304723304577365700368073674.html#printMode",
+  "title": "Talent Shortage Looms Over Big Data - WSJ.com",
+  "status": "converted_from_csv",
+  "date": "2012-04-30T07:43:02",
+  "error": null,
+  "content_path": "output/articles/markdown/a0fd16010c14527b.md",
+  "html_path": "output/articles/html/a0fd16010c14527b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5482,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b98fce12c6626da1ec1851ed8566edbc",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1335796982",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-04-30T07:43:02",
+  "updated_at": "2012-04-30T07:43:02"
+}

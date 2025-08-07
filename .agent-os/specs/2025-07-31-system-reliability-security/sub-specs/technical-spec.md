@@ -25,7 +25,7 @@ This is the technical specification for the spec detailed in @.agent-os/specs/20
 
 ### Test Coverage Expansion
 - Add unit tests for AudioCapture class methods
-- Add unit tests for Transcribe class methods  
+- Add unit tests for Transcribe class methods
 - Add unit tests for WebInterface API endpoints
 - Add integration tests for full pipeline
 - Achieve >80% code coverage with meaningful tests

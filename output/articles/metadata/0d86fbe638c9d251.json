@@ -1,0 +1,40 @@
+{
+  "uid": "0d86fbe638c9d251",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/shut-up-about-harvard/",
+  "title": "Shut Up About Harvard FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2016-03-30T04:49:32",
+  "error": null,
+  "content_path": "output/articles/markdown/0d86fbe638c9d251.md",
+  "html_path": "output/articles/html/0d86fbe638c9d251.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4517,
+    "selection_length": 344,
+    "cleaned_selection_length": 351,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0d86fbe638c9d251",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1459338572",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "It’s college admissions season, which means it’s time once again for the annual flood of stories that badly misrepresent what higher education looks like for most American students — and skew the public debate over everything from student debt to the purpose of college in the process. “How college admissions has turned into something akin […]",
+    "cleaned_selection": "<p>It’s college admissions season, which means it’s time once again for the annual flood of stories that badly misrepresent what higher education looks like for most American students — and skew the public debate over everything from student debt to the purpose of college in the process. “How college admissions has turned into something akin […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.325433",
+  "updated_at": "2025-08-06T08:47:04.325435"
+}

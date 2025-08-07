@@ -1,0 +1,40 @@
+{
+  "uid": "9fda2317a5f86f0a",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://food52.com/blog/13527-our-10-best-grilling-tips-all-in-one-place",
+  "title": "Our 10 Best Grilling Tips—All in One Place Food52",
+  "status": "selection_content_extracted",
+  "date": "2015-07-22T09:32:47",
+  "error": null,
+  "content_path": "output/articles/markdown/9fda2317a5f86f0a.md",
+  "html_path": "output/articles/html/9fda2317a5f86f0a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4803,
+    "selection_length": 1269,
+    "cleaned_selection_length": 1324,
+    "domain": "food52.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9fda2317a5f86f0a",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1437582767",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Inspired by conversations on the Food52 Hotline, we're sharing tips and tricks that make navigating all of our kitchens easier and more fun.\n\nToday: Our best advice for helping you grill greater. \n\nGrill marks. Grill marks are mysterious. No matter how hard you try to stoke the fire, sometimes that steak just won't get those crosshatches of charred glory. Or maybe you can't get the charcoal to light in the first place. We've all been there—some of us more often than others. But there's just something about grilling and summer that makes us want to be better grillers. They're a dynamic duo, which is why, no matter your grilling woes, we're here with our best grilling tips our community has written about over the years.\n\nHere are our 10 best tips to help you tame the flame:\n\nHow to Light a Grill\n\n \n\nHow to Grill a Whole Fish\n\n \n\nHow to Clean, Prep, and Grill Fish + Shellfish\n\n \n\nHow to Achieve Perfect Grill Marks\n\n \n\n5 Tips for Better, Not-at-All Dry Grilled Chicken Breasts\n\n \n\nHow to Master Your Grill\n\n \n\nAll About Grilling Fruit\n\n \n\nHow to Clean a Grill\n\n \n\nWhat We Learned about Grilling From 9 Cookbooks\n\n \n\nThe Proper Way to Shut Down a Grill\n\nHave some great grilling advice? Tell us in the comments below!\n\nPhotos by James Ransom and Tom Hirschfeld",
+    "cleaned_selection": "<p>Inspired by conversations on the Food52 Hotline, we're sharing tips and tricks that make navigating all of our kitchens easier and more fun.</p><p>Today: Our best advice for helping you grill greater. </p><p>Grill marks. Grill marks are mysterious. No matter how hard you try to stoke the fire, sometimes that steak just won't get those crosshatches of charred glory. Or maybe you can't get the charcoal to light in the first place. We've all been there—some of us more often than others. But there's just something about grilling and summer that makes us want to be better grillers. They're a dynamic duo, which is why, no matter your grilling woes, we're here with our best grilling tips our community has written about over the years.</p><p>Here are our 10 best tips to help you tame the flame:</p><p>How to Light a Grill</p><p>How to Grill a Whole Fish</p><p>How to Clean, Prep, and Grill Fish + Shellfish</p><p>How to Achieve Perfect Grill Marks</p><p>5 Tips for Better, Not-at-All Dry Grilled Chicken Breasts</p><p>How to Master Your Grill</p><p>All About Grilling Fruit</p><p>How to Clean a Grill</p><p>What We Learned about Grilling From 9 Cookbooks</p><p>The Proper Way to Shut Down a Grill</p><p>Have some great grilling advice? Tell us in the comments below!</p><p>Photos by James Ransom and Tom Hirschfeld</p>",
+    "domain": "food52.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.396141",
+  "updated_at": "2025-08-06T08:47:04.396144"
+}

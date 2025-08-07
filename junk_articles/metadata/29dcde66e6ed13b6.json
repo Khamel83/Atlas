@@ -1,0 +1,34 @@
+{
+  "uid": "29dcde66e6ed13b6",
+  "content_type": "web_bookmark",
+  "source": "http://www.businessweek.com/articles/2014-05-28/apples-beats-deal-sealed-by-ex-banker-adrian-perica",
+  "title": "The Ex-Banker Behind the $3 Billion Apple-Beats Deal",
+  "status": "converted_from_csv",
+  "date": "2014-05-29T10:11:05",
+  "error": null,
+  "content_path": "output/articles/markdown/29dcde66e6ed13b6.md",
+  "html_path": "output/articles/html/29dcde66e6ed13b6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5253,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "139484c8c85605fee17ea9c43b23de39",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1401383465",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-05-29T10:11:05",
+  "updated_at": "2014-05-29T10:11:05"
+}

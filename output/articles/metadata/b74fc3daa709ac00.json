@@ -1,0 +1,40 @@
+{
+  "uid": "b74fc3daa709ac00",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://marginalrevolution.com/marginalrevolution/2017/10/tyler-cowen-guide-10-5-hr-layover-los-angeles.html",
+  "title": "The Tyler Cowen Guide to 10.5 hr layover in Los Angeles Marginal REVOLUTION",
+  "status": "selection_content_extracted",
+  "date": "2017-10-25T20:51:50",
+  "error": null,
+  "content_path": "output/articles/markdown/b74fc3daa709ac00.md",
+  "html_path": "output/articles/html/b74fc3daa709ac00.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3746,
+    "selection_length": 1135,
+    "cleaned_selection_length": 1140,
+    "domain": "marginalrevolution.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b74fc3daa709ac00",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1508989910",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "That is a reader request, here goes:\n\nI sometimes describe L.A. as the world’s best city to live in, but one of the worst to visit.  Nonetheless you have some pretty good options.  With half a day, make sure you have a rental car with the appropriate soundtrack(s).  If you start from LAX, pick one road to drive east on, another to head back east to west — how about Sunset and Pico?  Wilshire?  Stop and walk as you can, convenient parking is often available.  Use Jonathan Gold to pick the right eating places, perhaps Thai and Mexican?  Veer off a wee bit and visit the La Brea Tar Pits, or for a longer trek Watts Towers.  Time the sunset for Griffith Park.  Deemphasize “Downtown” but consider the new Broad Museum for contemporary art.  Work in a beach walk at Santa Monica or Venice, preferably the former.  See a movie.  See another movie.  Avoid Beverly Hills.  The truly ambitious can drive all the way down Western Ave. and stop for Belizean food along the way to that chapel at the very bottom of the road.\n\nBasta!\n\n \n\nThe post The Tyler Cowen Guide to 10.5 hr layover in Los Angeles appeared first on Marginal REVOLUTION.",
+    "cleaned_selection": "<p>That is a reader request, here goes:</p><p>I sometimes describe L.A. as the world’s best city to live in, but one of the worst to visit. Nonetheless you have some pretty good options. With half a day, make sure you have a rental car with the appropriate soundtrack(s). If you start from LAX, pick one road to drive east on, another to head back east to west — how about Sunset and Pico? Wilshire? Stop and walk as you can, convenient parking is often available. Use Jonathan Gold to pick the right eating places, perhaps Thai and Mexican? Veer off a wee bit and visit the La Brea Tar Pits, or for a longer trek Watts Towers. Time the sunset for Griffith Park. Deemphasize “Downtown” but consider the new Broad Museum for contemporary art. Work in a beach walk at Santa Monica or Venice, preferably the former. See a movie. See another movie. Avoid Beverly Hills. The truly ambitious can drive all the way down Western Ave. and stop for Belizean food along the way to that chapel at the very bottom of the road.</p><p>Basta!</p><p>The post The Tyler Cowen Guide to 10.5 hr layover in Los Angeles appeared first on Marginal REVOLUTION.</p>",
+    "domain": "marginalrevolution.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.977154",
+  "updated_at": "2025-08-06T08:47:03.977156"
+}

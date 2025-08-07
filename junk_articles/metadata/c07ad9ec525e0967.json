@@ -1,0 +1,34 @@
+{
+  "uid": "c07ad9ec525e0967",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/3e55936ca7796125bda0361e6e71e6a1/",
+  "title": "Look Behind The Curtain: Discussion with Author Walter Kirn",
+  "status": "converted_from_csv",
+  "date": "2022-01-15T11:06:29",
+  "error": null,
+  "content_path": "output/articles/markdown/c07ad9ec525e0967.md",
+  "html_path": "output/articles/html/c07ad9ec525e0967.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1684,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "883ad5041b42c6c0911989361109b1d5",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1642273589",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-01-15T11:06:29",
+  "updated_at": "2022-01-15T11:06:29"
+}

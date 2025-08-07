@@ -1,0 +1,34 @@
+{
+  "uid": "ea864fc9617d1599",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/health/archive/2021/08/delta-has-changed-pandemic-endgame/619726/",
+  "title": "Now What?",
+  "status": "converted_from_csv",
+  "date": "2021-08-12T09:07:20",
+  "error": null,
+  "content_path": "output/articles/markdown/ea864fc9617d1599.md",
+  "html_path": "output/articles/html/ea864fc9617d1599.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2040,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "df9c00716c81fee0f7c69c0dc457bb20",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1628784440",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-08-12T09:07:20",
+  "updated_at": "2021-08-12T09:07:20"
+}

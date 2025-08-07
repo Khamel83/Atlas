@@ -1,0 +1,40 @@
+{
+  "uid": "10309763ea4ec102",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://nymag.com/intelligencer/2020/09/bill-gates-hopes-covid-19-pandemic-doesnt-stretch-past-2022-interview.html",
+  "title": "Bill Gates on the Pandemic: ‘You Hope It Doesn’t Stretch Past 2022.’",
+  "status": "selection_content_extracted",
+  "date": "2020-09-14T21:41:09",
+  "error": null,
+  "content_path": "output/articles/markdown/10309763ea4ec102.md",
+  "html_path": "output/articles/html/10309763ea4ec102.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2765,
+    "selection_length": 114,
+    "cleaned_selection_length": 121,
+    "domain": "nymag.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "10309763ea4ec102",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1600144869",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "https://nymag.com/intelligencer/2020/09/bill-gates-hopes-covid-19-pandemic-doesnt-stretch-past-2022-interview.html",
+    "cleaned_selection": "<p>https://nymag.com/intelligencer/2020/09/bill-gates-hopes-covid-19-pandemic-doesnt-stretch-past-2022-interview.html</p>",
+    "domain": "nymag.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.604283",
+  "updated_at": "2025-08-06T08:47:03.604284"
+}

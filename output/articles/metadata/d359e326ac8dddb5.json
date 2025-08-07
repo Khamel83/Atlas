@@ -1,0 +1,42 @@
+{
+  "uid": "d359e326ac8dddb5",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1657959129",
+  "title": "💥A Prepack & A Crappy Sale Case Walk into a Bar...💥",
+  "status": "success",
+  "date": "2025-08-05T13:38:20.619800",
+  "error": null,
+  "content_path": "output/articles/markdown/d359e326ac8dddb5.md",
+  "html_path": "output/articles/html/d359e326ac8dddb5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f2bc80cc3c1786b40a6d019e5158dae2",
+  "type_specific": {
+    "bookmark_id": 1657959129,
+    "instapaper_time": 1705248950,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:38:20.620255",
+  "updated_at": "2025-08-05T13:38:20.620261"
+}

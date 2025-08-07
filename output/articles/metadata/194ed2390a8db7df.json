@@ -1,0 +1,40 @@
+{
+  "uid": "194ed2390a8db7df",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://tywkiwdbi.blogspot.com/2019/06/this-is-perfectly-valid-map.html",
+  "title": "This is a perfectly valid map TYWKIWDBI (Tai",
+  "status": "selection_content_extracted",
+  "date": "2019-06-12T23:52:37",
+  "error": null,
+  "content_path": "output/articles/markdown/194ed2390a8db7df.md",
+  "html_path": "output/articles/html/194ed2390a8db7df.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3117,
+    "selection_length": 363,
+    "cleaned_selection_length": 380,
+    "domain": "tywkiwdbi.blogspot.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "194ed2390a8db7df",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1560408757",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Not perfect, actually, because the label \"Svalbard\" has been placed on an island in the Russian arctic, but still \"valid\" in the sense that north-at-the-top is a convention, not a scientific principle.\n\nThis map was created by Stuart MacArthur of Melbourne, Australia, and is commercially available.\n\nWith a tip of the blogging hat to long-time reader drabkikker.",
+    "cleaned_selection": "<p>Not perfect, actually, because the label \"Svalbard\" has been placed on an island in the Russian arctic, but still \"valid\" in the sense that north-at-the-top is a convention, not a scientific principle.</p><p>This map was created by Stuart MacArthur of Melbourne, Australia, and is commercially available.</p><p>With a tip of the blogging hat to long-time reader drabkikker.</p>",
+    "domain": "tywkiwdbi.blogspot.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.751333",
+  "updated_at": "2025-08-06T08:47:03.751334"
+}

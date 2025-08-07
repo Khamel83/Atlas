@@ -1,0 +1,34 @@
+{
+  "uid": "3b42b16fd11f9684",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2010/11/21/opinion/21friedman.html?_r=1&pagewanted=print",
+  "title": "Teaching for America - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2010-11-24T16:10:45",
+  "error": null,
+  "content_path": "output/articles/markdown/3b42b16fd11f9684.md",
+  "html_path": "output/articles/html/3b42b16fd11f9684.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6083,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e77e44f34961b32888667add2ae7e4bd",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1290643845",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-11-24T16:10:45",
+  "updated_at": "2010-11-24T16:10:45"
+}

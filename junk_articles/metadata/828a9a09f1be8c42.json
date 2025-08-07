@@ -1,0 +1,34 @@
+{
+  "uid": "828a9a09f1be8c42",
+  "content_type": "web_bookmark",
+  "source": "https://www.wsj.com/articles/ev-electric-vehicle-unicorn-crash-out-china-startup-gas-new-clean-energy-prices-auto-car-makers-carbon-emissions-biden-climate-change-tesla-11652970007",
+  "title": "The Electric-Vehicle Unicorn Crash - WSJ",
+  "status": "converted_from_csv",
+  "date": "2022-05-22T20:00:27",
+  "error": null,
+  "content_path": "output/articles/markdown/828a9a09f1be8c42.md",
+  "html_path": "output/articles/html/828a9a09f1be8c42.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1428,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7c988cf50706c37f988c83310084e434",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1653274827",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-05-22T20:00:27",
+  "updated_at": "2022-05-22T20:00:27"
+}

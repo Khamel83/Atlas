@@ -102,7 +102,7 @@ CREATE INDEX idx_queue_worker ON processing_queue(worker_id);
 ### Migration 001: API Infrastructure
 ```sql
 -- Create API keys table with initial admin key
-INSERT INTO api_keys (id, name, key_hash, permissions) 
+INSERT INTO api_keys (id, name, key_hash, permissions)
 VALUES (
     'admin-key-001',
     'Admin API Key',
@@ -115,13 +115,13 @@ VALUES (
 ### Migration 002: Search Enhancement
 ```sql
 -- Update existing content for search indexing
-UPDATE content_metadata 
-SET search_indexed_at = NULL 
+UPDATE content_metadata
+SET search_indexed_at = NULL
 WHERE search_indexed_at IS NULL;
 
 -- Initialize access counters
-UPDATE content_metadata 
-SET access_count = 0 
+UPDATE content_metadata
+SET access_count = 0
 WHERE access_count IS NULL;
 ```
 

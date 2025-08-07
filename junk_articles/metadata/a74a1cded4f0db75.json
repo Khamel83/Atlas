@@ -1,0 +1,34 @@
+{
+  "uid": "a74a1cded4f0db75",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/eef0f6831086a165ae095ae403b2709b/",
+  "title": "Ask ParentData",
+  "status": "converted_from_csv",
+  "date": "2022-02-25T01:57:49",
+  "error": null,
+  "content_path": "output/articles/markdown/a74a1cded4f0db75.md",
+  "html_path": "output/articles/html/a74a1cded4f0db75.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1597,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "342de53e35479cee8c4d17c832ba17fa",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1645783069",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-02-25T01:57:49",
+  "updated_at": "2022-02-25T01:57:49"
+}

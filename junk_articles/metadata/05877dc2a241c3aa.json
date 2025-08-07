@@ -1,0 +1,34 @@
+{
+  "uid": "05877dc2a241c3aa",
+  "content_type": "web_bookmark",
+  "source": "http://m.theatlanticcities.com/jobs-and-economy/2014/04/how-modern-office-shapes-american-life/8871/",
+  "title": "How the Modern Office Shapes American Life",
+  "status": "converted_from_csv",
+  "date": "2014-04-14T20:26:41",
+  "error": null,
+  "content_path": "output/articles/markdown/05877dc2a241c3aa.md",
+  "html_path": "output/articles/html/05877dc2a241c3aa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5272,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b10eeeaccc28666e78a7b1c1aeadcfea",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1397532401",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-04-14T20:26:41",
+  "updated_at": "2014-04-14T20:26:41"
+}

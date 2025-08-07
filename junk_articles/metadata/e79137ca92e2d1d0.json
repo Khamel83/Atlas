@@ -1,0 +1,34 @@
+{
+  "uid": "e79137ca92e2d1d0",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/94d4ac16b4401ca6f902092cdd462b7a/",
+  "title": "If We Ruled the Tweets",
+  "status": "converted_from_csv",
+  "date": "2022-05-09T05:54:41",
+  "error": null,
+  "content_path": "output/articles/markdown/e79137ca92e2d1d0.md",
+  "html_path": "output/articles/html/e79137ca92e2d1d0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1457,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "db965e6011c2d752f23ab524cbbcc81b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1652100881",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-05-09T05:54:41",
+  "updated_at": "2022-05-09T05:54:41"
+}

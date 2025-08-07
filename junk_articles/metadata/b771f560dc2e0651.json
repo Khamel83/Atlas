@@ -1,0 +1,34 @@
+{
+  "uid": "b771f560dc2e0651",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2018/02/08/arts/jimmy-buffett-does-not-live-the-jimmy-buffett-lifestyle.html",
+  "title": "Jimmy Buffett Does Not Live the Jimmy Buffett Lifestyle",
+  "status": "converted_from_csv",
+  "date": "2018-02-08T14:49:02",
+  "error": null,
+  "content_path": "output/articles/markdown/b771f560dc2e0651.md",
+  "html_path": "output/articles/html/b771f560dc2e0651.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3620,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b4613e6edd07a7918fb1b8d2ada1f02c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1518130142",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-02-08T14:49:02",
+  "updated_at": "2018-02-08T14:49:02"
+}

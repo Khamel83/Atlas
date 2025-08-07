@@ -1,0 +1,40 @@
+{
+  "uid": "3a6b591714c60394",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://qz.com/726057/researchers-say-nearly-all-books-follow-one-of-these-six-emotional-arcs/",
+  "title": "Researchers say nearly all books follow one of these six emotional arcs Quartz",
+  "status": "selection_content_extracted",
+  "date": "2016-07-08T10:28:40",
+  "error": null,
+  "content_path": "output/articles/markdown/3a6b591714c60394.md",
+  "html_path": "output/articles/html/3a6b591714c60394.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4385,
+    "selection_length": 2726,
+    "cleaned_selection_length": 2808,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3a6b591714c60394",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1467998920",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Ever thought two books felt nearly identical? The déjà vu isn’t in your head.\n\nResearchers from University of Vermont mapped the sentimental fluctuations of over 1,700 books. By tracing the emotional changes in the stories, they noticed an overall arc for each novel. They found that the emotional tone of most novels falls into six distinct brackets:\n\n“Rags to riches”: Steady rise\n\n“Riches to rags” or “Tragedy”: Steady Fall\n\n“Man in a hole”: Fall-Rise\n\n“Icarus”: Rise-Fall\n\n“Cinderella”: Rise-Fall-Rise\n\n“Oedipus”: Fall-Rise-Fall\n\nEach novel can have its unique complex plots and structures, but the emotional journey slots specific stories into these categories, the researchers indicate. This is easy to see: Typically, most superheroes will fall in the “Man in a hole” category while villains will follow the opposite trajectory, much like the “Icarus” scenario, regardless of their plots.\n\n“Personally, stories are just fascinating. We use them everyday to define our identity, and Vonnegut’s original thesis was an inspiration for this work,” lead researcher Andrew Reagan said. The researchers paid an ode to the Slaughterhouse-Five writer in their study: “Vonnegut finds a remarkable similarity between Cinderella and the origin story of Christianity in the Old Testament, leading us to search for all such groupings.”\n\nA “Rags to Riches” story of sorts(Study)\n\n To find these patterns, the researchers selected English books between 10,000 and 200,000 words that had more than 150 downloads from the Project Gutenberg website, a free ebook service. They also filtered out dictionaries and transcriptions by the Human Genome Project.\n\nThen, they created graphs as they slid a 10,000 word window through each text, taking the average happiness of each “bag of words” and rating each one according to the LabMT sentiment dictionary. Graphs of Romeo and Juliet and other works are available online.\n\nArtificial intelligence has already managed to pen down movie scripts, write romantic poetry, and write a novel that passed the first round of a Japanese literary competition. Maybe an emotional novel is next on the cards. “Our approach could applied in the opposite direction: namely by beginning with the emotional arc and aiding in the automatic generation of compelling stories,” the researchers write in the study.\n\nIn the future, Reagan wants to do a finer grained analysis to capture all the emotions around single sentences, since the sliding window was too big to take into account all brief moments. He hopes they will be able to compare plot trajectories too.\n\nWhat’s Reagan’s favorite emotional rollercoaster? “I always enjoy a good underdog story, which can correspond to a “Rags to riches” emotional arc.”",
+    "cleaned_selection": "<p>Ever thought two books felt nearly identical? The déjà vu isn’t in your head.</p><p>Researchers from University of Vermont mapped the sentimental fluctuations of over 1,700 books. By tracing the emotional changes in the stories, they noticed an overall arc for each novel. They found that the emotional tone of most novels falls into six distinct brackets:</p><p>“Rags to riches”: Steady rise</p><p>“Riches to rags” or “Tragedy”: Steady Fall</p><p>“Man in a hole”: Fall-Rise</p><p>“Icarus”: Rise-Fall</p><p>“Cinderella”: Rise-Fall-Rise</p><p>“Oedipus”: Fall-Rise-Fall</p><p>Each novel can have its unique complex plots and structures, but the emotional journey slots specific stories into these categories, the researchers indicate. This is easy to see: Typically, most superheroes will fall in the “Man in a hole” category while villains will follow the opposite trajectory, much like the “Icarus” scenario, regardless of their plots.</p><p>“Personally, stories are just fascinating. We use them everyday to define our identity, and Vonnegut’s original thesis was an inspiration for this work,” lead researcher Andrew Reagan said. The researchers paid an ode to the Slaughterhouse-Five writer in their study: “Vonnegut finds a remarkable similarity between Cinderella and the origin story of Christianity in the Old Testament, leading us to search for all such groupings.”</p><p>A “Rags to Riches” story of sorts(Study)</p><p> To find these patterns, the researchers selected English books between 10,000 and 200,000 words that had more than 150 downloads from the Project Gutenberg website, a free ebook service. They also filtered out dictionaries and transcriptions by the Human Genome Project.</p><p>Then, they created graphs as they slid a 10,000 word window through each text, taking the average happiness of each “bag of words” and rating each one according to the LabMT sentiment dictionary. Graphs of Romeo and Juliet and other works are available online.</p><p>Artificial intelligence has already managed to pen down movie scripts, write romantic poetry, and write a novel that passed the first round of a Japanese literary competition. Maybe an emotional novel is next on the cards. “Our approach could applied in the opposite direction: namely by beginning with the emotional arc and aiding in the automatic generation of compelling stories,” the researchers write in the study.</p><p>In the future, Reagan wants to do a finer grained analysis to capture all the emotions around single sentences, since the sliding window was too big to take into account all brief moments. He hopes they will be able to compare plot trajectories too.</p><p>What’s Reagan’s favorite emotional rollercoaster? “I always enjoy a good underdog story, which can correspond to a “Rags to riches” emotional arc.”</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.311969",
+  "updated_at": "2025-08-06T08:47:04.311973"
+}

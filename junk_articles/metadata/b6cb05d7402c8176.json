@@ -1,0 +1,34 @@
+{
+  "uid": "b6cb05d7402c8176",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/514520bd3edc888a98c01edaa625fa9f/",
+  "title": "UPDATED Ambient Computing and Antitrust, Google’s New Revenue Streams, Netflix’s Earnings (Stratechery Daily Update 10-17-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-10-17T06:03:02",
+  "error": null,
+  "content_path": "output/articles/markdown/b6cb05d7402c8176.md",
+  "html_path": "output/articles/html/b6cb05d7402c8176.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2984,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ad9c5d26ba2129681863eee2ef6191cb",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1571317382",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-10-17T06:03:02",
+  "updated_at": "2019-10-17T06:03:02"
+}

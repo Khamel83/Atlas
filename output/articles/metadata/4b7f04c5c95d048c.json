@@ -1,0 +1,40 @@
+{
+  "uid": "4b7f04c5c95d048c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/1080044/bis-says-central-bank-cryptocurrencies-could-be-a-good-idea/",
+  "title": "The best explainer on how blockchains will upend banking comes from an unexpected source Quartz",
+  "status": "selection_content_extracted",
+  "date": "2017-09-18T13:37:34",
+  "error": null,
+  "content_path": "output/articles/markdown/4b7f04c5c95d048c.md",
+  "html_path": "output/articles/html/4b7f04c5c95d048c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3809,
+    "selection_length": 2378,
+    "cleaned_selection_length": 2420,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4b7f04c5c95d048c",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1505767054",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The Bank for International Settlements (BIS) isn’t given to analyzing financial fads. Based in Basel, Switzerland, it’s a “bank for central banks,” so it’s usually concerned about things like the stability of the global financial system.\n\nIn its latest quarterly review, though, it reached out to an area of technology that has so far been reserved for financial technologists and speculators pushing libertarian philosophies. The bank’s paper on cryptocurrencies is a great explainer on how cryptocurrencies intersect with central banks, a topic that’s gaining currency as institutions from the Bank of England to the Monetary Authority of Singapore try to digitize cash using blockchain technology.\n\nThe BIS paper lays out the two main uses for a central bank-issued cryptocurrency: It could be a type of decentralized digital cash for consumers; or a tool to streamline settlements of transactions between financial institutions. The authors, Morten Linnemann Bech, from the bank’s committee on payments and market infrastructures, and Rodney Garratt, a professor of economics at the University of California, Santa Barbara, use a “money flower” schematic to disentangle the myriad terms that people throw around when they talk about digital currencies and payments.\n\nThe past, present, and future of money. (Bank for International Settlements)\n\nThe BIS paper shows that a central bank-issued cryptocurrency could well be a way to digitize cash, while crucially preserving the privacy of users, which cash already does. If central banks issue digital cash this way, it would cut out commercial banks, who are currently intermediaries for consumers to obtain central bank-issued money.\n\nThis “retail” use of a central bank digital currency is particularly pressing in countries with rapidly falling cash usage, such as Sweden, the authors say. Central banks also have good reason to use a digital currency in the wonkier, “wholesale” context, where it’s used exclusively by other banks. This upgrade payment systems that will soon be obsolete, and which depend on database designs that are “no longer fit for purpose,” the authors write.\n\nIn any case, central banks must reckon with digital currencies: “All central banks may eventually have to decide whether issuing retail or wholesale [digital currencies] makes sense in their own context,” the authors write.\n\nMost Popular",
+    "cleaned_selection": "<p>The Bank for International Settlements (BIS) isn’t given to analyzing financial fads. Based in Basel, Switzerland, it’s a “bank for central banks,” so it’s usually concerned about things like the stability of the global financial system.</p><p>In its latest quarterly review, though, it reached out to an area of technology that has so far been reserved for financial technologists and speculators pushing libertarian philosophies. The bank’s paper on cryptocurrencies is a great explainer on how cryptocurrencies intersect with central banks, a topic that’s gaining currency as institutions from the Bank of England to the Monetary Authority of Singapore try to digitize cash using blockchain technology.</p><p>The BIS paper lays out the two main uses for a central bank-issued cryptocurrency: It could be a type of decentralized digital cash for consumers; or a tool to streamline settlements of transactions between financial institutions. The authors, Morten Linnemann Bech, from the bank’s committee on payments and market infrastructures, and Rodney Garratt, a professor of economics at the University of California, Santa Barbara, use a “money flower” schematic to disentangle the myriad terms that people throw around when they talk about digital currencies and payments.</p><p>The past, present, and future of money. (Bank for International Settlements)</p><p>The BIS paper shows that a central bank-issued cryptocurrency could well be a way to digitize cash, while crucially preserving the privacy of users, which cash already does. If central banks issue digital cash this way, it would cut out commercial banks, who are currently intermediaries for consumers to obtain central bank-issued money.</p><p>This “retail” use of a central bank digital currency is particularly pressing in countries with rapidly falling cash usage, such as Sweden, the authors say. Central banks also have good reason to use a digital currency in the wonkier, “wholesale” context, where it’s used exclusively by other banks. This upgrade payment systems that will soon be obsolete, and which depend on database designs that are “no longer fit for purpose,” the authors write.</p><p>In any case, central banks must reckon with digital currencies: “All central banks may eventually have to decide whether issuing retail or wholesale [digital currencies] makes sense in their own context,” the authors write.</p><p>Most Popular</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.019121",
+  "updated_at": "2025-08-06T08:47:04.019122"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "372f82275f7e3d6b",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/science/archive/2021/10/someday-we-might-really-be-able-talk-whales/620552/",
+  "title": "Someday, We Might Really Be Able to Talk to Whales - The Atlantic",
+  "status": "converted_from_csv",
+  "date": "2021-11-01T14:04:35",
+  "error": null,
+  "content_path": "output/articles/markdown/372f82275f7e3d6b.md",
+  "html_path": "output/articles/html/372f82275f7e3d6b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1857,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "73df81be3368a24c9575ee70161f8912",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1635800675",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-11-01T14:04:35",
+  "updated_at": "2021-11-01T14:04:35"
+}

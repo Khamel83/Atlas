@@ -1,0 +1,34 @@
+{
+  "uid": "4469730ade312eab",
+  "content_type": "web_bookmark",
+  "source": "http://www.theverge.com/2015/4/26/8500579/rubiks-cube-world-record-2015",
+  "title": "Teenager cuts nearly a third of a second off Rubik's Cube world record The Verge - All Posts",
+  "status": "converted_from_csv",
+  "date": "2015-04-26T15:22:26",
+  "error": null,
+  "content_path": "output/articles/markdown/4469730ade312eab.md",
+  "html_path": "output/articles/html/4469730ade312eab.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4868,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7add9fcad7a6c080aca0a85e690588fd",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1430086946",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-04-26T15:22:26",
+  "updated_at": "2015-04-26T15:22:26"
+}

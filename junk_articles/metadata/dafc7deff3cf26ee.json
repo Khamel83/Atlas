@@ -1,0 +1,34 @@
+{
+  "uid": "dafc7deff3cf26ee",
+  "content_type": "web_bookmark",
+  "source": "https://theawl.com/the-next-internet-is-tv-a0d57c37349",
+  "title": "The Next Internet Is TV",
+  "status": "converted_from_csv",
+  "date": "2017-03-19T09:05:34",
+  "error": null,
+  "content_path": "output/articles/markdown/dafc7deff3cf26ee.md",
+  "html_path": "output/articles/html/dafc7deff3cf26ee.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4054,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3a986dbc484f2b0eb7a4597e2f30084f",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1489939534",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-03-19T09:05:34",
+  "updated_at": "2017-03-19T09:05:34"
+}

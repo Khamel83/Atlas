@@ -1,0 +1,393 @@
+# Long Layover Take a Free City Tour at One of These Airports The Points Guy
+
+**Source:** http://thepointsguy.com/2016/08/airports-with-free-city-tours-during-long-layovers/  
+**Domain:** thepointsguy.com  
+**Folder:** Feedly  
+**Added:** 2016-08-13T19:10:54  
+**Content Type:** Selection Content Extracted  
+**Selection Length:** 11,869 characters  
+
+
+---
+
+## Selected Content
+
+This post contains references to products from one or more of our advertisers. We may receive compensation when you click on links to those products. For an explanation of our Advertising Policy, visit this page.
+
+TPG Contributor Lori Zaino highlights seven airports where you can take advantage of complimentary city tours, a special perk offered by airlines for passengers with especially long layovers. Because who wants to sit around in the airport all day anyway?
+
+Have you ever been dreading a flight because of a long connection? These seven airports around the world offer a better way to pass the time — a free city tour, so you can get a taste of the place you’re passing through. Here’s what you need to know.
+
+Incheon International Airport (ICN) in Seoul, South Korea
+
+The Korean tourism board offers several free, guided tours of Seoul for passengers with a 5-24-hour layover. Reserve your tour ahead of time online, email transittour@airport.kr or visit the ticket desks on the third floor in front of Gates 25 or 29, or at desks 41 and 42 on the first floor between Gates 8 and 9.
+
+Keep in mind these tours are first come, first serve and you’ll be able to choose between a one-hour, two-hour, three-hour, four-hour or five-hour version depending on how much time you have. Note that you may need to pay $10 for a non-Visa entry permit (depending on which country you’re from) and show travel documents (like your passport, along with arrival and departure boarding passes or e-tickets) when registering for the tour.
+
+Seoul, as seen from the Bukchon Hanok Village rooftops. Image courtesy of Shutterstock.
+The variety of places you’ll visit largely depends on which tour you take — the one-hour version only takes you to the Haedong Yonggung Temple, for instance, while the longer five-hour tour includes stops at Bukchon Hanok Village, Gyeongbok Palace, Changdeok Palace and Gwangjang Market, among others. More details about each tour option can be found here. Each transit tour has an English-speaking tour guide and is free, however you must pay for meals and admission fees to get into the various attractions it visits. It’s also possible for passengers to do more than one tour if the length of your layover allows it.
+
+Narita International Airport (NRT) in Tokyo, Japan
+
+Tokyo’s tour program is slightly different. A volunteer guide will accompany you on public transportation your choice of three different three-hour guided tours:
+
+Tour 1: A guided trip to the Narita-san Shinshō-ji Temple (pictured below), Narita-san Park and Omotesando Street
+
+Tour 2: A guided tour of the Museum of Aeronautical Science
+
+Tour 3: A guided nature walk through the Japanese countryside
+
+Wouldn’t you rather visit Narita-san Shinshō-ji Temple instead of waiting around the airport? Image courtesy of Shutterstock.
+Self-guided shopping-themed tours are also available, where you can hop on a shuttle bus and be dropped off at either Shisui Premium Outlets or AEON Mall Narita. Note that you are responsible for any transportation and entrance fee costs that may occur. Visit the Transit Tour Desks at Narita Airport, located in both Terminal 1 and 2, to book your adventure.
+
+Istanbul Atatürk Airport (IST) in Turkey
+
+Free city tours of Istanbul are available for international transit passengers flying with Turkish Airlines who have a layover of 6-24 hours. You don’t need to reserve your tour ahead of time — just head to the Hotel Desk in the International Arrivals Hall (after customs, next to Starbucks) at least 30 minutes before it starts.
+
+The scheduled tours run everyday from 8:30am to 11:00am, from 9:00am to 3:00pm, from 9:00am to 6:00pm, from 12:00pm to 6:00pm and from 4:00pm to 9:00pm, so check to see which time works best for you.
+
+Turkish Airlines suggests that you be ready for boarding at least one hour before your scheduled departure time, so please allow enough time to go through customs and passport control after the tour so you can get to your flight on time.
+
+Enjoy views of the Blue Mosque in the center of Istanbul on a free tour of the city. Image courtesy of the author.
+A typical Istanbul city tour includes at least the following stops and activities, although these may vary depending on the day and length of the tour you choose:
+
+Departure from Istanbul Atatürk Airport
+
+Breakfast
+
+Blue Mosque
+
+Hippodrome: German Fountain
+
+Serpentine Column
+
+Obelisk of Theodosius
+
+Topkapi Palace
+
+Lunch
+
+Return to Istanbul Atatürk Airport
+
+Additional stops for the longer tours include a trip to the Grand Covered Bazaar, Eyup Sultan Mosque & Square, the Byzantine City Walls, Dolmabahçe Palace, the Basilica Cistern, Galata Tower and the Hagia Sophia, among other popular attractions.
+
+It’s exciting to note that the entire tour, whichever you choose, is completely free and covers all entrance fees and meals. The food consists of Ottoman cuisine — note that lunch menus offer a vegetarian option, however no other dietary or religious food options are available.
+
+I recently went on this tour, even though it was just a few days following the failed military coup, and had a wonderful time — stay tuned for a full review of the tour, coming soon to TPG.
+
+Doha International Airport (DOH) in Qatar
+
+Those flying on Qatar Airways with a long layover in Doha can participate in a nearly three-hour free city tour that takes you to the Museum of Islamic Art, Katara Cultural Village, the Pearl-Qatar, and the Souq Waqif. You’ll have an English-speaking tour guide and receive a free bottle of water. To reserve your spot, visit the Doha City Tour desk on arrival — it’s located at the beginning of Concourse B between the Mont Blanc and WH Smith shops.
+
+The Museum of Islamic Art at night. Image courtesy of Shutterstock.
+There are four tours available per day, and each allows a maximum of 22 people. Here’s a look at the schedule:
+
+Tour 1: Check in from 6:00am–6:45am. The tour assembles at 7:00am and starts at 8:00am
+
+Tour 2: Check in from 6:00am–9:45am. The tour assembles at 10:00am and starts at 11:00am
+
+Tour 3: Check in from 6:00am–2:45pm. The tour assembles at 3:00pm and starts at 4:00pm
+
+Tour 4: Check in from 4:00pm–6:45pm. The tour assembles at 7:00pm and starts at 8:00pm
+
+Taiwan Taoyuan International Airport (TPE) in Taiwan
+
+Two free, half-day city tours are available for transit passengers (a morning tour and an afternoon tour) and those with a 7–24 hour layover in Taiwan before their next connecting flight are eligible — note that travelers from the US, Canada and UK are all allowed visa-exempt entry for the free tour, but it’s a good idea to double-check the visa requirements before you go, especially if you’re not from one of these countries.
+
+Registration is available upon arrival in the Tourist Service Centers, which are located in the arrivals lobbies of T1 and T2. Each tour only has space for 18 passengers, so head straight there to ensure you’ll get a spot. There won’t be room on the bus for any baggage, so you’ll have to store yours in the baggage center for a small fee before boarding the bus.
+
+The Lungshan Temple of Manka in Taipei, a stop on the free afternoon tour. Image courtesy of Shutterstock.
+The morning tour departs T2 at 8:00am (T1 at 8:15am), returns by 1:00pm and takes you to the Shou Xin Fang Creativity Wagashi and Cultural Center and the Zushi Temple. The afternoon tour departs T2 at 1:30pm (T1 at 1:45pm), returns by 6:30pm and includes a visit to the National Chiang Kai-Shek Memorial Hall and the Lungshan Temple of Manka (pictured above). Note that each passenger can only take one of the tours, so choose wisely.
+
+Singapore Changi Airport (SIN)
+
+If you’ve got some time to kill at SIN, check out one of two free Singapore city tours: The Heritage Tour, which includes visits to Chinatown and Little India, if your layover is at least 5.5-hour long, or the City Sights Tour, which takes you to the Singapore Flyer and the Marina Bay Financial Center, if your layover is more than six hours long. The best part: to take advantage of the free tour, you can be flying on any airline.
+
+Drop your baggage off at the storage kiosk before the tour and register at the Free Singapore Tour booths located in the transit areas of Terminals 2 and 3 before you clear customs. If you land in Terminal 1, stay in the transit area and head to Terminal 2 for tour registration.
+
+A beautiful view of the Singapore skyline. Image courtesy of Shutterstock.
+Of course, your flight schedule needs to fit in with the tour times, which are listed below:
+
+Heritage Tour:
+
+Registration closes at 8:00am for the 9:00am–11:30am tour (recommended for flight departures after 1:30pm)
+
+Registration closes at 10:30am for the 11:30am–2:00pm tour (recommended for flight departures after 4:00pm)
+
+Registration closes at 1:30pm for the 2:30pm–5:00pm tour (recommended for flight departures after 7:00pm)
+
+Registration closes at 2:30pm for the 3:30pm to 6:00pm tour (recommended for flight departures after 8:00pm)
+
+City Sights Tour:
+
+Registration closes at 5:00pm for the 6:00pm–8:30pm tour (recommended for flight departures after 11pm)
+
+Registration closes at 6:30pm for the 7:30pm–10pm tour (recommended for flight departures after 12:30am)
+
+Salt Lake City International Airport (SLC) in Utah
+
+If your layover is two hours or more, you can take a free shuttle to the Salt Lake City Center for a free tour of Temple Square, hosted by The Church of Jesus Christ of Latter-Day Saints. For more information , check out the information desks in T1 or T2.
+
+Take a free tour of Salt Lake City’s Temple Square during a layover at SLC. Image courtesy of Shutterstock.
+The shuttle bus schedule is as follows:
+
+Monday–Saturday, June–August
+
+Departs airport every 30 minutes, 9:00am–7:00pm
+
+Departs Temple Square every 30 minutes 10:30am–8:30pm
+
+Monday–Saturday, April–May and September–October
+
+Departs airport every hour 9:00am–7:00pm
+
+Departs Temple Square every hour 10:30am–8:30pm
+
+Monday–Saturday, November–March
+
+Departs airport every hour 9:00am–2:00pm
+
+Departs Temple Square every hour 10:30am–3:30pm
+
+Sundays (year-round)
+
+Departs airport every hour 9:00am–2:00pm
+
+Departs Temple Square every hour 10:30am–3:30pm
+
+Note that unfortunately there’s nowhere to store your carry-on luggage, so be prepared to bring your bags with you on the tour. Additionally, large suitcases aren’t allowed in the shuttle vans, so plan accordingly.
+
+A Final Tip
+
+Keep in mind credit cards like the Chase Sapphire Preferred and Citi Prestige don’t charge foreign transaction fees, making them ideal to use while on vacation in many of these destinations. Check out this post for more fee-free options overseas.
+
+Featured image courtesy of Shutterstock.
+
+Chase Sapphire Preferred® Card
+
+Earn 50,000 bonus points when you spend $4,000 on purchases in the first 3 months from account opening. That's $625 in travel when you redeem through Chase Ultimate Rewards®
+
+Named a 'Best Credit Card' for Travel Rewards by MONEY Magazine
+
+2X points on travel and dining at restaurants & 1 point per dollar spent on all other purchases
+
+Sleek metal card design
+
+Earn 5,000 bonus points after you add the first authorized user and make a purchase in the first 3 months from account opening
+
+$0 foreign transaction fees, plus chip-enabled for enhanced security and wider acceptance when used at a chip card reader
+
+1:1 point transfer to leading frequent travel programs at full value — that means 1,000 Chase Ultimate Rewards points equal 1,000 partner miles/points
+
+Travel confidently with premium Travel Protection Benefits, including Trip Cancellation/Trip Interruption Insurance, Auto Rental Collision Damage Waiver, Trip Delay Reimbursement and more
+
+Intro APR
+
+Regular APR
+
+Annual Fee
+
+Balance Transfer Fee
+
+Credit Rating
+
+N/A
+
+16.24%-23.24% Variable
+
+Introductory Annual Fee of $0 the first year, then $95
+
+See Terms
+
+Excellent Credit
+
+---
+
+*This content was extracted from your Instapaper Selection field.*
+
+TPG Contributor Lori Zaino highlights seven airports where you can take advantage of complimentary city tours, a special perk offered by airlines for passengers with especially long layovers. Because who wants to sit around in the airport all day anyway?
+
+Have you ever been dreading a flight because of a long connection? These seven airports around the world offer a better way to pass the time — a free city tour, so you can get a taste of the place you’re passing through. Here’s what you need to know.
+
+Incheon International Airport (ICN) in Seoul, South Korea
+
+The Korean tourism board offers several free, guided tours of Seoul for passengers with a 5-24-hour layover. Reserve your tour ahead of time online, email transittour@airport.kr or visit the ticket desks on the third floor in front of Gates 25 or 29, or at desks 41 and 42 on the first floor between Gates 8 and 9.
+
+Keep in mind these tours are first come, first serve and you’ll be able to choose between a one-hour, two-hour, three-hour, four-hour or five-hour version depending on how much time you have. Note that you may need to pay $10 for a non-Visa entry permit (depending on which country you’re from) and show travel documents (like your passport, along with arrival and departure boarding passes or e-tickets) when registering for the tour.
+
+Seoul, as seen from the Bukchon Hanok Village rooftops. Image courtesy of Shutterstock.
+The variety of places you’ll visit largely depends on which tour you take — the one-hour version only takes you to the Haedong Yonggung Temple, for instance, while the longer five-hour tour includes stops at Bukchon Hanok Village, Gyeongbok Palace, Changdeok Palace and Gwangjang Market, among others. More details about each tour option can be found here. Each transit tour has an English-speaking tour guide and is free, however you must pay for meals and admission fees to get into the various attractions it visits. It’s also possible for passengers to do more than one tour if the length of your layover allows it.
+
+Narita International Airport (NRT) in Tokyo, Japan
+
+Tokyo’s tour program is slightly different. A volunteer guide will accompany you on public transportation your choice of three different three-hour guided tours:
+
+Tour 1: A guided trip to the Narita-san Shinshō-ji Temple (pictured below), Narita-san Park and Omotesando Street
+
+Tour 2: A guided tour of the Museum of Aeronautical Science
+
+Tour 3: A guided nature walk through the Japanese countryside
+
+Wouldn’t you rather visit Narita-san Shinshō-ji Temple instead of waiting around the airport? Image courtesy of Shutterstock.
+Self-guided shopping-themed tours are also available, where you can hop on a shuttle bus and be dropped off at either Shisui Premium Outlets or AEON Mall Narita. Note that you are responsible for any transportation and entrance fee costs that may occur. Visit the Transit Tour Desks at Narita Airport, located in both Terminal 1 and 2, to book your adventure.
+
+Istanbul Atatürk Airport (IST) in Turkey
+
+Free city tours of Istanbul are available for international transit passengers flying with Turkish Airlines who have a layover of 6-24 hours. You don’t need to reserve your tour ahead of time — just head to the Hotel Desk in the International Arrivals Hall (after customs, next to Starbucks) at least 30 minutes before it starts.
+
+The scheduled tours run everyday from 8:30am to 11:00am, from 9:00am to 3:00pm, from 9:00am to 6:00pm, from 12:00pm to 6:00pm and from 4:00pm to 9:00pm, so check to see which time works best for you.
+
+Turkish Airlines suggests that you be ready for boarding at least one hour before your scheduled departure time, so please allow enough time to go through customs and passport control after the tour so you can get to your flight on time.
+
+Enjoy views of the Blue Mosque in the center of Istanbul on a free tour of the city. Image courtesy of the author.
+A typical Istanbul city tour includes at least the following stops and activities, although these may vary depending on the day and length of the tour you choose:
+
+Departure from Istanbul Atatürk Airport
+
+Breakfast
+
+Blue Mosque
+
+Hippodrome: German Fountain
+
+Serpentine Column
+
+Obelisk of Theodosius
+
+Topkapi Palace
+
+Lunch
+
+Return to Istanbul Atatürk Airport
+
+Additional stops for the longer tours include a trip to the Grand Covered Bazaar, Eyup Sultan Mosque & Square, the Byzantine City Walls, Dolmabahçe Palace, the Basilica Cistern, Galata Tower and the Hagia Sophia, among other popular attractions.
+
+It’s exciting to note that the entire tour, whichever you choose, is completely free and covers all entrance fees and meals. The food consists of Ottoman cuisine — note that lunch menus offer a vegetarian option, however no other dietary or religious food options are available.
+
+I recently went on this tour, even though it was just a few days following the failed military coup, and had a wonderful time — stay tuned for a full review of the tour, coming soon to TPG.
+
+Doha International Airport (DOH) in Qatar
+
+Those flying on Qatar Airways with a long layover in Doha can participate in a nearly three-hour free city tour that takes you to the Museum of Islamic Art, Katara Cultural Village, the Pearl-Qatar, and the Souq Waqif. You’ll have an English-speaking tour guide and receive a free bottle of water. To reserve your spot, visit the Doha City Tour desk on arrival — it’s located at the beginning of Concourse B between the Mont Blanc and WH Smith shops.
+
+The Museum of Islamic Art at night. Image courtesy of Shutterstock.
+There are four tours available per day, and each allows a maximum of 22 people. Here’s a look at the schedule:
+
+Tour 1: Check in from 6:00am–6:45am. The tour assembles at 7:00am and starts at 8:00am
+
+Tour 2: Check in from 6:00am–9:45am. The tour assembles at 10:00am and starts at 11:00am
+
+Tour 3: Check in from 6:00am–2:45pm. The tour assembles at 3:00pm and starts at 4:00pm
+
+Tour 4: Check in from 4:00pm–6:45pm. The tour assembles at 7:00pm and starts at 8:00pm
+
+Taiwan Taoyuan International Airport (TPE) in Taiwan
+
+Two free, half-day city tours are available for transit passengers (a morning tour and an afternoon tour) and those with a 7–24 hour layover in Taiwan before their next connecting flight are eligible — note that travelers from the US, Canada and UK are all allowed visa-exempt entry for the free tour, but it’s a good idea to double-check the visa requirements before you go, especially if you’re not from one of these countries.
+
+Registration is available upon arrival in the Tourist Service Centers, which are located in the arrivals lobbies of T1 and T2. Each tour only has space for 18 passengers, so head straight there to ensure you’ll get a spot. There won’t be room on the bus for any baggage, so you’ll have to store yours in the baggage center for a small fee before boarding the bus.
+
+The Lungshan Temple of Manka in Taipei, a stop on the free afternoon tour. Image courtesy of Shutterstock.
+The morning tour departs T2 at 8:00am (T1 at 8:15am), returns by 1:00pm and takes you to the Shou Xin Fang Creativity Wagashi and Cultural Center and the Zushi Temple. The afternoon tour departs T2 at 1:30pm (T1 at 1:45pm), returns by 6:30pm and includes a visit to the National Chiang Kai-Shek Memorial Hall and the Lungshan Temple of Manka (pictured above). Note that each passenger can only take one of the tours, so choose wisely.
+
+Singapore Changi Airport (SIN)
+
+If you’ve got some time to kill at SIN, check out one of two free Singapore city tours: The Heritage Tour, which includes visits to Chinatown and Little India, if your layover is at least 5.5-hour long, or the City Sights Tour, which takes you to the Singapore Flyer and the Marina Bay Financial Center, if your layover is more than six hours long. The best part: to take advantage of the free tour, you can be flying on any airline.
+
+Drop your baggage off at the storage kiosk before the tour and register at the Free Singapore Tour booths located in the transit areas of Terminals 2 and 3 before you clear customs. If you land in Terminal 1, stay in the transit area and head to Terminal 2 for tour registration.
+
+A beautiful view of the Singapore skyline. Image courtesy of Shutterstock.
+Of course, your flight schedule needs to fit in with the tour times, which are listed below:
+
+Heritage Tour:
+
+Registration closes at 8:00am for the 9:00am–11:30am tour (recommended for flight departures after 1:30pm)
+
+Registration closes at 10:30am for the 11:30am–2:00pm tour (recommended for flight departures after 4:00pm)
+
+Registration closes at 1:30pm for the 2:30pm–5:00pm tour (recommended for flight departures after 7:00pm)
+
+Registration closes at 2:30pm for the 3:30pm to 6:00pm tour (recommended for flight departures after 8:00pm)
+
+ City Sights Tour:
+
+Registration closes at 5:00pm for the 6:00pm–8:30pm tour (recommended for flight departures after 11pm)
+
+Registration closes at 6:30pm for the 7:30pm–10pm tour (recommended for flight departures after 12:30am)
+
+Salt Lake City International Airport (SLC) in Utah
+
+If your layover is two hours or more, you can take a free shuttle to the Salt Lake City Center for a free tour of Temple Square, hosted by The Church of Jesus Christ of Latter-Day Saints. For more information , check out the information desks in T1 or T2.
+
+Take a free tour of Salt Lake City’s Temple Square during a layover at SLC. Image courtesy of Shutterstock.
+The shuttle bus schedule is as follows:
+
+Monday–Saturday, June–August
+
+Departs airport every 30 minutes, 9:00am–7:00pm
+
+Departs Temple Square every 30 minutes 10:30am–8:30pm
+
+Monday–Saturday, April–May and September–October
+
+Departs airport every hour 9:00am–7:00pm
+
+Departs Temple Square every hour 10:30am–8:30pm
+
+Monday–Saturday, November–March
+
+Departs airport every hour 9:00am–2:00pm
+
+Departs Temple Square every hour 10:30am–3:30pm
+
+Sundays (year-round)
+
+Departs airport every hour 9:00am–2:00pm
+
+Departs Temple Square every hour 10:30am–3:30pm
+
+Note that unfortunately there’s nowhere to store your carry-on luggage, so be prepared to bring your bags with you on the tour. Additionally, large suitcases aren’t allowed in the shuttle vans, so plan accordingly.
+
+A Final Tip
+
+Keep in mind credit cards like the Chase Sapphire Preferred and Citi Prestige don’t charge foreign transaction fees, making them ideal to use while on vacation in many of these destinations. Check out this post for more fee-free options overseas.
+
+Featured image courtesy of Shutterstock.
+
+Chase Sapphire Preferred® Card
+
+Earn 50,000 bonus points when you spend $4,000 on purchases in the first 3 months from account opening. That's $625 in travel when you redeem through Chase Ultimate Rewards®
+
+Named a 'Best Credit Card' for Travel Rewards by MONEY Magazine
+
+2X points on travel and dining at restaurants & 1 point per dollar spent on all other purchases
+
+Sleek metal card design
+
+Earn 5,000 bonus points after you add the first authorized user and make a purchase in the first 3 months from account opening
+
+$0 foreign transaction fees, plus chip-enabled for enhanced security and wider acceptance when used at a chip card reader
+
+1:1 point transfer to leading frequent travel programs at full value — that means 1,000 Chase Ultimate Rewards points equal 1,000 partner miles/points
+
+Travel confidently with premium Travel Protection Benefits, including Trip Cancellation/Trip Interruption Insurance, Auto Rental Collision Damage Waiver, Trip Delay Reimbursement and more
+
+Intro APR
+
+Regular APR
+
+Annual Fee
+
+Balance Transfer Fee
+
+Credit Rating
+
+N/A
+
+16.24%-23.24% Variable
+
+Introductory Annual Fee of $0 the first year, then $95
+
+See Terms
+
+Excellent Credit

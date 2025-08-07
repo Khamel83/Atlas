@@ -1,0 +1,40 @@
+{
+  "uid": "c303c9c62f8fbe13",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/892474/mcdonalds-mcd-introduces-giant-and-small-big-mac-burgers-in-hopes-of-driving-us-sales/",
+  "title": "Only 20% of millennials have ever tried a Big Mac Quartz",
+  "status": "selection_content_extracted",
+  "date": "2017-01-23T20:37:04",
+  "error": null,
+  "content_path": "output/articles/markdown/c303c9c62f8fbe13.md",
+  "html_path": "output/articles/html/c303c9c62f8fbe13.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4143,
+    "selection_length": 2298,
+    "cleaned_selection_length": 2330,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c303c9c62f8fbe13",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1485232624",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The idea isn’t exactly inspired, but something had to be done.\n\nMcDonald’s isn’t revealing a hamburger bun made out of Doritos or fried chicken. Still, necessity is the mother of invention, which is why the 61-year-old fast food chain is rolling out a new, hodgepodge family of Big Mac burgers.\n\nMeet the “Grand Mac,” a third-of-a-pound burger loaded with enough calories (860) to fulfill almost half the daily recommended intake to nourish the average person. As the unruly cousin to the famous Big Mac, it’s one of two new sandwiches McDonald’s hopes will lure younger consumers back into its restaurants. The chain also introduced a miniature Big Mac dubbed the “Mac Jr.” Diminutive in size, it lacks the traditional “middle bun,” has one burger patty and fewer than 460 calories.\n\nThis is the chain’s latest big idea for roping in new customers, as all-day breakfast runs out of steam. Executives at McDonald’s have learned that only 20% of millennials have even tried the famous Big Mac, according to Bloomberg. Serving breakfast all day powered same store sales through the early quarters of 2016, after being introduced in October 2015, and served as a morale boost after fizzled menu innovations such as sandwich wraps and Angus beef burgers that proved too expensive.\n\nBut America’s all-day breakfast high isn’t expected to generate enough stamina to keep US sales on the up-and-up. Sales growth has floated back toward earth, begging the question: What’s next? That’s going to be on the minds of Wall Street analysts today when they chat with company executives about the company’s latest quarterly earnings report released this morning. US sales shrank by 1.3% in the 2016 fourth quarter, reversing the trend established after all-day breakfast was introduced. Overall, revenue fell 5% to $6 billion from $6.34 billion during the 2015 fourth quarter.\n\nAs other fast food chains such as Taco Bell create buzz with wacky new product innovations, McDonald’s is venturing into another area that restaurant analysts say drives customer traffic: portion control. But giving people a choice between three differently-sized burgers isn’t a sure-fire way to financial success—only time will tell whether the new outsized Big Mac and its pint-sized relative will earn their keep on the menu board.",
+    "cleaned_selection": "<p>The idea isn’t exactly inspired, but something had to be done.</p><p>McDonald’s isn’t revealing a hamburger bun made out of Doritos or fried chicken. Still, necessity is the mother of invention, which is why the 61-year-old fast food chain is rolling out a new, hodgepodge family of Big Mac burgers.</p><p>Meet the “Grand Mac,” a third-of-a-pound burger loaded with enough calories (860) to fulfill almost half the daily recommended intake to nourish the average person. As the unruly cousin to the famous Big Mac, it’s one of two new sandwiches McDonald’s hopes will lure younger consumers back into its restaurants. The chain also introduced a miniature Big Mac dubbed the “Mac Jr.” Diminutive in size, it lacks the traditional “middle bun,” has one burger patty and fewer than 460 calories.</p><p>This is the chain’s latest big idea for roping in new customers, as all-day breakfast runs out of steam. Executives at McDonald’s have learned that only 20% of millennials have even tried the famous Big Mac, according to Bloomberg. Serving breakfast all day powered same store sales through the early quarters of 2016, after being introduced in October 2015, and served as a morale boost after fizzled menu innovations such as sandwich wraps and Angus beef burgers that proved too expensive.</p><p>But America’s all-day breakfast high isn’t expected to generate enough stamina to keep US sales on the up-and-up. Sales growth has floated back toward earth, begging the question: What’s next? That’s going to be on the minds of Wall Street analysts today when they chat with company executives about the company’s latest quarterly earnings report released this morning. US sales shrank by 1.3% in the 2016 fourth quarter, reversing the trend established after all-day breakfast was introduced. Overall, revenue fell 5% to $6 billion from $6.34 billion during the 2015 fourth quarter.</p><p>As other fast food chains such as Taco Bell create buzz with wacky new product innovations, McDonald’s is venturing into another area that restaurant analysts say drives customer traffic: portion control. But giving people a choice between three differently-sized burgers isn’t a sure-fire way to financial success—only time will tell whether the new outsized Big Mac and its pint-sized relative will earn their keep on the menu board.</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.179122",
+  "updated_at": "2025-08-06T08:47:04.179124"
+}

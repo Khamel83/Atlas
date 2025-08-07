@@ -1,0 +1,34 @@
+{
+  "uid": "137e6169789b2d01",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/00eb26fa3938d397488a74238f7c8ef8/",
+  "title": "Ivermectin: Can a Drug Be \"Right-Wing\"?",
+  "status": "converted_from_csv",
+  "date": "2021-06-25T16:43:53",
+  "error": null,
+  "content_path": "output/articles/markdown/137e6169789b2d01.md",
+  "html_path": "output/articles/html/137e6169789b2d01.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2133,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f5a5d546fdb435d8e89217649c97ca27",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1624664633",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-06-25T16:43:53",
+  "updated_at": "2021-06-25T16:43:53"
+}

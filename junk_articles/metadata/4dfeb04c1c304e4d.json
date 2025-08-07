@@ -1,0 +1,34 @@
+{
+  "uid": "4dfeb04c1c304e4d",
+  "content_type": "web_bookmark",
+  "source": "https://www.latimes.com/business/story/2021-05-16/flamin-hot-cheetos-richard-montanez",
+  "title": "Richard Montañez didn't actually invent Flamin' Hot Cheetos - Los Angeles Times",
+  "status": "converted_from_csv",
+  "date": "2021-05-17T12:02:28",
+  "error": null,
+  "content_path": "output/articles/markdown/4dfeb04c1c304e4d.md",
+  "html_path": "output/articles/html/4dfeb04c1c304e4d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2213,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "582807a51d72bb5dc070a713cab3b102",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1621278148",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-05-17T12:02:28",
+  "updated_at": "2021-05-17T12:02:28"
+}

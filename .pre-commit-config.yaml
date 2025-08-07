@@ -1,12 +1,111 @@
-# .pre-commit-config.yaml
+# Atlas Production-Ready Pre-commit Configuration
+# This file configures automated checks that run before each commit
+
 repos:
+  # Code formatting
   - repo: https://github.com/psf/black
-    rev: 24.3.0
+    rev: 24.8.0
     hooks:
       - id: black
-  - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: v0.4.2
+        language_version: python3
+        args: [--line-length=88]
+
+  # Import sorting
+  - repo: https://github.com/PyCQA/isort
+    rev: 5.13.2
     hooks:
-      - id: ruff
+      - id: isort
+        args: [--profile=black, --line-length=88]
 
+  # Basic file checks
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-added-large-files
+        args: [--maxkb=1000]
+      - id: check-merge-conflict
+      - id: check-json
+      - id: check-toml
+      - id: debug-statements
+      - id: requirements-txt-fixer
 
+  # Python linting
+  - repo: https://github.com/PyCQA/flake8
+    rev: 7.0.0
+    hooks:
+      - id: flake8
+        args: [
+          --max-line-length=88,
+          --extend-ignore=E203,W503,E501,
+          --select=E9,F63,F7,F82,
+          --show-source,
+          --statistics
+        ]
+
+  # Security scanning
+  - repo: https://github.com/PyCQA/bandit
+    rev: 1.7.7
+    hooks:
+      - id: bandit
+        args: [-r, helpers/, ask/, web/, scripts/]
+        exclude: ^tests/
+
+  # Local hooks for Atlas-specific checks
+  - repo: local
+    hooks:
+      # Quick unit tests
+      - id: atlas-unit-tests
+        name: Atlas Unit Tests (Quick)
+        entry: python -m pytest tests/unit/ --maxfail=3 --tb=short -q
+        language: system
+        pass_filenames: false
+        always_run: true
+        stages: [pre-commit]
+
+      # Configuration validation
+      - id: atlas-config-validation
+        name: Atlas Configuration Validation
+        entry: python scripts/validate_config.py
+        language: system
+        pass_filenames: false
+        files: ^(config/|env\.template|\.env)
+        always_run: false
+
+      # Dependency validation
+      - id: atlas-dependency-check
+        name: Atlas Dependency Check
+        entry: python scripts/validate_dependencies.py --quick
+        language: system
+        pass_filenames: false
+        files: ^requirements\.txt$
+        always_run: false
+
+      # Test coverage check (light version)
+      - id: atlas-coverage-check
+        name: Atlas Coverage Check
+        entry: python -m pytest tests/unit/test_config.py tests/unit/test_path_manager.py --cov=helpers --cov-report=term --cov-fail-under=30 -q
+        language: system
+        pass_filenames: false
+        always_run: false
+        stages: [pre-push]
+
+# Global configuration
+default_stages: [pre-commit]
+fail_fast: false
+minimum_pre_commit_version: 3.0.0
+
+# CI-specific configuration
+ci:
+  autofix_commit_msg: |
+    [pre-commit.ci] auto fixes from pre-commit hooks
+
+    for more information, see https://pre-commit.ci
+  autofix_prs: true
+  autoupdate_branch: 'main'
+  autoupdate_commit_msg: '[pre-commit.ci] pre-commit autoupdate'
+  autoupdate_schedule: weekly
+  skip: [atlas-unit-tests, atlas-config-validation, atlas-dependency-check]
+  submodules: false

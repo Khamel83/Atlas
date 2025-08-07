@@ -1,0 +1,34 @@
+{
+  "uid": "b01bf2f007e8660f",
+  "content_type": "web_bookmark",
+  "source": "http://www.slate.com/articles/news_and_politics/frame_game/2011/10/mitt_romney_liberal_on_taxes_health_care_trade_and_bailouts_he_s.html",
+  "title": "Mitt Romney, liberal? On taxes, health care, trade, and bailouts, he shows some lefty thinking. - Slate Magazine",
+  "status": "converted_from_csv",
+  "date": "2011-10-20T06:38:14",
+  "error": null,
+  "content_path": "output/articles/markdown/b01bf2f007e8660f.md",
+  "html_path": "output/articles/html/b01bf2f007e8660f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5573,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7cacf66849c3d6b771a0c09538bba299",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1319117894",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-10-20T06:38:14",
+  "updated_at": "2011-10-20T06:38:14"
+}

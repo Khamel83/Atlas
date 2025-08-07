@@ -12,6 +12,7 @@ from helpers.base_ingestor import BaseIngestor, IngestorResult
 from helpers.dedupe import link_uid
 from helpers.error_handler import AtlasErrorHandler
 from helpers.evaluation_utils import EvaluationFile
+from helpers.metadata_manager import ContentType
 from helpers.retry_queue import enqueue
 from helpers.transcription import transcribe_audio
 from helpers.utils import (
@@ -40,7 +41,7 @@ class PodcastIngestor(BaseIngestor):
 
     def __init__(self, config):
         super().__init__(config)
-        self.content_type = "podcast"
+
         self.user_agent = USER_AGENT
         self._post_init()
 

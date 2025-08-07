@@ -1,0 +1,40 @@
+{
+  "uid": "edb5c9f46a4f5664",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://food52.com/blog/12123-10-of-our-best-grilled-cheese-sandwiches-is-it-lunchtime-yet",
+  "title": "10 of Our Best Grilled Cheese Sandwiches (Is It Lunchtime Yet) Food52",
+  "status": "selection_content_extracted",
+  "date": "2015-08-03T22:37:41",
+  "error": null,
+  "content_path": "output/articles/markdown/edb5c9f46a4f5664.md",
+  "html_path": "output/articles/html/edb5c9f46a4f5664.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4794,
+    "selection_length": 1288,
+    "cleaned_selection_length": 1323,
+    "domain": "food52.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "edb5c9f46a4f5664",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1438666661",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Everyone has their method for making grilled cheese sandwiches: Some add bacon, or an egg, or greens. Some smear mayonnaise on the bread, others butter. You may like yours with tomato soup, you may like it eaten standing up at midnight. Any which way you go about your grilled cheese, everyone's hoping for the same thing: toasty bread and melty cheese. Sometimes, though, that's not as easy as it sounds: The toast burns before the cheese melts, or the bread is perfectly golden and the cheese is still, sadly, cold. \n\nA so-so grilled cheese sandwich can be devastating, because a good one is the comfiest comfort food around. Here are 10 of the best:\n\nGrilled Cheese Egg in a Hole by The Cooking of Joy\n\n \n\nMustardy Grilled Cheese by CrepesofWrath\n\n \n\nGabrielle Hamilton's Grilled Cheese Sandwiches by Genius Recipes\n\n \n\nParker & Otis' Pimento Cheese (+ Grilled Sandwiches with Bacon & Tomato) by Genius Recipes\n\n \n\nOde to the Caseus Cheese Truck by mrslarkin\n\n \n\nHow to Make Cheese Toast in Your Office Kitchen by Marian Bull\n\n \n\nHow to Make the Perfect Grilled Cheese Sandwich by Marian Bull\n\n \n\nGrilled Aged Cheddar Cheese Sandwich with Pistachio Sage Pesto by Emily Weinberger\n\n \n\nGrilled Cheese and Fresh Tomato Soup by CarolineWright\n\n \n\nGrilled Pepper Cheese Sandwiches by Savour",
+    "cleaned_selection": "<p>Everyone has their method for making grilled cheese sandwiches: Some add bacon, or an egg, or greens. Some smear mayonnaise on the bread, others butter. You may like yours with tomato soup, you may like it eaten standing up at midnight. Any which way you go about your grilled cheese, everyone's hoping for the same thing: toasty bread and melty cheese. Sometimes, though, that's not as easy as it sounds: The toast burns before the cheese melts, or the bread is perfectly golden and the cheese is still, sadly, cold. </p><p>A so-so grilled cheese sandwich can be devastating, because a good one is the comfiest comfort food around. Here are 10 of the best:</p><p>Grilled Cheese Egg in a Hole by The Cooking of Joy</p><p>Mustardy Grilled Cheese by CrepesofWrath</p><p>Gabrielle Hamilton's Grilled Cheese Sandwiches by Genius Recipes</p><p>Parker & Otis' Pimento Cheese (+ Grilled Sandwiches with Bacon & Tomato) by Genius Recipes</p><p>Ode to the Caseus Cheese Truck by mrslarkin</p><p>How to Make Cheese Toast in Your Office Kitchen by Marian Bull</p><p>How to Make the Perfect Grilled Cheese Sandwich by Marian Bull</p><p>Grilled Aged Cheddar Cheese Sandwich with Pistachio Sage Pesto by Emily Weinberger</p><p>Grilled Cheese and Fresh Tomato Soup by CarolineWright</p><p>Grilled Pepper Cheese Sandwiches by Savour</p>",
+    "domain": "food52.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.393114",
+  "updated_at": "2025-08-06T08:47:04.393115"
+}

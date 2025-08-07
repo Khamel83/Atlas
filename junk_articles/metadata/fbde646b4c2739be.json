@@ -1,0 +1,34 @@
+{
+  "uid": "fbde646b4c2739be",
+  "content_type": "web_bookmark",
+  "source": "http://www.americanscientist.org/issues/id.12810,y.0,no.,content.true,page.1,css.print/issue.aspx",
+  "title": "The Humpty-Dumpty Problem » American Scientist",
+  "status": "converted_from_csv",
+  "date": "2011-07-16T12:17:09",
+  "error": null,
+  "content_path": "output/articles/markdown/fbde646b4c2739be.md",
+  "html_path": "output/articles/html/fbde646b4c2739be.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5687,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c448134d7814995cd203f4fb78f99d79",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1310843829",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-07-16T12:17:09",
+  "updated_at": "2011-07-16T12:17:09"
+}

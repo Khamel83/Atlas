@@ -1,0 +1,40 @@
+{
+  "uid": "cb37726502b243c5",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1164308/i-waited-too-long-to-try-to-have-a-baby-with-my-husband-or-did-i/",
+  "title": "I waited too long to try to have a baby with my husband. Or did I Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:53:34.489757",
+  "error": null,
+  "content_path": "output/articles/markdown/cb37726502b243c5.md",
+  "html_path": "output/articles/html/cb37726502b243c5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "03333be58fc36954821724a50cbd1764",
+  "type_specific": {
+    "bookmark_id": 997001022,
+    "instapaper_time": 1514133973,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:53:34.489835",
+  "updated_at": "2025-08-05T13:53:34.489839"
+}

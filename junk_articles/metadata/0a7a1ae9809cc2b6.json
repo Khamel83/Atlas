@@ -1,0 +1,34 @@
+{
+  "uid": "0a7a1ae9809cc2b6",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/10/30/opinion/sunday/douthat-what-tax-dollars-cant-buy.html?src=rechp&pagewanted=print",
+  "title": "What Tax Dollars Can’t Buy - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-11-01T20:21:28",
+  "error": null,
+  "content_path": "output/articles/markdown/0a7a1ae9809cc2b6.md",
+  "html_path": "output/articles/html/0a7a1ae9809cc2b6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5553,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3431a2cc48524e67cb9179932d25f11a",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1320204088",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-11-01T20:21:28",
+  "updated_at": "2011-11-01T20:21:28"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "371abbaaff6abd4c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www2.macleans.ca/2011/01/24/the-stock-market-is-for-suckers/print/",
+  "title": "‘The stock market is for suckers’",
+  "status": "selection_content_extracted",
+  "date": "2011-02-22T18:19:34",
+  "error": null,
+  "content_path": "output/articles/markdown/371abbaaff6abd4c.md",
+  "html_path": "output/articles/html/371abbaaff6abd4c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5941,
+    "selection_length": 644,
+    "cleaned_selection_length": 651,
+    "domain": "www2.macleans.ca",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "371abbaaff6abd4c",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1298427574",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "No wonder American companies like Facebook are avoiding the hoi polloi of traditional stock markets in favour of raising capital from private, rich investors. “The idea of the stock market was to help businesses raise capital, and to provide people, individuals, with a chance to invest their savings and participate in that growth and have enough money to retire,” says Peter Cohan, president of Peter S. Cohan and Associates, a venture capital and management consulting firm in Marlborough, Mass. “But in the last decade the whole thing seems to have fallen apart.” Where the market once helped investors and companies, now it’s failing both.",
+    "cleaned_selection": "<p>No wonder American companies like Facebook are avoiding the hoi polloi of traditional stock markets in favour of raising capital from private, rich investors. “The idea of the stock market was to help businesses raise capital, and to provide people, individuals, with a chance to invest their savings and participate in that growth and have enough money to retire,” says Peter Cohan, president of Peter S. Cohan and Associates, a venture capital and management consulting firm in Marlborough, Mass. “But in the last decade the whole thing seems to have fallen apart.” Where the market once helped investors and companies, now it’s failing both.</p>",
+    "domain": "www2.macleans.ca",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.540246",
+  "updated_at": "2025-08-06T08:47:04.540248"
+}

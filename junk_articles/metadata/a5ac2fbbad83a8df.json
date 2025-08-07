@@ -1,0 +1,34 @@
+{
+  "uid": "a5ac2fbbad83a8df",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6fa418fda177d74ba70870281b1a5199/",
+  "title": "Facebook scrapes some researchers",
+  "status": "converted_from_csv",
+  "date": "2021-08-04T17:02:13",
+  "error": null,
+  "content_path": "output/articles/markdown/a5ac2fbbad83a8df.md",
+  "html_path": "output/articles/html/a5ac2fbbad83a8df.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2052,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f619034930058aa49b7c58bbebe7e047",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1628121733",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-08-04T17:02:13",
+  "updated_at": "2021-08-04T17:02:13"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "b81f5df49827f4e8",
+  "content_type": "web_bookmark",
+  "source": "https://www.wheresyoured.at/to-serve-altman/",
+  "title": "How Does OpenAI Survive?",
+  "status": "converted_from_csv",
+  "date": "2024-07-29T11:42:47",
+  "error": null,
+  "content_path": "output/articles/markdown/b81f5df49827f4e8.md",
+  "html_path": "output/articles/html/b81f5df49827f4e8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 237,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a3998eb1b51e984d5dea7cc17aa52ac4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1722278567",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-07-29T11:42:47",
+  "updated_at": "2024-07-29T11:42:47"
+}

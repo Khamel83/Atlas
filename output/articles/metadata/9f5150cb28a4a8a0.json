@@ -1,0 +1,40 @@
+{
+  "uid": "9f5150cb28a4a8a0",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://kottke.org/16/06/the-definitive-oral-history-of-die-hard",
+  "title": "The definitive oral history of Die Hard kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2016-06-30T15:40:12",
+  "error": null,
+  "content_path": "output/articles/markdown/9f5150cb28a4a8a0.md",
+  "html_path": "output/articles/html/9f5150cb28a4a8a0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4390,
+    "selection_length": 1229,
+    "cleaned_selection_length": 1256,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9f5150cb28a4a8a0",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1467326412",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The definitive oral history of Die Hard JUN 30 2016\n\nNow available as a Kindle single (71 pages): Die Hard: An Oral History.\n\nIn this definitive oral history of \"Die Hard,\" writers, actors, producers, and studio executives reveal behind-the-scenes stories, from the curious origins of the film's title, to the script's evolution from a depressing '70s character study to an optimistic Reagan-era blockbuster, to the seminal negotiations between 20th Century Fox and Willis's then-agent which sent his client's career into the stratosphere, to details of moguls Lawrence Gordon and Joel Silver's famously tumultuous relationship while developing some of the '80s most successful franchises.\n\nThe Daily Beast has an excerpt on the casting of John McClane.\n\nThey went to Arnold [Schwarzenegger]. They went to Sly, who turned it down. They went to Richard Gere-turned it down. They went to James Caan-turned it down. They went to Burt Reynolds, and all of these people rejected it because, remember, this is 1987. You had all these Rambo movies. We've had Commando, Predator, and in the wake of all of these, the hero, they said, was like a pussy. The reaction? \"This guy's no hero.\" Right? In desperation, they went to Bruce Willis.",
+    "cleaned_selection": "<p>The definitive oral history of Die Hard JUN 30 2016</p><p>Now available as a Kindle single (71 pages): Die Hard: An Oral History.</p><p>In this definitive oral history of \"Die Hard,\" writers, actors, producers, and studio executives reveal behind-the-scenes stories, from the curious origins of the film's title, to the script's evolution from a depressing '70s character study to an optimistic Reagan-era blockbuster, to the seminal negotiations between 20th Century Fox and Willis's then-agent which sent his client's career into the stratosphere, to details of moguls Lawrence Gordon and Joel Silver's famously tumultuous relationship while developing some of the '80s most successful franchises.</p><p>The Daily Beast has an excerpt on the casting of John McClane.</p><p>They went to Arnold [Schwarzenegger]. They went to Sly, who turned it down. They went to Richard Gere-turned it down. They went to James Caan-turned it down. They went to Burt Reynolds, and all of these people rejected it because, remember, this is 1987. You had all these Rambo movies. We've had Commando, Predator, and in the wake of all of these, the hero, they said, was like a pussy. The reaction? \"This guy's no hero.\" Right? In desperation, they went to Bruce Willis.</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.314964",
+  "updated_at": "2025-08-06T08:47:04.314965"
+}

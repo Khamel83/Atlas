@@ -1,0 +1,34 @@
+{
+  "uid": "3eac923448975b1a",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2020/09/17/magazine/im-a-muslim-and-arab-american-will-i-ever-be-an-equal-citizen.html",
+  "title": "I’m a Muslim and Arab American. Will I Ever Be an Equal Citizen? - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2020-09-18T20:16:54",
+  "error": null,
+  "content_path": "output/articles/markdown/3eac923448975b1a.md",
+  "html_path": "output/articles/html/3eac923448975b1a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2759,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "02076eb51b0ba684c2e66b84d02a0fb9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1600485414",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-09-18T20:16:54",
+  "updated_at": "2020-09-18T20:16:54"
+}

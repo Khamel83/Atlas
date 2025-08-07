@@ -1,0 +1,42 @@
+{
+  "uid": "b4235c67cd884f1a",
+  "content_type": "instapaper",
+  "source": "https://www.theverge.com/24066270/ai-automation-work-labor-busywork",
+  "title": "AI will eliminate busywork. Are we sure that’s a good thing?",
+  "status": "success",
+  "date": "2025-08-05T13:37:37.420683",
+  "error": null,
+  "content_path": "output/articles/markdown/b4235c67cd884f1a.md",
+  "html_path": "output/articles/html/b4235c67cd884f1a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "060ec7f2fca401cff119f072942114f3",
+  "type_specific": {
+    "bookmark_id": 1664316786,
+    "instapaper_time": 1708061055,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:37:37.420728",
+  "updated_at": "2025-08-05T13:37:37.420731"
+}

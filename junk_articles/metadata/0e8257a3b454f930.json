@@ -1,0 +1,34 @@
+{
+  "uid": "0e8257a3b454f930",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/magazine/archive/2021/09/twenty-years-gone-911-bobby-mcilvaine/619490/",
+  "title": "What Bobby McIlvaine Left Behind",
+  "status": "converted_from_csv",
+  "date": "2023-08-10T10:42:36",
+  "error": null,
+  "content_path": "output/articles/markdown/0e8257a3b454f930.md",
+  "html_path": "output/articles/html/0e8257a3b454f930.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 709,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "02122b64ee93b4149c23595467d9bb6f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1691689356",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-08-10T10:42:36",
+  "updated_at": "2023-08-10T10:42:36"
+}

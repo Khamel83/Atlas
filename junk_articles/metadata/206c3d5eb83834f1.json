@@ -1,0 +1,34 @@
+{
+  "uid": "206c3d5eb83834f1",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/545fc381a2acc5d1a69ec2f298e02a86/",
+  "title": "Car Seats: When to Turn, When to Stop",
+  "status": "converted_from_csv",
+  "date": "2021-04-01T02:15:51",
+  "error": null,
+  "content_path": "output/articles/markdown/206c3d5eb83834f1.md",
+  "html_path": "output/articles/html/206c3d5eb83834f1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2312,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0f1c0a33a052d02dff1a93feda990685",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1617268551",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-04-01T02:15:51",
+  "updated_at": "2021-04-01T02:15:51"
+}

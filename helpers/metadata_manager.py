@@ -116,6 +116,8 @@ class ContentMetadata:
 
     # Type-specific metadata
     type_specific: Dict[str, Any] = field(default_factory=dict)
+    video_id: Optional[str] = None
+    video_id: Optional[str] = None
 
     # Processing timestamps
     created_at: str = field(default_factory=lambda: datetime.now().isoformat())
@@ -205,16 +207,13 @@ class MetadataManager:
             # Reconstruct FetchDetails
             if "fetch_details" in data:
                 fetch_data = data["fetch_details"]
-                attempts = [
-                    FetchAttempt(**attempt)
-                    for attempt in fetch_data.get("attempts", [])
-                ]
+                attempts = [FetchAttempt(**attempt) for attempt in fetch_data.attempts]
                 data["fetch_details"] = FetchDetails(
                     attempts=attempts,
-                    successful_method=fetch_data.get("successful_method"),
-                    is_truncated=fetch_data.get("is_truncated", False),
-                    total_attempts=fetch_data.get("total_attempts", 0),
-                    fetch_time=fetch_data.get("fetch_time"),
+                    successful_method=fetch_data.successful_method,
+                    is_truncated=fetch_data.is_truncated,
+                    total_attempts=fetch_data.total_attempts,
+                    fetch_time=fetch_data.fetch_time,
                 )
 
             return ContentMetadata(**data)

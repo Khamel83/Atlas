@@ -1,0 +1,40 @@
+{
+  "uid": "1bf283057541af49",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://millionmilesecrets.com/2015/01/05/new-way-to-transfer-your-chase-ultimate-rewards-points-between-accounts/",
+  "title": "New Way to Transfer Your Chase Ultimate Rewards Points Between Accounts Million Mile Secrets",
+  "status": "selection_content_extracted",
+  "date": "2015-01-05T18:26:45",
+  "error": null,
+  "content_path": "output/articles/markdown/1bf283057541af49.md",
+  "html_path": "output/articles/html/1bf283057541af49.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4994,
+    "selection_length": 859,
+    "cleaned_selection_length": 905,
+    "domain": "millionmilesecrets.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1bf283057541af49",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1420511205",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Chase Ultimate Rewards points are 1 of the most flexible type of points to use.  That’s because you can transfer them to certain airlines and hotels to get Big Travel for Small Money. And if you have multiple cards that … Continue reading →\n\n        \n\nComments\n\nI made a transfer between accounts on Dec 31st, and I had to ... by Allen\n\nRR, It's just a new system and a way to create a post with ... by Nick H\n\nDaraius, I have 2 freedom and 1 CSP cards and was always able ... by RR\n\nFor those asking about transferring (combining) to a spouse ... by Dr. Bob\n\nIs there any reason to keep points in the freedom account until ... by Katherine\n\nRelated Stories\n\nBlog Giveaway: 20,000 Hyatt Points!\n\nNews You Can Use – $20 Visa Prepaid Card at Staples, 9,000 British Airways Avios Points, and More!\n\n“Grandma…She Once Sent Me 10,000 Chase Ultimate Rewards Points”",
+    "cleaned_selection": "<p>Chase Ultimate Rewards points are 1 of the most flexible type of points to use. That’s because you can transfer them to certain airlines and hotels to get Big Travel for Small Money. And if you have multiple cards that … Continue reading →</p><p>Comments</p><p>I made a transfer between accounts on Dec 31st, and I had to ... by Allen</p><p>RR, It's just a new system and a way to create a post with ... by Nick H</p><p>Daraius, I have 2 freedom and 1 CSP cards and was always able ... by RR</p><p>For those asking about transferring (combining) to a spouse ... by Dr. Bob</p><p>Is there any reason to keep points in the freedom account until ... by Katherine</p><p>Related Stories</p><p>Blog Giveaway: 20,000 Hyatt Points!</p><p>News You Can Use – $20 Visa Prepaid Card at Staples, 9,000 British Airways Avios Points, and More!</p><p>“Grandma…She Once Sent Me 10,000 Chase Ultimate Rewards Points”</p>",
+    "domain": "millionmilesecrets.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.439153",
+  "updated_at": "2025-08-06T08:47:04.439154"
+}

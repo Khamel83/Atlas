@@ -194,7 +194,7 @@ def generate_api_docs():
     """Generate API documentation from FastAPI app."""
     # Import the FastAPI app
     from web.app import app
-    
+
     # Generate OpenAPI schema
     openapi_schema = get_openapi(
         title="Atlas API",
@@ -202,14 +202,14 @@ def generate_api_docs():
         description="Personal Cognitive Amplification Platform API",
         routes=app.routes,
     )
-    
+
     # Save as JSON and YAML
     docs_dir = Path("docs/api")
     docs_dir.mkdir(exist_ok=True)
-    
+
     with open(docs_dir / "openapi.json", "w") as f:
         json.dump(openapi_schema, f, indent=2)
-    
+
     with open(docs_dir / "openapi.yaml", "w") as f:
         yaml.dump(openapi_schema, f, default_flow_style=False)
 
@@ -229,7 +229,7 @@ def generate_api_docs():
 ## Development Session Handoff
 
 **Last Active**: 2025-08-01 23:30 PST
-**Current Phase**: Phase 1 - Infrastructure Stabilization  
+**Current Phase**: Phase 1 - Infrastructure Stabilization
 **Active Task**: Task 1.3 - Implement dependency validation
 **Progress**: 3/8 subtasks completed
 **Next Steps**: Complete dependency validation error messages

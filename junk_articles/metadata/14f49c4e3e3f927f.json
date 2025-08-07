@@ -1,0 +1,34 @@
+{
+  "uid": "14f49c4e3e3f927f",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6a344aa9d532e384bd3bcf1c19ed12c9/",
+  "title": "How Instagram and Twitter buried the hatchet",
+  "status": "converted_from_csv",
+  "date": "2021-11-04T17:04:53",
+  "error": null,
+  "content_path": "output/articles/markdown/14f49c4e3e3f927f.md",
+  "html_path": "output/articles/html/14f49c4e3e3f927f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1846,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "80b79266031a94203f9b96d01c08c6b2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1636070693",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-11-04T17:04:53",
+  "updated_at": "2021-11-04T17:04:53"
+}

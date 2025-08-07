@@ -1,0 +1,34 @@
+{
+  "uid": "659e7b4ca549f816",
+  "content_type": "web_bookmark",
+  "source": "https://www.buzzfeed.com/josephbernstein/heres-how-breitbart-and-milo-smuggled-white-nationalism",
+  "title": "Here's How Breitbart And Milo Smuggled White Nationalism Into The Mainstream",
+  "status": "converted_from_csv",
+  "date": "2017-10-05T15:32:37",
+  "error": null,
+  "content_path": "output/articles/markdown/659e7b4ca549f816.md",
+  "html_path": "output/articles/html/659e7b4ca549f816.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3775,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "80d567fa179505b9f9cddcad1ebd7b7c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1507242757",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-10-05T15:32:37",
+  "updated_at": "2017-10-05T15:32:37"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "fc7c59b13a50f546",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://prospect.org/article/sharia-scare-tennessee",
+  "title": "Sharia Scare in Tennessee",
+  "status": "selection_content_extracted",
+  "date": "2012-07-20T15:26:17",
+  "error": null,
+  "content_path": "output/articles/markdown/fc7c59b13a50f546.md",
+  "html_path": "output/articles/html/fc7c59b13a50f546.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5455,
+    "selection_length": 154,
+    "cleaned_selection_length": 161,
+    "domain": "prospect.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fc7c59b13a50f546",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1342823177",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "RT @RaRapoport: RT @UOJim: Dear powerful people: I'm glad you're fond of Huma Abedin. You know who else needs your help? These folks: http://t.co/Ap5Y47HI",
+    "cleaned_selection": "<p>RT @RaRapoport: RT @UOJim: Dear powerful people: I'm glad you're fond of Huma Abedin. You know who else needs your help? These folks: http://t.co/Ap5Y47HI</p>",
+    "domain": "prospect.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.512874",
+  "updated_at": "2025-08-06T08:47:04.512875"
+}

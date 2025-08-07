@@ -1,0 +1,34 @@
+{
+  "uid": "60d1231c9e9a59cd",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/99d2cecc96a43b159128b907c23a769e/",
+  "title": "The iPhone XR Delay, India, and China; Discriminatory Job Ads on Facebook; EU Versus Internet Follow-Up (Stratechery Daily Update 9-19-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-09-19T03:22:49",
+  "error": null,
+  "content_path": "output/articles/markdown/60d1231c9e9a59cd.md",
+  "html_path": "output/articles/html/60d1231c9e9a59cd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3393,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a5477d16c3db5f46746bbaa52ba4f54e",
+  "type_specific": {
+    "folder": "Stratechery",
+    "instapaper_timestamp": "1537352569",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-09-19T03:22:49",
+  "updated_at": "2018-09-19T03:22:49"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "2db054f03ecc316a",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/502167c7c6965776c0c623bcb6b8c3ff/",
+  "title": "Q&A: Preeclampsia, portion size, conception, and iron",
+  "status": "converted_from_csv",
+  "date": "2023-01-06T06:25:46",
+  "error": null,
+  "content_path": "output/articles/markdown/2db054f03ecc316a.md",
+  "html_path": "output/articles/html/2db054f03ecc316a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1065,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "00a5455f35dd4ed216c41ae0ff03aca1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1673015146",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-01-06T06:25:46",
+  "updated_at": "2023-01-06T06:25:46"
+}

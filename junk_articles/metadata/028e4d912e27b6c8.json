@@ -1,0 +1,34 @@
+{
+  "uid": "028e4d912e27b6c8",
+  "content_type": "web_bookmark",
+  "source": "http://theconversation.com/vast-majority-of-american-workers-like-their-jobs-even-as-a-record-number-quit-them-173564",
+  "title": "Vast majority of American workers like their jobs – even as a record number quit them",
+  "status": "converted_from_csv",
+  "date": "2022-03-30T23:52:02",
+  "error": null,
+  "content_path": "output/articles/markdown/028e4d912e27b6c8.md",
+  "html_path": "output/articles/html/028e4d912e27b6c8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1532,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "16ac2cd5adf222031cd1a750b9d98ec4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1648709522",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-03-30T23:52:02",
+  "updated_at": "2022-03-30T23:52:02"
+}

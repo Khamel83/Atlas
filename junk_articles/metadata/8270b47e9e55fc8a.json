@@ -1,0 +1,34 @@
+{
+  "uid": "8270b47e9e55fc8a",
+  "content_type": "web_bookmark",
+  "source": "http://www.mensjournal.com/sports/articles/live-from-the-new-home-of-the-endearingly-cranky-tony-kornheiser-show-w481162",
+  "title": "Live, From the New Home of the Endearingly Cranky Tony Kornheiser Show",
+  "status": "converted_from_csv",
+  "date": "2017-06-02T15:53:38",
+  "error": null,
+  "content_path": "output/articles/markdown/8270b47e9e55fc8a.md",
+  "html_path": "output/articles/html/8270b47e9e55fc8a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3944,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "681c1586eb61ec0e12805676ae17e0cf",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1496444018",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-06-02T15:53:38",
+  "updated_at": "2017-06-02T15:53:38"
+}

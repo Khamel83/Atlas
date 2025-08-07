@@ -1,0 +1,42 @@
+{
+  "uid": "55b384b26dfb39d6",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1682650333",
+  "title": "Better Tools, Bigger Companies",
+  "status": "success",
+  "date": "2025-08-05T13:35:44.568652",
+  "error": null,
+  "content_path": "output/articles/markdown/55b384b26dfb39d6.md",
+  "html_path": "output/articles/html/55b384b26dfb39d6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "291d8ad9794fc79798fb35f44076fbd0",
+  "type_specific": {
+    "bookmark_id": 1682650333,
+    "instapaper_time": 1716382371,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:35:44.568666",
+  "updated_at": "2025-08-05T13:35:44.568667"
+}

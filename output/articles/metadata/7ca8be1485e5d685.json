@@ -1,0 +1,40 @@
+{
+  "uid": "7ca8be1485e5d685",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://kottke.org/19/06/the-national-park-typeface",
+  "title": "The National Park Typeface kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2019-06-04T10:15:06",
+  "error": null,
+  "content_path": "output/articles/markdown/7ca8be1485e5d685.md",
+  "html_path": "output/articles/html/7ca8be1485e5d685.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3126,
+    "selection_length": 829,
+    "cleaned_selection_length": 856,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7ca8be1485e5d685",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1559668506",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "National Park is a typeface designed “to mimic the National Park Service signs that are carved using a router bit”.\n\nI saw those familiar words. Set “National Park Service, United States Department of the Interior” — style. I wondered if it actually was a typeface or “font” that anyone could download and use? Do park rangers have this as a typeface on their computers to set in their word docs, pdfs and power point slides?\n\nI had a sketchbook with me and took some rubbings of the letterforms and asked my friend Miles Barger, the Visual Information Specialist for Rocky, if he had the typeface. He asked the sign shop. No one has it? Turns out it isn’t a typeface at all but a system of paths, points and curves that a router follows.\n\nThe typeface comes in four weights and is available as a free download.\n\nTags: typography",
+    "cleaned_selection": "<p>National Park is a typeface designed “to mimic the National Park Service signs that are carved using a router bit”.</p><p>I saw those familiar words. Set “National Park Service, United States Department of the Interior” — style. I wondered if it actually was a typeface or “font” that anyone could download and use? Do park rangers have this as a typeface on their computers to set in their word docs, pdfs and power point slides?</p><p>I had a sketchbook with me and took some rubbings of the letterforms and asked my friend Miles Barger, the Visual Information Specialist for Rocky, if he had the typeface. He asked the sign shop. No one has it? Turns out it isn’t a typeface at all but a system of paths, points and curves that a router follows.</p><p>The typeface comes in four weights and is available as a free download.</p><p>Tags: typography</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.752928",
+  "updated_at": "2025-08-06T08:47:03.752930"
+}

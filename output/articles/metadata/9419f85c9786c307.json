@@ -1,0 +1,40 @@
+{
+  "uid": "9419f85c9786c307",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.vox.com/2018/7/25/17607232/trump-white-women",
+  "title": "Trump’s enduring political strength with white women, explained Vox All Posts by Matthew Yglesias",
+  "status": "selection_content_extracted",
+  "date": "2018-07-29T22:25:00",
+  "error": null,
+  "content_path": "output/articles/markdown/9419f85c9786c307.md",
+  "html_path": "output/articles/html/9419f85c9786c307.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3434,
+    "selection_length": 3010,
+    "cleaned_selection_length": 3082,
+    "domain": "vox.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9419f85c9786c307",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1532928300",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "White women voters disapprove of President Donald Trump’s job performance, but nonetheless view him more favorably than other voters — showing that even as a large Trump-era gender gap seems to have opened up, gender remains a less significant marker of political behavior than race and ethnicity or even age.\n\nTracking polling from Civiqs available online makes it easy to examine Trump’s approval rating among demographic subgroups of registered voters and illustrate the point.\n\nTrump famously won a majority of white women’s votes in 2016, but he is currently unpopular with this group.\n\n        Civiqs\n\nIt’s important to note, however, that Trump was unpopular on Election Day. In past American elections, losing candidates (Al Gore, John Kerry, John McCain, Mitt Romney) were viewed favorably by more people than viewed them unfavorably. The 2016 election was a very unusual race in which both candidates’ favorable ratings were underwater. An unpopular opponent plus the Electoral College let Trump win despite being unpopular.\n\nAlthough Trump is unpopular with white women, he remains more popular with white women than with voters overall.\n\nWhite women like Trump more than average\n\nTrump’s 45 percent approval rating among white women isn’t very good, but it’s better than his overall national approval rating with voters of just 42 percent.\n\n        Civiqs\n\nThat said, among whites, there is a large gender gap in evaluations of Trump. While he’s modestly unpopular with white women, he is enormously popular with white men.\n\n        Civiqs\n\nCiviqs find that Hispanic men’s Trump approval rating is 6 points higher than Hispanic women’s, while the gender gap for African Americans is just 2 points.\n\nAmong white women, meanwhile, there are huge divides based on age and education.\n\nYoung women hate Trump\n\nAge has emerged as a significant partisan divide in recent cycles, and this is particularly true for white women.\n\nAmong the youngest cohort of white women, Trump’s approval rating is a pathetic 32 percent, whereas among white female senior citizens it’s a very strong 51 percent.\n\n        Civiqs\n\nThere are, similarly, significant splits by education. Just 44 percent of white women voters with college degrees approve of Trump, while an even smaller 36 percent of white women with graduate degrees approve. By contrast, among working-class white women, views are split evenly.\n\n        Civiqs\n\nDiscussions of politics are often driven by stereotypes and demographic paradigms, and as such, the predominant image of the “Trump supporter” has tended to be a working-class white man.\n\nThis is, indeed, Trump’s very best demographic and in some sense his electoral base. But in a practical sense, it’s Trump’s substantial strength among working-class white women that’s critical to his political success. Especially given Democrats’ self-conception as the party of women’s rights and women’s interests, their failure to do better with this group deserves to be seen as a central political issue.",
+    "cleaned_selection": "<p>White women voters disapprove of President Donald Trump’s job performance, but nonetheless view him more favorably than other voters — showing that even as a large Trump-era gender gap seems to have opened up, gender remains a less significant marker of political behavior than race and ethnicity or even age.</p><p>Tracking polling from Civiqs available online makes it easy to examine Trump’s approval rating among demographic subgroups of registered voters and illustrate the point.</p><p>Trump famously won a majority of white women’s votes in 2016, but he is currently unpopular with this group.</p><p> Civiqs</p><p>It’s important to note, however, that Trump was unpopular on Election Day. In past American elections, losing candidates (Al Gore, John Kerry, John McCain, Mitt Romney) were viewed favorably by more people than viewed them unfavorably. The 2016 election was a very unusual race in which both candidates’ favorable ratings were underwater. An unpopular opponent plus the Electoral College let Trump win despite being unpopular.</p><p>Although Trump is unpopular with white women, he remains more popular with white women than with voters overall.</p><p>White women like Trump more than average</p><p>Trump’s 45 percent approval rating among white women isn’t very good, but it’s better than his overall national approval rating with voters of just 42 percent.</p><p> Civiqs</p><p>That said, among whites, there is a large gender gap in evaluations of Trump. While he’s modestly unpopular with white women, he is enormously popular with white men.</p><p> Civiqs</p><p>Civiqs find that Hispanic men’s Trump approval rating is 6 points higher than Hispanic women’s, while the gender gap for African Americans is just 2 points.</p><p>Among white women, meanwhile, there are huge divides based on age and education.</p><p>Young women hate Trump</p><p>Age has emerged as a significant partisan divide in recent cycles, and this is particularly true for white women.</p><p>Among the youngest cohort of white women, Trump’s approval rating is a pathetic 32 percent, whereas among white female senior citizens it’s a very strong 51 percent.</p><p> Civiqs</p><p>There are, similarly, significant splits by education. Just 44 percent of white women voters with college degrees approve of Trump, while an even smaller 36 percent of white women with graduate degrees approve. By contrast, among working-class white women, views are split evenly.</p><p> Civiqs</p><p>Discussions of politics are often driven by stereotypes and demographic paradigms, and as such, the predominant image of the “Trump supporter” has tended to be a working-class white man.</p><p>This is, indeed, Trump’s very best demographic and in some sense his electoral base. But in a practical sense, it’s Trump’s substantial strength among working-class white women that’s critical to his political success. Especially given Democrats’ self-conception as the party of women’s rights and women’s interests, their failure to do better with this group deserves to be seen as a central political issue.</p>",
+    "domain": "vox.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.854923",
+  "updated_at": "2025-08-06T08:47:03.854928"
+}

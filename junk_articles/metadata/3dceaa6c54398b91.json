@@ -1,0 +1,34 @@
+{
+  "uid": "3dceaa6c54398b91",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2016/12/30/opinion/a-month-without-sugar.html",
+  "title": "A Month Without Sugar",
+  "status": "converted_from_csv",
+  "date": "2017-01-02T19:14:15",
+  "error": null,
+  "content_path": "output/articles/markdown/3dceaa6c54398b91.md",
+  "html_path": "output/articles/html/3dceaa6c54398b91.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4177,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "71b173381488bd38512605cb98c195d7",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1483413255",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-01-02T19:14:15",
+  "updated_at": "2017-01-02T19:14:15"
+}

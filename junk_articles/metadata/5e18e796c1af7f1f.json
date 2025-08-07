@@ -1,0 +1,34 @@
+{
+  "uid": "5e18e796c1af7f1f",
+  "content_type": "web_bookmark",
+  "source": "https://qz.com/1155649/aristotle-said-there-are-three-types-of-friendship-but-only-one-we-should-strive-for/",
+  "title": "Aristotle said there are three types of friendship, but only one we should strive for",
+  "status": "converted_from_csv",
+  "date": "2017-12-15T11:09:21",
+  "error": null,
+  "content_path": "output/articles/markdown/5e18e796c1af7f1f.md",
+  "html_path": "output/articles/html/5e18e796c1af7f1f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3683,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c7a0a54237f8480e280d582859900db2",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1513364961",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-12-15T11:09:21",
+  "updated_at": "2017-12-15T11:09:21"
+}

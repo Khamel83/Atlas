@@ -1,0 +1,34 @@
+{
+  "uid": "5e4d6f95871849b2",
+  "content_type": "web_bookmark",
+  "source": "http://feedproxy.google.com/~r/AtlanticBusinessChannel/~3/l-X09QX_m38/",
+  "title": "The Future of Retail Is Stores That Aren’t Stores",
+  "status": "converted_from_csv",
+  "date": "2017-09-14T16:32:19",
+  "error": null,
+  "content_path": "output/articles/markdown/5e4d6f95871849b2.md",
+  "html_path": "output/articles/html/5e4d6f95871849b2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3818,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a073bd8259faacbe9b960f60f253537f",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1505431939",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-09-14T16:32:19",
+  "updated_at": "2017-09-14T16:32:19"
+}

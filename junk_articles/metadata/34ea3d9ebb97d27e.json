@@ -1,0 +1,34 @@
+{
+  "uid": "34ea3d9ebb97d27e",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2012/11/04/magazine/how-do-you-raise-a-prodigy.html?hp&pagewanted=print&_r=0",
+  "title": "How Do You Raise a Prodigy? - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2012-11-02T11:00:43",
+  "error": null,
+  "content_path": "output/articles/markdown/34ea3d9ebb97d27e.md",
+  "html_path": "output/articles/html/34ea3d9ebb97d27e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5430,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5bb7785bff3eacaa007f3fa743d5cc9c",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1351879243",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-11-02T11:00:43",
+  "updated_at": "2012-11-02T11:00:43"
+}

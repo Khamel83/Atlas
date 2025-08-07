@@ -1,0 +1,36 @@
+{
+  "uid": "f2262a143ff949c4",
+  "content_type": "instapaper_newsletter",
+  "source": "instapaper://private-content/1730773462",
+  "title": "Rox",
+  "status": "success",
+  "date": "2024-11-26T05:53:48",
+  "error": null,
+  "content_path": "output/articles/markdown/f2262a143ff949c4.md",
+  "html_path": "output/articles/html/f2262a143ff949c4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api_private_content",
+  "fetch_details": {
+    "bookmark_id": 1730773462,
+    "extraction_method": "bookmarks_get_text",
+    "content_length": 65866,
+    "successful": true
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1730773462",
+  "type_specific": {
+    "bookmark_id": 1730773462,
+    "instapaper_time": 1732629228,
+    "starred": true,
+    "is_private_content": true,
+    "private_source": "email",
+    "content_length": 65866
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T22:03:18.308890",
+  "updated_at": "2025-08-05T22:03:18.308902"
+}

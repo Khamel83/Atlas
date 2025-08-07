@@ -1,0 +1,40 @@
+{
+  "uid": "fb265de591a19ccc",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://grantland.com/the-triangle/and-the-bucs-shall-rise-again/",
+  "title": "And the Bucs Shall Rise Again Grantland » Contributors » Bill Barnwell",
+  "status": "selection_content_extracted",
+  "date": "2015-08-03T22:37:42",
+  "error": null,
+  "content_path": "output/articles/markdown/fb265de591a19ccc.md",
+  "html_path": "output/articles/html/fb265de591a19ccc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4796,
+    "selection_length": 132,
+    "cleaned_selection_length": 139,
+    "domain": "grantland.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fb265de591a19ccc",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1438666662",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The numbers, the coaching staff, and the sparkling new quarterback don't lie -- Tampa Bay has all the makings of a team on the move.",
+    "cleaned_selection": "<p>The numbers, the coaching staff, and the sparkling new quarterback don't lie -- Tampa Bay has all the makings of a team on the move.</p>",
+    "domain": "grantland.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.393484",
+  "updated_at": "2025-08-06T08:47:04.393485"
+}

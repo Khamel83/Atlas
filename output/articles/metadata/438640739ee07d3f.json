@@ -1,0 +1,42 @@
+{
+  "uid": "438640739ee07d3f",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1760718079",
+  "title": "America This Week Live - March 14, 2025",
+  "status": "success",
+  "date": "2025-08-05T13:28:25.359471",
+  "error": null,
+  "content_path": "output/articles/markdown/438640739ee07d3f.md",
+  "html_path": "output/articles/html/438640739ee07d3f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d25258eadd4d8356b7bc81cf2e725ac4",
+  "type_specific": {
+    "bookmark_id": 1760718079,
+    "instapaper_time": 1742042273,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:28:25.359505",
+  "updated_at": "2025-08-05T13:28:25.359509"
+}

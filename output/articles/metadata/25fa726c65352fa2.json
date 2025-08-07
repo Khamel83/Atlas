@@ -1,0 +1,40 @@
+{
+  "uid": "25fa726c65352fa2",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/the-u-s-census-is-trying-to-get-a-more-accurate-count-of-arab-americans/",
+  "title": "The U.S. Census Is Trying To Get A More Accurate Count Of Arab Americans FiveThirtyEight » Life | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2014-11-24T18:31:28",
+  "error": null,
+  "content_path": "output/articles/markdown/25fa726c65352fa2.md",
+  "html_path": "output/articles/html/25fa726c65352fa2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5039,
+    "selection_length": 330,
+    "cleaned_selection_length": 337,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "25fa726c65352fa2",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1416882688",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "At FiveThirtyEight, we use census data all the time to track demographic and social trends, from the aging of the U.S. population to the decline in marriage and shifting immigration patterns. But the census not only reveals societal changes, it responds to them. This week, we’re taking a look at three changes that the Census […]",
+    "cleaned_selection": "<p>At FiveThirtyEight, we use census data all the time to track demographic and social trends, from the aging of the U.S. population to the decline in marriage and shifting immigration patterns. But the census not only reveals societal changes, it responds to them. This week, we’re taking a look at three changes that the Census […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.453725",
+  "updated_at": "2025-08-06T08:47:04.453728"
+}

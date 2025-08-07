@@ -1,0 +1,34 @@
+{
+  "uid": "d650180b5d9aafb4",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/4f67fddb368effc73d9616db89874691/",
+  "title": "I Can't Stand Fox News, But Censoring It Might Be The Dumbest Idea Ever",
+  "status": "converted_from_csv",
+  "date": "2021-02-23T15:54:51",
+  "error": null,
+  "content_path": "output/articles/markdown/d650180b5d9aafb4.md",
+  "html_path": "output/articles/html/d650180b5d9aafb4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2380,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d946d06604e8ace32dd5cc30d86e853d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1614124491",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-02-23T15:54:51",
+  "updated_at": "2021-02-23T15:54:51"
+}

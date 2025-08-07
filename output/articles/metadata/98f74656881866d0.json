@@ -1,0 +1,40 @@
+{
+  "uid": "98f74656881866d0",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.theverge.com/2019/11/12/20961089/disney-plus-free-year-verizon-unlimited-how-to-get",
+  "title": "How to get a year of free Disney+ from Verizon The Verge",
+  "status": "selection_content_extracted",
+  "date": "2019-11-12T10:59:01",
+  "error": null,
+  "content_path": "output/articles/markdown/98f74656881866d0.md",
+  "html_path": "output/articles/html/98f74656881866d0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2959,
+    "selection_length": 1772,
+    "cleaned_selection_length": 1804,
+    "domain": "theverge.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "98f74656881866d0",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1573585141",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Disney+ promises to be popular among viewers, especially children, Star Wars fans, animation enthusiasts, and Marvel lovers. The streaming service went live today, and while the normal cost is $6.99 per month or $69.99 per year (there are several bundled services also available), a subset of Verizon customers can save quite a bit of money by getting a year of Disney+ for free.\n\nAll you have to do is go to Verizon’s Disney+ page (you can’t get it through the Disney+ site) and sign up. However, as you can imagine, there are some requirements if you want to take advantage of this offer.\n\nFirst, you have to subscribe to one of Verizon’s Unlimited plans, including Go Unlimited, Beyond Unlimited, Above Unlimited, Get More Unlimited, Do More Unlimited, Play More Unlimited, or Start Unlimited. This offer is available for existing Unlimited customers, current Verizon customers who want to switch to Unlimited, and people who are willing to switch from other carriers. There are separate links on the Verizon page for each category.\n\nIf you’re an Unlimited customer and you’ve already signed up for Disney+, you can still get the free 12 months. Basically, the subscription you pre-purchased will be paused, and it will automatically resume after the free year is up. According to Verizon, you will get an email with instructions on how to manage things.\n\nFinally, you can also redeem a free year of Disney+ if you sign up for a new Fios or 5G Home internet plan. Unfortunately, in this case, only new customers are eligible; existing customers are out of luck.\n\nVox Media has affiliate partnerships. These do not influence editorial content, though Vox Media may earn commissions for products purchased via affiliate links. For more information, see our ethics policy.",
+    "cleaned_selection": "<p>Disney+ promises to be popular among viewers, especially children, Star Wars fans, animation enthusiasts, and Marvel lovers. The streaming service went live today, and while the normal cost is $6.99 per month or $69.99 per year (there are several bundled services also available), a subset of Verizon customers can save quite a bit of money by getting a year of Disney+ for free.</p><p>All you have to do is go to Verizon’s Disney+ page (you can’t get it through the Disney+ site) and sign up. However, as you can imagine, there are some requirements if you want to take advantage of this offer.</p><p>First, you have to subscribe to one of Verizon’s Unlimited plans, including Go Unlimited, Beyond Unlimited, Above Unlimited, Get More Unlimited, Do More Unlimited, Play More Unlimited, or Start Unlimited. This offer is available for existing Unlimited customers, current Verizon customers who want to switch to Unlimited, and people who are willing to switch from other carriers. There are separate links on the Verizon page for each category.</p><p>If you’re an Unlimited customer and you’ve already signed up for Disney+, you can still get the free 12 months. Basically, the subscription you pre-purchased will be paused, and it will automatically resume after the free year is up. According to Verizon, you will get an email with instructions on how to manage things.</p><p>Finally, you can also redeem a free year of Disney+ if you sign up for a new Fios or 5G Home internet plan. Unfortunately, in this case, only new customers are eligible; existing customers are out of luck.</p><p>Vox Media has affiliate partnerships. These do not influence editorial content, though Vox Media may earn commissions for products purchased via affiliate links. For more information, see our ethics policy.</p>",
+    "domain": "theverge.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.711171",
+  "updated_at": "2025-08-06T08:47:03.711173"
+}

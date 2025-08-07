@@ -86,8 +86,25 @@ def test_full_ingestion_pipeline(dummy_config):
     with patch("helpers.instapaper_ingestor.sync_playwright") as mock_playwright, patch(
         "helpers.instapaper_ingestor.log_info"
     ), patch("helpers.instapaper_ingestor.log_error"):
-        mock_playwright.return_value.__enter__.return_value.chromium.launch.return_value.is_connected.return_value = (
-            True
+        mock_browser = MagicMock()
+        mock_context = MagicMock()
+        mock_page = MagicMock()
+        mock_playwright.return_value.__enter__.return_value.chromium.launch.return_value = (
+            mock_browser
         )
+        mock_browser.new_context.return_value = mock_context
+        mock_context.new_page.return_value = mock_page
+        mock_page.locator.return_value.count = MagicMock(return_value=0)
+        mock_page.locator.return_value.all.return_value = (
+            []
+        )  # Mock all() to return empty list
+        mock_page.locator.return_value.inner_text.return_value = "Test Article"
+        mock_page.locator.return_value.get_attribute.return_value = (
+            "https://example.com/article"
+        )
+        mock_page.locator.return_value.inner_html.return_value = (
+            "<html><body>Test Content</body></html>"
+        )
+
         instapaper_ingestor.ingest_articles(limit=1)
         # No assertion: just ensure no exceptions and log_error/log_info are called

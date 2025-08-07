@@ -1,0 +1,34 @@
+{
+  "uid": "c2cd78918a014bab",
+  "content_type": "web_bookmark",
+  "source": "http://awealthofcommonsense.com/2016/03/are-european-stocks-cheap-or-is-the-u-s-expensive/",
+  "title": "Are European Stocks Cheap or is the U.S. Expensive?",
+  "status": "converted_from_csv",
+  "date": "2016-03-30T04:38:17",
+  "error": null,
+  "content_path": "output/articles/markdown/c2cd78918a014bab.md",
+  "html_path": "output/articles/html/c2cd78918a014bab.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4516,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "83e1150be8ee67517a56148f7c0421b1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1459337897",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-03-30T04:38:17",
+  "updated_at": "2016-03-30T04:38:17"
+}

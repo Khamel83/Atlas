@@ -1,0 +1,36 @@
+{
+  "uid": "16f991f89f402050",
+  "content_type": "instapaper_newsletter",
+  "source": "instapaper://private-content/1762860509",
+  "title": "YouTube TV, Wiz, and Why Monopolies Buy Innovation",
+  "status": "success",
+  "date": "2025-03-24T08:07:44",
+  "error": null,
+  "content_path": "output/articles/markdown/16f991f89f402050.md",
+  "html_path": "output/articles/html/16f991f89f402050.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api_private_content",
+  "fetch_details": {
+    "bookmark_id": 1762860509,
+    "extraction_method": "bookmarks_get_text",
+    "content_length": 41980,
+    "successful": true
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1762860509",
+  "type_specific": {
+    "bookmark_id": 1762860509,
+    "instapaper_time": 1742828864,
+    "starred": true,
+    "is_private_content": true,
+    "private_source": "email",
+    "content_length": 41980
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T21:58:52.007636",
+  "updated_at": "2025-08-05T21:58:52.007642"
+}

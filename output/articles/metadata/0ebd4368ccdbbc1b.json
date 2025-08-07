@@ -1,0 +1,40 @@
+{
+  "uid": "0ebd4368ccdbbc1b",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://delocatedblog.tumblr.com/post/176022858147/jon-joins-the-first-ever-adult-swim-festival",
+  "title": "“JON” JOINS THE FIRST EVER ADULT SWIM FESTIVAL DE(B)LO(G)CATED",
+  "status": "selection_content_extracted",
+  "date": "2018-07-20T23:23:44",
+  "error": null,
+  "content_path": "output/articles/markdown/0ebd4368ccdbbc1b.md",
+  "html_path": "output/articles/html/0ebd4368ccdbbc1b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3442,
+    "selection_length": 398,
+    "cleaned_selection_length": 405,
+    "domain": "delocatedblog.tumblr.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0ebd4368ccdbbc1b",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1532154224",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "“JON” JOINS THE FIRST EVER ADULT SWIM FESTIVAL\n\n\nLos Angeles Delocated fans!  I’m very excited to join the line-up for the first ever Adult Swim Festival, as “Jon” from Delocated!  October 6-7 in LA.  I’ll be performing Oct 7.  Weekend and single day passes are on sale now at www.AdultSwimFestival.com. You can also buy tickets at the Adult Swim State Park during San Diego Comic-Con with no fees.",
+    "cleaned_selection": "<p>“JON” JOINS THE FIRST EVER ADULT SWIM FESTIVAL</p><p>Los Angeles Delocated fans! I’m very excited to join the line-up for the first ever Adult Swim Festival, as “Jon” from Delocated! October 6-7 in LA. I’ll be performing Oct 7. Weekend and single day passes are on sale now at www.AdultSwimFestival.com. You can also buy tickets at the Adult Swim State Park during San Diego Comic-Con with no fees.</p>",
+    "domain": "delocatedblog.tumblr.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.860400",
+  "updated_at": "2025-08-06T08:47:03.860402"
+}

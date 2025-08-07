@@ -1,0 +1,10 @@
+feedparser
+SQLAlchemy
+requests
+fastapi
+uvicorn
+faster-whisper
+pyyaml
+pydantic
+APScheduler
+jinja2

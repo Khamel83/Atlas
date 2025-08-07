@@ -1,0 +1,34 @@
+{
+  "uid": "e997acdc2a4ea4aa",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/03/13/magazine/mag-13kerenann-t.html?hpw=&pagewanted=print",
+  "title": "The ‘Gangsta Folk’ of Keren Ann - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-03-24T19:00:53",
+  "error": null,
+  "content_path": "output/articles/markdown/e997acdc2a4ea4aa.md",
+  "html_path": "output/articles/html/e997acdc2a4ea4aa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5836,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1a0b3f63fe4ffe8d7091b6ff2da07c7e",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1301018453",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-03-24T19:00:53",
+  "updated_at": "2011-03-24T19:00:53"
+}

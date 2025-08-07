@@ -1,0 +1,34 @@
+{
+  "uid": "9adf83e1811d20d6",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/035ae5941a460b17d73ffcfe0af6e242/",
+  "title": "💥A Haircut Coming?💥",
+  "status": "converted_from_csv",
+  "date": "2024-04-17T05:02:48",
+  "error": null,
+  "content_path": "output/articles/markdown/9adf83e1811d20d6.md",
+  "html_path": "output/articles/html/9adf83e1811d20d6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 313,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6fbcac03e044b5d6d561f4214f733300",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1713355368",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-04-17T05:02:48",
+  "updated_at": "2024-04-17T05:02:48"
+}

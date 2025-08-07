@@ -1,0 +1,34 @@
+{
+  "uid": "ad5d2f457e935bc6",
+  "content_type": "web_bookmark",
+  "source": "http://www.businessinsider.com/inside-groupon-the-truth-about-the-worlds-most-controversial-company-2011-10?op=1",
+  "title": "How Groupon Was Founded",
+  "status": "converted_from_csv",
+  "date": "2012-01-04T21:29:45",
+  "error": null,
+  "content_path": "output/articles/markdown/ad5d2f457e935bc6.md",
+  "html_path": "output/articles/html/ad5d2f457e935bc6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5530,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c98da3da8aef01b2e2f098490b0edf5b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1325741385",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-01-04T21:29:45",
+  "updated_at": "2012-01-04T21:29:45"
+}

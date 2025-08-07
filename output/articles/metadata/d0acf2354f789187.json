@@ -1,0 +1,40 @@
+{
+  "uid": "d0acf2354f789187",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://millionmilesecrets.com/2014/09/30/best-offer-yet-70000-point-875-in-travel-chase-ink-plus/",
+  "title": "Best Offer Yet 70,000 Point (~$875+ in Travel) Chase Ink Plus Million Mile Secrets",
+  "status": "selection_content_extracted",
+  "date": "2014-09-30T18:51:33",
+  "error": null,
+  "content_path": "output/articles/markdown/d0acf2354f789187.md",
+  "html_path": "output/articles/html/d0acf2354f789187.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5113,
+    "selection_length": 848,
+    "cleaned_selection_length": 891,
+    "domain": "millionmilesecrets.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d0acf2354f789187",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1412128293",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Disclosure:  We get a commission for links on the blog.  You don’t have to use our links, but we’re very grateful when you do.  American Express is a Million Mile Secrets advertising partner.  Here’s our Advertiser Disclosure. The highest sign-up bonus … Continue reading →\n\n        \n\nComments\n\nHopefully this last a few months. by Captian Hooks\n\nJust used your link to apply! Thanks for answering all of my ... by Katie\n\nIs it possible to get instant approval without EIN? by Matty\n\n@TD thanks a lot! I really appreciate it. Did you get approved? ... by Justin\n\n@Justin I asked Daraius for a referral but notice your referral ... by TD\n\nRelated Stories\n\nAward Flights to Hawaii Just Got Cheaper for Everyone With Chase Points!\n\nWhat Are Your Favorite Ways to Use Miles and Points?\n\nNew IHG PointBreaks Hotels for Only 5,000 Points ($35) per Night!",
+    "cleaned_selection": "<p>Disclosure: We get a commission for links on the blog. You don’t have to use our links, but we’re very grateful when you do. American Express is a Million Mile Secrets advertising partner. Here’s our Advertiser Disclosure. The highest sign-up bonus … Continue reading →</p><p>Comments</p><p>Hopefully this last a few months. by Captian Hooks</p><p>Just used your link to apply! Thanks for answering all of my ... by Katie</p><p>Is it possible to get instant approval without EIN? by Matty</p><p>@TD thanks a lot! I really appreciate it. Did you get approved? ... by Justin</p><p>@Justin I asked Daraius for a referral but notice your referral ... by TD</p><p>Related Stories</p><p>Award Flights to Hawaii Just Got Cheaper for Everyone With Chase Points!</p><p>What Are Your Favorite Ways to Use Miles and Points?</p><p>New IHG PointBreaks Hotels for Only 5,000 Points ($35) per Night!</p>",
+    "domain": "millionmilesecrets.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.481812",
+  "updated_at": "2025-08-06T08:47:04.481813"
+}

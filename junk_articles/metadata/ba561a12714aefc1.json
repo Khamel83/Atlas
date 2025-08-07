@@ -1,0 +1,34 @@
+{
+  "uid": "ba561a12714aefc1",
+  "content_type": "web_bookmark",
+  "source": "http://www.the-american-interest.com/article-bd.cfm?piece=907",
+  "title": "The Inequality That Matters - Tyler Cowen",
+  "status": "converted_from_csv",
+  "date": "2011-01-05T22:49:23",
+  "error": null,
+  "content_path": "output/articles/markdown/ba561a12714aefc1.md",
+  "html_path": "output/articles/html/ba561a12714aefc1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6015,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6440cc550e1b17d4e7537c0a8fb82b99",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1294296563",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-01-05T22:49:23",
+  "updated_at": "2011-01-05T22:49:23"
+}

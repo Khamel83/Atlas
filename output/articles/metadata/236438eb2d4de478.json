@@ -1,0 +1,40 @@
+{
+  "uid": "236438eb2d4de478",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.amazon.com/gp/customer-media/product-gallery/B000F9JJJE/ref=cm_ciu_pdp_images_1?ie=UTF8&index=1",
+  "title": "Customer Image Gallery for Da Bird Cat Toy - Easy Store - 2 Part Pole",
+  "status": "selection_content_extracted",
+  "date": "2012-07-24T11:41:27",
+  "error": null,
+  "content_path": "output/articles/markdown/236438eb2d4de478.md",
+  "html_path": "output/articles/html/236438eb2d4de478.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5454,
+    "selection_length": 112,
+    "cleaned_selection_length": 119,
+    "domain": "amazon.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "236438eb2d4de478",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1343155287",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "RT @harmancipants: Wow. The customer images on Amazon for this cat toy deserve to go viral. http://t.co/I40amvqG",
+    "cleaned_selection": "<p>RT @harmancipants: Wow. The customer images on Amazon for this cat toy deserve to go viral. http://t.co/I40amvqG</p>",
+    "domain": "amazon.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.512276",
+  "updated_at": "2025-08-06T08:47:04.512277"
+}

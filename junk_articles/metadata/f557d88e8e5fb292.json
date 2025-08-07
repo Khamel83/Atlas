@@ -1,0 +1,34 @@
+{
+  "uid": "f557d88e8e5fb292",
+  "content_type": "web_bookmark",
+  "source": "https://theringer.com/lebron-is-still-painting-his-masterpiece-bdad85037eb0",
+  "title": "LeBron Is Still Painting His Masterpiece",
+  "status": "converted_from_csv",
+  "date": "2016-10-25T14:50:22",
+  "error": null,
+  "content_path": "output/articles/markdown/f557d88e8e5fb292.md",
+  "html_path": "output/articles/html/f557d88e8e5fb292.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4265,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b1842d32e501b2774ca74bc2d64e8c92",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1477432222",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-10-25T14:50:22",
+  "updated_at": "2016-10-25T14:50:22"
+}

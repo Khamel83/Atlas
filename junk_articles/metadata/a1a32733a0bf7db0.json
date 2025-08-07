@@ -1,0 +1,34 @@
+{
+  "uid": "a1a32733a0bf7db0",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/aaa5ab9067be8f926db9b5136ab8d0f3/",
+  "title": "🔥Bankruptcy Battles on the Horizon🔥",
+  "status": "converted_from_csv",
+  "date": "2021-07-28T05:03:28",
+  "error": null,
+  "content_path": "output/articles/markdown/a1a32733a0bf7db0.md",
+  "html_path": "output/articles/html/a1a32733a0bf7db0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2068,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b2a1b6cf673b97d83c5b320186bc0cea",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1627473808",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-07-28T05:03:28",
+  "updated_at": "2021-07-28T05:03:28"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "db937a6f05c1ec60",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1641097/mary-meeker-report-nearly-every-american-is-on-their-phone-or-tablet-while-watching-tv/",
+  "title": "Nearly every American is on their phone or tablet while watching TV Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:43:13.294848",
+  "error": null,
+  "content_path": "output/articles/markdown/db937a6f05c1ec60.md",
+  "html_path": "output/articles/html/db937a6f05c1ec60.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ea490c6aeb0e67b6a86797d0069984fa",
+  "type_specific": {
+    "bookmark_id": 1202745026,
+    "instapaper_time": 1560370032,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:43:13.294863",
+  "updated_at": "2025-08-05T13:43:13.294864"
+}

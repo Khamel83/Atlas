@@ -1,0 +1,32 @@
+{
+  "uid": "82d2641d2149c5c2",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1752204731",
+  "title": "Weekly Dose of Optimism #130",
+  "status": "error",
+  "date": "2025-08-05T12:40:20.034979",
+  "error": "Failed to fetch content for 'Weekly Dose of Optimism #130' from instapaper://private-content/1752204731: No connection adapters were found for 'instapaper://private-content/1752204731'",
+  "content_path": null,
+  "html_path": null,
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": null,
+  "type_specific": {
+    "bookmark_id": 1752204731
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:40:20.034984",
+  "updated_at": "2025-08-05T12:40:20.042603"
+}

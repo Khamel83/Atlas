@@ -1,0 +1,40 @@
+{
+  "uid": "32722938ddad4b58",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+  "title": "If you can’t explain something in simple terms, you don’t understand it kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2017-06-15T10:25:39",
+  "error": null,
+  "content_path": "output/articles/markdown/32722938ddad4b58.md",
+  "html_path": "output/articles/html/32722938ddad4b58.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3925,
+    "selection_length": 2506,
+    "cleaned_selection_length": 2547,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "32722938ddad4b58",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1497547539",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "In the early 1960s, Richard Feynman gave a series of undergraduate lectures that were collected into a book called the Feynman Lectures on Physics. Absent from the book was a lecture Feynman gave on planetary motion, but a later finding of the notes enabled David Goodstein, a colleague of Feynman’s, to write a book about it: Feynman’s Lost Lecture. From an excerpt of the book published in a 1996 issue of Caltech’s Engineering & Science magazine:\n\nFeynman was a truly great teacher. He prided himself on being able to devise ways to explain even the most profound ideas to beginning students. Once, I said to him, “Dick, explain to me, so that I can understand it, why spin one-half particles obey Fermi-Dirac statistics.” Sizing up his audience perfectly, Feynman said, “I’ll prepare a freshman lecture on it.” But he came back a few days later to say, “I couldn’t do it. I couldn’t reduce it to the freshman level. That means we don’t really understand it.”\n\nJohn Gruber writes the simple explanations are the goal at Apple as well:\n\nEngineers are expected to be able to explain a complex technology or product in simple, easily-understood terms not because the executive needs it explained simply to understand it, but as proof that the engineer understands it completely.\n\nFeynman was well known for simple explanations of scientific concepts that result a in deeper understanding of the subject matter: e.g. see Feynman explaining how fire is stored sunshine, rubber bands, how trains go around curves, and magnets. Critically, he’s also not shy about admitting when he doesn’t understand something…or, alternately, when scientists as a group don’t understand something. There’s the spin anecdote above and of his explanation of magnets, he says:\n\nI really can’t do a good job, any job, of explaining magnetic force in terms of something else you’re more familiar with, because I don’t understand it in terms of anything else you’re more familiar with.\n\nFeynman was also quoted as saying:\n\nI think I can safely say that nobody understands quantum mechanics.\n\nPretty interesting thing to hear from a guy who won a Nobel Prize for explaining quantum mechanics better than anyone ever had before. Even when he died in 1988 at the end of a long and fruitful careeer, a note at the top of his blackboard read:\n\nWhat I cannot create, I do not understand.\n\nTags: Apple   books   David Goodstein   Feynman’s Lost Lecture   John Gruber   physics   Richard Feynman   science   The Feynman Lectures on Physics",
+    "cleaned_selection": "<p>In the early 1960s, Richard Feynman gave a series of undergraduate lectures that were collected into a book called the Feynman Lectures on Physics. Absent from the book was a lecture Feynman gave on planetary motion, but a later finding of the notes enabled David Goodstein, a colleague of Feynman’s, to write a book about it: Feynman’s Lost Lecture. From an excerpt of the book published in a 1996 issue of Caltech’s Engineering & Science magazine:</p><p>Feynman was a truly great teacher. He prided himself on being able to devise ways to explain even the most profound ideas to beginning students. Once, I said to him, “Dick, explain to me, so that I can understand it, why spin one-half particles obey Fermi-Dirac statistics.” Sizing up his audience perfectly, Feynman said, “I’ll prepare a freshman lecture on it.” But he came back a few days later to say, “I couldn’t do it. I couldn’t reduce it to the freshman level. That means we don’t really understand it.”</p><p>John Gruber writes the simple explanations are the goal at Apple as well:</p><p>Engineers are expected to be able to explain a complex technology or product in simple, easily-understood terms not because the executive needs it explained simply to understand it, but as proof that the engineer understands it completely.</p><p>Feynman was well known for simple explanations of scientific concepts that result a in deeper understanding of the subject matter: e.g. see Feynman explaining how fire is stored sunshine, rubber bands, how trains go around curves, and magnets. Critically, he’s also not shy about admitting when he doesn’t understand something…or, alternately, when scientists as a group don’t understand something. There’s the spin anecdote above and of his explanation of magnets, he says:</p><p>I really can’t do a good job, any job, of explaining magnetic force in terms of something else you’re more familiar with, because I don’t understand it in terms of anything else you’re more familiar with.</p><p>Feynman was also quoted as saying:</p><p>I think I can safely say that nobody understands quantum mechanics.</p><p>Pretty interesting thing to hear from a guy who won a Nobel Prize for explaining quantum mechanics better than anyone ever had before. Even when he died in 1988 at the end of a long and fruitful careeer, a note at the top of his blackboard read:</p><p>What I cannot create, I do not understand.</p><p>Tags: Apple books David Goodstein Feynman’s Lost Lecture John Gruber physics Richard Feynman science The Feynman Lectures on Physics</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.096971",
+  "updated_at": "2025-08-06T08:47:04.096973"
+}

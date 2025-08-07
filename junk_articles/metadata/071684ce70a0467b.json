@@ -1,0 +1,34 @@
+{
+  "uid": "071684ce70a0467b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/99939d9cbd8b96c5811f6fdd88af856d/",
+  "title": "A Tale of Two Authoritarians",
+  "status": "converted_from_csv",
+  "date": "2022-01-07T13:15:43",
+  "error": null,
+  "content_path": "output/articles/markdown/071684ce70a0467b.md",
+  "html_path": "output/articles/html/071684ce70a0467b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1710,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b992a4d749d888fb5da944f2c347fcd3",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1641590143",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-01-07T13:15:43",
+  "updated_at": "2022-01-07T13:15:43"
+}

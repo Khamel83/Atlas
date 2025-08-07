@@ -1,0 +1,34 @@
+{
+  "uid": "d9bc64f414efe5e3",
+  "content_type": "web_bookmark",
+  "source": "https://www.wired.com/story/how-two-guys-and-an-internet-forum-built-a-kickass-computer/",
+  "title": "How Two Guys and an Internet Forum Built a Kickass Computer | WIRED",
+  "status": "converted_from_csv",
+  "date": "2017-12-05T11:10:59",
+  "error": null,
+  "content_path": "output/articles/markdown/d9bc64f414efe5e3.md",
+  "html_path": "output/articles/html/d9bc64f414efe5e3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3698,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "208b51e3b1f1eddbc0a58475067264e7",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1512501059",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-12-05T11:10:59",
+  "updated_at": "2017-12-05T11:10:59"
+}

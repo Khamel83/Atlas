@@ -1,0 +1,34 @@
+{
+  "uid": "aa6683e8f3211af8",
+  "content_type": "web_bookmark",
+  "source": "http://www.bloombergview.com/articles/2016-05-02/interrogation-methods-and-blockchains",
+  "title": "Interrogation Methods and Blockchains",
+  "status": "converted_from_csv",
+  "date": "2016-05-02T08:01:02",
+  "error": null,
+  "content_path": "output/articles/markdown/aa6683e8f3211af8.md",
+  "html_path": "output/articles/html/aa6683e8f3211af8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4451,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cd87d6d19c304728ba6d1642b48ffe1c",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1462201262",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-05-02T08:01:02",
+  "updated_at": "2016-05-02T08:01:02"
+}

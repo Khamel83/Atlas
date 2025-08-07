@@ -1,0 +1,34 @@
+{
+  "uid": "32a03e772886ead7",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/04/26/science/26planetarium.html?src=dayp&pagewanted=print",
+  "title": "Supercomputers Help Scientists Dig Deeper, See Farther, Share More - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-05-06T22:24:43",
+  "error": null,
+  "content_path": "output/articles/markdown/32a03e772886ead7.md",
+  "html_path": "output/articles/html/32a03e772886ead7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5754,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1d5a10565a8ac09066a1db37979ab49d",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1304745883",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-05-06T22:24:43",
+  "updated_at": "2011-05-06T22:24:43"
+}

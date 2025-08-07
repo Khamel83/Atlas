@@ -1,0 +1,34 @@
+{
+  "uid": "67d4f1faae20703d",
+  "content_type": "web_bookmark",
+  "source": "https://theringer.com/mike-glennon-chicago-bears-nfl-free-agency-624383c09bd6",
+  "title": "Chicago’s Mike Glennon Deal Isn’t As Risky As It Seems",
+  "status": "converted_from_csv",
+  "date": "2017-03-09T15:54:50",
+  "error": null,
+  "content_path": "output/articles/markdown/67d4f1faae20703d.md",
+  "html_path": "output/articles/html/67d4f1faae20703d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4077,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b2742c0bde63af82f2828a66c127d185",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1489103690",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-03-09T15:54:50",
+  "updated_at": "2017-03-09T15:54:50"
+}

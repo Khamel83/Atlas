@@ -1,0 +1,26 @@
+{
+  "uid": "b5a32133343d05de",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1760057168",
+  "title": "💥Chegg-ed Out💥",
+  "status": "success",
+  "date": "2025-08-06T13:15:49.989395",
+  "error": null,
+  "content_path": "output/articles/markdown/b5a32133343d05de.md",
+  "html_path": "output/articles/html/b5a32133343d05de.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1760057168,
+    "content_length": 49855,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1760057168,
+    "instapaper_time": 1741781218,
+    "is_private_content": true,
+    "content_length": 49855
+  },
+  "created_at": "2025-08-06T13:15:49.989399",
+  "updated_at": "2025-08-06T13:15:49.989400"
+}

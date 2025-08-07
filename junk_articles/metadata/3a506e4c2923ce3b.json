@@ -1,0 +1,34 @@
+{
+  "uid": "3a506e4c2923ce3b",
+  "content_type": "web_bookmark",
+  "source": "http://opinionator.blogs.nytimes.com/2013/01/30/the-hidden-prosperity-of-the-poor/?src=rechp&gwh=BB62B4AE99099B8C8FAC8580C038B338",
+  "title": "The Hidden Prosperity of the Poor - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2013-01-31T12:44:43",
+  "error": null,
+  "content_path": "output/articles/markdown/3a506e4c2923ce3b.md",
+  "html_path": "output/articles/html/3a506e4c2923ce3b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5406,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9d49e9316c13c190a9805ce84e29ec71",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1359665083",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2013-01-31T12:44:43",
+  "updated_at": "2013-01-31T12:44:43"
+}

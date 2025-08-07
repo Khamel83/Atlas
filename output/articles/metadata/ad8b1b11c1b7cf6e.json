@@ -1,0 +1,40 @@
+{
+  "uid": "ad8b1b11c1b7cf6e",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://marginalrevolution.com/marginalrevolution/2018/08/worlds-busiest-air-routes-2017.html",
+  "title": "World’s busiest air routes, 2017. Marginal REVOLUTION",
+  "status": "selection_content_extracted",
+  "date": "2018-08-26T22:26:26",
+  "error": null,
+  "content_path": "output/articles/markdown/ad8b1b11c1b7cf6e.md",
+  "html_path": "output/articles/html/ad8b1b11c1b7cf6e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3412,
+    "selection_length": 435,
+    "cleaned_selection_length": 495,
+    "domain": "marginalrevolution.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ad8b1b11c1b7cf6e",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1535347586",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "1. Jeju to Seoul\n\n2. Melbourne to Sydney\n\n3. Mumbai to Delhi\n\n4. Fukuoka to Tokyo\n\n5. Rio de Janeiro to Sao Paulo\n\n6. Sapporo to Tokyo\n\n7. LA to San Francisco\n\n8. Brisbane to Sydney\n\n9. Cape Town to Johannesburg\n\n10. Beijing to Shanghai\n\nHere is the source.  Via Henry Farrell.  It is striking how poorly America and of course Europe fare on this list.\n\nThe post World’s busiest air routes, 2017. appeared first on Marginal REVOLUTION.",
+    "cleaned_selection": "<p>1. Jeju to Seoul</p><p>2. Melbourne to Sydney</p><p>3. Mumbai to Delhi</p><p>4. Fukuoka to Tokyo</p><p>5. Rio de Janeiro to Sao Paulo</p><p>6. Sapporo to Tokyo</p><p>7. LA to San Francisco</p><p>8. Brisbane to Sydney</p><p>9. Cape Town to Johannesburg</p><p>10. Beijing to Shanghai</p><p>Here is the source. Via Henry Farrell. It is striking how poorly America and of course Europe fare on this list.</p><p>The post World’s busiest air routes, 2017. appeared first on Marginal REVOLUTION.</p>",
+    "domain": "marginalrevolution.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.850765",
+  "updated_at": "2025-08-06T08:47:03.850766"
+}

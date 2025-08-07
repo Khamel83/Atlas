@@ -1,0 +1,40 @@
+{
+  "uid": "35a44dfd56f4b61d",
+  "content_type": "instapaper",
+  "source": "https://work.qz.com/1110377/how-to-give-an-effective-presentation/",
+  "title": "You only need to do three things to make a great presentation Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:57:14.063117",
+  "error": null,
+  "content_path": "output/articles/markdown/35a44dfd56f4b61d.md",
+  "html_path": "output/articles/html/35a44dfd56f4b61d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a0afaf441af5d0d6af16b7950d1dcb13",
+  "type_specific": {
+    "bookmark_id": 972409469,
+    "instapaper_time": 1508975153,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:57:14.063148",
+  "updated_at": "2025-08-05T13:57:14.063151"
+}

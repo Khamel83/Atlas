@@ -1,0 +1,34 @@
+{
+  "uid": "f5199e059b4ff742",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2019/08/23/opinion/jay-inslee-climate-change.html",
+  "title": "Opinion | Jay Inslee’s Lonely Campaign for Climate Change Policy",
+  "status": "converted_from_csv",
+  "date": "2019-09-02T20:35:05",
+  "error": null,
+  "content_path": "output/articles/markdown/f5199e059b4ff742.md",
+  "html_path": "output/articles/html/f5199e059b4ff742.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3038,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "37602f497a99d39d2301d59aec57d768",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1567481705",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-09-02T20:35:05",
+  "updated_at": "2019-09-02T20:35:05"
+}

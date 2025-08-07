@@ -1,0 +1,26 @@
+{
+  "uid": "215f4e2bb0d3e4ea",
+  "content_type": "private_newsletter_batch_51_100",
+  "source": "instapaper://private-content/1734791026",
+  "title": "💥Tire-d of Creditor on Creditor Violence💥",
+  "status": "success",
+  "date": "2025-08-06T13:17:14.834131",
+  "error": null,
+  "content_path": "output/articles/markdown/215f4e2bb0d3e4ea.md",
+  "html_path": "output/articles/html/215f4e2bb0d3e4ea.html",
+  "fetch_method": "instapaper_api_batch_51_100_extraction",
+  "fetch_details": {
+    "bookmark_id": 1734791026,
+    "content_length": 19645,
+    "successful": true,
+    "extraction_batch": "batch_51_100"
+  },
+  "type_specific": {
+    "bookmark_id": 1734791026,
+    "instapaper_time": 1733674618,
+    "is_private_content": true,
+    "content_length": 19645
+  },
+  "created_at": "2025-08-06T13:17:14.834134",
+  "updated_at": "2025-08-06T13:17:14.834135"
+}

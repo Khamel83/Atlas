@@ -1,0 +1,34 @@
+{
+  "uid": "0a8f258aa050720a",
+  "content_type": "web_bookmark",
+  "source": "https://www.newyorker.com/magazine/2022/09/05/justice-alitos-crusade-against-a-secular-america-isnt-over",
+  "title": "Justice Alito’s Crusade Against a Secular America Isn’t Over",
+  "status": "converted_from_csv",
+  "date": "2022-08-31T20:54:20",
+  "error": null,
+  "content_path": "output/articles/markdown/0a8f258aa050720a.md",
+  "html_path": "output/articles/html/0a8f258aa050720a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1251,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2bb4a1eb28687cff2b2b13d7c9534d09",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1662004460",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-08-31T20:54:20",
+  "updated_at": "2022-08-31T20:54:20"
+}

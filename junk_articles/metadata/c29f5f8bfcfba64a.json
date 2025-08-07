@@ -1,0 +1,34 @@
+{
+  "uid": "c29f5f8bfcfba64a",
+  "content_type": "web_bookmark",
+  "source": "http://gizmodo.com/5905918/a-billion-details-and-no-precedentan-inside-look-at-the-tsas-scrambling-start",
+  "title": "A Billion Details and No Precedent&mdash;An Inside Look at the TSA's Scrambling Start",
+  "status": "converted_from_csv",
+  "date": "2012-04-27T21:33:28",
+  "error": null,
+  "content_path": "output/articles/markdown/c29f5f8bfcfba64a.md",
+  "html_path": "output/articles/html/c29f5f8bfcfba64a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5483,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1ddb21e5714a80389117724decb31431",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1335587608",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-04-27T21:33:28",
+  "updated_at": "2012-04-27T21:33:28"
+}

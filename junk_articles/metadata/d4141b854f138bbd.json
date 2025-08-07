@@ -1,0 +1,34 @@
+{
+  "uid": "d4141b854f138bbd",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/04/10/magazine/mag-10School-t.html?ref=magazine&pagewanted=print",
+  "title": "The Fragile Success of School Reform in the Bronx - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-04-14T18:42:11",
+  "error": null,
+  "content_path": "output/articles/markdown/d4141b854f138bbd.md",
+  "html_path": "output/articles/html/d4141b854f138bbd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5782,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b9b39727ef99577904769eb2ab294e3c",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1302831731",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-04-14T18:42:11",
+  "updated_at": "2011-04-14T18:42:11"
+}

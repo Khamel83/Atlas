@@ -1,0 +1,34 @@
+{
+  "uid": "84e0b0effc6e35ec",
+  "content_type": "web_bookmark",
+  "source": "http://www.slate.com/articles/news_and_politics/moneybox/2016/06/_welfare_money_often_isn_t_spent_on_welfare.html",
+  "title": "“Welfare” money often isn’t spent on welfare.",
+  "status": "converted_from_csv",
+  "date": "2016-06-02T20:46:07",
+  "error": null,
+  "content_path": "output/articles/markdown/84e0b0effc6e35ec.md",
+  "html_path": "output/articles/html/84e0b0effc6e35ec.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4425,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7bf63f591369c05a4c6e9b474238a5f6",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1464925567",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-06-02T20:46:07",
+  "updated_at": "2016-06-02T20:46:07"
+}

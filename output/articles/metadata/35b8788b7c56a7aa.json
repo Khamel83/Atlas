@@ -1,0 +1,40 @@
+{
+  "uid": "35b8788b7c56a7aa",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/our-47-weirdest-charts-from-2015/",
+  "title": "Our 47 Weirdest Charts From 2015 FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2015-12-31T13:44:27",
+  "error": null,
+  "content_path": "output/articles/markdown/35b8788b7c56a7aa.md",
+  "html_path": "output/articles/html/35b8788b7c56a7aa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4653,
+    "selection_length": 268,
+    "cleaned_selection_length": 275,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "35b8788b7c56a7aa",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1451598267",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "We made more than 1,500 charts in 2015 at FiveThirtyEight. Many were bar charts, line charts and scatterplots — but not all. Here are some of the more unusual graphics we published. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. […]",
+    "cleaned_selection": "<p>We made more than 1,500 charts in 2015 at FiveThirtyEight. Many were bar charts, line charts and scatterplots — but not all. Here are some of the more unusual graphics we published. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.356870",
+  "updated_at": "2025-08-06T08:47:04.356872"
+}

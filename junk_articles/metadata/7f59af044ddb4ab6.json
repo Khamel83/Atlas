@@ -1,0 +1,34 @@
+{
+  "uid": "7f59af044ddb4ab6",
+  "content_type": "web_bookmark",
+  "source": "http://www.someecards.com/2011/02/08/i-do-anything-desperate-resume-on-craigslist-creative-services-atlanta",
+  "title": "I Do Anything Desperate Resume On Craigslist Creative Services Atlanta | someecards.com",
+  "status": "converted_from_csv",
+  "date": "2011-02-16T07:19:49",
+  "error": null,
+  "content_path": "output/articles/markdown/7f59af044ddb4ab6.md",
+  "html_path": "output/articles/html/7f59af044ddb4ab6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5902,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f9a43be98c02e8babaf67ea106b14d92",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1297869589",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-02-16T07:19:49",
+  "updated_at": "2011-02-16T07:19:49"
+}

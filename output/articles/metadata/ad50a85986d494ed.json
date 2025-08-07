@@ -1,0 +1,40 @@
+{
+  "uid": "ad50a85986d494ed",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://grantland.com/the-triangle/the-mailbag-reunion-tour-continues/",
+  "title": "The Mailbag Reunion Tour Continues Grantland » Contributors » Bill Simmons",
+  "status": "selection_content_extracted",
+  "date": "2015-04-24T12:18:41",
+  "error": null,
+  "content_path": "output/articles/markdown/ad50a85986d494ed.md",
+  "html_path": "output/articles/html/ad50a85986d494ed.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4869,
+    "selection_length": 123,
+    "cleaned_selection_length": 130,
+    "domain": "grantland.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ad50a85986d494ed",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1429903121",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Before going through his inbox, Bill Simmons has some awards to hand out in what has already been a memorable NBA playoffs.",
+    "cleaned_selection": "<p>Before going through his inbox, Bill Simmons has some awards to hand out in what has already been a memorable NBA playoffs.</p>",
+    "domain": "grantland.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.415637",
+  "updated_at": "2025-08-06T08:47:04.415638"
+}

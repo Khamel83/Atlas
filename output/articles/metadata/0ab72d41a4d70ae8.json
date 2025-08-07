@@ -1,0 +1,40 @@
+{
+  "uid": "0ab72d41a4d70ae8",
+  "content_type": "instapaper",
+  "source": "https://millionmilesecrets.com/guides/emirates-skywards-miles/",
+  "title": "Guide to Emirates Skywards — now with drastically reduced fuel surcharges Million Mile Secrets",
+  "status": "success",
+  "date": "2025-08-05T13:41:08.570510",
+  "error": null,
+  "content_path": "output/articles/markdown/0ab72d41a4d70ae8.md",
+  "html_path": "output/articles/html/0ab72d41a4d70ae8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "70c1ec3e531fd4c6ea96a1e8dcb33a01",
+  "type_specific": {
+    "bookmark_id": 1311323760,
+    "instapaper_time": 1591164580,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:41:08.570538",
+  "updated_at": "2025-08-05T13:41:08.570540"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "bd33752d5b72673e",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/d6eb84b237e362cff130f9de585fd818/",
+  "title": "Unpleasant Announcement",
+  "status": "converted_from_csv",
+  "date": "2023-08-02T08:40:50",
+  "error": null,
+  "content_path": "output/articles/markdown/bd33752d5b72673e.md",
+  "html_path": "output/articles/html/bd33752d5b72673e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 729,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "02958af25e6d73c1fab7efcd7c822aff",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1690990850",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-08-02T08:40:50",
+  "updated_at": "2023-08-02T08:40:50"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "56a8c2cd8df3d2da",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2017/09/26/travel/muslim-road-trip-america.html",
+  "title": "A Muslim American’s Homecoming: Cowboys, Country Music, Chapatis - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2017-09-26T13:14:15",
+  "error": null,
+  "content_path": "output/articles/markdown/56a8c2cd8df3d2da.md",
+  "html_path": "output/articles/html/56a8c2cd8df3d2da.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3787,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "62e62c6c84f13d395f86f8925fb21d0e",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1506456855",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-09-26T13:14:15",
+  "updated_at": "2017-09-26T13:14:15"
+}

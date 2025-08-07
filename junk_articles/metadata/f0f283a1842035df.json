@@ -1,0 +1,34 @@
+{
+  "uid": "f0f283a1842035df",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/670f03d22fea78f6f571497227c469e1/",
+  "title": "TikTok's data dilemma",
+  "status": "converted_from_csv",
+  "date": "2022-07-06T17:16:17",
+  "error": null,
+  "content_path": "output/articles/markdown/f0f283a1842035df.md",
+  "html_path": "output/articles/html/f0f283a1842035df.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1358,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "14bded821b05dd66501408d10748a03b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1657152977",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-07-06T17:16:17",
+  "updated_at": "2022-07-06T17:16:17"
+}

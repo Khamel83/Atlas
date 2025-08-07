@@ -1,0 +1,34 @@
+{
+  "uid": "4c0ed03a04836703",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/4a0caabb1dd5ad2e9a52a17fb39adf98/",
+  "title": "Why are maps so hard to make?",
+  "status": "converted_from_csv",
+  "date": "2022-06-01T10:03:37",
+  "error": null,
+  "content_path": "output/articles/markdown/4c0ed03a04836703.md",
+  "html_path": "output/articles/html/4c0ed03a04836703.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1411,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "882dc52f2f00841ef149b87593ab1d39",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1654103017",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-06-01T10:03:37",
+  "updated_at": "2022-06-01T10:03:37"
+}

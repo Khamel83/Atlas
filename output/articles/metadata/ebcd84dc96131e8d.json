@@ -1,0 +1,26 @@
+{
+  "uid": "ebcd84dc96131e8d",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1716215617",
+  "title": "Matt Taibbi posted a new note",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.931647",
+  "error": null,
+  "content_path": "output/articles/markdown/ebcd84dc96131e8d.md",
+  "html_path": "output/articles/html/ebcd84dc96131e8d.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1716215617,
+    "content_length": 9604,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1716215617,
+    "instapaper_time": 1728564321,
+    "is_private_content": true,
+    "content_length": 9604
+  },
+  "created_at": "2025-08-06T13:18:33.931654",
+  "updated_at": "2025-08-06T13:18:33.931655"
+}

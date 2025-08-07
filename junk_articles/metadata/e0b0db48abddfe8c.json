@@ -1,0 +1,34 @@
+{
+  "uid": "e0b0db48abddfe8c",
+  "content_type": "web_bookmark",
+  "source": "http://www.esquire.com/news-politics/news/a42288/is-ted-cruz-the-zodiac-killer/",
+  "title": "Is Ted Cruz the Zodiac Killer? A Conversation with Very Sane Conspiracy Theorists",
+  "status": "converted_from_csv",
+  "date": "2016-02-20T16:24:37",
+  "error": null,
+  "content_path": "output/articles/markdown/e0b0db48abddfe8c.md",
+  "html_path": "output/articles/html/e0b0db48abddfe8c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4562,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7d9023f4ae16ef96af14524e942dd76c",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1456014277",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-02-20T16:24:37",
+  "updated_at": "2016-02-20T16:24:37"
+}

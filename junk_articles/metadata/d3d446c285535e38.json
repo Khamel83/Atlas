@@ -1,0 +1,34 @@
+{
+  "uid": "d3d446c285535e38",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/01/09/weekinreview/09rosen.html?hpw=&pagewanted=print",
+  "title": "What an Originalist United States Might Look LIe - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-01-16T20:48:20",
+  "error": null,
+  "content_path": "output/articles/markdown/d3d446c285535e38.md",
+  "html_path": "output/articles/html/d3d446c285535e38.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5982,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c7303affcde9276931b3c9dd41121d59",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1295239700",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-01-16T20:48:20",
+  "updated_at": "2011-01-16T20:48:20"
+}

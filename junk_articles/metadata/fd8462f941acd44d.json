@@ -1,0 +1,34 @@
+{
+  "uid": "fd8462f941acd44d",
+  "content_type": "web_bookmark",
+  "source": "http://thisisindexed.com/2017/01/save-bail-money-now/",
+  "title": "Save up your bail money now. Indexed",
+  "status": "converted_from_csv",
+  "date": "2017-01-26T16:08:30",
+  "error": null,
+  "content_path": "output/articles/markdown/fd8462f941acd44d.md",
+  "html_path": "output/articles/html/fd8462f941acd44d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4138,
+    "selection": "Share and Enjoy:\nThe post Save up your bail money now. appeared first on Indexed."
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "194091d96a8ae1974c37c192076d1e09",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1485475710",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Share and Enjoy:\nThe post Save up your bail money now. appeared first on Indexed."
+  },
+  "video_id": null,
+  "created_at": "2017-01-26T16:08:30",
+  "updated_at": "2017-01-26T16:08:30"
+}

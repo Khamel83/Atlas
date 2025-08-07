@@ -1,0 +1,40 @@
+{
+  "uid": "636d6be9a212634c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/999283/j-crew-president-mickey-drexler-steps-down-and-will-be-replaced-by-james-brett/",
+  "title": "The other shoe has dropped at J.Crew Quartz",
+  "status": "selection_content_extracted",
+  "date": "2017-06-05T18:44:12",
+  "error": null,
+  "content_path": "output/articles/markdown/636d6be9a212634c.md",
+  "html_path": "output/articles/html/636d6be9a212634c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3938,
+    "selection_length": 2492,
+    "cleaned_selection_length": 2539,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "636d6be9a212634c",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1496713452",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "First, it was Jenna Lyons. In April, J.Crew parted ways with the creative director, who, more than anyone, was responsible for creating the look that defined the brand for over a decade.\n\nNow, Mickey Drexler will step down from his position as CEO, a role he’s held since 2003. He will remain on as chairman, and James Brett, the current president of home-furnishings company West Elm, will take over as chief executive in mid-July.\n\nDrexler and Lyons were a formidable duo, tripling J.Crew’s sales from 2003 to 2013. Together they made J.Crew one of America’s most beloved brands, and earned fans including former first lady Michelle Obama.\n\nThen the magic faded. Sales at stores open for at least a year have been falling for more than two years now. Drexler, speaking to the Wall Street Journal just last month (paywall), said the company had become too “elitist,” giving shoppers the sense that it was a higher-priced brand than it really was. Lyons’s fashion-forward prep had ultimately become too eccentric and expensive for J.Crew’s once-loyal customers. Drexler, for his part, didn’t anticipate how quickly fashion would move in the digital era, and how much price competition there would be from fast fashion.\n\nIn an interview with WWD (paywall), Drexler said it was his decision to step down, and he had been preparing for months. “I am a young, old guy. I have shpilkes,” he said. “I am always in a state of impatience. I have been here for 14 years. I thought it was time to move on and lessen up on the day-to-day. The [succession] plan had been in motion for some time. I told the board a year ago I was ready to step down and move to chairman.”\n\nBrett, Drexler’s successor, was once an executive at Urban Outfitters and Anthropologie, but he’s best known for working a successful turnaround at West Elm, where he sought to bring “personality and soul” back into the design since he became president of the company in 2010. Under his guidance, West Elm’s annual sales increased from around $250 million to about $1 billion, according to financial sources cited by WWD.\n\nDrexler’s 14-year run as J.Crew’s top executive followed his previous job as the CEO at Gap, where he helped revitalize the brand in the 1990s and earned the nickname “merchant prince.” He was and will continue to be widely admired and respected in the retail business.\n\nBrett, meanwhile, will have his work cut out for him once he inherits the many and daunting challenges now faced by J.Crew.\n\nMost Popular",
+    "cleaned_selection": "<p>First, it was Jenna Lyons. In April, J.Crew parted ways with the creative director, who, more than anyone, was responsible for creating the look that defined the brand for over a decade.</p><p>Now, Mickey Drexler will step down from his position as CEO, a role he’s held since 2003. He will remain on as chairman, and James Brett, the current president of home-furnishings company West Elm, will take over as chief executive in mid-July.</p><p>Drexler and Lyons were a formidable duo, tripling J.Crew’s sales from 2003 to 2013. Together they made J.Crew one of America’s most beloved brands, and earned fans including former first lady Michelle Obama.</p><p>Then the magic faded. Sales at stores open for at least a year have been falling for more than two years now. Drexler, speaking to the Wall Street Journal just last month (paywall), said the company had become too “elitist,” giving shoppers the sense that it was a higher-priced brand than it really was. Lyons’s fashion-forward prep had ultimately become too eccentric and expensive for J.Crew’s once-loyal customers. Drexler, for his part, didn’t anticipate how quickly fashion would move in the digital era, and how much price competition there would be from fast fashion.</p><p>In an interview with WWD (paywall), Drexler said it was his decision to step down, and he had been preparing for months. “I am a young, old guy. I have shpilkes,” he said. “I am always in a state of impatience. I have been here for 14 years. I thought it was time to move on and lessen up on the day-to-day. The [succession] plan had been in motion for some time. I told the board a year ago I was ready to step down and move to chairman.”</p><p>Brett, Drexler’s successor, was once an executive at Urban Outfitters and Anthropologie, but he’s best known for working a successful turnaround at West Elm, where he sought to bring “personality and soul” back into the design since he became president of the company in 2010. Under his guidance, West Elm’s annual sales increased from around $250 million to about $1 billion, according to financial sources cited by WWD.</p><p>Drexler’s 14-year run as J.Crew’s top executive followed his previous job as the CEO at Gap, where he helped revitalize the brand in the 1990s and earned the nickname “merchant prince.” He was and will continue to be widely admired and respected in the retail business.</p><p>Brett, meanwhile, will have his work cut out for him once he inherits the many and daunting challenges now faced by J.Crew.</p><p>Most Popular</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.101970",
+  "updated_at": "2025-08-06T08:47:04.101973"
+}

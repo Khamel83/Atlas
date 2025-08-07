@@ -1,0 +1,40 @@
+{
+  "uid": "26ad0ca3c8656801",
+  "content_type": "instapaper",
+  "source": "https://millionmilesecrets.com/2017/09/27/this-is-a-big-deal-fly-to-hawaii-with-points-you-probably-already-have/",
+  "title": "This Is a Big Deal! Fly to Hawaii With Points You (Probably) Already Have Million Mile Secrets",
+  "status": "success",
+  "date": "2025-08-05T13:58:13.878131",
+  "error": null,
+  "content_path": "output/articles/markdown/26ad0ca3c8656801.md",
+  "html_path": "output/articles/html/26ad0ca3c8656801.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "56e95f3812f6d1990a4f3498c1763b2f",
+  "type_specific": {
+    "bookmark_id": 961456945,
+    "instapaper_time": 1506701361,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:58:13.878150",
+  "updated_at": "2025-08-05T13:58:13.878151"
+}

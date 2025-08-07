@@ -1,0 +1,40 @@
+{
+  "uid": "54daf3da06486c36",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/1164453/kenny-irwin-and-robolights-his-backyard-in-palm-springs-is-a-theme-park/",
+  "title": "This artist turned his home into a giant robot fantasyland Quartz",
+  "status": "selection_content_extracted",
+  "date": "2017-12-23T19:52:22",
+  "error": null,
+  "content_path": "output/articles/markdown/54daf3da06486c36.md",
+  "html_path": "output/articles/html/54daf3da06486c36.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3679,
+    "selection_length": 2626,
+    "cleaned_selection_length": 2702,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "54daf3da06486c36",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1514087542",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Kenny Irwin has turned his dreams, and his nightmares, into a California reality.\n\nThe 43-year old Palm Springs artist runs Robolights, a two-acre, colossally quirky homage to giant robots, aliens and dinosaurs.\n\n“We live in a very colorful world. And I like things to be colorful,” he says. “And I like to express myself in a colorful way.”\n\nWhile some might call it a homemade theme park, others consider it a junkyard. Either way, walking along the meandering concrete trails here is an experience unlike any other.\n\nKenny, who converted to Islam about 15 years ago (as a Muslim, he says he doesn’t celebrate Christmas), shows me around the grounds wearing sandals, a light-brown shalwar kameez and sporting a scraggly beard that nearly goes down to his bellybutton.\n\nHe shows me a recent sculpture, a tower of bolted together detritus, that looks both like a robot and the set design from a Mad Max film: “Here I’ve got a hedge trimmer, weed-wacker, vacuum cleaner, power tools that went bad. Just about everything but the kitchen sink. But, well, yeah, there’s a kitchen sink right there.” Sure enough, there’s a kitchen sink, affixed to the robot like a distended chest plate.\n\nSeveral of the giant figures are over 20 feet high. Some are mechanized and spin wildly, while others are festooned with colorful blinking lights.  Everything is made of materials, mostly plastic and metal, that others have thrown away.\n\n“I’m basically like a one-man recycling center,” he says.\n\nIrwin started Robolights when he was 12. He asked his father, a local hotelier, if he could put some lights up in the yard. His father said yes, and young Kenny, who was already making sculptures and paintings that filled every nook of the house, transformed the entire backyard from something that looked like a David Hockney painting that morphed into a work by Salvador Dali.\n\nOver the past three decades, Irwin has built Robolights into an international destination. More than 40,000 people visited last year during the six weeks he keeps the installation open to the public. There is no admission fee, although he does accept donations.\n\nHis father died in 2016, and Kenny has committed himself to keeping Robolights going. He says it was his father’s wish that the installation remain a part of the neighborhood’s holiday ethos.\n\n“He loved it,” says Kenny. “He used to say, ‘Instead of cursing the darkness, light it up one light at a time.'”\n\nThe installation is both impressive and beautiful, but one question lingers over the whole enterprise: why?\n\n“Well, basically, when people say, ‘Why?’ Well, I say, ‘Well, why not?'”\n\nMost Popular",
+    "cleaned_selection": "<p>Kenny Irwin has turned his dreams, and his nightmares, into a California reality.</p><p>The 43-year old Palm Springs artist runs Robolights, a two-acre, colossally quirky homage to giant robots, aliens and dinosaurs.</p><p>“We live in a very colorful world. And I like things to be colorful,” he says. “And I like to express myself in a colorful way.”</p><p>While some might call it a homemade theme park, others consider it a junkyard. Either way, walking along the meandering concrete trails here is an experience unlike any other.</p><p>Kenny, who converted to Islam about 15 years ago (as a Muslim, he says he doesn’t celebrate Christmas), shows me around the grounds wearing sandals, a light-brown shalwar kameez and sporting a scraggly beard that nearly goes down to his bellybutton.</p><p>He shows me a recent sculpture, a tower of bolted together detritus, that looks both like a robot and the set design from a Mad Max film: “Here I’ve got a hedge trimmer, weed-wacker, vacuum cleaner, power tools that went bad. Just about everything but the kitchen sink. But, well, yeah, there’s a kitchen sink right there.” Sure enough, there’s a kitchen sink, affixed to the robot like a distended chest plate.</p><p>Several of the giant figures are over 20 feet high. Some are mechanized and spin wildly, while others are festooned with colorful blinking lights. Everything is made of materials, mostly plastic and metal, that others have thrown away.</p><p>“I’m basically like a one-man recycling center,” he says.</p><p>Irwin started Robolights when he was 12. He asked his father, a local hotelier, if he could put some lights up in the yard. His father said yes, and young Kenny, who was already making sculptures and paintings that filled every nook of the house, transformed the entire backyard from something that looked like a David Hockney painting that morphed into a work by Salvador Dali.</p><p>Over the past three decades, Irwin has built Robolights into an international destination. More than 40,000 people visited last year during the six weeks he keeps the installation open to the public. There is no admission fee, although he does accept donations.</p><p>His father died in 2016, and Kenny has committed himself to keeping Robolights going. He says it was his father’s wish that the installation remain a part of the neighborhood’s holiday ethos.</p><p>“He loved it,” says Kenny. “He used to say, ‘Instead of cursing the darkness, light it up one light at a time.'”</p><p>The installation is both impressive and beautiful, but one question lingers over the whole enterprise: why?</p><p>“Well, basically, when people say, ‘Why?’ Well, I say, ‘Well, why not?'”</p><p>Most Popular</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.947062",
+  "updated_at": "2025-08-06T08:47:03.947064"
+}

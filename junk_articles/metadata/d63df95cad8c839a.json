@@ -1,0 +1,34 @@
+{
+  "uid": "d63df95cad8c839a",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/acae7e3a56d0cf66183803eb716cc692/",
+  "title": "Q&A: Deodorant, menstruation, preconception, and waking up newborns",
+  "status": "converted_from_csv",
+  "date": "2023-02-10T06:35:18",
+  "error": null,
+  "content_path": "output/articles/markdown/d63df95cad8c839a.md",
+  "html_path": "output/articles/html/d63df95cad8c839a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1013,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6a5e8d11a05ac5d0266a3a18c276cb5c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1676039718",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-02-10T06:35:18",
+  "updated_at": "2023-02-10T06:35:18"
+}

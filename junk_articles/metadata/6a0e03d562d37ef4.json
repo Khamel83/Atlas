@@ -1,0 +1,34 @@
+{
+  "uid": "6a0e03d562d37ef4",
+  "content_type": "web_bookmark",
+  "source": "http://www.entrepreneur.com/article/printthis/206722.html",
+  "title": "<em>Entrepreneur's</em> Annual 100 Brilliant Ideas - printable",
+  "status": "converted_from_csv",
+  "date": "2010-05-27T13:06:33",
+  "error": null,
+  "content_path": "output/articles/markdown/6a0e03d562d37ef4.md",
+  "html_path": "output/articles/html/6a0e03d562d37ef4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6214,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "92ca2ca5bf14d0fdabaeac099496fada",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1274990793",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-05-27T13:06:33",
+  "updated_at": "2010-05-27T13:06:33"
+}

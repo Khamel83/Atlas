@@ -1,0 +1,37 @@
+# Cheap Flights! Belize $196 to $257, Costa Rica $232 Million Mile Secrets
+
+**Source:** http://millionmilesecrets.com/2015/08/04/cheap-flights-belize-196-to-257-costa-rica-232/  
+**Domain:** millionmilesecrets.com  
+**Folder:** Feedly  
+**Added:** 2015-08-04T20:13:39  
+**Content Type:** Selection Content Extracted  
+**Selection Length:** 467 characters  
+
+
+---
+
+## Selected Content
+
+If you missed out on yesterday’s Costa Rica deals, here’s another chance for a cheap getaway! Via The Flight Deal, you can fly on Delta from as low as ~$196 round-trip in coach to Belize and Costa Rica. Several US … Continue reading →
+
+Related Stories
+
+Won’t Last! ~$149 East Coast Cities to Los Angeles, Phoenix Round-Trip (And Vice Versa)!
+
+Frontier Airlines 1-Way Flights for $39 (Book by Tomorrow!)
+
+Frontier Airlines $49 Sale PLUS Save 15% (Today Only!)
+
+---
+
+*This content was extracted from your Instapaper Selection field.*
+
+       
+
+Related Stories
+
+Won’t Last! ~$149 East Coast Cities to Los Angeles, Phoenix Round-Trip (And Vice Versa)!
+
+Frontier Airlines 1-Way Flights for $39 (Book by Tomorrow!)
+
+Frontier Airlines $49 Sale PLUS Save 15% (Today Only!)

@@ -1,0 +1,34 @@
+{
+  "uid": "03d84f8aaeb9c053",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/4477f4b10565715a50068ba9e1afb4c1/",
+  "title": "Google gets organized",
+  "status": "converted_from_csv",
+  "date": "2021-01-04T17:03:42",
+  "error": null,
+  "content_path": "output/articles/markdown/03d84f8aaeb9c053.md",
+  "html_path": "output/articles/html/03d84f8aaeb9c053.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2518,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "95bb6833c4c3c26ce8a2c32f822d4d84",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1609808622",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-01-04T17:03:42",
+  "updated_at": "2021-01-04T17:03:42"
+}

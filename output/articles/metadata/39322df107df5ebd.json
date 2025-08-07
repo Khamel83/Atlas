@@ -1,0 +1,42 @@
+{
+  "uid": "39322df107df5ebd",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1742519871",
+  "title": "Goodbye to 2024, America's Craziest Year",
+  "status": "success",
+  "date": "2025-08-05T13:30:22.873588",
+  "error": null,
+  "content_path": "output/articles/markdown/39322df107df5ebd.md",
+  "html_path": "output/articles/html/39322df107df5ebd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e1c37224eb744c139b38a0e077f1c71b",
+  "type_specific": {
+    "bookmark_id": 1742519871,
+    "instapaper_time": 1735678197,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:30:22.874582",
+  "updated_at": "2025-08-05T13:30:22.874586"
+}

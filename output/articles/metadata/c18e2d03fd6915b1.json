@@ -1,0 +1,40 @@
+{
+  "uid": "c18e2d03fd6915b1",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://quartzy.qz.com/1309509/we-analyzed-750-pairs-of-jeans-and-found-definitive-skinny-bias-by-us-retailers/",
+  "title": "We analyzed 750 pairs of jeans and found definitive skinny bias by US retailers Quartz",
+  "status": "selection_content_extracted",
+  "date": "2018-06-23T14:45:53",
+  "error": null,
+  "content_path": "output/articles/markdown/c18e2d03fd6915b1.md",
+  "html_path": "output/articles/html/c18e2d03fd6915b1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3468,
+    "selection_length": 2266,
+    "cleaned_selection_length": 2303,
+    "domain": "quartzy.qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c18e2d03fd6915b1",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1529790353",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "It sounds like hyperbole, but it isn’t: Half of American women struggle to find jeans that fit at the mall. More specifically, only 13% of women’s jeans in brick and mortar stores are available for women of average size or larger.\n\nThe number comes from a Quartz analysis of women’s denim offerings in the Mall of America that bluntly illustrates the reality faced by millions of women in the fitting room. We looked at every store selling women’s apparel in one of America’s largest malls and compared the jean waist sizes on offer to the typical American woman’s waist size. We excluded department stores.\n\nThe median waist size for American women aged 20 years and older is 37.3 inches (94.8 cm), while the average is 38 inches. Most popular retailers don’t produce jeans at either size. It’s 8 inches larger than the median waist size of jeans available at the Mall of America—30 inches. It is only one inch smaller than the median of the largest sizes carried by these brands.\n\nData are based on sizing charts found on each retailer’s website. When sizes were indicated by a range, we used the average. H&M was excluded because it is currently in the process of changing its sizing.\n\nWhile every retailer that sells womens’ denim offers sizes for customers with a waist smaller than the average, only half provide at least one option for women with a larger waist. The stores with larger sizes often further relegate them to website-only collections.\n\nRetailers use a series of euphemisms to tell shoppers larger than their offerings not to bother coming to the mall. “Only at oldnavy.com,” “in stock online,” and perhaps the most devious “online exclusive!” are all different ways of telling customers, “don’t come to our store, we don’t serve your size.”\n\nBlue jeans may be a universal icon of US culture; however, this wearable symbol of capitalism, freedom, and James Dean is only easily accessible to half of American women despite the business opportunity. Fashion designer Christian Siriano recently said he tripled his business by adding more inclusive sizing. But faced with limited options for denim, (and of course changing preferences) women have turned to other products. For the first time ever the US has imported more yoga pants than blue jeans.",
+    "cleaned_selection": "<p>It sounds like hyperbole, but it isn’t: Half of American women struggle to find jeans that fit at the mall. More specifically, only 13% of women’s jeans in brick and mortar stores are available for women of average size or larger.</p><p>The number comes from a Quartz analysis of women’s denim offerings in the Mall of America that bluntly illustrates the reality faced by millions of women in the fitting room. We looked at every store selling women’s apparel in one of America’s largest malls and compared the jean waist sizes on offer to the typical American woman’s waist size. We excluded department stores.</p><p>The median waist size for American women aged 20 years and older is 37.3 inches (94.8 cm), while the average is 38 inches. Most popular retailers don’t produce jeans at either size. It’s 8 inches larger than the median waist size of jeans available at the Mall of America—30 inches. It is only one inch smaller than the median of the largest sizes carried by these brands.</p><p>Data are based on sizing charts found on each retailer’s website. When sizes were indicated by a range, we used the average. H&M was excluded because it is currently in the process of changing its sizing.</p><p>While every retailer that sells womens’ denim offers sizes for customers with a waist smaller than the average, only half provide at least one option for women with a larger waist. The stores with larger sizes often further relegate them to website-only collections.</p><p>Retailers use a series of euphemisms to tell shoppers larger than their offerings not to bother coming to the mall. “Only at oldnavy.com,” “in stock online,” and perhaps the most devious “online exclusive!” are all different ways of telling customers, “don’t come to our store, we don’t serve your size.”</p><p>Blue jeans may be a universal icon of US culture; however, this wearable symbol of capitalism, freedom, and James Dean is only easily accessible to half of American women despite the business opportunity. Fashion designer Christian Siriano recently said he tripled his business by adding more inclusive sizing. But faced with limited options for denim, (and of course changing preferences) women have turned to other products. For the first time ever the US has imported more yoga pants than blue jeans.</p>",
+    "domain": "quartzy.qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.869971",
+  "updated_at": "2025-08-06T08:47:03.869973"
+}

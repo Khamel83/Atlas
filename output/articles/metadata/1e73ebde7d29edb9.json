@@ -1,0 +1,40 @@
+{
+  "uid": "1e73ebde7d29edb9",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.nytimes.com/2011/08/14/opinion/sunday/the-elusive-big-idea.html?_r=1&pagewanted=all",
+  "title": "The Elusive Big Idea [via Longreads]",
+  "status": "selection_content_extracted",
+  "date": "2011-08-17T21:19:43",
+  "error": null,
+  "content_path": "output/articles/markdown/1e73ebde7d29edb9.md",
+  "html_path": "output/articles/html/1e73ebde7d29edb9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5652,
+    "selection_length": 691,
+    "cleaned_selection_length": 698,
+    "domain": "nytimes.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1e73ebde7d29edb9",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1313641183",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "It is certainly no accident that the post-idea world has sprung up alongside the social networking world. Even though there are sites and blogs dedicated to ideas, Twitter, Facebook, Myspace, Flickr, etc., the most popular sites on the Web, are basically information exchanges, designed to feed the insatiable information hunger, though this is hardly the kind of information that generates ideas. It is largely useless except insofar as it makes the possessor of the information feel, well, informed. Of course, one could argue that these sites are no different than conversation was for previous generations, and that conversation seldom generated big ideas either, and one would be right.",
+    "cleaned_selection": "<p>It is certainly no accident that the post-idea world has sprung up alongside the social networking world. Even though there are sites and blogs dedicated to ideas, Twitter, Facebook, Myspace, Flickr, etc., the most popular sites on the Web, are basically information exchanges, designed to feed the insatiable information hunger, though this is hardly the kind of information that generates ideas. It is largely useless except insofar as it makes the possessor of the information feel, well, informed. Of course, one could argue that these sites are no different than conversation was for previous generations, and that conversation seldom generated big ideas either, and one would be right.</p>",
+    "domain": "nytimes.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.529378",
+  "updated_at": "2025-08-06T08:47:04.529381"
+}

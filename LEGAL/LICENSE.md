@@ -28,4 +28,4 @@ copies or substantial portions of the Software.
 
 **RESEARCH AND EDUCATIONAL USE**: This software is intended for personal research and educational purposes only. It is not designed, tested, or intended for commercial or production use.
 
-**NO SUPPORT**: No technical support, maintenance, updates, or liability is provided by the author(s). Users assume all risks and responsibilities. 
+**NO SUPPORT**: No technical support, maintenance, updates, or liability is provided by the author(s). Users assume all risks and responsibilities.

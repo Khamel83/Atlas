@@ -1,0 +1,34 @@
+{
+  "uid": "47974eee75ed3dac",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/1a7a439b388e6c81095c84f6de1a0bb8/",
+  "title": "America's Intellectual No-Fly Zone",
+  "status": "converted_from_csv",
+  "date": "2022-04-19T15:01:23",
+  "error": null,
+  "content_path": "output/articles/markdown/47974eee75ed3dac.md",
+  "html_path": "output/articles/html/47974eee75ed3dac.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1495,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6f6a6b0430b3ddd6502d3189da1a7d68",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1650405683",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-04-19T15:01:23",
+  "updated_at": "2022-04-19T15:01:23"
+}

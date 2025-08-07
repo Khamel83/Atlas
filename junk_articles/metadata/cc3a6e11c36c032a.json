@@ -1,0 +1,34 @@
+{
+  "uid": "cc3a6e11c36c032a",
+  "content_type": "web_bookmark",
+  "source": "http://www.slate.com/articles/news_and_politics/jurisprudence/2013/08/north_carolina_s_speedy_vote_suppression_tactics_show_exactly_why_the_voting.html",
+  "title": "North Carolina Proves How Badly the Supreme Court Misunderstood the Voting Rights Act",
+  "status": "converted_from_csv",
+  "date": "2013-08-20T21:16:42",
+  "error": null,
+  "content_path": "output/articles/markdown/cc3a6e11c36c032a.md",
+  "html_path": "output/articles/html/cc3a6e11c36c032a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5355,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c0d15a05571523bba8d9fd255673c637",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1377058602",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2013-08-20T21:16:42",
+  "updated_at": "2013-08-20T21:16:42"
+}

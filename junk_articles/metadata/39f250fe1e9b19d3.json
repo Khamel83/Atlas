@@ -1,0 +1,34 @@
+{
+  "uid": "39f250fe1e9b19d3",
+  "content_type": "web_bookmark",
+  "source": "http://www.theatlantic.com/magazine/archive/2001/09/confessions-of-a-prep-school-college-counselor/2281/",
+  "title": "Confessions of a Prep School College Counselor - Magazine - The Atlantic",
+  "status": "converted_from_csv",
+  "date": "2011-03-20T21:21:38",
+  "error": null,
+  "content_path": "output/articles/markdown/39f250fe1e9b19d3.md",
+  "html_path": "output/articles/html/39f250fe1e9b19d3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5822,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9e555a8e490234bbf477ad6da9d7c1f5",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1300681298",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-03-20T21:21:38",
+  "updated_at": "2011-03-20T21:21:38"
+}

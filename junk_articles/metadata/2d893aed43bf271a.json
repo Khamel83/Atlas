@@ -1,0 +1,40 @@
+{
+  "uid": "2d893aed43bf271a",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.nytimes.com/2011/12/09/opinion/to-fix-health-care-help-the-poor.html?src=tp&smid=fb-share",
+  "title": "login",
+  "status": "selection_content_extracted",
+  "date": "2011-12-25T11:51:31",
+  "error": null,
+  "content_path": "output/articles/markdown/2d893aed43bf271a.md",
+  "html_path": "output/articles/html/2d893aed43bf271a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5543,
+    "selection_length": 128,
+    "cleaned_selection_length": 138,
+    "domain": "nytimes.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2d893aed43bf271a",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1324842691",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Let the middle class fend for itself.\n&quot;Before we spend even more money, we should consider allocating it differently.&quot;",
+    "cleaned_selection": "<p>Let the middle class fend for itself.<br>&quot;Before we spend even more money, we should consider allocating it differently.&quot;</p>",
+    "domain": "nytimes.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.523842",
+  "updated_at": "2025-08-06T08:47:04.523843"
+}

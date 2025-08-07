@@ -1,0 +1,34 @@
+{
+  "uid": "c8799ab41968aed0",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/9ef2c28ccad224770f441193e29d2c78/",
+  "title": "Mom Genes and Other Parent Science: A Book Post",
+  "status": "converted_from_csv",
+  "date": "2021-04-26T02:03:26",
+  "error": null,
+  "content_path": "output/articles/markdown/c8799ab41968aed0.md",
+  "html_path": "output/articles/html/c8799ab41968aed0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2261,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4c5193729a983774d541cf1fe1ecf7f2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1619427806",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-04-26T02:03:26",
+  "updated_at": "2021-04-26T02:03:26"
+}

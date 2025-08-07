@@ -1,0 +1,34 @@
+{
+  "uid": "6102916218dcf5a3",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/b4b9b9fa2b13b37febc07ecc504c0cdf/",
+  "title": "New Study on SIDS Is Not What the Media Says It Is",
+  "status": "converted_from_csv",
+  "date": "2022-05-15T08:19:36",
+  "error": null,
+  "content_path": "output/articles/markdown/6102916218dcf5a3.md",
+  "html_path": "output/articles/html/6102916218dcf5a3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1441,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7790a8a0bb17f196e7307077f8b5cade",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1652627976",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-05-15T08:19:36",
+  "updated_at": "2022-05-15T08:19:36"
+}

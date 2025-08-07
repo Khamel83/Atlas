@@ -1,0 +1,42 @@
+{
+  "uid": "83fc0af8556cf9e3",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following",
+  "title": "Everybody has to self-promote now. Nobody wants to.",
+  "status": "success",
+  "date": "2025-08-05T13:37:47.749589",
+  "error": null,
+  "content_path": "output/articles/markdown/83fc0af8556cf9e3.md",
+  "html_path": "output/articles/html/83fc0af8556cf9e3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b73d1c95378cf69338125417680813f1",
+  "type_specific": {
+    "bookmark_id": 1661873808,
+    "instapaper_time": 1706891169,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:37:47.749612",
+  "updated_at": "2025-08-05T13:37:47.749613"
+}

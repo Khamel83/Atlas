@@ -1,0 +1,34 @@
+{
+  "uid": "42adac2beb72744a",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/dbfbe91a778639391369c0e74a49b7dd/",
+  "title": "Russiagate, More Like Watergate",
+  "status": "converted_from_csv",
+  "date": "2021-09-22T12:41:05",
+  "error": null,
+  "content_path": "output/articles/markdown/42adac2beb72744a.md",
+  "html_path": "output/articles/html/42adac2beb72744a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1960,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "408b547477b35f574521da3f30e6b711",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1632339665",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-09-22T12:41:05",
+  "updated_at": "2021-09-22T12:41:05"
+}

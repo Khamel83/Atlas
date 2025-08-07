@@ -1,0 +1,40 @@
+{
+  "uid": "353af73b4ad9a357",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.theverge.com/2020/6/30/21307285/niantic-punchdrunk-ar-immersive-theater-sleep-no-more-pokemon-go",
+  "title": "Niantic partners with Sleep No More creator to build immersive AR theater experiences The Verge",
+  "status": "selection_content_extracted",
+  "date": "2020-06-30T20:13:46",
+  "error": null,
+  "content_path": "output/articles/markdown/353af73b4ad9a357.md",
+  "html_path": "output/articles/html/353af73b4ad9a357.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2808,
+    "selection_length": 2760,
+    "cleaned_selection_length": 2802,
+    "domain": "theverge.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "353af73b4ad9a357",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1593573226",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Image: Niantic Labs\n\nPokémon Go creator Niantic Labs is partnering with Punchdrunk, the New York City-based production company behind seminal immersive theater piece Sleep No More. The partnership will see both companies work toward “developing multiple projects that will reinvent storytelling for a 21st century audience and further expand the horizon of interactive entertainment.”\n\nSleep No More, launched in 2011, is an immersive theater production that lets audiences walk through a series of rooms and experience various storylines and other elements of the production at their own pace. Influenced in part by haunted houses and other nonlinear live productions, immersive theater sounds like a prime fit for augmented reality because it could allow for Niantic and companies like Punchdrunk to create fantastical virtual worlds that are then overlaid over real spaces.\n\nImmersive theater seems like a prime fit for augmented reality\n\n“It is hugely exciting to be joining forces with the preeminent AR company in the world. At Punchdrunk we create richly cinematic 3D worlds where audiences can explore, touch and smell the environment; where the boundaries between reality and fantasy are indistinguishable,” Felix Barrett, Punchdrunk’s artistic director, said in a statement. “Those that have seen Sleep No More often liken the experience to how it might feel to walk into a video game. What happens if you take that sense of adventure into the real world? Tear down the walls and the world becomes your stage. “\n\nNiantic offered a few more updates to its current production pipeline, too. The company is still currently working on the mobile AR adaptation of popular board game Catan called Catan: World Explorers. The game is being built on top of Niantic’s Real World Platform in partnership with the company behind the board game and French game publisher Asmodee. Niantic now says the game will enter a beta phase “very soon.”\n\nNiantic also says it’s building “new forms of gaming” for both smartphones and AR glasses, although the company did not elaborate on exactly what headsets from which companies it may be building for. “Currently, we have more than 10 new games in development including prototypes for AR wearables, each with unique and innovative gameplay, centered around outdoor exploration, movement and social interaction,” the company says.\n\nIn December 2019, Qualcomm announced it was working with Niantic on a smart glasses reference design as part of the chipmaker’s Snapdragon XR2 platform. And back in 2017, when support for Apple’s ARKit was first added to Pokémon Go, Niantic strongly hinted it was working with Apple on experiences that could arrive for the iPhone maker’s not-yet-announced but strongly rumored AR glasses.",
+    "cleaned_selection": "<p>Image: Niantic Labs</p><p>Pokémon Go creator Niantic Labs is partnering with Punchdrunk, the New York City-based production company behind seminal immersive theater piece Sleep No More. The partnership will see both companies work toward “developing multiple projects that will reinvent storytelling for a 21st century audience and further expand the horizon of interactive entertainment.”</p><p>Sleep No More, launched in 2011, is an immersive theater production that lets audiences walk through a series of rooms and experience various storylines and other elements of the production at their own pace. Influenced in part by haunted houses and other nonlinear live productions, immersive theater sounds like a prime fit for augmented reality because it could allow for Niantic and companies like Punchdrunk to create fantastical virtual worlds that are then overlaid over real spaces.</p><p>Immersive theater seems like a prime fit for augmented reality</p><p>“It is hugely exciting to be joining forces with the preeminent AR company in the world. At Punchdrunk we create richly cinematic 3D worlds where audiences can explore, touch and smell the environment; where the boundaries between reality and fantasy are indistinguishable,” Felix Barrett, Punchdrunk’s artistic director, said in a statement. “Those that have seen Sleep No More often liken the experience to how it might feel to walk into a video game. What happens if you take that sense of adventure into the real world? Tear down the walls and the world becomes your stage. “</p><p>Niantic offered a few more updates to its current production pipeline, too. The company is still currently working on the mobile AR adaptation of popular board game Catan called Catan: World Explorers. The game is being built on top of Niantic’s Real World Platform in partnership with the company behind the board game and French game publisher Asmodee. Niantic now says the game will enter a beta phase “very soon.”</p><p>Niantic also says it’s building “new forms of gaming” for both smartphones and AR glasses, although the company did not elaborate on exactly what headsets from which companies it may be building for. “Currently, we have more than 10 new games in development including prototypes for AR wearables, each with unique and innovative gameplay, centered around outdoor exploration, movement and social interaction,” the company says.</p><p>In December 2019, Qualcomm announced it was working with Niantic on a smart glasses reference design as part of the chipmaker’s Snapdragon XR2 platform. And back in 2017, when support for Apple’s ARKit was first added to Pokémon Go, Niantic strongly hinted it was working with Apple on experiences that could arrive for the iPhone maker’s not-yet-announced but strongly rumored AR glasses.</p>",
+    "domain": "theverge.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.636725",
+  "updated_at": "2025-08-06T08:47:03.636727"
+}

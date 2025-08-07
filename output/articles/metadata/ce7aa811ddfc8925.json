@@ -1,0 +1,42 @@
+{
+  "uid": "ce7aa811ddfc8925",
+  "content_type": "instapaper",
+  "source": "https://www.nytimes.com/2024/03/07/technology/openai-executives-role-in-sam-altman-ouster.html",
+  "title": "Key OpenAI Executive Played a Pivotal Role in Sam Altman’s Ouster",
+  "status": "success",
+  "date": "2025-08-05T13:37:09.839210",
+  "error": null,
+  "content_path": "output/articles/markdown/ce7aa811ddfc8925.md",
+  "html_path": "output/articles/html/ce7aa811ddfc8925.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "edfa1fce222ac9cc9f2c1dbbdbe88e22",
+  "type_specific": {
+    "bookmark_id": 1668314597,
+    "instapaper_time": 1709869853,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:37:09.839238",
+  "updated_at": "2025-08-05T13:37:09.839241"
+}

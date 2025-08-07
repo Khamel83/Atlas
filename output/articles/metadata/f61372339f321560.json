@@ -1,0 +1,40 @@
+{
+  "uid": "f61372339f321560",
+  "content_type": "instapaper",
+  "source": "https://www.theverge.com/circuitbreaker/2018/2/19/17029516/wyzecam-v2-security-camera-price",
+  "title": "The WyzeCam is a $20 security camera, and it just got better The Verge",
+  "status": "success",
+  "date": "2025-08-05T13:51:20.687491",
+  "error": null,
+  "content_path": "output/articles/markdown/f61372339f321560.md",
+  "html_path": "output/articles/html/f61372339f321560.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "62e0024661949e3f5cc5fb612652ad58",
+  "type_specific": {
+    "bookmark_id": 1022764964,
+    "instapaper_time": 1519666734,
+    "starred": true,
+    "progress": 0.28892,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:51:20.687522",
+  "updated_at": "2025-08-05T13:51:20.687525"
+}

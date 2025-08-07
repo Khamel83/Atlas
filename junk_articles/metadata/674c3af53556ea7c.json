@@ -1,0 +1,34 @@
+{
+  "uid": "674c3af53556ea7c",
+  "content_type": "web_bookmark",
+  "source": "https://www.wired.com/story/inside-facebook-mark-zuckerberg-2-years-of-hell/",
+  "title": "Inside Facebook's Hellish Two Years—and Mark Zuckerberg's Struggle to Fix it All | WIRED",
+  "status": "converted_from_csv",
+  "date": "2018-02-14T12:40:21",
+  "error": null,
+  "content_path": "output/articles/markdown/674c3af53556ea7c.md",
+  "html_path": "output/articles/html/674c3af53556ea7c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3613,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "63bd4e3bd6667f8f7f8430d5a64cfee6",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1518640821",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-02-14T12:40:21",
+  "updated_at": "2018-02-14T12:40:21"
+}

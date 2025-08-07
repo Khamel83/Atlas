@@ -1,0 +1,40 @@
+{
+  "uid": "a9c6e90d6b06e7aa",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1074409/the-future-of-retail-is-tiny-stores-everywhere-that-sell-exactly-what-you-need/",
+  "title": "The future of retail is tiny stores everywhere that sell exactly what you need Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:59:50.394912",
+  "error": null,
+  "content_path": "output/articles/markdown/a9c6e90d6b06e7aa.md",
+  "html_path": "output/articles/html/a9c6e90d6b06e7aa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7686135e582a9bae81e8a6b4aa70c518",
+  "type_specific": {
+    "bookmark_id": 954580026,
+    "instapaper_time": 1505312541,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:59:50.394979",
+  "updated_at": "2025-08-05T13:59:50.394991"
+}

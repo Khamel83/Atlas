@@ -47,4 +47,4 @@
 *   Write the `is_truncated()` helper (e.g., check word count or compare `<title>` and text length).
 *   Create logging for fallback attempts.
 *   Wire fallback chain into `article_fetcher` flow.
-*   Add tests simulating paywalled URLs and ensuring correct fallback. 
+*   Add tests simulating paywalled URLs and ensuring correct fallback.

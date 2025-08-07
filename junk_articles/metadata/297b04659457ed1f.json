@@ -1,0 +1,34 @@
+{
+  "uid": "297b04659457ed1f",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/183d513cb3ce84b06acab328f8c0c5d7/",
+  "title": "Shopify's Evolution (Stratechery Update 2-22-2022)",
+  "status": "converted_from_csv",
+  "date": "2022-02-22T08:07:37",
+  "error": null,
+  "content_path": "output/articles/markdown/297b04659457ed1f.md",
+  "html_path": "output/articles/html/297b04659457ed1f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1606,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "879c0c8ae1e3d18dd9127008ddf7a6b9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1645546057",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-02-22T08:07:37",
+  "updated_at": "2022-02-22T08:07:37"
+}

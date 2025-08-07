@@ -1,0 +1,40 @@
+{
+  "uid": "38b17de4bc52ab27",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://flowingdata.com/2014/08/17/map-of-military-surplus-distribution/",
+  "title": "Map of military surplus distribution FlowingData",
+  "status": "selection_content_extracted",
+  "date": "2014-08-17T23:49:47",
+  "error": null,
+  "content_path": "output/articles/markdown/38b17de4bc52ab27.md",
+  "html_path": "output/articles/html/38b17de4bc52ab27.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5174,
+    "selection_length": 184,
+    "cleaned_selection_length": 196,
+    "domain": "flowingdata.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "38b17de4bc52ab27",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1408344587",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "With the situation in Ferguson, the New York Times mapped the distribution of military surplus through Defense Department program. Equipment, …\n\nTags: military, New York Times, weapons",
+    "cleaned_selection": "<p>With the situation in Ferguson, the New York Times mapped the distribution of military surplus through Defense Department program. Equipment, …</p><p>Tags: military, New York Times, weapons</p>",
+    "domain": "flowingdata.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.495540",
+  "updated_at": "2025-08-06T08:47:04.495541"
+}

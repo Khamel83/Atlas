@@ -1,0 +1,40 @@
+{
+  "uid": "30a8647c1e78aa2d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/991766/j-crew-plans-to-lower-its-prices-to-revive-itself-ceo-mickey-drexler-says/",
+  "title": "To be less “elitist,” J.Crew plans to lower its prices Quartz",
+  "status": "selection_content_extracted",
+  "date": "2017-05-25T16:29:18",
+  "error": null,
+  "content_path": "output/articles/markdown/30a8647c1e78aa2d.md",
+  "html_path": "output/articles/html/30a8647c1e78aa2d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3953,
+    "selection_length": 2626,
+    "cleaned_selection_length": 2673,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "30a8647c1e78aa2d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1495754958",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "A decade ago, J.Crew was a defining force in the way Americans dressed. In 2008, its colorful, unfussy prep reached a milestone, when Michelle Obama wore one of the brand’s yellow cardigans on The Tonight Show with Jay Leno. That cardigan signified accessibility. Everyone could—and did—wear J.Crew, up to and including the first lady of the United States.\n\nJ.Crew has since fallen dramatically from that position. For more than two years now, sales at stores open at least a year have been dropping. Its image has changed too. Once accessible, J.Crew now believes it has become too “elitist,” as CEO Mickey Drexler framed it in a recent interview with the Wall Street Journal (paywall).\n\nAs J.Crew does all it can to stabilize its business—some analysts fear that it won’t be able to pay off its $2 billion of debt—it’s working to counter the problem by lowering prices and changing the way it markets itself. It’s already slashing price tags on around 300 items, and using data analytics to determine the best prices for its offerings.\n\nThe retailer also wants to return to being the brand for everyone it once was. The general feeling among former fans is that it got too eccentric in its product and image, especially the styling of its beloved catalogs. The blame is usually put on former creative director Jenna Lyons, who guided the brand’s ascendance, but kept pushing it toward more fashion-forward territory. Shoppers complained that prices got too high, climbing to hundreds of dollars for an item such as a cashmere skirt, and the cool, creative look didn’t match their ordinary lifestyles.\n\n“We gave a perception of being a higher-priced company than we were—in our catalog, online and in our general presentation,” Drexler told the Journal. “Very big mistake.” In April, J.Crew shook up its organization, parting ways with Lyons and cutting about 250 jobs, primarily from its headquarters.\n\nIt’s also looking to cheaper sourcing options than China and trying to speed up how quickly it can get products into stores. Quicker, cheaper fast-fashion competitors have dominated the market for several years, and J.Crew admits it didn’t foresee how much speed and price would influence what shoppers did—and didn’t—buy.\n\nAccessibility, in both look and price, is J.Crew’s goal now, as it tries to convince people to return to it for their clothes, and without waiting for one of the sales J.Crew seems to have perpetually going on. It won’t be easy. Shoppers expect everything cheaper than ever, and J.Crew faces tough competition from fast fashion.\n\nThings have changed a lot since that yellow cardigan.\n\nMost Popular",
+    "cleaned_selection": "<p>A decade ago, J.Crew was a defining force in the way Americans dressed. In 2008, its colorful, unfussy prep reached a milestone, when Michelle Obama wore one of the brand’s yellow cardigans on The Tonight Show with Jay Leno. That cardigan signified accessibility. Everyone could—and did—wear J.Crew, up to and including the first lady of the United States.</p><p>J.Crew has since fallen dramatically from that position. For more than two years now, sales at stores open at least a year have been dropping. Its image has changed too. Once accessible, J.Crew now believes it has become too “elitist,” as CEO Mickey Drexler framed it in a recent interview with the Wall Street Journal (paywall).</p><p>As J.Crew does all it can to stabilize its business—some analysts fear that it won’t be able to pay off its $2 billion of debt—it’s working to counter the problem by lowering prices and changing the way it markets itself. It’s already slashing price tags on around 300 items, and using data analytics to determine the best prices for its offerings.</p><p>The retailer also wants to return to being the brand for everyone it once was. The general feeling among former fans is that it got too eccentric in its product and image, especially the styling of its beloved catalogs. The blame is usually put on former creative director Jenna Lyons, who guided the brand’s ascendance, but kept pushing it toward more fashion-forward territory. Shoppers complained that prices got too high, climbing to hundreds of dollars for an item such as a cashmere skirt, and the cool, creative look didn’t match their ordinary lifestyles.</p><p>“We gave a perception of being a higher-priced company than we were—in our catalog, online and in our general presentation,” Drexler told the Journal. “Very big mistake.” In April, J.Crew shook up its organization, parting ways with Lyons and cutting about 250 jobs, primarily from its headquarters.</p><p>It’s also looking to cheaper sourcing options than China and trying to speed up how quickly it can get products into stores. Quicker, cheaper fast-fashion competitors have dominated the market for several years, and J.Crew admits it didn’t foresee how much speed and price would influence what shoppers did—and didn’t—buy.</p><p>Accessibility, in both look and price, is J.Crew’s goal now, as it tries to convince people to return to it for their clothes, and without waiting for one of the sales J.Crew seems to have perpetually going on. It won’t be easy. Shoppers expect everything cheaper than ever, and J.Crew faces tough competition from fast fashion.</p><p>Things have changed a lot since that yellow cardigan.</p><p>Most Popular</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.107137",
+  "updated_at": "2025-08-06T08:47:04.107139"
+}

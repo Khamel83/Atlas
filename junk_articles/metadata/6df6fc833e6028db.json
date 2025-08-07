@@ -1,0 +1,34 @@
+{
+  "uid": "6df6fc833e6028db",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/7148063e81dc24e46b5d4ecec6e53ef9/",
+  "title": "Dear Joe Scarborough: Invite Me To Debate Your Network's Putrid Russiagate Coverage",
+  "status": "converted_from_csv",
+  "date": "2021-03-29T10:59:15",
+  "error": null,
+  "content_path": "output/articles/markdown/6df6fc833e6028db.md",
+  "html_path": "output/articles/html/6df6fc833e6028db.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2317,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ddf47c97738d31a0f1b09026f2766ee5",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1617040755",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-03-29T10:59:15",
+  "updated_at": "2021-03-29T10:59:15"
+}

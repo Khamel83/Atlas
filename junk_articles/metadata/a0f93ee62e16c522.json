@@ -1,0 +1,34 @@
+{
+  "uid": "a0f93ee62e16c522",
+  "content_type": "web_bookmark",
+  "source": "http://online.wsj.com/article/SB10001424052748703740104576122460926972084.html?mod=rss_Today%27s_Most_Popular",
+  "title": "TigerText Service Allows for Temporary Text Messages That Delete Themselves - WSJ.com",
+  "status": "converted_from_csv",
+  "date": "2011-02-16T07:19:51",
+  "error": null,
+  "content_path": "output/articles/markdown/a0f93ee62e16c522.md",
+  "html_path": "output/articles/html/a0f93ee62e16c522.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5907,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d367e3d9c18d09e6235fe88d2804dd9b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1297869591",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-02-16T07:19:51",
+  "updated_at": "2011-02-16T07:19:51"
+}

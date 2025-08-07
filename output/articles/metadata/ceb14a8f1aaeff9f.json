@@ -1,0 +1,40 @@
+{
+  "uid": "ceb14a8f1aaeff9f",
+  "content_type": "instapaper",
+  "source": "https://qz.com/india/1377219/crude-oil-us-china-trade-war-are-reasons-for-indian-rupees-fall/",
+  "title": "Here’s why the Indian rupee is in a free-fall Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:48:20.733293",
+  "error": null,
+  "content_path": "output/articles/markdown/ceb14a8f1aaeff9f.md",
+  "html_path": "output/articles/html/ceb14a8f1aaeff9f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "91e2e24d3f75d1d2b4170f4cffb8198e",
+  "type_specific": {
+    "bookmark_id": 1100751656,
+    "instapaper_time": 1536126288,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:48:20.733325",
+  "updated_at": "2025-08-05T13:48:20.733328"
+}

@@ -1,0 +1,36 @@
+{
+  "uid": "272ecfc5c5c08065",
+  "content_type": "instapaper_newsletter",
+  "source": "instapaper://private-content/1731155402",
+  "title": "💥NYC Distressed Investing Conference💥",
+  "status": "success",
+  "date": "2024-11-27T06:31:40",
+  "error": null,
+  "content_path": "output/articles/markdown/272ecfc5c5c08065.md",
+  "html_path": "output/articles/html/272ecfc5c5c08065.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api_private_content",
+  "fetch_details": {
+    "bookmark_id": 1731155402,
+    "extraction_method": "bookmarks_get_text",
+    "content_length": 13952,
+    "successful": true
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1731155402",
+  "type_specific": {
+    "bookmark_id": 1731155402,
+    "instapaper_time": 1732717900,
+    "starred": true,
+    "is_private_content": true,
+    "private_source": "email",
+    "content_length": 13952
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T22:03:18.300302",
+  "updated_at": "2025-08-05T22:03:18.300320"
+}

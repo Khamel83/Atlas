@@ -1,0 +1,34 @@
+{
+  "uid": "8271c4f551dfea72",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/03/13/magazine/mag-13Player-t.html?hpw=&pagewanted=print",
+  "title": "Will It Be One-and-Done for Baylor’s Perry Jones? - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-03-24T19:00:53",
+  "error": null,
+  "content_path": "output/articles/markdown/8271c4f551dfea72.md",
+  "html_path": "output/articles/html/8271c4f551dfea72.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5837,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bb73123b01417940b5218462c049aa80",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1301018453",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-03-24T19:00:53",
+  "updated_at": "2011-03-24T19:00:53"
+}

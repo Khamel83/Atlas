@@ -1,0 +1,40 @@
+{
+  "uid": "71c525a77797ed20",
+  "content_type": "instapaper",
+  "source": "http://marginalrevolution.com/marginalrevolution/2018/03/city-los-angeles.html",
+  "title": "How much more can be built in Los Angeles Marginal REVOLUTION",
+  "status": "success",
+  "date": "2025-08-05T13:50:58.868383",
+  "error": null,
+  "content_path": "output/articles/markdown/71c525a77797ed20.md",
+  "html_path": "output/articles/html/71c525a77797ed20.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "67b3229037383f14700fb957c6dc065e",
+  "type_specific": {
+    "bookmark_id": 1039423369,
+    "instapaper_time": 1522988388,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:50:58.868413",
+  "updated_at": "2025-08-05T13:50:58.868416"
+}

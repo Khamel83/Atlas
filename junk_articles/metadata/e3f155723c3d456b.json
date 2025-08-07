@@ -1,0 +1,34 @@
+{
+  "uid": "e3f155723c3d456b",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6e0a61175e3f4385cdd638742ca01dcc/",
+  "title": "Hyperlegibility",
+  "status": "converted_from_csv",
+  "date": "2025-03-25T05:25:25",
+  "error": null,
+  "content_path": "output/articles/markdown/e3f155723c3d456b.md",
+  "html_path": "output/articles/html/e3f155723c3d456b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 14,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "aa47d679051de5bd4f7c65c764d73b1b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1742905525",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2025-03-25T05:25:25",
+  "updated_at": "2025-03-25T05:25:25"
+}

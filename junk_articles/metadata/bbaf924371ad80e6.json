@@ -1,0 +1,34 @@
+{
+  "uid": "bbaf924371ad80e6",
+  "content_type": "web_bookmark",
+  "source": "http://www.theatlantic.com/magazine/print/2011/03/inside-the-secret-service/8390/",
+  "title": "Inside the Secret Service - Magazine - The Atlantic",
+  "status": "converted_from_csv",
+  "date": "2011-03-25T22:56:00",
+  "error": null,
+  "content_path": "output/articles/markdown/bbaf924371ad80e6.md",
+  "html_path": "output/articles/html/bbaf924371ad80e6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5848,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "57e7ecde02c1598fd6122d0cca33929a",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1301118960",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-03-25T22:56:00",
+  "updated_at": "2011-03-25T22:56:00"
+}

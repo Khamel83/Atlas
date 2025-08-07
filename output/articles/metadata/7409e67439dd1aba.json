@@ -1,0 +1,40 @@
+{
+  "uid": "7409e67439dd1aba",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/the-superfans-using-stats-to-get-to-the-bottom-of-serial/",
+  "title": "The Superfans Using Stats To Get To The Bottom Of ‘Serial’ FiveThirtyEight » Features | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2014-12-22T10:53:23",
+  "error": null,
+  "content_path": "output/articles/markdown/7409e67439dd1aba.md",
+  "html_path": "output/articles/html/7409e67439dd1aba.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5011,
+    "selection_length": 334,
+    "cleaned_selection_length": 341,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7409e67439dd1aba",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1419274403",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "“Serial” is over, but the podcast’s fans aren’t done debating who committed the 1999 murder of Baltimore County high school student Hae Min Lee. And statisticians have ideas about how to make the debate smarter. “Serial” attracted a broad audience over its 12 episodes; it got 5 million downloads and streams on iTunes faster than […]",
+    "cleaned_selection": "<p>“Serial” is over, but the podcast’s fans aren’t done debating who committed the 1999 murder of Baltimore County high school student Hae Min Lee. And statisticians have ideas about how to make the debate smarter. “Serial” attracted a broad audience over its 12 episodes; it got 5 million downloads and streams on iTunes faster than […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.445246",
+  "updated_at": "2025-08-06T08:47:04.445248"
+}

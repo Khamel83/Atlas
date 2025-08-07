@@ -1,0 +1,34 @@
+{
+  "uid": "e650acd8586a516d",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/3c9c52069a2420cb2cf2eae7a8ec9bb8/",
+  "title": "What Facebook sees in newsletters",
+  "status": "converted_from_csv",
+  "date": "2021-03-16T17:02:36",
+  "error": null,
+  "content_path": "output/articles/markdown/e650acd8586a516d.md",
+  "html_path": "output/articles/html/e650acd8586a516d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2339,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "eb5d0bb6674c02935ff8b7fc9f6af735",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1615939356",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-03-16T17:02:36",
+  "updated_at": "2021-03-16T17:02:36"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "c38f3a585b16b92a",
+  "content_type": "instapaper",
+  "source": "https://fivethirtyeight.com/features/american-muslims-are-a-diverse-group-with-changing-views/",
+  "title": "American Muslims Are A Diverse Group With Changing Views FiveThirtyEight",
+  "status": "success",
+  "date": "2025-08-05T14:01:11.880232",
+  "error": null,
+  "content_path": "output/articles/markdown/c38f3a585b16b92a.md",
+  "html_path": "output/articles/html/c38f3a585b16b92a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f896dac040d95d93c8fa62b6d98617de",
+  "type_specific": {
+    "bookmark_id": 936007791,
+    "instapaper_time": 1501253865,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:01:11.880324",
+  "updated_at": "2025-08-05T14:01:11.880329"
+}

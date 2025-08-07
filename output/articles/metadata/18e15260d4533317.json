@@ -1,0 +1,40 @@
+{
+  "uid": "18e15260d4533317",
+  "content_type": "instapaper",
+  "source": "https://slate.com/news-and-politics/2020/02/watch-cbs-journalist-use-pie-illustrate-inequality.html",
+  "title": "Watch CBS Journalist Blow Away Mall Shoppers by Using a Pie to Illustrate Inequality Slate Magazine",
+  "status": "success",
+  "date": "2025-08-05T13:41:43.232994",
+  "error": null,
+  "content_path": "output/articles/markdown/18e15260d4533317.md",
+  "html_path": "output/articles/html/18e15260d4533317.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b97e86265467df07ff9415d5d8e27b96",
+  "type_specific": {
+    "bookmark_id": 1273706313,
+    "instapaper_time": 1580598276,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:41:43.233024",
+  "updated_at": "2025-08-05T13:41:43.233027"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "588347e2d2cd8391",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://online.wsj.com/article/SB10001424052970203315804577209230884246636.html?fb_ref=wsj_share_FB&fb_source=profile_multiline",
+  "title": "More Doctors 'Fire' Vaccine Refusers - WSJ.com",
+  "status": "selection_content_extracted",
+  "date": "2012-02-15T19:46:48",
+  "error": null,
+  "content_path": "output/articles/markdown/588347e2d2cd8391.md",
+  "html_path": "output/articles/html/588347e2d2cd8391.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5507,
+    "selection_length": 157,
+    "cleaned_selection_length": 164,
+    "domain": "online.wsj.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "588347e2d2cd8391",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1329364008",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "If only there was a way to vaccinate the child without the stupid parents knowing. They will thank you when their kid doesn't die from a 75 year old disease.",
+    "cleaned_selection": "<p>If only there was a way to vaccinate the child without the stupid parents knowing. They will thank you when their kid doesn't die from a 75 year old disease.</p>",
+    "domain": "online.wsj.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.518361",
+  "updated_at": "2025-08-06T08:47:04.518362"
+}

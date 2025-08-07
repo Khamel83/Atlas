@@ -1,0 +1,34 @@
+{
+  "uid": "1a62d7e4131d51f9",
+  "content_type": "web_bookmark",
+  "source": "https://www.wsj.com/articles/airbus-boeing-rivals-max-11626189853",
+  "title": "Airbus Soars Past Boeing by Showing Little Mercy to Struggling Customers - WSJ",
+  "status": "converted_from_csv",
+  "date": "2021-07-13T13:47:19",
+  "error": null,
+  "content_path": "output/articles/markdown/1a62d7e4131d51f9.md",
+  "html_path": "output/articles/html/1a62d7e4131d51f9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2104,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d23a5ce98bc3c3d638dc212471e9566a",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1626209239",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-07-13T13:47:19",
+  "updated_at": "2021-07-13T13:47:19"
+}

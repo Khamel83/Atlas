@@ -1,0 +1,40 @@
+{
+  "uid": "501f56f35d2c3f37",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.theverge.com/tldr/2018/2/5/16974194/spotify-recommendation-algorithm-playlist-hack-nelson",
+  "title": "You can now play with Spotify’s recommendation algorithm in your browser The Verge",
+  "status": "selection_content_extracted",
+  "date": "2018-02-05T11:13:49",
+  "error": null,
+  "content_path": "output/articles/markdown/501f56f35d2c3f37.md",
+  "html_path": "output/articles/html/501f56f35d2c3f37.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3627,
+    "selection_length": 3232,
+    "cleaned_selection_length": 3294,
+    "domain": "theverge.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "501f56f35d2c3f37",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1517858029",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Engineer Ari Vaniderstine tweeted a link to a Glitch project called Nelson this morning, which is a browser application that lets Spotify users fiddle with various inputs in the recommendation API and make their own algorithmically generated playlists.\n\nIf you have a Spotify premium account, you can select a mix of genres from a long list that includes, for some reason, “pop-movie” but not rap, and then dictate the other parameters of the playlist with the sliders provided for nine other “audio features.” These features are explained on Spotify’s developer blog:\n\nAcousticness: A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.\n\nDanceability: Describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.\n\nEnergy: Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy.\n\nInstrumentalness: Predicts whether a track contains no vocals. “Ooh” and “aah” sounds are treated as instrumental in this context. Rap or spoken word tracks are clearly “vocal.” The closer the instrumentalness value is to 1.0, the greater likelihood the track contains no vocal content. Values above 0.5 are intended to represent instrumental tracks, but confidence is higher as the value approaches 1.0.\n\nLiveness: Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. A value above 0.8 provides strong likelihood that the track is live.\n\nSpeechiness: Speechiness detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value. Values above 0.66 describe tracks that are probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech, either in sections or layered, including such cases as rap music. Values below 0.33 most likely represent music and other non-speech-like tracks.\n\nTempo: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.\n\nValence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).\n\nIt doesn’t work great — I put in blues, R&B, rainy day, singer-songwriter, and soul, and got a playlist with two Mumford & Sons songs on it — but there’s something satisfying about sliding the bars around at random and watching the program panic-switch between Carly Rae Jepsen and James Brown.\n\nI tried it out with a bunch of different combinations and got mostly terrible recommendations, but still had a great time. What else do you have going on? Make yourself some half-human, half-algorithm cyborg playlists with Nelson.",
+    "cleaned_selection": "<p>Engineer Ari Vaniderstine tweeted a link to a Glitch project called Nelson this morning, which is a browser application that lets Spotify users fiddle with various inputs in the recommendation API and make their own algorithmically generated playlists.</p><p>If you have a Spotify premium account, you can select a mix of genres from a long list that includes, for some reason, “pop-movie” but not rap, and then dictate the other parameters of the playlist with the sliders provided for nine other “audio features.” These features are explained on Spotify’s developer blog:</p><p>Acousticness: A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.</p><p>Danceability: Describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.</p><p>Energy: Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy.</p><p>Instrumentalness: Predicts whether a track contains no vocals. “Ooh” and “aah” sounds are treated as instrumental in this context. Rap or spoken word tracks are clearly “vocal.” The closer the instrumentalness value is to 1.0, the greater likelihood the track contains no vocal content. Values above 0.5 are intended to represent instrumental tracks, but confidence is higher as the value approaches 1.0.</p><p>Liveness: Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. A value above 0.8 provides strong likelihood that the track is live.</p><p>Speechiness: Speechiness detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value. Values above 0.66 describe tracks that are probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech, either in sections or layered, including such cases as rap music. Values below 0.33 most likely represent music and other non-speech-like tracks.</p><p>Tempo: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.</p><p>Valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).</p><p>It doesn’t work great — I put in blues, R&B, rainy day, singer-songwriter, and soul, and got a playlist with two Mumford & Sons songs on it — but there’s something satisfying about sliding the bars around at random and watching the program panic-switch between Carly Rae Jepsen and James Brown.</p><p>I tried it out with a bunch of different combinations and got mostly terrible recommendations, but still had a great time. What else do you have going on? Make yourself some half-human, half-algorithm cyborg playlists with Nelson.</p>",
+    "domain": "theverge.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.929495",
+  "updated_at": "2025-08-06T08:47:03.929497"
+}

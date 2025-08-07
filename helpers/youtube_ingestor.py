@@ -55,7 +55,7 @@ class YouTubeIngestor(BaseIngestor):
 
     def __init__(self, config):
         super().__init__(config)
-        self.content_type = "youtube"
+
         self.ytdlp_available = is_ytdlp_installed()
         self._post_init()
 
@@ -75,6 +75,7 @@ class YouTubeIngestor(BaseIngestor):
         log_info(self.log_path, "YouTube ingestion complete.")
 
     def ingest_single_video(self, url: str) -> bool:
+        meta = None  # Initialize meta to None
         try:
             # Accept both raw video IDs and URLs
             if url.startswith("http"):
@@ -84,9 +85,7 @@ class YouTubeIngestor(BaseIngestor):
                 video_id = url
                 full_url = f"https://www.youtube.com/watch?v={video_id}"
             file_id = link_uid(full_url)
-            meta = self.create_metadata(
-                source=full_url, title=None, uid=file_id, video_id=video_id
-            )
+            meta = self.create_metadata(source=full_url, title=None, video_id=video_id)
 
             paths = self.path_manager.get_path_set(self.content_type, file_id)
             transcript_path = paths.get_path("transcript")

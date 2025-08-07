@@ -1,0 +1,34 @@
+{
+  "uid": "1e5e30a036cc4a78",
+  "content_type": "web_bookmark",
+  "source": "http://www.espn.com/nba/story/_/id/21082183",
+  "title": "NBA: The story of the Chicago Bulls' downfall",
+  "status": "converted_from_csv",
+  "date": "2017-10-24T14:11:24",
+  "error": null,
+  "content_path": "output/articles/markdown/1e5e30a036cc4a78.md",
+  "html_path": "output/articles/html/1e5e30a036cc4a78.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3755,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "83977f622468ac48401a50b6ae0694ca",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1508879484",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-10-24T14:11:24",
+  "updated_at": "2017-10-24T14:11:24"
+}

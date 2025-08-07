@@ -1,0 +1,40 @@
+{
+  "uid": "11422ff568c713fa",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1120753411",
+  "title": "Facebook and Virtual Reality Follow-up, Tim Cook’s Speech on Privacy, What About China? (Stratechery Daily Update 10-25-2018)",
+  "status": "success",
+  "date": "2025-08-05T14:06:01.127617",
+  "error": null,
+  "content_path": "output/articles/markdown/11422ff568c713fa.md",
+  "html_path": "output/articles/html/11422ff568c713fa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a62e91f19e11fe8a8fc35ebe6e5b9cda",
+  "type_specific": {
+    "bookmark_id": 1120753411,
+    "instapaper_time": 1540470268,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Stratechery"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:06:01.127649",
+  "updated_at": "2025-08-05T14:06:01.127653"
+}

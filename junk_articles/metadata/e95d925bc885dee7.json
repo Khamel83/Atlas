@@ -1,0 +1,34 @@
+{
+  "uid": "e95d925bc885dee7",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/2e7090beca198455d128f7419017c833/",
+  "title": "Thanksgiving is Awesome",
+  "status": "converted_from_csv",
+  "date": "2021-11-25T07:18:39",
+  "error": null,
+  "content_path": "output/articles/markdown/e95d925bc885dee7.md",
+  "html_path": "output/articles/html/e95d925bc885dee7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1804,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2d0508ccfa616ccb9214d0416f85a038",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1637853519",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-11-25T07:18:39",
+  "updated_at": "2021-11-25T07:18:39"
+}

@@ -1,0 +1,95 @@
+{
+  "cleanup_timestamp": "2025-08-06_09-28-13",
+  "original_counts": {
+    "html": 2286,
+    "md": 2286,
+    "metadata": 2525
+  },
+  "final_counts": {
+    "html": 2247,
+    "md": 2247,
+    "metadata": 2247
+  },
+  "moved_files": {
+    "orphaned_metadata": 278,
+    "orphaned_html": 39,
+    "orphaned_md": 39
+  },
+  "alignment_status": "perfect",
+  "orphan_reasons": {
+    "private_content_placeholder": 208,
+    "processing_failure": 70
+  },
+  "sample_orphans": [
+    {
+      "uid": "87949aa21a7a4fd5",
+      "title": "Weekly Dose of Optimism #109",
+      "source": "instapaper://private-content/1705423572",
+      "content_type": "instapaper",
+      "reason": "private_content_placeholder"
+    },
+    {
+      "uid": "1b6fa268386538bf",
+      "title": "How to Access Retirement Funds Early",
+      "source": "https://www.madfientist.com/how-to-access-retirement-funds-early/",
+      "content_type": "instapaper",
+      "reason": "processing_failure"
+    },
+    {
+      "uid": "94cd52969b91cb1b",
+      "title": "Apple Intelligence is Right On Time (Stratechery Article 6-1...",
+      "source": "instapaper://private-content/1686558099",
+      "content_type": "instapaper",
+      "reason": "private_content_placeholder"
+    },
+    {
+      "uid": "e72b50408aece055",
+      "title": "Spreadsheet Assassins | Matthew King",
+      "source": "https://thebaffler.com/latest/spreadsheet-assassins-king",
+      "content_type": "instapaper",
+      "reason": "processing_failure"
+    },
+    {
+      "uid": "b718c06a467f3b0d",
+      "title": "💥NYC Distressed Investing Conference💥",
+      "source": "instapaper://private-content/1731155402",
+      "content_type": "instapaper",
+      "reason": "private_content_placeholder"
+    },
+    {
+      "uid": "b43a0ad0a0e64c12",
+      "title": "He Still Thought He Could Win: Inside Biden’s Decision to Dr...",
+      "source": "https://www.nytimes.com/2024/08/15/us/politics/biden-2024-election-dropped-out.html?unlocked_article_code=1.DE4.mzZ5.fBwto3WNtIMx",
+      "content_type": "instapaper",
+      "reason": "processing_failure"
+    },
+    {
+      "uid": "32399eda86b07b5c",
+      "title": "A life project, a simple conversation",
+      "source": "instapaper://private-content/1742827083",
+      "content_type": "instapaper",
+      "reason": "private_content_placeholder"
+    },
+    {
+      "uid": "454ee46948a0d391",
+      "title": "🔥AMC!🔥",
+      "source": "instapaper://private-content/1696360634",
+      "content_type": "instapaper",
+      "reason": "private_content_placeholder"
+    },
+    {
+      "uid": "f74ba0411abb861c",
+      "title": "Weekly Dose of Optimism #129",
+      "source": "instapaper://private-content/1750468351",
+      "content_type": "instapaper",
+      "reason": "private_content_placeholder"
+    },
+    {
+      "uid": "829fa7c610b45f23",
+      "title": "Weekly Dose of Optimism #134",
+      "source": "instapaper://private-content/1758912533",
+      "content_type": "instapaper",
+      "reason": "private_content_placeholder"
+    }
+  ]
+}

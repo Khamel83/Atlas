@@ -1,0 +1,34 @@
+{
+  "uid": "efa99ee65ccc3a8a",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/89e10cf43bc1db4e1cb19928877d23e8/",
+  "title": "Epic Systems and Electronic Health Records, Aggregators and Data Portability, Epic’s Privacy Objections (Stratechery Daily Update 1-30-2020)",
+  "status": "converted_from_csv",
+  "date": "2020-01-30T05:41:33",
+  "error": null,
+  "content_path": "output/articles/markdown/efa99ee65ccc3a8a.md",
+  "html_path": "output/articles/html/efa99ee65ccc3a8a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2897,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "dfe6f4f183e09f1df088e2f7a25a1475",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1580391693",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-01-30T05:41:33",
+  "updated_at": "2020-01-30T05:41:33"
+}

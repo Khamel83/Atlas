@@ -1,0 +1,40 @@
+{
+  "uid": "3d570e5657e6b9f0",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/yelp-and-michelin-have-the-same-taste-in-new-york-restaurants/",
+  "title": "Yelp And Michelin Have The Same Taste In New York Restaurants FiveThirtyEight » Features | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2014-10-02T16:02:28",
+  "error": null,
+  "content_path": "output/articles/markdown/3d570e5657e6b9f0.md",
+  "html_path": "output/articles/html/3d570e5657e6b9f0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5107,
+    "selection_length": 340,
+    "cleaned_selection_length": 347,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3d570e5657e6b9f0",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1412290948",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "It’s supposed to be the food fight of the century. In the blue corner we have Yelp, the upstart crowdsourced review site that takes on restaurants of all shapes and sizes. Critics allege that Yelp reviewers are unsophisticated, cheap and obsessed with trivial details of the restaurant experience. But Yelp is a heavyweight. The company […]",
+    "cleaned_selection": "<p>It’s supposed to be the food fight of the century. In the blue corner we have Yelp, the upstart crowdsourced review site that takes on restaurants of all shapes and sizes. Critics allege that Yelp reviewers are unsophisticated, cheap and obsessed with trivial details of the restaurant experience. But Yelp is a heavyweight. The company […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.479001",
+  "updated_at": "2025-08-06T08:47:04.479003"
+}

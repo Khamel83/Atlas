@@ -1,0 +1,34 @@
+{
+  "uid": "d057904c7811107c",
+  "content_type": "web_bookmark",
+  "source": "https://www.bloomberg.com/news/features/2022-08-10/work-from-home-jobs-haven-t-made-things-easier-for-women",
+  "title": "The Work-From-Home Revolution Is Also a Trap for Women",
+  "status": "converted_from_csv",
+  "date": "2022-08-22T21:45:51",
+  "error": null,
+  "content_path": "output/articles/markdown/d057904c7811107c.md",
+  "html_path": "output/articles/html/d057904c7811107c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1265,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4ba9e43242e5e4536a04cd4d47a9c59a",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1661229951",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-08-22T21:45:51",
+  "updated_at": "2022-08-22T21:45:51"
+}

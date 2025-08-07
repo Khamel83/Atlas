@@ -1,0 +1,40 @@
+{
+  "uid": "b26476de43925300",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://ritholtz.com/2020/08/retail-bankruptcies/",
+  "title": "Retail & Restaurant Bankruptcies The Big Picture",
+  "status": "selection_content_extracted",
+  "date": "2020-08-24T18:47:56",
+  "error": null,
+  "content_path": "output/articles/markdown/b26476de43925300.md",
+  "html_path": "output/articles/html/b26476de43925300.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2778,
+    "selection_length": 335,
+    "cleaned_selection_length": 355,
+    "domain": "ritholtz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b26476de43925300",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1598320076",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Both of these graphics, via Yahoo, are shocking. Even worse, they seemingly need to be updated with more bankruptcies each and every week.\n\n \n\nRetail Bankruptcies\n\nSource: Yahoo, August 12, 2020\n\n \n\n \n\nRestaurant Bankruptcies\n\nSource: Yahoo, 30 July 2020\n\n \n\nThe post Retail & Restaurant Bankruptcies appeared first on The Big Picture.",
+    "cleaned_selection": "<p>Both of these graphics, via Yahoo, are shocking. Even worse, they seemingly need to be updated with more bankruptcies each and every week.</p><p>Retail Bankruptcies</p><p>Source: Yahoo, August 12, 2020</p><p>Restaurant Bankruptcies</p><p>Source: Yahoo, 30 July 2020</p><p>The post Retail & Restaurant Bankruptcies appeared first on The Big Picture.</p>",
+    "domain": "ritholtz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.610929",
+  "updated_at": "2025-08-06T08:47:03.610934"
+}

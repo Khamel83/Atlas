@@ -1,0 +1,34 @@
+{
+  "uid": "e61892cdb907026c",
+  "content_type": "web_bookmark",
+  "source": "https://www.outsideonline.com/outdoor-adventure/water-activities/stone-skipping-kurt-steiner/",
+  "title": "Stone Skipping Is a Lost Art. Kurt Steiner Wants the World to Find It. - Outside Online",
+  "status": "converted_from_csv",
+  "date": "2022-10-04T10:31:41",
+  "error": null,
+  "content_path": "output/articles/markdown/e61892cdb907026c.md",
+  "html_path": "output/articles/html/e61892cdb907026c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1213,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7b30d6c3924ad2adc9b48bc4613366a2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1664904701",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-10-04T10:31:41",
+  "updated_at": "2022-10-04T10:31:41"
+}

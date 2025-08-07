@@ -1,0 +1,34 @@
+{
+  "uid": "efc2791c757e7bc9",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/19aabf86abf208ee8f1201ad3b7ce2fc/",
+  "title": "South Dakota v. Wayfair, and Amazon; Wayfair’s Unintended Consequences; Ohio v. American Express, and Tech (Stratechery Daily Update 6-28-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-06-28T03:05:54",
+  "error": null,
+  "content_path": "output/articles/markdown/efc2791c757e7bc9.md",
+  "html_path": "output/articles/html/efc2791c757e7bc9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3464,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a340f2f09f8dba5285b7d5c94171db9b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1530180354",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-06-28T03:05:54",
+  "updated_at": "2018-06-28T03:05:54"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "4ae3640024b3431f",
+  "content_type": "instapaper",
+  "source": "https://www.getrichslowly.org/retirement-planning-guide/",
+  "title": "Free retirement planning guide from Vanguard Get Rich Slowly",
+  "status": "success",
+  "date": "2025-08-05T13:49:48.610449",
+  "error": null,
+  "content_path": "output/articles/markdown/4ae3640024b3431f.md",
+  "html_path": "output/articles/html/4ae3640024b3431f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "91308db0272d1752f63641dd11ab201e",
+  "type_specific": {
+    "bookmark_id": 1049052702,
+    "instapaper_time": 1524876752,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:49:48.610558",
+  "updated_at": "2025-08-05T13:49:48.610562"
+}

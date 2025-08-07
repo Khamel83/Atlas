@@ -1,0 +1,34 @@
+{
+  "uid": "13796adf843084b4",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/98f06ef145830c9f8e7bfe94ad68939f/",
+  "title": "El Andarín Carvajal: Cuban Mailman and Olympic Marathon Folk Hero",
+  "status": "converted_from_csv",
+  "date": "2021-05-04T07:58:57",
+  "error": null,
+  "content_path": "output/articles/markdown/13796adf843084b4.md",
+  "html_path": "output/articles/html/13796adf843084b4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2243,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7838f539124f3a666fcd9d06242e058c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1620140337",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-05-04T07:58:57",
+  "updated_at": "2021-05-04T07:58:57"
+}

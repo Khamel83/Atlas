@@ -1,0 +1,34 @@
+{
+  "uid": "6cec613b889805df",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2017/05/16/magazine/from-wells-fargo-to-fyre-festival-the-scam-economy-is-entering-its-baroque-phase.html",
+  "title": "From Wells Fargo to Fyre Festival, the Scam Economy Is Entering Its Baroque Phase - The New York Times",
+  "status": "converted_from_csv",
+  "date": "2017-05-22T08:00:00",
+  "error": null,
+  "content_path": "output/articles/markdown/6cec613b889805df.md",
+  "html_path": "output/articles/html/6cec613b889805df.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3971,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a2049c2e661fcbd54ad2883399214383",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1495465200",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-05-22T08:00:00",
+  "updated_at": "2017-05-22T08:00:00"
+}

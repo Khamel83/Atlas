@@ -1,0 +1,40 @@
+{
+  "uid": "adda52c86b6ae244",
+  "content_type": "instapaper",
+  "source": "http://marginalrevolution.com/marginalrevolution/2018/04/lessons-from-the-profit.html",
+  "title": "Lessons from “The Profit” Marginal REVOLUTION",
+  "status": "success",
+  "date": "2025-08-05T13:51:00.990193",
+  "error": null,
+  "content_path": "output/articles/markdown/adda52c86b6ae244.md",
+  "html_path": "output/articles/html/adda52c86b6ae244.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "64f0c9582ace15f74ef30bd6701bcaef",
+  "type_specific": {
+    "bookmark_id": 1039423373,
+    "instapaper_time": 1522988388,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:51:00.990258",
+  "updated_at": "2025-08-05T13:51:00.990261"
+}

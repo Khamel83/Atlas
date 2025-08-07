@@ -1,0 +1,42 @@
+{
+  "uid": "0b08420bfcc4ed77",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1698024774",
+  "title": "🔥AMC!!🔥",
+  "status": "success",
+  "date": "2025-08-05T13:33:19.688095",
+  "error": null,
+  "content_path": "output/articles/markdown/0b08420bfcc4ed77.md",
+  "html_path": "output/articles/html/0b08420bfcc4ed77.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7552b64c17d6305aa622faacc6a477ea",
+  "type_specific": {
+    "bookmark_id": 1698024774,
+    "instapaper_time": 1722427416,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:33:19.688112",
+  "updated_at": "2025-08-05T13:33:19.688113"
+}

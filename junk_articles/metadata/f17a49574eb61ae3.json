@@ -1,0 +1,34 @@
+{
+  "uid": "f17a49574eb61ae3",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/39e48debe4f48fb452d5ec6052975592/",
+  "title": "Facebook, Libra, and the Long Game (Stratechery Weekly Article 6-25-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-06-25T07:38:13",
+  "error": null,
+  "content_path": "output/articles/markdown/f17a49574eb61ae3.md",
+  "html_path": "output/articles/html/f17a49574eb61ae3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3101,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1cfd2c8ca06d945aad2c00f0694e7424",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1561473493",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-06-25T07:38:13",
+  "updated_at": "2019-06-25T07:38:13"
+}

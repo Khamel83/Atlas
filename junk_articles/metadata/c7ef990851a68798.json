@@ -1,0 +1,34 @@
+{
+  "uid": "c7ef990851a68798",
+  "content_type": "web_bookmark",
+  "source": "http://grantland.com/features/2015-nba-trade-value-part-1/",
+  "title": "2015 NBA Trade Value, Part 1",
+  "status": "converted_from_csv",
+  "date": "2015-01-23T06:44:45",
+  "error": null,
+  "content_path": "output/articles/markdown/c7ef990851a68798.md",
+  "html_path": "output/articles/html/c7ef990851a68798.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4966,
+    "selection": "2015 NBA Trade Value, Part 1 http://ift.tt/1Ct1syC"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6f920a5888b1eabbe043c11702086f09",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1422024285",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "2015 NBA Trade Value, Part 1 http://ift.tt/1Ct1syC"
+  },
+  "video_id": null,
+  "created_at": "2015-01-23T06:44:45",
+  "updated_at": "2015-01-23T06:44:45"
+}

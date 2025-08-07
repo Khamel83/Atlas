@@ -1,0 +1,34 @@
+{
+  "uid": "187075bad64f4c4c",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/d219238bb33623d7bc2f3361a26fcf5c/",
+  "title": "Introducing the Mike Piazza Zine",
+  "status": "converted_from_csv",
+  "date": "2021-12-02T07:47:26",
+  "error": null,
+  "content_path": "output/articles/markdown/187075bad64f4c4c.md",
+  "html_path": "output/articles/html/187075bad64f4c4c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1787,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9c68cf703c1b06e54a395e0210ca2dee",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1638460046",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-12-02T07:47:26",
+  "updated_at": "2021-12-02T07:47:26"
+}

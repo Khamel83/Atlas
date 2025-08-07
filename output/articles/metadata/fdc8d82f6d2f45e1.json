@@ -1,0 +1,40 @@
+{
+  "uid": "fdc8d82f6d2f45e1",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.core77.com//posts/79323/Womens-Pockets-Really-Suck",
+  "title": "Women's Pockets Really Suck Core77",
+  "status": "selection_content_extracted",
+  "date": "2018-08-21T00:37:58",
+  "error": null,
+  "content_path": "output/articles/markdown/fdc8d82f6d2f45e1.md",
+  "html_path": "output/articles/html/fdc8d82f6d2f45e1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3418,
+    "selection_length": 2446,
+    "cleaned_selection_length": 2503,
+    "domain": "core77.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fdc8d82f6d2f45e1",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1534837078",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Last month at the DMV, I was switching my driver's license over to my new state of residence. The clerk showed me a screen where I could double-check my data, and I saw that she had accidentally listed my gender as female. \"Can you backspace over that,\" I asked, \"or do I have to get the operation?\"\n\nAside from said operation, I think the biggest hassle of switching from male to female would be adjusting to women's clothes. Especially the lack of carrying space. The notion that females should be bereft of usable pocket space and forced to carry a dedicated, expensive storage object--whose fashionableness is meant to invite judgment from others--seems crazy to me.\n\n\"There are few things more frustrating than collecting your belongings only to realize that the pockets in your pants are too small to hold them,\" writes designer Jan Diehm and journalist-engineer Amber Thomas. \"Or worse, the fabric designed to look like a pocket is merely for decoration and doesn't open at all.\" The pair decided to get to the bottom of shallow women's pockets using data: \"[We found] complaints and anecdotes galore but little data illustrating just how inferior women's pockets really are to men's. So, we went there.\"\n\nIn an article in The Pudding, Diehm and Thomas created visualizations based on studying pockets from men and women's pants from 20 popular-in-America brands. By overlaying the pocket shapes of 80 pairs of jeans, they revealed the following:\n\nImage credit: Jan Diehm/Amber Thomas/The Pudding\n\nImage credit: Jan Diehm/Amber Thomas/The Pudding\n\nThey also created an interactive to show how some commonly-carried items do (or don't) fit into each gender's pocket:\n\nImage credit: Jan Diehm/Amber Thomas/The Pudding\n\nWe don't want to steal all of The Pudding's images, and there are plenty more that we recommend you read on their site: Skinny jeans vs. straight, front pockets and rear pockets, a breakdown by brand and more.\n\n\"Pockets, unlike purses, are hidden, private spaces,\" the pair concluded. \"By restricting the space in which women can keep things safe and retain mobility of both hands, we are also restricting their ability to 'navigate public spaces, to carry seditious (or merely amorous) writing, or to travel unaccompanied.' If you think this idea is outdated, think about the last time a woman asked her boyfriend/male friend/anyone in men's pants to carry her phone/wallet/keys on an outing.\n\nRead the full article here.",
+    "cleaned_selection": "<p>Last month at the DMV, I was switching my driver's license over to my new state of residence. The clerk showed me a screen where I could double-check my data, and I saw that she had accidentally listed my gender as female. \"Can you backspace over that,\" I asked, \"or do I have to get the operation?\"</p><p>Aside from said operation, I think the biggest hassle of switching from male to female would be adjusting to women's clothes. Especially the lack of carrying space. The notion that females should be bereft of usable pocket space and forced to carry a dedicated, expensive storage object--whose fashionableness is meant to invite judgment from others--seems crazy to me.</p><p>\"There are few things more frustrating than collecting your belongings only to realize that the pockets in your pants are too small to hold them,\" writes designer Jan Diehm and journalist-engineer Amber Thomas. \"Or worse, the fabric designed to look like a pocket is merely for decoration and doesn't open at all.\" The pair decided to get to the bottom of shallow women's pockets using data: \"[We found] complaints and anecdotes galore but little data illustrating just how inferior women's pockets really are to men's. So, we went there.\"</p><p>In an article in The Pudding, Diehm and Thomas created visualizations based on studying pockets from men and women's pants from 20 popular-in-America brands. By overlaying the pocket shapes of 80 pairs of jeans, they revealed the following:</p><p>Image credit: Jan Diehm/Amber Thomas/The Pudding</p><p>Image credit: Jan Diehm/Amber Thomas/The Pudding</p><p>They also created an interactive to show how some commonly-carried items do (or don't) fit into each gender's pocket:</p><p>Image credit: Jan Diehm/Amber Thomas/The Pudding</p><p>We don't want to steal all of The Pudding's images, and there are plenty more that we recommend you read on their site: Skinny jeans vs. straight, front pockets and rear pockets, a breakdown by brand and more.</p><p>\"Pockets, unlike purses, are hidden, private spaces,\" the pair concluded. \"By restricting the space in which women can keep things safe and retain mobility of both hands, we are also restricting their ability to 'navigate public spaces, to carry seditious (or merely amorous) writing, or to travel unaccompanied.' If you think this idea is outdated, think about the last time a woman asked her boyfriend/male friend/anyone in men's pants to carry her phone/wallet/keys on an outing.</p><p>Read the full article here.</p>",
+    "domain": "core77.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.853118",
+  "updated_at": "2025-08-06T08:47:03.853120"
+}

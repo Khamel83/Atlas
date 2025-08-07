@@ -1,0 +1,34 @@
+{
+  "uid": "122c1cb6fe072521",
+  "content_type": "web_bookmark",
+  "source": "http://www.bloombergview.com/articles/2016-03-24/distressed-desks-and-drug-problems",
+  "title": "Distressed Desks and Drug Problems",
+  "status": "converted_from_csv",
+  "date": "2016-03-24T08:23:51",
+  "error": null,
+  "content_path": "output/articles/markdown/122c1cb6fe072521.md",
+  "html_path": "output/articles/html/122c1cb6fe072521.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4531,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0b477ec0994cabc7dd8915de5114fbcf",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1458833031",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-03-24T08:23:51",
+  "updated_at": "2016-03-24T08:23:51"
+}

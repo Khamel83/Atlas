@@ -1,0 +1,40 @@
+{
+  "uid": "22693c355f35c809",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/datalab/most-police-dont-live-in-the-cities-they-serve/",
+  "title": "Most Police Don’t Live In The Cities They Serve FiveThirtyEight » Nate Silver | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2014-08-20T22:33:06",
+  "error": null,
+  "content_path": "output/articles/markdown/22693c355f35c809.md",
+  "html_path": "output/articles/html/22693c355f35c809.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5161,
+    "selection_length": 350,
+    "cleaned_selection_length": 357,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "22693c355f35c809",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1408599186",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "In Ferguson, Missouri, where protests continue following the shooting of a teenager by a police officer this month, more than two-thirds of the civilian population is black. Only 11 percent of the police force is. The racial disparity is troubling enough on its own, but it’s also suggestive of another type of misrepresentation. Given Ferguson’s […]",
+    "cleaned_selection": "<p>In Ferguson, Missouri, where protests continue following the shooting of a teenager by a police officer this month, more than two-thirds of the civilian population is black. Only 11 percent of the police force is. The racial disparity is troubling enough on its own, but it’s also suggestive of another type of misrepresentation. Given Ferguson’s […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.494226",
+  "updated_at": "2025-08-06T08:47:04.494227"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "565bf2eba42f5a2c",
+  "content_type": "web_bookmark",
+  "source": "http://www.focus.com/images/view/29135/",
+  "title": "WTF Is The Semantic Web? (Infographic)",
+  "status": "converted_from_csv",
+  "date": "2011-06-20T21:39:45",
+  "error": null,
+  "content_path": "output/articles/markdown/565bf2eba42f5a2c.md",
+  "html_path": "output/articles/html/565bf2eba42f5a2c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6167,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "dd4a8668708cfbf6c426a898e8288104",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1308631185",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-06-20T21:39:45",
+  "updated_at": "2011-06-20T21:39:45"
+}

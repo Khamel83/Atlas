@@ -1,0 +1,40 @@
+{
+  "uid": "3946da3fcb66bd40",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.artofmanliness.com/articles/one-handed-bowline-knot/",
+  "title": "How to Tie a One-Handed Bowline Knot The Art of Manliness",
+  "status": "selection_content_extracted",
+  "date": "2019-03-17T00:04:52",
+  "error": null,
+  "content_path": "output/articles/markdown/3946da3fcb66bd40.md",
+  "html_path": "output/articles/html/3946da3fcb66bd40.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3199,
+    "selection_length": 1135,
+    "cleaned_selection_length": 1160,
+    "domain": "artofmanliness.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3946da3fcb66bd40",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1552806292",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The bowline is one of the most useful knots you can know. Simple to tie, and easy to undo, the beauty of the bowline is that it creates a quick loop secured by a knot that tightens when under load. Sailors use the bowline to fasten halyards and other rigging which require a super-secure connection.  \n\nThe one-handed bowline is a technique that allows you to tie the knot using only one hand. Why is that useful? Imagine you’ve slipped and fallen into a rushing river. At the last second, you grab the branch of a tree, but you can’t pull yourself up. A friend tosses you a rope to tie around yourself, but the only knots you can tie would require the use of both hands. With a one-handed bowline, you can secure a loop around your body while still holding onto the branch. In most scenarios this is a survival knot tied around your waist, but it can be adapted to a number of circumstances.  \n\nLike this illustrated guide? Then you’re going to love our book The Illustrated Art of Manliness! Pick up a copy on Amazon.\n\nIllustrated by Ted Slampyak\n\nThe post How to Tie a One-Handed Bowline Knot appeared first on The Art of Manliness.",
+    "cleaned_selection": "<p>The bowline is one of the most useful knots you can know. Simple to tie, and easy to undo, the beauty of the bowline is that it creates a quick loop secured by a knot that tightens when under load. Sailors use the bowline to fasten halyards and other rigging which require a super-secure connection. </p><p>The one-handed bowline is a technique that allows you to tie the knot using only one hand. Why is that useful? Imagine you’ve slipped and fallen into a rushing river. At the last second, you grab the branch of a tree, but you can’t pull yourself up. A friend tosses you a rope to tie around yourself, but the only knots you can tie would require the use of both hands. With a one-handed bowline, you can secure a loop around your body while still holding onto the branch. In most scenarios this is a survival knot tied around your waist, but it can be adapted to a number of circumstances. </p><p>Like this illustrated guide? Then you’re going to love our book The Illustrated Art of Manliness! Pick up a copy on Amazon.</p><p>Illustrated by Ted Slampyak</p><p>The post How to Tie a One-Handed Bowline Knot appeared first on The Art of Manliness.</p>",
+    "domain": "artofmanliness.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.780821",
+  "updated_at": "2025-08-06T08:47:03.780822"
+}

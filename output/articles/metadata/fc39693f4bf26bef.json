@@ -1,0 +1,40 @@
+{
+  "uid": "fc39693f4bf26bef",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/05/ultimate-rewards-hotel-stay/",
+  "title": "Redeeming Ultimate Rewards Points for a Free Hotel Stay The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-05-20T07:05:02",
+  "error": null,
+  "content_path": "output/articles/markdown/fc39693f4bf26bef.md",
+  "html_path": "output/articles/html/fc39693f4bf26bef.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4851,
+    "selection_length": 376,
+    "cleaned_selection_length": 383,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fc39693f4bf26bef",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1432130702",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Chase offers many different options for redeeming your Ultimate Rewards points, but some are better deals than others. Today, TPG Senior Points & Miles Correspondent Nick Ewen shares his tips for getting the most out of this incredibly valuable currency. Flexible point currencies such as Chase Ultimate Rewards and American Express Membership Rewards can be a blessing and...",
+    "cleaned_selection": "<p>Chase offers many different options for redeeming your Ultimate Rewards points, but some are better deals than others. Today, TPG Senior Points & Miles Correspondent Nick Ewen shares his tips for getting the most out of this incredibly valuable currency. Flexible point currencies such as Chase Ultimate Rewards and American Express Membership Rewards can be a blessing and...</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.411151",
+  "updated_at": "2025-08-06T08:47:04.411152"
+}

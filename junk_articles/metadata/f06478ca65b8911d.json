@@ -1,0 +1,34 @@
+{
+  "uid": "f06478ca65b8911d",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/429c96314e1e2265a26dfeb83d8406f7/",
+  "title": "Meet the Censored: Hitler",
+  "status": "converted_from_csv",
+  "date": "2021-07-30T12:47:53",
+  "error": null,
+  "content_path": "output/articles/markdown/f06478ca65b8911d.md",
+  "html_path": "output/articles/html/f06478ca65b8911d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2063,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "181d0836a9430ea7c56f366a64006cab",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1627674473",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-07-30T12:47:53",
+  "updated_at": "2021-07-30T12:47:53"
+}

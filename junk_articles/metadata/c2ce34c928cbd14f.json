@@ -1,0 +1,34 @@
+{
+  "uid": "c2ce34c928cbd14f",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0ace718c4cb2dd0aefadabccfd1caf43/",
+  "title": "Callin Discussion: The Ukraine Mess, With Matt Bivens",
+  "status": "converted_from_csv",
+  "date": "2022-01-26T17:13:44",
+  "error": null,
+  "content_path": "output/articles/markdown/c2ce34c928cbd14f.md",
+  "html_path": "output/articles/html/c2ce34c928cbd14f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1654,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c74d0bb69f8e5a3cebb1e9721fd8457d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1643246024",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-01-26T17:13:44",
+  "updated_at": "2022-01-26T17:13:44"
+}

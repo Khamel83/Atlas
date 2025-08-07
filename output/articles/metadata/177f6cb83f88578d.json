@@ -1,0 +1,42 @@
+{
+  "uid": "177f6cb83f88578d",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1694683692",
+  "title": "💥\"Where did you dig up that old Fossil?\" - Han Solo💥",
+  "status": "success",
+  "date": "2025-08-05T13:33:46.000577",
+  "error": null,
+  "content_path": "output/articles/markdown/177f6cb83f88578d.md",
+  "html_path": "output/articles/html/177f6cb83f88578d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4709e03d9f069772510206fd72f906d8",
+  "type_specific": {
+    "bookmark_id": 1694683692,
+    "instapaper_time": 1721217989,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:33:46.000784",
+  "updated_at": "2025-08-05T13:33:46.000787"
+}

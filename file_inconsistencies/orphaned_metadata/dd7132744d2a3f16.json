@@ -1,0 +1,32 @@
+{
+  "uid": "dd7132744d2a3f16",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1693963838",
+  "title": "🔥PE on PE Violence🔥",
+  "status": "error",
+  "date": "2025-08-05T12:41:28.410709",
+  "error": "Failed to fetch content for '🔥PE on PE Violence🔥' from instapaper://private-content/1693963838: No connection adapters were found for 'instapaper://private-content/1693963838'",
+  "content_path": null,
+  "html_path": null,
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "unknown",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": null,
+    "is_truncated": false,
+    "total_attempts": 0,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": null,
+  "type_specific": {
+    "bookmark_id": 1693963838
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T12:41:28.410713",
+  "updated_at": "2025-08-05T12:41:28.433948"
+}

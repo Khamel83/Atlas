@@ -48,24 +48,24 @@ def extract_text_with_unstructured(filepath: str) -> dict:
     """
     Extracts text and metadata from a document using Unstructured.
     Supports PDF, Word, HTML, and 20+ document types.
-    
+
     Args:
         filepath: Path to the document file
-        
+
     Returns:
         dict: Contains 'text', 'metadata', and optionally 'error'
     """
     try:
         elements = partition(filename=filepath)
-        
+
         # Extract text from elements
         text_content = []
         for element in elements:
             if element.text:
                 text_content.append(element.text)
-        
+
         text = "\n".join(text_content)
-        
+
         # Build metadata
         metadata = {
             "element_count": len(elements),
@@ -74,14 +74,14 @@ def extract_text_with_unstructured(filepath: str) -> dict:
             "extraction_method": "unstructured",
             "element_types": list(set(type(el).__name__ for el in elements))
         }
-        
+
         logger.info(f"Successfully extracted {len(text)} characters from {filepath}")
         return {"text": text, "metadata": metadata}
-        
+
     except Exception as e:
         logger.error(f"Failed to extract text from {filepath}: {e}")
         return {
-            "error": str(e), 
+            "error": str(e),
             "metadata": {
                 "source_file": Path(filepath).name,
                 "extraction_method": "unstructured",
@@ -132,38 +132,38 @@ def normalize_url(url: str) -> str:
         'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term',
         'fbclid', 'gclid', 'ref', 'source', 'campaign'
     ]
-    
+
     # Basic URL normalization
     normalized = url.lower().strip()
-    
+
     # Remove tracking parameters (simplified)
     for param in tracking_params:
         normalized = re.sub(f'[?&]{param}=[^&]*', '', normalized)
-    
+
     # Remove fragments
     normalized = normalized.split('#')[0]
-    
+
     # Remove trailing slash and query separators
     normalized = normalized.rstrip('/?&')
-    
+
     return normalized
 
 def jaccard_similarity(text1: str, text2: str) -> float:
     """Calculate Jaccard similarity between two text strings."""
     if not text1 or not text2:
         return 0.0
-    
+
     # Convert to word sets
     words1 = set(text1.lower().split())
     words2 = set(text2.lower().split())
-    
+
     # Calculate Jaccard similarity
     intersection = words1 & words2
     union = words1 | words2
-    
+
     if not union:
         return 0.0
-    
+
     return len(intersection) / len(union)
 
 def content_hash(text: str) -> str:
@@ -172,19 +172,19 @@ def content_hash(text: str) -> str:
     normalized = re.sub(r'\s+', ' ', text.lower().strip())
     return hashlib.md5(normalized.encode()).hexdigest()
 
-def detect_duplicate(doc_a: dict, doc_b: dict, 
+def detect_duplicate(doc_a: dict, doc_b: dict,
                     url_threshold: float = 0.9,
                     content_threshold: float = 0.8,
                     title_threshold: float = 0.7) -> DuplicateScore:
     """
     Detect if two documents are duplicates using multiple similarity metrics.
-    
+
     Args:
         doc_a, doc_b: Documents with 'url', 'title', and 'content' keys
         url_threshold: Threshold for URL similarity
         content_threshold: Threshold for content similarity
         title_threshold: Threshold for title similarity
-        
+
     Returns:
         DuplicateScore with similarity metrics and duplicate determination
     """
@@ -193,22 +193,22 @@ def detect_duplicate(doc_a: dict, doc_b: dict,
         normalize_url(doc_a.get('url', '')),
         normalize_url(doc_b.get('url', ''))
     )
-    
+
     # Content similarity
     content_sim = jaccard_similarity(
         doc_a.get('content', ''),
         doc_b.get('content', '')
     )
-    
+
     # Title similarity
     title_sim = jaccard_similarity(
         doc_a.get('title', ''),
         doc_b.get('title', '')
     )
-    
+
     # Calculate overall score (weighted average)
     overall_score = (url_sim * 0.3 + content_sim * 0.5 + title_sim * 0.2)
-    
+
     # Determine if duplicate
     is_duplicate = (
         url_sim >= url_threshold or
@@ -216,7 +216,7 @@ def detect_duplicate(doc_a: dict, doc_b: dict,
         title_sim >= title_threshold or
         overall_score >= 0.7
     )
-    
+
     return DuplicateScore(
         url_similarity=url_sim,
         content_similarity=content_sim,
@@ -228,21 +228,21 @@ def detect_duplicate(doc_a: dict, doc_b: dict,
 def find_duplicates_in_batch(documents: List[dict]) -> List[Tuple[int, int, DuplicateScore]]:
     """
     Find all duplicate pairs in a batch of documents.
-    
+
     Args:
         documents: List of documents with 'url', 'title', and 'content'
-        
+
     Returns:
         List of tuples (index_a, index_b, duplicate_score) for duplicate pairs
     """
     duplicates = []
-    
+
     for i in range(len(documents)):
         for j in range(i + 1, len(documents)):
             score = detect_duplicate(documents[i], documents[j])
             if score.is_duplicate:
                 duplicates.append((i, j, score))
-    
+
     return duplicates
 ```
 
@@ -273,13 +273,13 @@ logger = logging.getLogger(__name__)
 
 class AtlasSearchIndex:
     """Atlas-specific Meilisearch integration."""
-    
-    def __init__(self, url: str = "http://127.0.0.1:7700", 
+
+    def __init__(self, url: str = "http://127.0.0.1:7700",
                  master_key: Optional[str] = None,
                  index_name: str = "atlas_documents"):
         """
         Initialize Meilisearch client.
-        
+
         Args:
             url: Meilisearch server URL
             master_key: Master key for authentication
@@ -289,7 +289,7 @@ class AtlasSearchIndex:
         self.index_name = index_name
         self.index = self.client.index(index_name)
         self._setup_index()
-    
+
     def _setup_index(self):
         """Configure the search index with appropriate settings."""
         try:
@@ -299,7 +299,7 @@ class AtlasSearchIndex:
             if "already exists" not in str(e):
                 logger.error(f"Failed to create index: {e}")
                 raise
-        
+
         # Configure searchable attributes
         self.index.update_searchable_attributes([
             'title',
@@ -308,7 +308,7 @@ class AtlasSearchIndex:
             'tags',
             'entities'
         ])
-        
+
         # Configure filterable attributes
         self.index.update_filterable_attributes([
             'source',
@@ -317,24 +317,24 @@ class AtlasSearchIndex:
             'content_type',
             'tags'
         ])
-        
+
         # Configure sortable attributes
         self.index.update_sortable_attributes([
             'date',
             'title'
         ])
-        
+
         logger.info(f"Search index '{self.index_name}' configured successfully")
-    
+
     def index_document(self, doc_id: str, content: str, metadata: Dict[str, Any]) -> bool:
         """
         Index a single document with text and metadata.
-        
+
         Args:
             doc_id: Unique document identifier
             content: Document text content
             metadata: Document metadata (title, source, etc.)
-            
+
         Returns:
             bool: True if indexing succeeded
         """
@@ -353,28 +353,28 @@ class AtlasSearchIndex:
                 "summary": metadata.get("summary", ""),
                 "word_count": len(content.split()) if content else 0
             }
-            
+
             # Add to index
             self.index.add_documents([document])
             logger.info(f"Successfully indexed document {doc_id}")
             return True
-            
+
         except Exception as e:
             logger.error(f"Failed to index document {doc_id}: {e}")
             return False
-    
-    def search(self, query: str, limit: int = 20, 
+
+    def search(self, query: str, limit: int = 20,
                filters: Optional[str] = None,
                sort: Optional[List[str]] = None) -> Dict[str, Any]:
         """
         Search the index for documents matching the query.
-        
+
         Args:
             query: Search query string
             limit: Maximum number of results
             filters: Filter expression (e.g., "category = 'tech'")
             sort: Sort criteria (e.g., ['date:desc'])
-            
+
         Returns:
             dict: Search results with hits and metadata
         """
@@ -385,30 +385,30 @@ class AtlasSearchIndex:
                 'attributesToCrop': ['content'],
                 'cropLength': 200
             }
-            
+
             if filters:
                 search_params['filter'] = filters
-            
+
             if sort:
                 search_params['sort'] = sort
-            
+
             results = self.index.search(query, search_params)
-            
+
             logger.info(f"Search for '{query}' returned {len(results['hits'])} results")
             return results
-            
+
         except Exception as e:
             logger.error(f"Search failed for query '{query}': {e}")
             return {"hits": [], "query": query, "error": str(e)}
-    
+
     def update_document(self, doc_id: str, updates: Dict[str, Any]) -> bool:
         """
         Update an existing document in the index.
-        
+
         Args:
             doc_id: Document identifier
             updates: Fields to update
-            
+
         Returns:
             bool: True if update succeeded
         """
@@ -420,14 +420,14 @@ class AtlasSearchIndex:
         except Exception as e:
             logger.error(f"Failed to update document {doc_id}: {e}")
             return False
-    
+
     def delete_document(self, doc_id: str) -> bool:
         """
         Delete a document from the index.
-        
+
         Args:
             doc_id: Document identifier
-            
+
         Returns:
             bool: True if deletion succeeded
         """
@@ -438,7 +438,7 @@ class AtlasSearchIndex:
         except Exception as e:
             logger.error(f"Failed to delete document {doc_id}: {e}")
             return False
-    
+
     def get_stats(self) -> Dict[str, Any]:
         """Get index statistics."""
         try:
@@ -462,16 +462,16 @@ def initialize_search_index(config: Dict[str, Any]) -> AtlasSearchIndex:
         index_name=config.get("SEARCH_INDEX_NAME", "atlas_documents")
     )
 
-def index_processed_content(search_index: AtlasSearchIndex, 
+def index_processed_content(search_index: AtlasSearchIndex,
                           content_path: str, metadata_path: str) -> bool:
     """
     Index processed content from Atlas output files.
-    
+
     Args:
         search_index: Configured search index
         content_path: Path to content file (.md)
         metadata_path: Path to metadata file (.json)
-        
+
     Returns:
         bool: True if indexing succeeded
     """
@@ -479,16 +479,16 @@ def index_processed_content(search_index: AtlasSearchIndex,
         # Read content
         with open(content_path, 'r', encoding='utf-8') as f:
             content = f.read()
-        
+
         # Read metadata
         with open(metadata_path, 'r', encoding='utf-8') as f:
             metadata = json.load(f)
-        
+
         # Generate document ID from file path
         doc_id = os.path.basename(content_path).replace('.md', '')
-        
+
         return search_index.index_document(doc_id, content, metadata)
-        
+
     except Exception as e:
         logger.error(f"Failed to index content from {content_path}: {e}")
         return False
@@ -537,11 +537,11 @@ logger = logging.getLogger(__name__)
 
 class WhisperTranscriber:
     """Local audio transcription using OpenAI Whisper."""
-    
+
     def __init__(self, model_size: str = "base", device: str = "auto"):
         """
         Initialize Whisper transcriber.
-        
+
         Args:
             model_size: Whisper model size (tiny, base, small, medium, large)
             device: Device to use (auto, cpu, cuda)
@@ -550,7 +550,7 @@ class WhisperTranscriber:
         self.device = device
         self.model = None
         self._load_model()
-    
+
     def _load_model(self):
         """Load the Whisper model."""
         try:
@@ -560,38 +560,38 @@ class WhisperTranscriber:
         except Exception as e:
             logger.error(f"Failed to load Whisper model: {e}")
             raise
-    
-    def transcribe_audio(self, filepath: str, 
+
+    def transcribe_audio(self, filepath: str,
                         language: Optional[str] = None,
                         task: str = "transcribe") -> Dict[str, Any]:
         """
         Transcribe audio file using Whisper.
-        
+
         Args:
             filepath: Path to audio file
             language: Language code (e.g., 'en', 'es') or None for auto-detection
             task: 'transcribe' or 'translate'
-            
+
         Returns:
             dict: Transcription results with text, segments, and metadata
         """
         try:
             if not os.path.exists(filepath):
                 raise FileNotFoundError(f"Audio file not found: {filepath}")
-            
+
             logger.info(f"Transcribing audio file: {filepath}")
-            
+
             # Transcribe audio
             options = {
                 "task": task,
                 "fp16": False,  # Use fp32 for better compatibility
             }
-            
+
             if language:
                 options["language"] = language
-            
+
             result = self.model.transcribe(filepath, **options)
-            
+
             # Process results
             transcription_data = {
                 "text": result["text"].strip(),
@@ -606,10 +606,10 @@ class WhisperTranscriber:
                     "word_count": len(result["text"].split())
                 }
             }
-            
+
             logger.info(f"Transcription completed: {len(transcription_data['text'])} characters")
             return transcription_data
-            
+
         except Exception as e:
             logger.error(f"Transcription failed for {filepath}: {e}")
             return {
@@ -620,11 +620,11 @@ class WhisperTranscriber:
                     "model_size": self.model_size
                 }
             }
-    
+
     def _process_segments(self, segments: List[Dict]) -> List[Dict]:
         """Process and clean transcription segments."""
         processed_segments = []
-        
+
         for segment in segments:
             processed_segment = {
                 "id": segment.get("id", 0),
@@ -633,7 +633,7 @@ class WhisperTranscriber:
                 "text": segment.get("text", "").strip(),
                 "confidence": segment.get("avg_logprob", 0.0)
             }
-            
+
             # Add word-level timestamps if available
             if "words" in segment:
                 processed_segment["words"] = [
@@ -645,61 +645,61 @@ class WhisperTranscriber:
                     }
                     for word in segment["words"]
                 ]
-            
+
             processed_segments.append(processed_segment)
-        
+
         return processed_segments
-    
+
     def _get_audio_duration(self, result: Dict) -> float:
         """Extract audio duration from transcription result."""
         segments = result.get("segments", [])
         if segments:
             return segments[-1].get("end", 0.0)
         return 0.0
-    
-    def transcribe_with_timestamps(self, filepath: str, 
+
+    def transcribe_with_timestamps(self, filepath: str,
                                  output_format: str = "srt") -> Dict[str, Any]:
         """
         Transcribe audio with timestamp formatting.
-        
+
         Args:
             filepath: Path to audio file
             output_format: Output format (srt, vtt, txt, json)
-            
+
         Returns:
             dict: Transcription with formatted timestamps
         """
         try:
             # Get basic transcription
             result = self.transcribe_audio(filepath)
-            
+
             if "error" in result:
                 return result
-            
+
             # Create temporary directory for output
             with tempfile.TemporaryDirectory() as temp_dir:
                 # Write formatted output
                 writer = get_writer(output_format, temp_dir)
-                
+
                 # Reconstruct whisper result format for writer
                 whisper_result = {
                     "text": result["text"],
                     "segments": result["segments"],
                     "language": result["language"]
                 }
-                
+
                 output_file = os.path.join(temp_dir, f"transcript.{output_format}")
                 writer(whisper_result, output_file)
-                
+
                 # Read formatted output
                 with open(output_file, 'r', encoding='utf-8') as f:
                     formatted_content = f.read()
-                
+
                 result["formatted_transcript"] = formatted_content
                 result["format"] = output_format
-                
+
                 return result
-                
+
         except Exception as e:
             logger.error(f"Timestamp transcription failed for {filepath}: {e}")
             return {"error": str(e), "metadata": {"file_path": filepath, "failed": True}}
@@ -712,46 +712,46 @@ def create_transcriber(config: Dict[str, Any]) -> WhisperTranscriber:
         device=config.get("WHISPER_DEVICE", "auto")
     )
 
-def transcribe_podcast_episode(audio_path: str, 
+def transcribe_podcast_episode(audio_path: str,
                              output_dir: str,
                              transcriber: WhisperTranscriber) -> Dict[str, Any]:
     """
     Transcribe a podcast episode and save results.
-    
+
     Args:
         audio_path: Path to audio file
         output_dir: Directory to save transcription
         transcriber: Configured transcriber
-        
+
     Returns:
         dict: Transcription results and file paths
     """
     try:
         # Transcribe audio
         result = transcriber.transcribe_audio(audio_path)
-        
+
         if "error" in result:
             return result
-        
+
         # Generate output paths
         base_name = Path(audio_path).stem
         transcript_path = os.path.join(output_dir, f"{base_name}_transcript.txt")
         metadata_path = os.path.join(output_dir, f"{base_name}_transcript_metadata.json")
-        
+
         # Save transcript
         with open(transcript_path, 'w', encoding='utf-8') as f:
             f.write(result["text"])
-        
+
         # Save metadata
         with open(metadata_path, 'w', encoding='utf-8') as f:
             json.dump(result["metadata"], f, indent=2)
-        
+
         result["transcript_path"] = transcript_path
         result["metadata_path"] = metadata_path
-        
+
         logger.info(f"Transcription saved to {transcript_path}")
         return result
-        
+
     except Exception as e:
         logger.error(f"Failed to transcribe podcast episode {audio_path}: {e}")
         return {"error": str(e), "audio_path": audio_path}
@@ -880,10 +880,10 @@ Add health checks for new services:
 ```python
 def check_meilisearch_health():
     """Check if Meilisearch is running and accessible."""
-    
+
 def check_whisper_models():
     """Verify Whisper models are available."""
-    
+
 def check_integration_dependencies():
     """Verify all integration dependencies are installed."""
 ```
@@ -933,4 +933,4 @@ logging.getLogger('unstructured').setLevel(logging.INFO)
 
 ---
 
-This integration guide provides a comprehensive roadmap for enhancing Atlas with cutting-edge capabilities while maintaining its core principles of local-first processing and privacy preservation. 
+This integration guide provides a comprehensive roadmap for enhancing Atlas with cutting-edge capabilities while maintaining its core principles of local-first processing and privacy preservation.

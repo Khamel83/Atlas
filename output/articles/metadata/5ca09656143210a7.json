@@ -1,0 +1,40 @@
+{
+  "uid": "5ca09656143210a7",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1095660775",
+  "title": "Fortnite Skips Google Play, Netflix Explores Bypassing iTunes, Big Names and Long Tails (Stratechery Daily Update 8-23-2018)",
+  "status": "success",
+  "date": "2025-08-05T14:06:33.036024",
+  "error": null,
+  "content_path": "output/articles/markdown/5ca09656143210a7.md",
+  "html_path": "output/articles/html/5ca09656143210a7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "56f36921716be1da7c7dd8f2edbf7d08",
+  "type_specific": {
+    "bookmark_id": 1095660775,
+    "instapaper_time": 1535028509,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Stratechery"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:06:33.036424",
+  "updated_at": "2025-08-05T14:06:33.036430"
+}

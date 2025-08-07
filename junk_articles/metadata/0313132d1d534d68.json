@@ -1,0 +1,34 @@
+{
+  "uid": "0313132d1d534d68",
+  "content_type": "web_bookmark",
+  "source": "http://www.bloombergview.com/articles/2016-04-25/investing-robots-and-goldman-deposits",
+  "title": "Investing Robots and Goldman Deposits",
+  "status": "converted_from_csv",
+  "date": "2016-04-25T14:41:18",
+  "error": null,
+  "content_path": "output/articles/markdown/0313132d1d534d68.md",
+  "html_path": "output/articles/html/0313132d1d534d68.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4463,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ef76b971b6bdd6bf7cf8db99a8d5bdf4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1461620478",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-04-25T14:41:18",
+  "updated_at": "2016-04-25T14:41:18"
+}

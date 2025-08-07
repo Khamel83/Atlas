@@ -1,0 +1,34 @@
+{
+  "uid": "550e459fb10ec072",
+  "content_type": "web_bookmark",
+  "source": "http://www.theverge.com/2014/9/17/6338403/zero-calorie-blood-sugar-risk",
+  "title": "Zero-calorie sweeteners may trigger blood sugar risk by screwing with gut bacteria The Verge - All Posts",
+  "status": "converted_from_csv",
+  "date": "2014-09-17T22:18:14",
+  "error": null,
+  "content_path": "output/articles/markdown/550e459fb10ec072.md",
+  "html_path": "output/articles/html/550e459fb10ec072.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5134,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1d0bb6a93f0d6dde091e07d6f8084407",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1411017494",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-09-17T22:18:14",
+  "updated_at": "2014-09-17T22:18:14"
+}

@@ -1,0 +1,28 @@
+{
+  "uid": "d0f9e39f2528f8a3",
+  "content_type": "instapaper_archive_additional_content",
+  "source": "https://www.nytimes.com/2025/08/01/business/ai-digital-labor.html",
+  "title": "Where Human Labor Meets ‘Digital Labor’",
+  "status": "success",
+  "date": "2025-08-06T13:40:59.385078",
+  "error": null,
+  "content_path": "output/articles/markdown/d0f9e39f2528f8a3.md",
+  "html_path": "output/articles/html/d0f9e39f2528f8a3.html",
+  "fetch_method": "instapaper_api_archive_folder_maximization",
+  "fetch_details": {
+    "bookmark_id": 1871942583,
+    "content_length": 5095,
+    "successful": true,
+    "extraction_batch": "maximization_discovery",
+    "folder": "archive"
+  },
+  "type_specific": {
+    "bookmark_id": 1871942583,
+    "instapaper_time": 1754250712,
+    "folder": "archive",
+    "content_length": 5095,
+    "discovery_method": "folder_deep_dive"
+  },
+  "created_at": "2025-08-06T13:40:59.385085",
+  "updated_at": "2025-08-06T13:40:59.385086"
+}

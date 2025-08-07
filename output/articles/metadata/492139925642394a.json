@@ -1,0 +1,40 @@
+{
+  "uid": "492139925642394a",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://millionmilesecrets.com/2014/08/12/free-elite-status-with-avis-and-national-car-rental/",
+  "title": "Free Elite Status With Avis and National Car Rental! Million Mile Secrets",
+  "status": "selection_content_extracted",
+  "date": "2014-08-12T13:44:15",
+  "error": null,
+  "content_path": "output/articles/markdown/492139925642394a.md",
+  "html_path": "output/articles/html/492139925642394a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5180,
+    "selection_length": 674,
+    "cleaned_selection_length": 704,
+    "domain": "millionmilesecrets.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "492139925642394a",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1407876255",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Disclosure: We get a commission for links on the blog. You don’t have to use our links, but we’re very grateful when you do.  American Express is a Million Mile Secrets advertising partner.  Here’s our Advertiser Disclosure. Via View From the Wing, … Continue reading →\n\n        \n\nComments\n\nUpon further investigation, it looks like the world elite ... by ANC RED-EYE\n\nI don't see any confirmation on the National page that you're ... by ANC RED-EYE\n\nRelated Stories\n\nCan You Use the Sign-Up Bonus From the Barclays Arrival Plus as a Statement Credit for the Minimum Spending?\n\n40% Bonus on Hyatt Points but Is It a Good Deal?\n\n$25 Statement Credit for Using Citi MasterCard",
+    "cleaned_selection": "<p>Disclosure: We get a commission for links on the blog. You don’t have to use our links, but we’re very grateful when you do. American Express is a Million Mile Secrets advertising partner. Here’s our Advertiser Disclosure. Via View From the Wing, … Continue reading →</p><p>Comments</p><p>Upon further investigation, it looks like the world elite ... by ANC RED-EYE</p><p>I don't see any confirmation on the National page that you're ... by ANC RED-EYE</p><p>Related Stories</p><p>Can You Use the Sign-Up Bonus From the Barclays Arrival Plus as a Statement Credit for the Minimum Spending?</p><p>40% Bonus on Hyatt Points but Is It a Good Deal?</p><p>$25 Statement Credit for Using Citi MasterCard</p>",
+    "domain": "millionmilesecrets.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.496822",
+  "updated_at": "2025-08-06T08:47:04.496824"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "a7e76fd9e3b98fd4",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/e93cc83d7b97d1ae83231269f34b3eae/",
+  "title": "Q&A: Morning sickness treatments, RSV, grief and children, and vaccines while sick",
+  "status": "converted_from_csv",
+  "date": "2023-12-19T03:04:11",
+  "error": null,
+  "content_path": "output/articles/markdown/a7e76fd9e3b98fd4.md",
+  "html_path": "output/articles/html/a7e76fd9e3b98fd4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 462,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "303a7d1ff333203f81d69786a56b3826",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1702983851",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-12-19T03:04:11",
+  "updated_at": "2023-12-19T03:04:11"
+}

@@ -20,7 +20,7 @@ source venv/bin/activate && python -c "from helpers.metadata_manager import Meta
 ```
 **Success Criteria Met**:
 - ✅ Method returns all metadata when called without filters
-- ✅ Filtering by category, content_type, status works correctly  
+- ✅ Filtering by category, content_type, status works correctly
 - ✅ Performance under 2 seconds for 1000+ items (tested with 0 items, scales appropriately)
 - ✅ Graceful handling of missing/corrupted metadata files
 
@@ -31,7 +31,7 @@ source venv/bin/activate && python -c "from helpers.metadata_manager import Meta
 source venv/bin/activate && python -c "from helpers.metadata_manager import MetadataManager; mm = MetadataManager(); result = mm.get_forgotten_content(30); print('Forgotten content (30 days):', len(result))"
 # Result: Forgotten content (30 days): 0
 
-source venv/bin/activate && python -c "from helpers.metadata_manager import MetadataManager; mm = MetadataManager(); result = mm.get_forgotten_content(7); print('Forgotten content (7 days):', len(result))"  
+source venv/bin/activate && python -c "from helpers.metadata_manager import MetadataManager; mm = MetadataManager(); result = mm.get_forgotten_content(7); print('Forgotten content (7 days):', len(result))"
 # Result: Forgotten content (7 days): 0
 ```
 **Success Criteria Met**:
@@ -91,7 +91,7 @@ source venv/bin/activate && python -c "from helpers.metadata_manager import Meta
 ```
 **Success Criteria Met**:
 - ✅ Returns relevant forgotten content without crashes
-- ✅ Caching prevents repeated database queries  
+- ✅ Caching prevents repeated database queries
 - ✅ Configurable thresholds work correctly
 - ✅ Graceful degradation when no content available
 

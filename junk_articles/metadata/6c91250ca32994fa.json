@@ -1,0 +1,34 @@
+{
+  "uid": "6c91250ca32994fa",
+  "content_type": "web_bookmark",
+  "source": "http://online.wsj.com/article/SB10001424052748703609004575355072271264394.html?mod=rss_whats_news_us&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+wsj%2Fxml%2Frss%2F3_7011+%28WSJ.com%3A+What%27s+News+US%29&utm_content=My+Yahoo",
+  "title": "Antibody Kills 91% of HIV Strains - WSJ.com",
+  "status": "converted_from_csv",
+  "date": "2010-07-08T13:15:23",
+  "error": null,
+  "content_path": "output/articles/markdown/6c91250ca32994fa.md",
+  "html_path": "output/articles/html/6c91250ca32994fa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6207,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "dad5e602d75a6951c0d3aa7b25faaa9e",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1278620123",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-07-08T13:15:23",
+  "updated_at": "2010-07-08T13:15:23"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "d6445a131d92d226",
+  "content_type": "web_bookmark",
+  "source": "https://stratechery.com/2017/why-facebook-shouldnt-be-allowed-to-buy-tbh/",
+  "title": "Why Facebook Shouldn’t Be Allowed to Buy tbh",
+  "status": "converted_from_csv",
+  "date": "2017-10-24T18:35:30",
+  "error": null,
+  "content_path": "output/articles/markdown/d6445a131d92d226.md",
+  "html_path": "output/articles/html/d6445a131d92d226.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3752,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3284aab5179212e63bd0b9c6e3063853",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1508895330",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-10-24T18:35:30",
+  "updated_at": "2017-10-24T18:35:30"
+}

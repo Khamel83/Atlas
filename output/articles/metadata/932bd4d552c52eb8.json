@@ -1,0 +1,40 @@
+{
+  "uid": "932bd4d552c52eb8",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3513510/",
+  "title": "Enhancing Sibling Relationships to Prevent Adolescent Problem Behaviors: Theory, Design and Feasibility of Siblings Are Special",
+  "status": "selection_content_extracted",
+  "date": "2024-03-31T23:35:10",
+  "error": null,
+  "content_path": "output/articles/markdown/932bd4d552c52eb8.md",
+  "html_path": "output/articles/html/932bd4d552c52eb8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 327,
+    "selection_length": 148,
+    "cleaned_selection_length": 155,
+    "domain": "ncbi.nlm.nih.gov",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "932bd4d552c52eb8",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1711953310",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Indeed, children in the U.S. today are more likely to live in a household with a sibling than with a father (McHale, Kim, Whiteman & Crouter, 2007).",
+    "cleaned_selection": "<p>Indeed, children in the U.S. today are more likely to live in a household with a sibling than with a father (McHale, Kim, Whiteman & Crouter, 2007).</p>",
+    "domain": "ncbi.nlm.nih.gov",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.559935",
+  "updated_at": "2025-08-06T08:47:03.559937"
+}

@@ -105,13 +105,13 @@ def create_sample_opml() -> str:
         </head>
         <body>
             <outline text="Technology" title="Technology">
-                <outline text="Test Podcast 1" 
+                <outline text="Test Podcast 1"
                          title="Test Podcast 1"
-                         type="rss" 
+                         type="rss"
                          xmlUrl="https://example.com/feed1.rss" />
-                <outline text="Test Podcast 2" 
+                <outline text="Test Podcast 2"
                          title="Test Podcast 2"
-                         type="rss" 
+                         type="rss"
                          xmlUrl="https://example.com/feed2.rss" />
             </outline>
         </body>
@@ -132,8 +132,8 @@ def create_sample_rss_feed() -> str:
                 <description>Test episode description</description>
                 <link>https://example.com/episode1</link>
                 <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
-                <enclosure url="https://example.com/episode1.mp3" 
-                          type="audio/mpeg" 
+                <enclosure url="https://example.com/episode1.mp3"
+                          type="audio/mpeg"
                           length="1000000" />
             </item>
         </channel>

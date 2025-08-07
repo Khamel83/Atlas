@@ -1,0 +1,34 @@
+{
+  "uid": "a9163f5c7ca2fb9a",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/7fd74c536e02527d2fce44a7de8892cc/",
+  "title": "Instagram turns 10",
+  "status": "converted_from_csv",
+  "date": "2020-10-06T17:06:51",
+  "error": null,
+  "content_path": "output/articles/markdown/a9163f5c7ca2fb9a.md",
+  "html_path": "output/articles/html/a9163f5c7ca2fb9a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2739,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a44c87dbb50db1a21dab5023867e04f1",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1602029211",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-10-06T17:06:51",
+  "updated_at": "2020-10-06T17:06:51"
+}

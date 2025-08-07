@@ -1,0 +1,34 @@
+{
+  "uid": "88201cd579806ac8",
+  "content_type": "web_bookmark",
+  "source": "https://theringer.com/how-betaworks-makes-the-internet-a-better-place-b3b8ce231fe2",
+  "title": "How Betaworks Makes the Internet a Better Place — The Ringer",
+  "status": "converted_from_csv",
+  "date": "2016-06-29T07:39:28",
+  "error": null,
+  "content_path": "output/articles/markdown/88201cd579806ac8.md",
+  "html_path": "output/articles/html/88201cd579806ac8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4394,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6e2b71a336f2fd7ddc3314f07c557016",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1467211168",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-06-29T07:39:28",
+  "updated_at": "2016-06-29T07:39:28"
+}

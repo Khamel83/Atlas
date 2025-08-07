@@ -1,0 +1,40 @@
+{
+  "uid": "6bc1ccdb55d5248e",
+  "content_type": "instapaper",
+  "source": "http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+  "title": "If you can’t explain something in simple terms, you don’t understand it kottke.org",
+  "status": "success",
+  "date": "2025-08-05T14:02:48.860154",
+  "error": null,
+  "content_path": "output/articles/markdown/6bc1ccdb55d5248e.md",
+  "html_path": "output/articles/html/6bc1ccdb55d5248e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b4d22a8181638de2d6d77a1f4d1c70b6",
+  "type_specific": {
+    "bookmark_id": 919608853,
+    "instapaper_time": 1497547539,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:02:48.860185",
+  "updated_at": "2025-08-05T14:02:48.860188"
+}

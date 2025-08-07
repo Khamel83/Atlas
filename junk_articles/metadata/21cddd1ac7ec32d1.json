@@ -1,0 +1,34 @@
+{
+  "uid": "21cddd1ac7ec32d1",
+  "content_type": "web_bookmark",
+  "source": "http://www.newyorker.com/reporting/2009/06/01/090601fa_fact_gawande?printable=true",
+  "title": "McAllen, Texas and the high cost of health care : The New Yorker",
+  "status": "converted_from_csv",
+  "date": "2010-03-29T06:54:08",
+  "error": null,
+  "content_path": "output/articles/markdown/21cddd1ac7ec32d1.md",
+  "html_path": "output/articles/html/21cddd1ac7ec32d1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6233,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "29e665ba1dffb6db8e4fd5c4103f7747",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1269870848",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-03-29T06:54:08",
+  "updated_at": "2010-03-29T06:54:08"
+}

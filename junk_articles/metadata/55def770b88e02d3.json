@@ -1,0 +1,34 @@
+{
+  "uid": "55def770b88e02d3",
+  "content_type": "web_bookmark",
+  "source": "https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/",
+  "title": "Why Other Countries Have Better Sunscreen - The Atlantic",
+  "status": "converted_from_csv",
+  "date": "2022-07-05T15:22:57",
+  "error": null,
+  "content_path": "output/articles/markdown/55def770b88e02d3.md",
+  "html_path": "output/articles/html/55def770b88e02d3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1360,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c4bcfd7bd5e793b553a2daa470fd0611",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1657059777",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-07-05T15:22:57",
+  "updated_at": "2022-07-05T15:22:57"
+}

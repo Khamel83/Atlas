@@ -1,0 +1,34 @@
+{
+  "uid": "73be6e09eb658984",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/c7131bfbc82b63c2f0ea4dbb6092cc9f/",
+  "title": "Q&A: R-rated movies, Adderall in pregnancy, chiropractors, and stomach binding",
+  "status": "converted_from_csv",
+  "date": "2023-02-17T06:35:15",
+  "error": null,
+  "content_path": "output/articles/markdown/73be6e09eb658984.md",
+  "html_path": "output/articles/html/73be6e09eb658984.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1005,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "28cbfa47940615ce7e9904c9a6ed4a0d",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1676644515",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-02-17T06:35:15",
+  "updated_at": "2023-02-17T06:35:15"
+}

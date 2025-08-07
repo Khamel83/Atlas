@@ -1,0 +1,34 @@
+{
+  "uid": "03267131dd345d99",
+  "content_type": "web_bookmark",
+  "source": "https://www.wsj.com/articles/for-amazon-now-comes-the-hard-part-1497827240",
+  "title": "For Amazon, Now Comes the Hard Part - WSJ",
+  "status": "converted_from_csv",
+  "date": "2017-06-19T07:17:30",
+  "error": null,
+  "content_path": "output/articles/markdown/03267131dd345d99.md",
+  "html_path": "output/articles/html/03267131dd345d99.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3922,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "539b06faa2ad147880e25548992d6ea9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1497881850",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2017-06-19T07:17:30",
+  "updated_at": "2017-06-19T07:17:30"
+}

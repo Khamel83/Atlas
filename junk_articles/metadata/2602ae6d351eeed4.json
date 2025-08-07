@@ -1,0 +1,34 @@
+{
+  "uid": "2602ae6d351eeed4",
+  "content_type": "web_bookmark",
+  "source": "https://www.readpassage.com/i-was-born-wealthy-and-know-rich-people-dont-work-harder-than-you/",
+  "title": "I Was Born Wealthy, And Know Rich People Don’t Work Harder Than You",
+  "status": "converted_from_csv",
+  "date": "2020-03-05T09:53:15",
+  "error": null,
+  "content_path": "output/articles/markdown/2602ae6d351eeed4.md",
+  "html_path": "output/articles/html/2602ae6d351eeed4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2867,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9bf22c6b05cd3a93d7524a91f5adf6f2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1583430795",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-03-05T09:53:15",
+  "updated_at": "2020-03-05T09:53:15"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "5f360f7218e3cb40",
+  "content_type": "instapaper",
+  "source": "https://www.theatlantic.com/magazine/archive/2017/11/when-working-from-home-doesnt-work/540660/",
+  "title": "When Working From Home Doesn’t Work The Atlantic - Business",
+  "status": "success",
+  "date": "2025-08-05T13:58:05.393825",
+  "error": null,
+  "content_path": "output/articles/markdown/5f360f7218e3cb40.md",
+  "html_path": "output/articles/html/5f360f7218e3cb40.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c4e7b55aeed70618eb7a40ad50ec2dc5",
+  "type_specific": {
+    "bookmark_id": 963674412,
+    "instapaper_time": 1507172691,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:58:05.393856",
+  "updated_at": "2025-08-05T13:58:05.393859"
+}

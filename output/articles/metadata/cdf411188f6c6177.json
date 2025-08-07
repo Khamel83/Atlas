@@ -1,0 +1,40 @@
+{
+  "uid": "cdf411188f6c6177",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.lettersofnote.com/2012/01/to-my-old-master.html",
+  "title": "Letters of Note: To My Old Master",
+  "status": "selection_content_extracted",
+  "date": "2012-02-15T21:11:19",
+  "error": null,
+  "content_path": "output/articles/markdown/cdf411188f6c6177.md",
+  "html_path": "output/articles/html/cdf411188f6c6177.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5512,
+    "selection_length": 137,
+    "cleaned_selection_length": 144,
+    "domain": "lettersofnote.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cdf411188f6c6177",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1329369079",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "RT @LettersOfNote: Amazing letter from an ex-slave to his former owner in 1865, after being asked to return to work: http://t.co/DQWfZ6gK",
+    "cleaned_selection": "<p>RT @LettersOfNote: Amazing letter from an ex-slave to his former owner in 1865, after being asked to return to work: http://t.co/DQWfZ6gK</p>",
+    "domain": "lettersofnote.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.520012",
+  "updated_at": "2025-08-06T08:47:04.520013"
+}

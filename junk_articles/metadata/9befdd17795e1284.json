@@ -1,0 +1,34 @@
+{
+  "uid": "9befdd17795e1284",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/b8bf62fc5610fcda3607d146c382a005/",
+  "title": "SBNation and AB5, Understanding SB Nation, AB 5 and the Internet (Stratechery Daily Update 12-17-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-12-17T05:08:02",
+  "error": null,
+  "content_path": "output/articles/markdown/9befdd17795e1284.md",
+  "html_path": "output/articles/html/9befdd17795e1284.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2927,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f9fdcadb043bc9ac434f614e5332fd1d",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1576588082",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-12-17T05:08:02",
+  "updated_at": "2019-12-17T05:08:02"
+}

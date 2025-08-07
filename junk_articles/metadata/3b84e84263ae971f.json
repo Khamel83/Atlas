@@ -1,0 +1,34 @@
+{
+  "uid": "3b84e84263ae971f",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/b4295ca87035764b2455c7da53651a18/",
+  "title": "Shopify and the Power of Platforms (Stratechery Daily Update 7-11-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-07-11T06:49:09",
+  "error": null,
+  "content_path": "output/articles/markdown/3b84e84263ae971f.md",
+  "html_path": "output/articles/html/3b84e84263ae971f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3088,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e01bc0eed30bd74764a3d8c81d2509be",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1562852949",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-07-11T06:49:09",
+  "updated_at": "2019-07-11T06:49:09"
+}

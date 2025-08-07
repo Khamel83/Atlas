@@ -1,0 +1,34 @@
+{
+  "uid": "129439f61e7c4cde",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/f3256f24d637876ebcf96a9a58ce17ec/",
+  "title": "Blackbird",
+  "status": "converted_from_csv",
+  "date": "2024-07-30T05:58:34",
+  "error": null,
+  "content_path": "output/articles/markdown/129439f61e7c4cde.md",
+  "html_path": "output/articles/html/129439f61e7c4cde.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 235,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9415f7f2ae84446b8ef4f160b19e37f3",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1722344314",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-07-30T05:58:34",
+  "updated_at": "2024-07-30T05:58:34"
+}

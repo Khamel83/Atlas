@@ -1,0 +1,34 @@
+{
+  "uid": "ee17ec2520f69b6b",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/04/22/opinion/22brooks.html?hp=&pagewanted=print",
+  "title": "Creed or Chaos - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-04-25T00:14:02",
+  "error": null,
+  "content_path": "output/articles/markdown/ee17ec2520f69b6b.md",
+  "html_path": "output/articles/html/ee17ec2520f69b6b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5769,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a84b70362f6c63411b6afc22d2fd534b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1303715642",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-04-25T00:14:02",
+  "updated_at": "2011-04-25T00:14:02"
+}

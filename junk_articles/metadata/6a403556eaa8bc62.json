@@ -1,0 +1,34 @@
+{
+  "uid": "6a403556eaa8bc62",
+  "content_type": "web_bookmark",
+  "source": "http://www.foreignpolicy.com/articles/2011/09/22/the_do_nothing_strategy?page=full",
+  "title": "The Do-Nothing Strategy - By Aaron David Miller | Foreign Policy",
+  "status": "converted_from_csv",
+  "date": "2011-10-06T16:48:30",
+  "error": null,
+  "content_path": "output/articles/markdown/6a403556eaa8bc62.md",
+  "html_path": "output/articles/html/6a403556eaa8bc62.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5595,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "54efa873342d29478611ca52dd29536f",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1317944910",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-10-06T16:48:30",
+  "updated_at": "2011-10-06T16:48:30"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "0a5087b2db6f1cda",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2012/12/23/education/poor-students-struggle-as-class-plays-a-greater-role-in-success.html?hp&pagewanted=print",
+  "title": "Poor Students Struggle as Class Plays a Greater Role in Success - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2012-12-23T12:31:56",
+  "error": null,
+  "content_path": "output/articles/markdown/0a5087b2db6f1cda.md",
+  "html_path": "output/articles/html/0a5087b2db6f1cda.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5418,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "259c2ccd418f8ff0a32965b057f270ff",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1356294716",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-12-23T12:31:56",
+  "updated_at": "2012-12-23T12:31:56"
+}

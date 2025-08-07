@@ -1,0 +1,34 @@
+{
+  "uid": "c10484d67430a2ba",
+  "content_type": "web_bookmark",
+  "source": "http://tradevalue.theringer.com",
+  "title": "Bill Simmons’s NBA Trade Value Rankings 2018-19",
+  "status": "converted_from_csv",
+  "date": "2018-12-19T20:25:21",
+  "error": null,
+  "content_path": "output/articles/markdown/c10484d67430a2ba.md",
+  "html_path": "output/articles/html/c10484d67430a2ba.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3298,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5ae18c56a158ce3938841dcd4fed305f",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1545279921",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-12-19T20:25:21",
+  "updated_at": "2018-12-19T20:25:21"
+}

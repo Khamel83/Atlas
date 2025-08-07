@@ -1,0 +1,40 @@
+{
+  "uid": "546177b2266ed755",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.wired.com/2015/12/stop-dancing-around-real-ethical-problem-crispr/",
+  "title": "Crispr Is Getting Better. Now It’s Time to Ask the Hard Ethical Questions WIRED",
+  "status": "selection_content_extracted",
+  "date": "2015-12-01T07:47:01",
+  "error": null,
+  "content_path": "output/articles/markdown/546177b2266ed755.md",
+  "html_path": "output/articles/html/546177b2266ed755.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4677,
+    "selection_length": 307,
+    "cleaned_selection_length": 319,
+    "domain": "wired.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "546177b2266ed755",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1448984821",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "When Chinese scientists announced in April they had edited human embryos using a new genetic tool called Crispr, the headlines blared “designer babies” and the wider world woke up to Crispr’s power.\n\nThe post Crispr Is Getting Better. Now It’s Time to Ask the Hard Ethical Questions appeared first on WIRED.",
+    "cleaned_selection": "<p>When Chinese scientists announced in April they had edited human embryos using a new genetic tool called Crispr, the headlines blared “designer babies” and the wider world woke up to Crispr’s power.</p><p>The post Crispr Is Getting Better. Now It’s Time to Ask the Hard Ethical Questions appeared first on WIRED.</p>",
+    "domain": "wired.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.363067",
+  "updated_at": "2025-08-06T08:47:04.363068"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "429c61e3098e2478",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/57e45de95b9cdd904556f94b08ede425/",
+  "title": "Evolving Minds",
+  "status": "converted_from_csv",
+  "date": "2023-05-01T06:02:30",
+  "error": null,
+  "content_path": "output/articles/markdown/429c61e3098e2478.md",
+  "html_path": "output/articles/html/429c61e3098e2478.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 891,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "81552f788050256f88d232ecbafa590c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1682946150",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-05-01T06:02:30",
+  "updated_at": "2023-05-01T06:02:30"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "3d99550e6c5e8471",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/fc600d66d04d681ed7eee4c86a4b8749/",
+  "title": "Weekly Dose of Optimism #32",
+  "status": "converted_from_csv",
+  "date": "2023-03-03T05:43:41",
+  "error": null,
+  "content_path": "output/articles/markdown/3d99550e6c5e8471.md",
+  "html_path": "output/articles/html/3d99550e6c5e8471.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 982,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "490ea6ae7557d779dee2873d6c193b1e",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1677851021",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-03-03T05:43:41",
+  "updated_at": "2023-03-03T05:43:41"
+}

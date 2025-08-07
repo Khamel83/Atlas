@@ -34,32 +34,99 @@ def ensure_directory(directory_path: str):
     os.makedirs(directory_path, exist_ok=True)
 
 
-def setup_logging(log_path: str):
+def setup_logging(log_path: str, config: Optional[dict] = None):
     """
-    Configures the root logger to output to both a file and the console.
+    Configures the root logger to output to both a file and the console
+    with environment-aware configuration.
+
+    Args:
+        log_path (str): Path to the log file
+        config (dict, optional): Configuration dictionary from load_config()
     """
     log_dir = os.path.dirname(log_path)
     ensure_directory(log_dir)
 
     # Get the root logger
     logger = logging.getLogger()
-    logger.setLevel(logging.INFO)
+
+    # Set log level based on configuration
+    if config:
+        log_level = config.get("log_level", "INFO").upper()
+        environment = config.get("environment", "development")
+    else:
+        log_level = "INFO"
+        environment = "development"
+
+    # Map string levels to logging constants
+    level_map = {
+        "DEBUG": logging.DEBUG,
+        "INFO": logging.INFO,
+        "WARNING": logging.WARNING,
+        "ERROR": logging.ERROR,
+        "CRITICAL": logging.CRITICAL,
+    }
+    logger.setLevel(level_map.get(log_level, logging.INFO))
 
     # Clear existing handlers to avoid duplicate logs
     if logger.hasHandlers():
         logger.handlers.clear()
 
-    # Create file handler
-    file_handler = logging.FileHandler(log_path, mode="a", encoding="utf-8")
-    file_formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+    # Environment-specific formatting
+    if environment == "production":
+        # Production: JSON-structured logging for easier parsing
+        file_formatter = logging.Formatter(
+            '{"timestamp": "%(asctime)s", "level": "%(levelname)s", '
+            '"module": "%(name)s", "message": "%(message)s"}'
+        )
+        console_formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s")
+    elif environment == "development":
+        # Development: Detailed formatting with function/line info
+        file_formatter = logging.Formatter(
+            "%(asctime)s - %(name)s:%(funcName)s:%(lineno)d - %(levelname)s - %(message)s"
+        )
+        console_formatter = logging.Formatter(
+            "%(levelname)s [%(name)s:%(funcName)s] %(message)s"
+        )
+    else:
+        # Test/staging: Minimal formatting for clean output
+        file_formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+        console_formatter = logging.Formatter("%(levelname)s: %(message)s")
+
+    # Create file handler with rotation
+    try:
+        from logging.handlers import RotatingFileHandler
+
+        file_handler = RotatingFileHandler(
+            log_path,
+            mode="a",
+            maxBytes=10 * 1024 * 1024,  # 10MB
+            backupCount=5,
+            encoding="utf-8",
+        )
+    except ImportError:
+        # Fallback to regular FileHandler if RotatingFileHandler not available
+        file_handler = logging.FileHandler(log_path, mode="a", encoding="utf-8")
+
     file_handler.setFormatter(file_formatter)
     logger.addHandler(file_handler)
 
-    # Create console handler
-    console_handler = logging.StreamHandler()
-    console_formatter = logging.Formatter("%(levelname)s: %(message)s")
-    console_handler.setFormatter(console_formatter)
-    logger.addHandler(console_handler)
+    # Create console handler (only in development/staging, quiet in production)
+    if environment != "production" or log_level == "DEBUG":
+        console_handler = logging.StreamHandler()
+        console_handler.setFormatter(console_formatter)
+
+        # Set console log level higher than file in production
+        if environment == "production":
+            console_handler.setLevel(logging.WARNING)
+
+        logger.addHandler(console_handler)
+
+    # Add environment context to all log messages
+    if config:
+        logger.info(
+            f"Logging initialized for {environment} environment "
+            f"(level: {log_level}, file: {log_path})"
+        )
 
 
 def sanitize_filename(name):

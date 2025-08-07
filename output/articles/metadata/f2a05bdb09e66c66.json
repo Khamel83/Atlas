@@ -1,0 +1,40 @@
+{
+  "uid": "f2a05bdb09e66c66",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://ritholtz.com/2017/02/dont-talk-cops/",
+  "title": "Don’t Talk to Cops The Big Picture",
+  "status": "selection_content_extracted",
+  "date": "2017-02-19T17:04:42",
+  "error": null,
+  "content_path": "output/articles/markdown/f2a05bdb09e66c66.md",
+  "html_path": "output/articles/html/f2a05bdb09e66c66.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4103,
+    "selection_length": 376,
+    "cleaned_selection_length": 393,
+    "domain": "ritholtz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f2a05bdb09e66c66",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1487552682",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Mr. James Duane, a professor at Regent Law School and a former defense attorney, tells you why you should never agree to be interviewed by the police. Don’t Talk to Cops, Part 1 Jun 10, 2008 ~~~ An experienced police officer tells you why you should never agree to be interviewed by the police. Don’t…\n\nRead More\n\nThe post Don’t Talk to Cops appeared first on The Big Picture.",
+    "cleaned_selection": "<p>Mr. James Duane, a professor at Regent Law School and a former defense attorney, tells you why you should never agree to be interviewed by the police. Don’t Talk to Cops, Part 1 Jun 10, 2008 ~~~ An experienced police officer tells you why you should never agree to be interviewed by the police. Don’t…</p><p>Read More</p><p>The post Don’t Talk to Cops appeared first on The Big Picture.</p>",
+    "domain": "ritholtz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.168018",
+  "updated_at": "2025-08-06T08:47:04.168019"
+}

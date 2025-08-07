@@ -1,0 +1,34 @@
+{
+  "uid": "c366151ed97b6bfd",
+  "content_type": "web_bookmark",
+  "source": "http://www.texasmonthly.com/cms/printthis.php?file=feature.php&issue=1996-12-01",
+  "title": "The Killer Cadets: Texas Monthly December 1996",
+  "status": "converted_from_csv",
+  "date": "2012-03-10T21:46:54",
+  "error": null,
+  "content_path": "output/articles/markdown/c366151ed97b6bfd.md",
+  "html_path": "output/articles/html/c366151ed97b6bfd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5496,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "490470b50eb6a9fc63a135f0b69da18b",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1331444814",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-03-10T21:46:54",
+  "updated_at": "2012-03-10T21:46:54"
+}

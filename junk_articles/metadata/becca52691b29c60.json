@@ -1,0 +1,34 @@
+{
+  "uid": "becca52691b29c60",
+  "content_type": "web_bookmark",
+  "source": "https://www.newyorker.com/news/news-desk/retracing-the-antarctic-journey-of-henry-worsley",
+  "title": "Retracing the Antarctic Journey of Henry Worsley | The New Yorker",
+  "status": "converted_from_csv",
+  "date": "2018-12-12T12:57:21",
+  "error": null,
+  "content_path": "output/articles/markdown/becca52691b29c60.md",
+  "html_path": "output/articles/html/becca52691b29c60.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3308,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "82485bb87eab17578b2ebcf3ca6ea8e2",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1544648241",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-12-12T12:57:21",
+  "updated_at": "2018-12-12T12:57:21"
+}

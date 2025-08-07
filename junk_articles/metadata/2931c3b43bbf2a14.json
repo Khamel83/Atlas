@@ -1,0 +1,34 @@
+{
+  "uid": "2931c3b43bbf2a14",
+  "content_type": "web_bookmark",
+  "source": "http://www.businessinsider.com/facebook-coo-sandberg-the-women-of-my-generation-blew-it-so-equality-is-up-to-you-graduates-2011-5",
+  "title": "FACEBOOK COO SANDBERG: The Women Of My Generation Blew It, So Equality Is Up To You, Graduates - Business Insider",
+  "status": "converted_from_csv",
+  "date": "2012-05-20T17:18:05",
+  "error": null,
+  "content_path": "output/articles/markdown/2931c3b43bbf2a14.md",
+  "html_path": "output/articles/html/2931c3b43bbf2a14.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5473,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "70ac114711dd7af97c572067be99ea31",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1337559485",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2012-05-20T17:18:05",
+  "updated_at": "2012-05-20T17:18:05"
+}

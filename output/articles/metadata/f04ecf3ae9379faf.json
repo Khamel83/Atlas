@@ -1,0 +1,40 @@
+{
+  "uid": "f04ecf3ae9379faf",
+  "content_type": "instapaper",
+  "source": "https://food52.com/blog/24241-best-plants-that-are-hard-to-kill",
+  "title": "7 Indoor Plants That Are Near-Impossible to Kill Food52",
+  "status": "success",
+  "date": "2025-08-05T13:43:14.088155",
+  "error": null,
+  "content_path": "output/articles/markdown/f04ecf3ae9379faf.md",
+  "html_path": "output/articles/html/f04ecf3ae9379faf.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8d2a75a0aa05727a45ca139e756e5fd2",
+  "type_specific": {
+    "bookmark_id": 1202288051,
+    "instapaper_time": 1560272423,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:43:14.088189",
+  "updated_at": "2025-08-05T13:43:14.088192"
+}

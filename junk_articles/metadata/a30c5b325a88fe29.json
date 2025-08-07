@@ -1,0 +1,34 @@
+{
+  "uid": "a30c5b325a88fe29",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2013/04/28/magazine/our-feel-good-war-on-breast-cancer.html?hpw&pagewanted=all&_r=0",
+  "title": "our-feel-good-war-on-breast-cancer.html",
+  "status": "converted_from_csv",
+  "date": "2013-04-28T20:54:37",
+  "error": null,
+  "content_path": "output/articles/markdown/a30c5b325a88fe29.md",
+  "html_path": "output/articles/html/a30c5b325a88fe29.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5374,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7ba1e821f93ed83b7d6e793e01f6fc30",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1367207677",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2013-04-28T20:54:37",
+  "updated_at": "2013-04-28T20:54:37"
+}

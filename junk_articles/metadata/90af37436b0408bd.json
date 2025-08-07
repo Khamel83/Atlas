@@ -1,0 +1,34 @@
+{
+  "uid": "90af37436b0408bd",
+  "content_type": "web_bookmark",
+  "source": "http://www.nytimes.com/2011/01/04/opinion/04brooks.html?pagewanted=print",
+  "title": "The Achievement Test - NYTimes.com",
+  "status": "converted_from_csv",
+  "date": "2011-01-04T20:34:30",
+  "error": null,
+  "content_path": "output/articles/markdown/90af37436b0408bd.md",
+  "html_path": "output/articles/html/90af37436b0408bd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5997,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4144a78a774b2e2bec2bc1140a3953fc",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1294202070",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2011-01-04T20:34:30",
+  "updated_at": "2011-01-04T20:34:30"
+}

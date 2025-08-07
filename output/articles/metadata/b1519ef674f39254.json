@@ -1,0 +1,40 @@
+{
+  "uid": "b1519ef674f39254",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/959647/scientists-found-that-after-age-25-its-harder-for-us-think-randomly/",
+  "title": "There’s a reason your kids keep you guessing—they can probably think more randomly than you can Quartz",
+  "status": "selection_content_extracted",
+  "date": "2017-04-14T14:23:30",
+  "error": null,
+  "content_path": "output/articles/markdown/b1519ef674f39254.md",
+  "html_path": "output/articles/html/b1519ef674f39254.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4014,
+    "selection_length": 2789,
+    "cleaned_selection_length": 2836,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b1519ef674f39254",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1492205010",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Our brains show us patterns in everything, even when none are present. This is why, for example, we tend to see faces in random structures. This tendency toward finding patterns means it’s actually hard for us to think without them. It requires concentration and a degree of complex thinking—skills we develop as children and lose with age.\n\nIn a paper published on April 12 in PLoS Computational Biology, a research team led by scientists at the LABORES Research Lab in Paris, France figured out that we’re best able to come up with truly random sequences at 25. After that, it becomes harder for us to think in ways that don’t fall into patterns.\n\n“The brain is highly algorithmic,” Hector Zenil, a computer scientist and lead author of the paper, told Scientific American. “It doesn’t behave stochastically”—or unpredictably— like a “sort of coin-tossing mechanism.”\n\nThe research team recruited over 3,400 participants online between the ages of 4 and 91. Each completed a set of five tests designed to test whether, when asked to generate sequences, they would be able to do make random sequences or whether they’d unconsciously fall back on patterns. For example, participants were told to create a series of coin flip results—heads or tails—that would be as close as possible to one that might occur by chance. In other words, there shouldn’t be an obvious order to them.\n\nThen, the team used statistical software to try to find patterns in each person’s answers. The easier it was to find a pattern in a sequence, the less random it was.\n\nAlthough gender and participants’ native languages didn’t affect a person’s ability to come up with unpredictable answers, age did. Participants seemed to think with increasing irregularity from childhood up until their mid-20s—at which point people’s answers looked less like what would happen by chance. This arc means that most of us will hit our most diverse thinking around 25. “At age 25, people can outsmart computers at generating this kind of randomness,” Zenil told Scientific American. After that, computers are actually better at coming up with series without order.\n\nThis work, the team thinks, could be used to study neurodegenerative diseases that result in dementia. Being able to think randomly could be a test of a person’s overall mental capacities, and could be used to monitor the progression of these diseases.\n\nIn addition, Zenil thinks that being able to spew out truly random sequences shows how creative we are. If this is the case, then we would expect to hit our creative peak in our mid-20s. But fear not, aging artists: there are other ways to keep your creative juices flowing, like setting aside time and space to think playfully without interruption, procrastinating, and of course, persistence.\n\nMost Popular",
+    "cleaned_selection": "<p>Our brains show us patterns in everything, even when none are present. This is why, for example, we tend to see faces in random structures. This tendency toward finding patterns means it’s actually hard for us to think without them. It requires concentration and a degree of complex thinking—skills we develop as children and lose with age.</p><p>In a paper published on April 12 in PLoS Computational Biology, a research team led by scientists at the LABORES Research Lab in Paris, France figured out that we’re best able to come up with truly random sequences at 25. After that, it becomes harder for us to think in ways that don’t fall into patterns.</p><p>“The brain is highly algorithmic,” Hector Zenil, a computer scientist and lead author of the paper, told Scientific American. “It doesn’t behave stochastically”—or unpredictably— like a “sort of coin-tossing mechanism.”</p><p>The research team recruited over 3,400 participants online between the ages of 4 and 91. Each completed a set of five tests designed to test whether, when asked to generate sequences, they would be able to do make random sequences or whether they’d unconsciously fall back on patterns. For example, participants were told to create a series of coin flip results—heads or tails—that would be as close as possible to one that might occur by chance. In other words, there shouldn’t be an obvious order to them.</p><p>Then, the team used statistical software to try to find patterns in each person’s answers. The easier it was to find a pattern in a sequence, the less random it was.</p><p>Although gender and participants’ native languages didn’t affect a person’s ability to come up with unpredictable answers, age did. Participants seemed to think with increasing irregularity from childhood up until their mid-20s—at which point people’s answers looked less like what would happen by chance. This arc means that most of us will hit our most diverse thinking around 25. “At age 25, people can outsmart computers at generating this kind of randomness,” Zenil told Scientific American. After that, computers are actually better at coming up with series without order.</p><p>This work, the team thinks, could be used to study neurodegenerative diseases that result in dementia. Being able to think randomly could be a test of a person’s overall mental capacities, and could be used to monitor the progression of these diseases.</p><p>In addition, Zenil thinks that being able to spew out truly random sequences shows how creative we are. If this is the case, then we would expect to hit our creative peak in our mid-20s. But fear not, aging artists: there are other ways to keep your creative juices flowing, like setting aside time and space to think playfully without interruption, procrastinating, and of course, persistence.</p><p>Most Popular</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.131962",
+  "updated_at": "2025-08-06T08:47:04.131963"
+}

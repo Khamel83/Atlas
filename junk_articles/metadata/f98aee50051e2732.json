@@ -1,0 +1,34 @@
+{
+  "uid": "f98aee50051e2732",
+  "content_type": "web_bookmark",
+  "source": "http://www.theverge.com/2015/7/16/8978117/moov-now-fitness-tracker-ai-coach",
+  "title": "This tiny fitness tracker comes with an AI coach The Verge - All Posts",
+  "status": "converted_from_csv",
+  "date": "2015-07-16T12:19:34",
+  "error": null,
+  "content_path": "output/articles/markdown/f98aee50051e2732.md",
+  "html_path": "output/articles/html/f98aee50051e2732.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4809,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "aee32bf625d302dc8a06ab5cc6e177d8",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1437074374",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2015-07-16T12:19:34",
+  "updated_at": "2015-07-16T12:19:34"
+}

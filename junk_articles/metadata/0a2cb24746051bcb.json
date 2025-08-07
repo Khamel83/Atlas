@@ -1,0 +1,34 @@
+{
+  "uid": "0a2cb24746051bcb",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/a2953472a88228925e16b73911272d69/",
+  "title": "BuzzFeed Followup, The Future is Niche, Atlassian and Bing (Stratechery Daily Update 1-29-2019)",
+  "status": "converted_from_csv",
+  "date": "2019-01-29T03:15:35",
+  "error": null,
+  "content_path": "output/articles/markdown/0a2cb24746051bcb.md",
+  "html_path": "output/articles/html/0a2cb24746051bcb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3259,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "94a1051f909615cc9e09bffed5647847",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1548760535",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-01-29T03:15:35",
+  "updated_at": "2019-01-29T03:15:35"
+}

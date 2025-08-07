@@ -1,0 +1,34 @@
+{
+  "uid": "dd0af1c51ca03acf",
+  "content_type": "web_bookmark",
+  "source": "https://stratechery.com/2016/everything-as-a-service/",
+  "title": "Everything as a Service - Stratechery by Ben Thompson",
+  "status": "converted_from_csv",
+  "date": "2016-05-03T16:40:18",
+  "error": null,
+  "content_path": "output/articles/markdown/dd0af1c51ca03acf.md",
+  "html_path": "output/articles/html/dd0af1c51ca03acf.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4450,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1771c3fb241411b0d97fb421a9d30c5b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1462318818",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-05-03T16:40:18",
+  "updated_at": "2016-05-03T16:40:18"
+}

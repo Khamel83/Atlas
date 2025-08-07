@@ -1,0 +1,34 @@
+{
+  "uid": "1eb3288f0a47d8f9",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/33d47459f8b72dead6ce36b908779315/",
+  "title": "AI, NIL, and Zero Trust Authenticity (Stratechery Article 4-17-2023)",
+  "status": "converted_from_csv",
+  "date": "2023-04-17T09:16:53",
+  "error": null,
+  "content_path": "output/articles/markdown/1eb3288f0a47d8f9.md",
+  "html_path": "output/articles/html/1eb3288f0a47d8f9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 911,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "01a033d794c305d3c2bcd99950c17722",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1681748213",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-04-17T09:16:53",
+  "updated_at": "2023-04-17T09:16:53"
+}

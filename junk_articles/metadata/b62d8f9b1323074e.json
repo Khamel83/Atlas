@@ -1,0 +1,34 @@
+{
+  "uid": "b62d8f9b1323074e",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/bef5e7d007633fdbed4dc5fc75d59a0a/",
+  "title": "The Girl Hawk",
+  "status": "converted_from_csv",
+  "date": "2021-03-02T07:54:18",
+  "error": null,
+  "content_path": "output/articles/markdown/b62d8f9b1323074e.md",
+  "html_path": "output/articles/html/b62d8f9b1323074e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2369,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "abf5226e15a882b7ab5ef15927a838ff",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1614700458",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-03-02T07:54:18",
+  "updated_at": "2021-03-02T07:54:18"
+}

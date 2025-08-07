@@ -30,4 +30,4 @@ Welcome to the Atlas documentation hub! Here you'll find everything you need to 
 - **Contributors:** See the onboarding section in [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md#contributor-onboarding--first-steps).
 - **API users:** See [api_documentation.md](api_documentation.md) and the dashboard at `/ask/html`.
 
-Atlas is open source and community-driven. If you have questions or suggestions, please open an issue or pull request on GitHub! 
+Atlas is open source and community-driven. If you have questions or suggestions, please open an issue or pull request on GitHub!

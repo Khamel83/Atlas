@@ -1,0 +1,34 @@
+{
+  "uid": "db48b0612d84627e",
+  "content_type": "web_bookmark",
+  "source": "http://www.vulture.com/2014/11/chris-rock-frank-rich-in-conversation.html",
+  "title": "Chris Rock Talks to Frank Rich About Ferguson, Cosby, and What ‘Racial Progress’ Really Means",
+  "status": "converted_from_csv",
+  "date": "2014-12-21T06:39:56",
+  "error": null,
+  "content_path": "output/articles/markdown/db48b0612d84627e.md",
+  "html_path": "output/articles/html/db48b0612d84627e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5013,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5bd4df99becf7d13e3ece5d3ada9eddd",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1419172796",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2014-12-21T06:39:56",
+  "updated_at": "2014-12-21T06:39:56"
+}

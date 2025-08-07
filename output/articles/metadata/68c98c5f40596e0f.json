@@ -1,0 +1,40 @@
+{
+  "uid": "68c98c5f40596e0f",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2014/12/seeing-the-world-in-a-weekend-cairo-egypt.html",
+  "title": "Seeing the World in a Weekend – Cairo, Egypt Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2014-12-10T05:36:27",
+  "error": null,
+  "content_path": "output/articles/markdown/68c98c5f40596e0f.md",
+  "html_path": "output/articles/html/68c98c5f40596e0f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5025,
+    "selection_length": 318,
+    "cleaned_selection_length": 325,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "68c98c5f40596e0f",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1418218587",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "There’s obviously a debate as to whether it’s safe to travel to Egypt right now, but from all the reports we read prior to our trip, violence had subsided and the country is encouraging tourists to return. While conditions could change overnight, we decided to go ahead with our Thanksgiving trip to Cairo and that […]",
+    "cleaned_selection": "<p>There’s obviously a debate as to whether it’s safe to travel to Egypt right now, but from all the reports we read prior to our trip, violence had subsided and the country is encouraging tourists to return. While conditions could change overnight, we decided to go ahead with our Thanksgiving trip to Cairo and that […]</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.449896",
+  "updated_at": "2025-08-06T08:47:04.449898"
+}

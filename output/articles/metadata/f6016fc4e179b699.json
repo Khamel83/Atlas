@@ -1,0 +1,40 @@
+{
+  "uid": "f6016fc4e179b699",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.bookforum.com/inprint/017_05/7003",
+  "title": "The Tale of the Cables",
+  "status": "selection_content_extracted",
+  "date": "2011-01-30T13:16:07",
+  "error": null,
+  "content_path": "output/articles/markdown/f6016fc4e179b699.md",
+  "html_path": "output/articles/html/f6016fc4e179b699.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5940,
+    "selection_length": 709,
+    "cleaned_selection_length": 716,
+    "domain": "bookforum.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f6016fc4e179b699",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1296422167",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The WikiLeaks cables, in other words, read more compellingly as a kind of literature. True, they don’t exactly evoke Tolstoy, Graham Greene, or even John le Carré. But diplomats are trained to chronicle the same tics and quirks of character that masters of fiction carefully record—and often with the same aim, of penetrating the surface equanimity of the characters they depict in order to win through to some more essential truths about their motivations. There’s a reason, after all, that the fictional world, like the diplomatic one, is governed by plots—and that both fields share a comfort with moral ambiguity and casual deception that you don’t find in most other endeavors. (Via Arts & Letters Daily)",
+    "cleaned_selection": "<p>The WikiLeaks cables, in other words, read more compellingly as a kind of literature. True, they don’t exactly evoke Tolstoy, Graham Greene, or even John le Carré. But diplomats are trained to chronicle the same tics and quirks of character that masters of fiction carefully record—and often with the same aim, of penetrating the surface equanimity of the characters they depict in order to win through to some more essential truths about their motivations. There’s a reason, after all, that the fictional world, like the diplomatic one, is governed by plots—and that both fields share a comfort with moral ambiguity and casual deception that you don’t find in most other endeavors. (Via Arts & Letters Daily)</p>",
+    "domain": "bookforum.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.539898",
+  "updated_at": "2025-08-06T08:47:04.539899"
+}

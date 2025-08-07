@@ -1,0 +1,42 @@
+{
+  "uid": "72d0b6a576731bbf",
+  "content_type": "instapaper",
+  "source": "https://www.thenation.com/article/society/progressive-left-philanthropy-strategy/",
+  "title": "Left Organizing Is in Crisis. Philanthropy Is a Major Reason Why.",
+  "status": "success",
+  "date": "2025-08-05T13:29:57.945353",
+  "error": null,
+  "content_path": "output/articles/markdown/72d0b6a576731bbf.md",
+  "html_path": "output/articles/html/72d0b6a576731bbf.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c44c6b54a24c76368ee3a52489c9d416",
+  "type_specific": {
+    "bookmark_id": 1746902666,
+    "instapaper_time": 1737070189,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:29:57.945632",
+  "updated_at": "2025-08-05T13:29:57.945690"
+}

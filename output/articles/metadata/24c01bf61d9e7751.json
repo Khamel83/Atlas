@@ -1,0 +1,40 @@
+{
+  "uid": "24c01bf61d9e7751",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1108380652",
+  "title": "Happy Moon Festival (No Stratechery Daily Update 9-24-2018)",
+  "status": "success",
+  "date": "2025-08-05T14:06:19.112120",
+  "error": null,
+  "content_path": "output/articles/markdown/24c01bf61d9e7751.md",
+  "html_path": "output/articles/html/24c01bf61d9e7751.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6debdfff54276bc387b4312e1e94a4b8",
+  "type_specific": {
+    "bookmark_id": 1108380652,
+    "instapaper_time": 1537791135,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Stratechery"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:06:19.112150",
+  "updated_at": "2025-08-05T14:06:19.112154"
+}

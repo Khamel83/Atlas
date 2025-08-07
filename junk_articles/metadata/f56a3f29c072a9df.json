@@ -1,0 +1,34 @@
+{
+  "uid": "f56a3f29c072a9df",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/416cffc7527eaa0cbc86aaddc45aae69/",
+  "title": "China’s Alleged Hardware Hack, How the Attack (Allegedly) Happened, Believability and Implications (Stratechery Daily Update 10-4-2018)",
+  "status": "converted_from_csv",
+  "date": "2018-10-04T07:08:07",
+  "error": null,
+  "content_path": "output/articles/markdown/f56a3f29c072a9df.md",
+  "html_path": "output/articles/html/f56a3f29c072a9df.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3378,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "320ee6e4afe759f97b2e2e0b8bf13090",
+  "type_specific": {
+    "folder": "Stratechery",
+    "instapaper_timestamp": "1538662087",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-10-04T07:08:07",
+  "updated_at": "2018-10-04T07:08:07"
+}

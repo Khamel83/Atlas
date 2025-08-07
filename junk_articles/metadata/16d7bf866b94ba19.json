@@ -1,0 +1,34 @@
+{
+  "uid": "16d7bf866b94ba19",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/2018/12/20/opinion/conservative-economics-trump.html",
+  "title": "Opinion | Hard-Money Men, Suddenly Going Soft",
+  "status": "converted_from_csv",
+  "date": "2018-12-20T20:24:28",
+  "error": null,
+  "content_path": "output/articles/markdown/16d7bf866b94ba19.md",
+  "html_path": "output/articles/html/16d7bf866b94ba19.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3295,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bf691ad2457872f58b0c9bea7f19b6ed",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1545366268",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-12-20T20:24:28",
+  "updated_at": "2018-12-20T20:24:28"
+}

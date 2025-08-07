@@ -1,0 +1,34 @@
+{
+  "uid": "07fd48d0bab5e34d",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/15bc93a9215a5c8547b1364c506bec8e/",
+  "title": "Cloudflare's Disruption (Stratechery Weekly Article 9-30-2021)",
+  "status": "converted_from_csv",
+  "date": "2021-09-30T08:18:09",
+  "error": null,
+  "content_path": "output/articles/markdown/07fd48d0bab5e34d.md",
+  "html_path": "output/articles/html/07fd48d0bab5e34d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1941,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "12f7fb0b86fedd1dce5e3eeb0362bdbb",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1633015089",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-09-30T08:18:09",
+  "updated_at": "2021-09-30T08:18:09"
+}

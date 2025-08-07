@@ -1,0 +1,34 @@
+{
+  "uid": "5c756e2ab0ae467c",
+  "content_type": "web_bookmark",
+  "source": "https://www.newyorker.com/magazine/2018/02/12/the-white-darkness",
+  "title": "The White Darkness: A Journey Across Antarctica",
+  "status": "converted_from_csv",
+  "date": "2018-02-08T17:06:48",
+  "error": null,
+  "content_path": "output/articles/markdown/5c756e2ab0ae467c.md",
+  "html_path": "output/articles/html/5c756e2ab0ae467c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3618,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "885152d56ee01618b71b4b312aff4ebb",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1518138408",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2018-02-08T17:06:48",
+  "updated_at": "2018-02-08T17:06:48"
+}

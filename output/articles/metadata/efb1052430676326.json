@@ -1,0 +1,40 @@
+{
+  "uid": "efb1052430676326",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/01/registration-now-open-for-spg-double-take-promotion/",
+  "title": "Registration Now Open for SPG Double Play Promotion The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-01-05T18:10:59",
+  "error": null,
+  "content_path": "output/articles/markdown/efb1052430676326.md",
+  "html_path": "output/articles/html/efb1052430676326.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4996,
+    "selection_length": 363,
+    "cleaned_selection_length": 370,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "efb1052430676326",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1420510259",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Starwood Preferred Guest just opened registration for their new first quarter promotion of 2015 which is SPG Double Play, where SPG members will earn double Starpoints on eligible stays (those that earn Starpoints, i.e. paid nights) of two or more consecutive nights. This is for stays between January 5-April 15, 2015. Only base Starpoints – so 2x points per […]",
+    "cleaned_selection": "<p>Starwood Preferred Guest just opened registration for their new first quarter promotion of 2015 which is SPG Double Play, where SPG members will earn double Starpoints on eligible stays (those that earn Starpoints, i.e. paid nights) of two or more consecutive nights. This is for stays between January 5-April 15, 2015. Only base Starpoints – so 2x points per […]</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.440432",
+  "updated_at": "2025-08-06T08:47:04.440433"
+}

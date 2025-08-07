@@ -1,0 +1,34 @@
+{
+  "uid": "43570b43209e6eb1",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/8eb7f9f890d33684b89106c2c971e640/",
+  "title": "Q&A: Picky eaters, COVID vaccines, poison ivy, and adding rice cereal to baby formula",
+  "status": "converted_from_csv",
+  "date": "2023-11-07T03:01:48",
+  "error": null,
+  "content_path": "output/articles/markdown/43570b43209e6eb1.md",
+  "html_path": "output/articles/html/43570b43209e6eb1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 540,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2b254ff54aa412749f0259a8b50aa696",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1699354908",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-11-07T03:01:48",
+  "updated_at": "2023-11-07T03:01:48"
+}

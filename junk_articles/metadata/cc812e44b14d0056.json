@@ -1,0 +1,34 @@
+{
+  "uid": "cc812e44b14d0056",
+  "content_type": "web_bookmark",
+  "source": "http://grantland.com/hollywood-prospectus/b-s-report-jon-hamm/",
+  "title": "B.S. Report: Jon Hamm",
+  "status": "converted_from_csv",
+  "date": "2014-05-01T10:14:28",
+  "error": null,
+  "content_path": "output/articles/markdown/cc812e44b14d0056.md",
+  "html_path": "output/articles/html/cc812e44b14d0056.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 5266,
+    "selection": "via Grantland » Contributors » Bill Simmons http://grantland.com"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d6176bde1c893beb25a52ad0df2b9cae",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1398964468",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "via Grantland » Contributors » Bill Simmons http://grantland.com"
+  },
+  "video_id": null,
+  "created_at": "2014-05-01T10:14:28",
+  "updated_at": "2014-05-01T10:14:28"
+}

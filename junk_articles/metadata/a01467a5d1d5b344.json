@@ -1,0 +1,34 @@
+{
+  "uid": "a01467a5d1d5b344",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/0de511f3c23022800f54d4aadf4e0c58/",
+  "title": "A Remembrance of My Mother",
+  "status": "converted_from_csv",
+  "date": "2022-09-08T01:46:28",
+  "error": null,
+  "content_path": "output/articles/markdown/a01467a5d1d5b344.md",
+  "html_path": "output/articles/html/a01467a5d1d5b344.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1241,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7d7840bc7b32c792a66bd497c9d75124",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1662626788",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-09-08T01:46:28",
+  "updated_at": "2022-09-08T01:46:28"
+}

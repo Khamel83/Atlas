@@ -1,0 +1,34 @@
+{
+  "uid": "f96f1386865ff0b4",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6784e5d3c0e2e0e857138655ab9bb22f/",
+  "title": "Introducing Allergens",
+  "status": "converted_from_csv",
+  "date": "2023-10-05T02:22:12",
+  "error": null,
+  "content_path": "output/articles/markdown/f96f1386865ff0b4.md",
+  "html_path": "output/articles/html/f96f1386865ff0b4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 601,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9077465e1cb1f3da64746bb34713018c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1696497732",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-10-05T02:22:12",
+  "updated_at": "2023-10-05T02:22:12"
+}

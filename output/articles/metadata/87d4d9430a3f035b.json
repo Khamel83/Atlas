@@ -1,0 +1,40 @@
+{
+  "uid": "87d4d9430a3f035b",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2014/09/amazing-lto-chase-ink-plus-has-a-70000-point-offer.html",
+  "title": "Amazing LTO Chase Ink Plus Has a 70,000 Point Offer Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2014-09-30T18:51:35",
+  "error": null,
+  "content_path": "output/articles/markdown/87d4d9430a3f035b.md",
+  "html_path": "output/articles/html/87d4d9430a3f035b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5112,
+    "selection_length": 319,
+    "cleaned_selection_length": 326,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "87d4d9430a3f035b",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1412128295",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "There is currently a Limited Time Offer (LTO) for the Chase Ink Plus Business Card where you can earn 70,000 bonus points after you spend $5,000 on purchases in the first 3 months from account opening. Earlier this year some people reported receiving targeted offers in the mail for a similar offer, but now we have […]",
+    "cleaned_selection": "<p>There is currently a Limited Time Offer (LTO) for the Chase Ink Plus Business Card where you can earn 70,000 bonus points after you spend $5,000 on purchases in the first 3 months from account opening. Earlier this year some people reported receiving targeted offers in the mail for a similar offer, but now we have […]</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.481405",
+  "updated_at": "2025-08-06T08:47:04.481407"
+}

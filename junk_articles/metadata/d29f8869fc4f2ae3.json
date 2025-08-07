@@ -1,0 +1,34 @@
+{
+  "uid": "d29f8869fc4f2ae3",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/56a73e86fe3af95117cce7b4d66779f8/",
+  "title": "Meet the Censored: Myanmar Writer Zaw Moe Shinn",
+  "status": "converted_from_csv",
+  "date": "2021-03-05T08:43:20",
+  "error": null,
+  "content_path": "output/articles/markdown/d29f8869fc4f2ae3.md",
+  "html_path": "output/articles/html/d29f8869fc4f2ae3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2363,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0c36fcabe01492809ee25345f3e4b7c9",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1614962600",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-03-05T08:43:20",
+  "updated_at": "2021-03-05T08:43:20"
+}

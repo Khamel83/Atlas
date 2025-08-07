@@ -1,0 +1,26 @@
+{
+  "uid": "02396cb40bb37401",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1719004861",
+  "title": "💥That's the Spirit!💥",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.925453",
+  "error": null,
+  "content_path": "output/articles/markdown/02396cb40bb37401.md",
+  "html_path": "output/articles/html/02396cb40bb37401.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1719004861,
+    "content_length": 22294,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1719004861,
+    "instapaper_time": 1729437401,
+    "is_private_content": true,
+    "content_length": 22294
+  },
+  "created_at": "2025-08-06T13:18:33.925456",
+  "updated_at": "2025-08-06T13:18:33.925457"
+}

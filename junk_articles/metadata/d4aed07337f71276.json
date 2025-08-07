@@ -1,0 +1,34 @@
+{
+  "uid": "d4aed07337f71276",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/c1cf22e706fc24a224b463d88407c6eb/",
+  "title": "Fairmint & the Democratization of Upside",
+  "status": "converted_from_csv",
+  "date": "2020-11-19T05:55:23",
+  "error": null,
+  "content_path": "output/articles/markdown/d4aed07337f71276.md",
+  "html_path": "output/articles/html/d4aed07337f71276.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2649,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "41de064c1522829bac3acf49ac40737c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1605794123",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2020-11-19T05:55:23",
+  "updated_at": "2020-11-19T05:55:23"
+}

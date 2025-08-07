@@ -1,0 +1,34 @@
+{
+  "uid": "c5b75e271bab0892",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/6ef693b5fcfd180b7746e85285229140/",
+  "title": "Interview with Barry Meier, author of \"Spooked\"",
+  "status": "converted_from_csv",
+  "date": "2021-06-15T12:55:11",
+  "error": null,
+  "content_path": "output/articles/markdown/c5b75e271bab0892.md",
+  "html_path": "output/articles/html/c5b75e271bab0892.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2152,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "44344eb12472db5707c540ac2e89828c",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1623786911",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-06-15T12:55:11",
+  "updated_at": "2021-06-15T12:55:11"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "46fe74a4ec4e75fe",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/d5f33ed40103a9772570f58f5a17e534/",
+  "title": "Apple Intelligence is Right On Time (Stratechery Article 6-10-2024)",
+  "status": "converted_from_csv",
+  "date": "2024-06-10T07:01:18",
+  "error": null,
+  "content_path": "output/articles/markdown/46fe74a4ec4e75fe.md",
+  "html_path": "output/articles/html/46fe74a4ec4e75fe.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 273,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5b960fc8c3771b8e2e740f5aaa526d4b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1718028078",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2024-06-10T07:01:18",
+  "updated_at": "2024-06-10T07:01:18"
+}

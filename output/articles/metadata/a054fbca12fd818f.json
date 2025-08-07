@@ -1,0 +1,40 @@
+{
+  "uid": "a054fbca12fd818f",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/identities/2018/5/29/17405704/white-evangelicals-attitudes-refugees",
+  "title": "68% of white evangelicals think America shouldn’t house refugees Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:49:05.840959",
+  "error": null,
+  "content_path": "output/articles/markdown/a054fbca12fd818f.md",
+  "html_path": "output/articles/html/a054fbca12fd818f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "bfd5b8e933427c36a1a185754e65cae3",
+  "type_specific": {
+    "bookmark_id": 1062162183,
+    "instapaper_time": 1527656377,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:49:05.840987",
+  "updated_at": "2025-08-05T13:49:05.840990"
+}

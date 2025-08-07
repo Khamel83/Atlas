@@ -1,0 +1,40 @@
+{
+  "uid": "e05e45e220f6ea3a",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/01/british-airways-50000-sign-up-bonus-with-no-annual-fee/",
+  "title": "British Airways 50,000 Sign Up Bonus with No Annual Fee The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-01-02T11:38:00",
+  "error": null,
+  "content_path": "output/articles/markdown/e05e45e220f6ea3a.md",
+  "html_path": "output/articles/html/e05e45e220f6ea3a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5000,
+    "selection_length": 297,
+    "cleaned_selection_length": 304,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e05e45e220f6ea3a",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1420227480",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "For the past several months, the British Airways Visa card from Chase has been at or near the top of my list of the best travel credit card offers. While this card is generally solid, it got a boost recently because Chase was waiving the $95 annual fee for the first year. That added incentive […]",
+    "cleaned_selection": "<p>For the past several months, the British Airways Visa card from Chase has been at or near the top of my list of the best travel credit card offers. While this card is generally solid, it got a boost recently because Chase was waiving the $95 annual fee for the first year. That added incentive […]</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.441280",
+  "updated_at": "2025-08-06T08:47:04.441281"
+}

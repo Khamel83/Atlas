@@ -1,0 +1,34 @@
+{
+  "uid": "6bc6fdd993f75408",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/078791162ad008514eeeb85b09534dd2/",
+  "title": "Robinhood Robinhooded Robinhood",
+  "status": "converted_from_csv",
+  "date": "2021-02-01T05:57:24",
+  "error": null,
+  "content_path": "output/articles/markdown/6bc6fdd993f75408.md",
+  "html_path": "output/articles/html/6bc6fdd993f75408.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2434,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "69a1d85c4aee8af8b3c977900508660b",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1612187844",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-02-01T05:57:24",
+  "updated_at": "2021-02-01T05:57:24"
+}

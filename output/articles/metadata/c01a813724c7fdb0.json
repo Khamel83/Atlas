@@ -1,0 +1,26 @@
+{
+  "uid": "c01a813724c7fdb0",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1730399692",
+  "title": "💥It's a \"Creditor Takeover\"💥",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.887593",
+  "error": null,
+  "content_path": "output/articles/markdown/c01a813724c7fdb0.md",
+  "html_path": "output/articles/html/c01a813724c7fdb0.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1730399692,
+    "content_length": 38952,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1730399692,
+    "instapaper_time": 1732539988,
+    "is_private_content": true,
+    "content_length": 38952
+  },
+  "created_at": "2025-08-06T13:18:33.887770",
+  "updated_at": "2025-08-06T13:18:33.887778"
+}

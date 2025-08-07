@@ -1,0 +1,34 @@
+{
+  "uid": "a60f91510bbb5618",
+  "content_type": "web_bookmark",
+  "source": "http://insider.espn.go.com/espn/print?id=5224889&type=BlogEntry&imagesPrint=off",
+  "title": "ESPN.com - Your ultimate World Cup betting guide",
+  "status": "converted_from_csv",
+  "date": "2010-05-27T15:02:31",
+  "error": null,
+  "content_path": "output/articles/markdown/a60f91510bbb5618.md",
+  "html_path": "output/articles/html/a60f91510bbb5618.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 6213,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8a1c4c07a7d72aca918c24b8c77625ea",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1274997751",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2010-05-27T15:02:31",
+  "updated_at": "2010-05-27T15:02:31"
+}

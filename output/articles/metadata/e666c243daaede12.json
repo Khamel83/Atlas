@@ -1,0 +1,40 @@
+{
+  "uid": "e666c243daaede12",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/2017/5/25/11851766/what-is-ramadan-2017-muslim-islam-about",
+  "title": "Ramadan 2017 9 questions about the Muslim holy month you were too embarrassed to ask Vox - All",
+  "status": "success",
+  "date": "2025-08-05T14:03:19.789167",
+  "error": null,
+  "content_path": "output/articles/markdown/e666c243daaede12.md",
+  "html_path": "output/articles/html/e666c243daaede12.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "62417266fba57e2de00030092918e0de",
+  "type_specific": {
+    "bookmark_id": 910913242,
+    "instapaper_time": 1495686589,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:03:19.789198",
+  "updated_at": "2025-08-05T14:03:19.789201"
+}

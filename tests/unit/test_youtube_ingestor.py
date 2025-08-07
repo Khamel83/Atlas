@@ -1,8 +1,10 @@
 import os
+import unittest
 from unittest.mock import MagicMock, patch
 
 import pytest
 
+from helpers.metadata_manager import ContentType
 from helpers.youtube_ingestor import YouTubeIngestor
 
 

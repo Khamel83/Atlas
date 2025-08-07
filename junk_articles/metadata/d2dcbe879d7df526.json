@@ -1,0 +1,34 @@
+{
+  "uid": "d2dcbe879d7df526",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/a518e6724d41045b47d036471925f986/",
+  "title": "Meanwhile: The Fed's Golf Gaffe",
+  "status": "converted_from_csv",
+  "date": "2022-04-01T12:15:13",
+  "error": null,
+  "content_path": "output/articles/markdown/d2dcbe879d7df526.md",
+  "html_path": "output/articles/html/d2dcbe879d7df526.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1530,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9cbdd11ba7719106174d852ecf099a04",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1648840513",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-04-01T12:15:13",
+  "updated_at": "2022-04-01T12:15:13"
+}

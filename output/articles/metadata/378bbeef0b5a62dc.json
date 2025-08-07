@@ -1,0 +1,28 @@
+{
+  "uid": "378bbeef0b5a62dc",
+  "content_type": "instapaper_archive_additional_content",
+  "source": "https://www.astralcodexten.com/p/the-populist-right-must-own-tariffs",
+  "title": "The Populist Right Must Own Tariffs",
+  "status": "success",
+  "date": "2025-08-06T13:40:59.398771",
+  "error": null,
+  "content_path": "output/articles/markdown/378bbeef0b5a62dc.md",
+  "html_path": "output/articles/html/378bbeef0b5a62dc.html",
+  "fetch_method": "instapaper_api_archive_folder_maximization",
+  "fetch_details": {
+    "bookmark_id": 1771463981,
+    "content_length": 8988,
+    "successful": true,
+    "extraction_batch": "maximization_discovery",
+    "folder": "archive"
+  },
+  "type_specific": {
+    "bookmark_id": 1771463981,
+    "instapaper_time": 1746074536,
+    "folder": "archive",
+    "content_length": 8988,
+    "discovery_method": "folder_deep_dive"
+  },
+  "created_at": "2025-08-06T13:40:59.398785",
+  "updated_at": "2025-08-06T13:40:59.398786"
+}

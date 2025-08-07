@@ -45,4 +45,4 @@ You may stop using the software at any time. These terms remain in effect for pa
 These terms are governed by the laws of the jurisdiction where you use the software.
 
 ## Changes
-These terms may be updated. Continued use constitutes acceptance of changes. 
+These terms may be updated. Continued use constitutes acceptance of changes.

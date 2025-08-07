@@ -97,7 +97,7 @@ Type: Brief description
 
 **Types:**
 - `feat:` New feature
-- `fix:` Bug fix  
+- `fix:` Bug fix
 - `WIP:` Work in progress
 - `docs:` Documentation
 - `test:` Tests

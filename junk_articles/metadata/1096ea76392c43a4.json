@@ -1,0 +1,34 @@
+{
+  "uid": "1096ea76392c43a4",
+  "content_type": "web_bookmark",
+  "source": "https://slate.com/news-and-politics/2021/04/americans-for-prosperity-supreme-court-scalia.html",
+  "title": "Antonin Scalia Would Be Appalled at What Supreme Court Conservatives Are Arguing Now",
+  "status": "converted_from_csv",
+  "date": "2021-04-26T17:31:42",
+  "error": null,
+  "content_path": "output/articles/markdown/1096ea76392c43a4.md",
+  "html_path": "output/articles/html/1096ea76392c43a4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2259,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f12fc836820971e50136571757a17724",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1619483502",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-04-26T17:31:42",
+  "updated_at": "2021-04-26T17:31:42"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "407d25cd9b288548",
+  "content_type": "instapaper",
+  "source": "https://thepointsguy.com/news/these-are-the-exclusive-perks-amex-and-marriott-members-get-at-coachella/",
+  "title": "These Are the Exclusive Perks Amex and Marriott Members Get at Coachella The Points Guy",
+  "status": "success",
+  "date": "2025-08-05T13:50:40.162174",
+  "error": null,
+  "content_path": "output/articles/markdown/407d25cd9b288548.md",
+  "html_path": "output/articles/html/407d25cd9b288548.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "24db0752ff46be98d3367558c1fedb5c",
+  "type_specific": {
+    "bookmark_id": 1039849506,
+    "instapaper_time": 1523062266,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:50:40.162205",
+  "updated_at": "2025-08-05T13:50:40.162208"
+}

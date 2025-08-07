@@ -1,0 +1,34 @@
+{
+  "uid": "40455ad64d6bbb83",
+  "content_type": "web_bookmark",
+  "source": "http://www.newyorker.com/news/news-desk/the-mistrust-of-science",
+  "title": "The Mistrust of Science - The New Yorker",
+  "status": "converted_from_csv",
+  "date": "2016-06-11T22:23:09",
+  "error": null,
+  "content_path": "output/articles/markdown/40455ad64d6bbb83.md",
+  "html_path": "output/articles/html/40455ad64d6bbb83.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 4414,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4226ec74063a6e5eae8c753332be4f93",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1465708989",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2016-06-11T22:23:09",
+  "updated_at": "2016-06-11T22:23:09"
+}

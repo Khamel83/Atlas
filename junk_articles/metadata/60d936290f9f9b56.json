@@ -1,0 +1,34 @@
+{
+  "uid": "60d936290f9f9b56",
+  "content_type": "web_bookmark",
+  "source": "https://www.lamag.com/citythinkblog/shrooms-shamans-kosher-lsd-why-los-angeles-is-suddenly-tripping-out/",
+  "title": "'Shrooms! Shamans! Kosher LSD! Why Los Angeles Is Suddenly Tripping Out",
+  "status": "converted_from_csv",
+  "date": "2021-10-21T23:17:58",
+  "error": null,
+  "content_path": "output/articles/markdown/60d936290f9f9b56.md",
+  "html_path": "output/articles/html/60d936290f9f9b56.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1886,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3966825b16168d35ccb456ff1dbec4c4",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1634883478",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-10-21T23:17:58",
+  "updated_at": "2021-10-21T23:17:58"
+}

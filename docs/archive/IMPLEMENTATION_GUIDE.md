@@ -135,17 +135,17 @@ Related files:
    from pathlib import Path
    from helpers.metadata_manager import MetadataManager
    from helpers.path_manager import PathManager
-   
+
    @pytest.fixture
    def temp_output_dir(tmp_path):
        """Create temporary output directory for tests."""
        return tmp_path / "output"
-   
+
    @pytest.fixture
    def metadata_manager(temp_output_dir):
        """Create MetadataManager instance for testing."""
        return MetadataManager(temp_output_dir)
-   
+
    @pytest.fixture
    def sample_article_data():
        """Sample article data for testing."""
@@ -301,7 +301,7 @@ output_file = path_manager.get_content_path(safe_filename, "json")
 class ArticleIngestor:
     def __init__(self, output_dir):
         self.output_dir = output_dir
-    
+
     def process(self, url):
         # Custom processing logic
         pass
@@ -314,7 +314,7 @@ from helpers.base_ingestor import BaseIngestor
 class ArticleIngestor(BaseIngestor):
     def __init__(self, output_dir):
         super().__init__(output_dir, "article")
-    
+
     def _process_content(self, content):
         # Custom processing logic
         return processed_content
@@ -343,7 +343,7 @@ def test_metadata_manager_create_metadata(metadata_manager, sample_article_data)
         content_type="article",
         source="web"
     )
-    
+
     assert metadata["title"] == sample_article_data["title"]
     assert metadata["url"] == sample_article_data["url"]
     assert metadata["content_type"] == "article"
@@ -367,10 +367,10 @@ def test_metadata_manager_create_metadata(metadata_manager, sample_article_data)
 def test_article_processing_pipeline(temp_output_dir):
     """Test complete article processing pipeline."""
     from ingest.link_dispatcher import LinkDispatcher
-    
+
     dispatcher = LinkDispatcher(temp_output_dir)
     result = dispatcher.process_url("https://example.com/test-article")
-    
+
     assert result["success"] is True
     assert result["output_file"].exists()
     assert result["metadata"]["content_type"] == "article"
@@ -395,20 +395,20 @@ def test_article_processing_performance():
     """Test article processing performance."""
     start_time = time.time()
     start_memory = psutil.Process().memory_info().rss
-    
+
     # Process test articles
     results = []
     for i in range(100):
         result = process_test_article(f"test-article-{i}")
         results.append(result)
-    
+
     end_time = time.time()
     end_memory = psutil.Process().memory_info().rss
-    
+
     # Performance assertions
     processing_time = end_time - start_time
     memory_usage = end_memory - start_memory
-    
+
     assert processing_time < 300  # 5 minutes for 100 articles
     assert memory_usage < 100 * 1024 * 1024  # 100MB max increase
     assert all(r["success"] for r in results)
@@ -568,10 +568,10 @@ python -m pytest tests/paywall/ \
    # Format code
    black .
    isort .
-   
+
    # Type checking
    mypy .
-   
+
    # Run tests
    pytest --cov=. --cov-report=html
    ```
@@ -714,7 +714,7 @@ python -m pytest tests/paywall/ \
 4. **Documentation**: Complete API documentation
 5. **Testing**: Achieve 100% test coverage
 
-This implementation guide provides the foundation for successful Atlas development. Follow these patterns and practices to ensure consistent, maintainable, and high-quality code. 
+This implementation guide provides the foundation for successful Atlas development. Follow these patterns and practices to ensure consistent, maintainable, and high-quality code.
 
 ## Contributor Onboarding & First Steps
 
@@ -774,4 +774,4 @@ Welcome to Atlas! This section will help you get started as a new contributor.
 - [ ] Add or improve a test, doc, or feature.
 - [ ] Submit a pull request via GitHub (no direct pushes to main).
 
-Welcome aboard! Your contributions help make Atlas smarter and more empowering for everyone. 
+Welcome aboard! Your contributions help make Atlas smarter and more empowering for everyone.

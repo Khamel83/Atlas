@@ -1,0 +1,40 @@
+{
+  "uid": "ecffe08fdb0cf0b2",
+  "content_type": "instapaper",
+  "source": "http://www.theverge.com/2017/4/7/15226400/uber-italy-ban-court-ruling",
+  "title": "Italy issues a nationwide Uber ban The Verge",
+  "status": "success",
+  "date": "2025-08-05T14:04:38.624395",
+  "error": null,
+  "content_path": "output/articles/markdown/ecffe08fdb0cf0b2.md",
+  "html_path": "output/articles/html/ecffe08fdb0cf0b2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8cd79e3bec5e2352db2afcb5fba9cf6b",
+  "type_specific": {
+    "bookmark_id": 891492673,
+    "instapaper_time": 1491657619,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:04:38.624472",
+  "updated_at": "2025-08-05T14:04:38.624476"
+}

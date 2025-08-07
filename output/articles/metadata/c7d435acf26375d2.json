@@ -1,0 +1,40 @@
+{
+  "uid": "c7d435acf26375d2",
+  "content_type": "instapaper",
+  "source": "https://millionmilesecrets.com/2017/11/01/singapore-miles-for-alaska-flights/",
+  "title": "Save Your Miles! The New Cheapest Way to Get to Hawaii and More From the West Coast! Million Mile Secrets",
+  "status": "success",
+  "date": "2025-08-05T13:56:58.566286",
+  "error": null,
+  "content_path": "output/articles/markdown/c7d435acf26375d2.md",
+  "html_path": "output/articles/html/c7d435acf26375d2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "dd946b15dd79ae5f8776894c2ebfafca",
+  "type_specific": {
+    "bookmark_id": 975408575,
+    "instapaper_time": 1509590170,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:56:58.566344",
+  "updated_at": "2025-08-05T13:56:58.566348"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "27078e80b17990bd",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/a7e77a51f3c7c8fd903456815664297e/",
+  "title": "That Time the Milwaukee Bucks Played the Soviet Union",
+  "status": "converted_from_csv",
+  "date": "2021-07-13T07:35:44",
+  "error": null,
+  "content_path": "output/articles/markdown/27078e80b17990bd.md",
+  "html_path": "output/articles/html/27078e80b17990bd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 2105,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9d421cfbf40cc1a15b18eff154d3d3af",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1626186944",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2021-07-13T07:35:44",
+  "updated_at": "2021-07-13T07:35:44"
+}

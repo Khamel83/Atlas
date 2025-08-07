@@ -1,0 +1,34 @@
+{
+  "uid": "57b978886cff32ee",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/9f15d92991c95d188f115df1f4f675e2/",
+  "title": "Startup Prophecies",
+  "status": "converted_from_csv",
+  "date": "2023-02-07T05:49:05",
+  "error": null,
+  "content_path": "output/articles/markdown/57b978886cff32ee.md",
+  "html_path": "output/articles/html/57b978886cff32ee.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1019,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ca9b62a0bff21fc5555e76cb26b8cece",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1675777745",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2023-02-07T05:49:05",
+  "updated_at": "2023-02-07T05:49:05"
+}

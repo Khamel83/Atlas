@@ -1,0 +1,34 @@
+{
+  "uid": "e9793c6e5506e215",
+  "content_type": "private_content",
+  "source": "instapaper-private://email/09b3556a5bc17b96ec566c87ee2cb2bb/",
+  "title": "Elon's Giant Package",
+  "status": "converted_from_csv",
+  "date": "2022-04-25T07:54:29",
+  "error": null,
+  "content_path": "output/articles/markdown/e9793c6e5506e215.md",
+  "html_path": "output/articles/html/e9793c6e5506e215.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 1486,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ce62ad7cb8b315f039fa14523f4d6e60",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1650898469",
+    "is_private_content": true,
+    "private_source": "instapaper_email",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2022-04-25T07:54:29",
+  "updated_at": "2022-04-25T07:54:29"
+}

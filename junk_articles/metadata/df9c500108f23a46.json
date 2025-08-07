@@ -1,0 +1,34 @@
+{
+  "uid": "df9c500108f23a46",
+  "content_type": "web_bookmark",
+  "source": "https://www.nytimes.com/interactive/2019/02/21/magazine/elite-professionals-jobs-happiness.html",
+  "title": "America’s Professional Elite: Wealthy, Successful and Miserable",
+  "status": "converted_from_csv",
+  "date": "2019-02-22T12:58:03",
+  "error": null,
+  "content_path": "output/articles/markdown/df9c500108f23a46.md",
+  "html_path": "output/articles/html/df9c500108f23a46.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "csv_export",
+  "fetch_details": {
+    "source": "instapaper_csv_export",
+    "csv_row": 3231,
+    "selection": ""
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "154b4dd52a21dec626832efcded0f513",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1550869083",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": ""
+  },
+  "video_id": null,
+  "created_at": "2019-02-22T12:58:03",
+  "updated_at": "2019-02-22T12:58:03"
+}
