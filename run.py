@@ -27,6 +27,9 @@ from helpers.podcast_processor_unified import unified_processor, initialize_podc
 # Unified RSS ingestor
 from helpers.podcast_rss_unified import get_unified_rss_ingestor
 
+# Ad detection and removal system
+from helpers.podcast_ad_processor import get_podcast_ad_processor
+
 # Web interface
 import uvicorn
 from web.app import app as web_app
@@ -91,6 +94,11 @@ def main():
     parser.add_argument("--rss-ingest", type=str, help="Ingest RSS feed using unified ingestor")
     parser.add_argument("--rss-stats", action="store_true", help="Show unified RSS ingestor statistics")
     parser.add_argument("--rss-poll-feeds", action="store_true", help="Poll feeds using unified RSS ingestor")
+    
+    # Ad detection and removal arguments
+    parser.add_argument("--process-audio", type=str, help="Process audio URL with ad detection and removal")
+    parser.add_argument("--ad-stats", action="store_true", help="Show ad processing statistics")
+    parser.add_argument("--batch-process-ads", type=str, help="Batch process episodes from JSON file")
     
     # Cognitive analysis arguments  
     parser.add_argument("--cognitive-analysis", action="store_true", help="Run cognitive analysis on processed content")
@@ -323,6 +331,81 @@ def main():
         
         rss_ingestor.close()
 
+    # Ad detection and removal commands
+    if args.process_audio:
+        print(f"🎵 Processing audio with ad detection and removal: {args.process_audio}")
+        ad_processor = get_podcast_ad_processor()
+        
+        # Extract filename for title
+        title = args.process_audio.split('/')[-1].split('?')[0]
+        
+        result = ad_processor.process_podcast_episode(
+            audio_url=args.process_audio,
+            title=title,
+            show_name="Manual Processing"
+        )
+        
+        if result.success:
+            print("✅ Audio processing completed successfully")
+            print(f"   📁 Original file: {result.original_file_path}")
+            print(f"   🧹 Cleaned file: {result.cleaned_file_path}")
+            print(f"   📝 Transcript: {result.transcript_file_path}")
+            print(f"   📊 Ads detected: {result.ads_detected}")
+            print(f"   ⏱️  Time saved: {result.ads_removed_duration:.1f}s")
+            print(f"   ⚡ Processing time: {result.processing_time:.1f}s")
+        else:
+            print("❌ Audio processing failed")
+            print(f"   Error: {result.error_message}")
+            
+        ad_processor.close()
+    
+    if args.ad_stats:
+        print("📊 Ad processing statistics:")
+        ad_processor = get_podcast_ad_processor()
+        stats = ad_processor.get_processing_statistics()
+        
+        if 'error' in stats:
+            print(f"   ❌ Error retrieving stats: {stats['error']}")
+        else:
+            print(f"   📈 Total episodes: {stats.get('total_episodes', 0)}")
+            print(f"   🎵 Ad processed: {stats.get('ad_processed_episodes', 0)}")
+            print(f"   🧹 Cleaned episodes: {stats.get('cleaned_episodes', 0)}")
+            print(f"   📊 Processing rate: {stats.get('processing_rate', 0)}%")
+            print(f"   🗄️  Database enabled: {stats.get('database_enabled', False)}")
+            
+        ad_processor.close()
+    
+    if args.batch_process_ads:
+        print(f"🎵 Batch processing episodes from: {args.batch_process_ads}")
+        try:
+            import json
+            with open(args.batch_process_ads, 'r') as f:
+                episodes = json.load(f)
+            
+            ad_processor = get_podcast_ad_processor()
+            results = ad_processor.process_multiple_episodes(episodes)
+            
+            successful = sum(1 for r in results if r.success)
+            total = len(results)
+            
+            print(f"✅ Batch processing completed: {successful}/{total} episodes successful")
+            
+            # Show summary
+            total_ads = sum(r.ads_detected for r in results if r.success)
+            total_time_saved = sum(r.ads_removed_duration or 0 for r in results if r.success)
+            
+            print(f"   📊 Total ads detected: {total_ads}")
+            print(f"   ⏱️  Total time saved: {total_time_saved:.1f}s")
+            
+            ad_processor.close()
+            
+        except FileNotFoundError:
+            print(f"❌ File not found: {args.batch_process_ads}")
+        except json.JSONDecodeError:
+            print(f"❌ Invalid JSON format in: {args.batch_process_ads}")
+        except Exception as e:
+            print(f"❌ Batch processing failed: {e}")
+
     if args.instapaper_csv:
         print(f"📖 Processing Instapaper CSV: {args.instapaper_csv}")
         process_instapaper_csv(args.instapaper_csv)
@@ -382,6 +465,10 @@ def main():
         print("   --rss-poll-feeds     Poll all configured feeds with unified system")  
         print("   --rss-stats          Show unified RSS processing statistics")
         print("   --add-feed URL       Add new podcast feed to configuration")
+        print("\n🎵 Ad Detection & Removal Commands:")
+        print("   --process-audio URL  Process audio with advanced ad detection and removal")
+        print("   --ad-stats           Show ad processing statistics and performance metrics")
+        print("   --batch-process-ads  Batch process multiple episodes from JSON file")
 
 if __name__ == "__main__":
     main()
