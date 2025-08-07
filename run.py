@@ -1,4 +1,4 @@
-# run_unified.py - Atlas-Podemos Integrated Entry Point
+# run.py - Atlas-Podemos Unified Entry Point with Database Integration
 
 import argparse
 import glob
@@ -17,6 +17,9 @@ from helpers.youtube_ingestor import ingest_youtube_history
 from ingest.link_dispatcher import process_instapaper_csv, process_url_file
 from process.recategorize import recategorize_all_content
 
+# Database integration
+from helpers.atlas_database_helper import get_atlas_database_manager
+
 # Unified configuration and processing
 from helpers.config_unified import load_unified_config, is_podcast_processing_enabled, get_podcast_feeds
 from helpers.podcast_processor_unified import unified_processor, initialize_podcast_database
@@ -27,10 +30,28 @@ from web.app import app as web_app
 
 def main():
     """
-    Main function to run the unified Atlas-Podemos pipeline.
+    Main function to run the unified Atlas-Podemos pipeline with database integration.
     """
     # Load unified configuration
     config = load_unified_config()
+    
+    # Initialize unified database system
+    try:
+        atlas_db = get_atlas_database_manager()
+        if atlas_db.database_enabled:
+            print("✅ Atlas unified database initialized successfully")
+            
+            # Display database statistics
+            stats = atlas_db.get_content_statistics()
+            print(f"📊 Database contains {stats.get('total_content', 0)} items")
+            if stats.get('content_by_type'):
+                for content_type, count in stats['content_by_type'].items():
+                    print(f"   • {content_type}: {count} items")
+        else:
+            print("⚠️ Running in file-based mode (database unavailable)")
+    except Exception as e:
+        print(f"⚠️ Database initialization warning: {e}")
+        print("   Continuing in file-based mode...")
     
     # Safety and compliance check (Atlas)
     if not check_pre_run_safety(config.atlas_config):
@@ -67,6 +88,13 @@ def main():
     parser.add_argument("--cognitive-analysis", action="store_true", help="Run cognitive analysis on processed content")
     parser.add_argument("--analyze-episode", type=int, help="Run cognitive analysis on specific episode")
     
+    # Database integration arguments
+    parser.add_argument("--init-unified-db", action="store_true", help="Initialize unified database")
+    parser.add_argument("--migrate-atlas", action="store_true", help="Migrate Atlas content to unified database")
+    parser.add_argument("--validate-db", action="store_true", help="Validate database integrity")
+    parser.add_argument("--db-stats", action="store_true", help="Show database statistics")
+    parser.add_argument("--db-path", type=str, help="Path to unified database file")
+    
     # System arguments
     parser.add_argument("--all", action="store_true", help="Run all ingestion types")
     parser.add_argument("--serve", action="store_true", help="Start web server with integrated dashboard")
@@ -82,6 +110,54 @@ def main():
     logger.info(f"Integration mode: {config.integration_mode}")
     logger.info(f"Podcast processing enabled: {config.podcast_processing_enabled}")
     logger.info(f"Cognitive analysis enabled: {config.cognitive_analysis_enabled}")
+
+    # Handle database integration commands
+    if args.init_unified_db:
+        from database_integration.init_unified_db import create_unified_database_schema
+        db_path = args.db_path or "atlas_unified.db"
+        if create_unified_database_schema(db_path):
+            print(f"✅ Unified database initialized: {db_path}")
+        else:
+            print(f"❌ Failed to initialize unified database: {db_path}")
+        return
+    
+    if args.migrate_atlas:
+        from database_integration.migrate_atlas_content import AtlasContentMigrator
+        db_path = args.db_path or "atlas_unified.db"
+        migrator = AtlasContentMigrator(db_path, ".")
+        if migrator.migrate_all_content():
+            print(f"✅ Atlas content migrated to: {db_path}")
+        else:
+            print(f"❌ Atlas content migration failed")
+        return
+    
+    if args.validate_db:
+        from database_integration.validate_migration import MigrationValidator
+        db_path = args.db_path or "atlas_unified.db"
+        validator = MigrationValidator(db_path)
+        if validator.run_full_validation():
+            print(f"✅ Database validation passed: {db_path}")
+        else:
+            print(f"⚠️ Database validation found issues: {db_path}")
+        return
+    
+    if args.db_stats:
+        try:
+            atlas_db = get_atlas_database_manager(args.db_path)
+            stats = atlas_db.get_content_statistics()
+            print("\n📊 UNIFIED DATABASE STATISTICS")
+            print("=" * 50)
+            print(f"Total content items: {stats.get('total_content', 0)}")
+            print(f"Content by type: {stats.get('content_by_type', {})}")
+            print(f"Content by status: {stats.get('content_by_status', {})}")
+            print(f"Items with errors: {stats.get('content_with_errors', 0)}")
+            if stats.get('total_content', 0) > 0:
+                error_rate = (stats.get('content_with_errors', 0) / stats['total_content']) * 100
+                print(f"Error rate: {error_rate:.1f}%")
+            atlas_db.close()
+        except Exception as e:
+            print(f"❌ Failed to get database statistics: {e}")
+        return
 
     # Handle podcast database initialization
     if args.init_podcast_db:
