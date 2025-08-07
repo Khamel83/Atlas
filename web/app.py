@@ -19,6 +19,9 @@ from ask.socratic.question_engine import QuestionEngine
 from ask.temporal.temporal_engine import TemporalEngine
 from helpers.metadata_manager import MetadataManager
 
+# Import podcast dashboard
+from web.podcast_dashboard import create_podcast_routes
+
 
 # For demo: instantiate with default config (replace with real config/manager in production)
 def get_metadata_manager():
@@ -56,6 +59,9 @@ scheduler = BackgroundScheduler(
     jobstores={"default": SQLAlchemyJobStore(url=f"sqlite:///{JOBSTORE_PATH}")}
 )
 scheduler.start(paused=True)
+
+# Add podcast dashboard routes
+create_podcast_routes(app)
 
 
 # Dummy function for new jobs (MVP)
