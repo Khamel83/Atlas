@@ -24,6 +24,9 @@ from helpers.atlas_database_helper import get_atlas_database_manager
 from helpers.config_unified import load_unified_config, is_podcast_processing_enabled, get_podcast_feeds
 from helpers.podcast_processor_unified import unified_processor, initialize_podcast_database
 
+# Unified RSS ingestor
+from helpers.podcast_rss_unified import get_unified_rss_ingestor
+
 # Web interface
 import uvicorn
 from web.app import app as web_app
@@ -84,6 +87,11 @@ def main():
     parser.add_argument("--process-episode", type=int, help="Process specific episode by ID")
     parser.add_argument("--episode-status", action="store_true", help="Show episode processing status")
     
+    # Unified RSS ingestor arguments  
+    parser.add_argument("--rss-ingest", type=str, help="Ingest RSS feed using unified ingestor")
+    parser.add_argument("--rss-stats", action="store_true", help="Show unified RSS ingestor statistics")
+    parser.add_argument("--rss-poll-feeds", action="store_true", help="Poll feeds using unified RSS ingestor")
+    
     # Cognitive analysis arguments  
     parser.add_argument("--cognitive-analysis", action="store_true", help="Run cognitive analysis on processed content")
     parser.add_argument("--analyze-episode", type=int, help="Run cognitive analysis on specific episode")
@@ -103,7 +111,10 @@ def main():
     args = parser.parse_args()
 
     # Set up logging
-    setup_logging()
+    from helpers.config import load_config
+    log_path = "logs/atlas_unified.log"
+    basic_config = load_config()  # For logging setup
+    setup_logging(log_path, basic_config)
     logger = logging.getLogger(__name__)
     
     logger.info("🚀 Starting Atlas-Podemos unified system")
@@ -260,6 +271,58 @@ def main():
         else:
             print("⚠️ No podcast feeds configured. Use --add-feed or --import-opml to set up feeds.")
 
+    # Unified RSS ingestor commands
+    if args.rss_ingest:
+        print(f"📡 Ingesting RSS feed with unified ingestor: {args.rss_ingest}")
+        rss_ingestor = get_unified_rss_ingestor(config)
+        success = rss_ingestor.ingest_feed_url(args.rss_ingest)
+        if success:
+            print("✅ RSS feed ingestion completed successfully")
+        else:
+            print("❌ RSS feed ingestion failed")
+        rss_ingestor.close()
+    
+    if args.rss_stats:
+        print("📊 Unified RSS ingestor statistics:")
+        rss_ingestor = get_unified_rss_ingestor(config)
+        stats = rss_ingestor.get_processing_stats()
+        if 'error' in stats:
+            print(f"   ❌ Error retrieving stats: {stats['error']}")
+        else:
+            print(f"   📈 Total episodes: {stats.get('total_episodes', 0)}")
+            print(f"   📥 Ingested: {stats.get('ingested', 0)}")
+            print(f"   ⚙️  Processing: {stats.get('processing', 0)}")
+            print(f"   ✅ Completed: {stats.get('completed', 0)}")
+            print(f"   🗄️  Database enabled: {stats.get('database_enabled', False)}")
+        rss_ingestor.close()
+    
+    if args.rss_poll_feeds:
+        print("📡 Polling RSS feeds with unified ingestor...")
+        feeds = []
+        
+        # Try to get feeds from config
+        if is_podcast_processing_enabled(config):
+            feeds = get_podcast_feeds(config)
+        
+        # Fallback to manual feed list if needed
+        if not feeds:
+            # You could add a default feed list here or read from a file
+            print("⚠️ No feeds configured. Use --add-feed to configure feeds first.")
+            return
+        
+        rss_ingestor = get_unified_rss_ingestor(config)
+        results = rss_ingestor.poll_feeds(feeds)
+        
+        print(f"✅ Polling completed:")
+        print(f"   📡 Feeds processed: {results['feeds_processed']}")
+        print(f"   ✅ Successful feeds: {results['feeds_successful']}")
+        if results.get('errors'):
+            print(f"   ❌ Errors: {len(results['errors'])}")
+            for error in results['errors'][:3]:  # Show first 3 errors
+                print(f"      • {error}")
+        
+        rss_ingestor.close()
+
     if args.instapaper_csv:
         print(f"📖 Processing Instapaper CSV: {args.instapaper_csv}")
         process_instapaper_csv(args.instapaper_csv)
@@ -314,6 +377,11 @@ def main():
         print("   --podcasts       Process podcasts with advanced features")
         print("   --articles       Process articles")
         print("   --all            Process all content types")
+        print("\n📡 RSS & Podcast Commands:")
+        print("   --rss-ingest URL     Ingest specific RSS feed with unified system")
+        print("   --rss-poll-feeds     Poll all configured feeds with unified system")  
+        print("   --rss-stats          Show unified RSS processing statistics")
+        print("   --add-feed URL       Add new podcast feed to configuration")
 
 if __name__ == "__main__":
     main()
