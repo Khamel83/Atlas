@@ -32,8 +32,11 @@ from typing import Dict, List, Optional, Any, Union
 # Atlas imports
 from helpers.metadata_manager import ContentMetadata, ContentType, ProcessingStatus, MetadataManager
 from helpers.path_manager import PathManager, PathType, create_path_manager
-from helpers.utils import log_info, log_error
+from helpers.config import load_config
+import logging
 from helpers.dedupe import link_uid
+
+logger = logging.getLogger(__name__)
 
 # Database integration imports
 try:
@@ -42,7 +45,7 @@ try:
     DATABASE_AVAILABLE = True
 except ImportError:
     DATABASE_AVAILABLE = False
-    log_error("Database integration not available. Falling back to file-based operations.")
+    print("Warning: Database integration not available. Falling back to file-based operations.")
 
 class AtlasDatabaseManager:
     """
@@ -64,7 +67,8 @@ class AtlasDatabaseManager:
         self.database_enabled = enable_database and DATABASE_AVAILABLE
         
         # Initialize Atlas components
-        self.path_manager = create_path_manager()
+        config = load_config()
+        self.path_manager = create_path_manager(config)
         self.metadata_manager = MetadataManager()
         
         # Initialize database components if available
@@ -72,13 +76,13 @@ class AtlasDatabaseManager:
             try:
                 self.db = UnifiedDB(db_path)
                 self.atlas_db = AtlasDBHelper(db_path)
-                log_info(f"Atlas database integration initialized: {db_path}")
+                logger.info(f"Atlas database integration initialized: {db_path}")
             except Exception as e:
-                log_error(f"Failed to initialize database: {e}. Falling back to file-based operations.")
+                logger.error(f"Failed to initialize database: {e}. Falling back to file-based operations.")
                 self.database_enabled = False
         
         if not self.database_enabled:
-            log_info("Atlas running in file-based mode")
+            logger.info("Atlas running in file-based mode")
     
     def store_content(
         self, 
@@ -120,7 +124,7 @@ class AtlasDatabaseManager:
                 )
                 
                 if not success:
-                    log_error(f"Failed to store content in database: {metadata.uid}")
+                    logger.error(f"Failed to store content in database: {metadata.uid}")
                     # Continue with file storage as fallback
             
             # Store files (always, for backward compatibility)
@@ -132,7 +136,7 @@ class AtlasDatabaseManager:
                 return file_success
                 
         except Exception as e:
-            log_error(f"Error storing content {metadata.uid}: {e}")
+            logger.error(f"Error storing content {metadata.uid}: {e}")
             return False
     
     def get_content(self, uid: str) -> Optional[Dict[str, Any]]:
@@ -156,7 +160,7 @@ class AtlasDatabaseManager:
             return self._get_content_from_files(uid)
             
         except Exception as e:
-            log_error(f"Error getting content {uid}: {e}")
+            logger.error(f"Error getting content {uid}: {e}")
             return None
     
     def get_articles(self, limit: int = None, since_days: int = None) -> List[Dict[str, Any]]:
@@ -180,7 +184,7 @@ class AtlasDatabaseManager:
                 return self._get_articles_from_files(limit, since_days)
                 
         except Exception as e:
-            log_error(f"Error getting articles: {e}")
+            logger.error(f"Error getting articles: {e}")
             return []
     
     def get_podcasts(self, limit: int = None) -> List[Dict[str, Any]]:
@@ -192,7 +196,7 @@ class AtlasDatabaseManager:
                 return self._get_content_by_type_from_files('podcast', limit)
                 
         except Exception as e:
-            log_error(f"Error getting podcasts: {e}")
+            logger.error(f"Error getting podcasts: {e}")
             return []
     
     def get_youtube_content(self, limit: int = None) -> List[Dict[str, Any]]:
@@ -204,7 +208,7 @@ class AtlasDatabaseManager:
                 return self._get_content_by_type_from_files('youtube', limit)
                 
         except Exception as e:
-            log_error(f"Error getting YouTube content: {e}")
+            logger.error(f"Error getting YouTube content: {e}")
             return []
     
     def search_content(
@@ -231,7 +235,7 @@ class AtlasDatabaseManager:
                 return self._search_content_files(query, content_type, limit)
                 
         except Exception as e:
-            log_error(f"Error searching content: {e}")
+            logger.error(f"Error searching content: {e}")
             return []
     
     def get_content_statistics(self) -> Dict[str, Any]:
@@ -243,7 +247,7 @@ class AtlasDatabaseManager:
                 return self._get_statistics_from_files()
                 
         except Exception as e:
-            log_error(f"Error getting statistics: {e}")
+            logger.error(f"Error getting statistics: {e}")
             return {}
     
     def mark_content_error(self, uid: str, error_message: str) -> bool:
@@ -255,7 +259,7 @@ class AtlasDatabaseManager:
                 return self._mark_content_error_in_files(uid, error_message)
                 
         except Exception as e:
-            log_error(f"Error marking content error {uid}: {e}")
+            logger.error(f"Error marking content error {uid}: {e}")
             return False
     
     def mark_content_completed(self, uid: str) -> bool:
@@ -267,7 +271,7 @@ class AtlasDatabaseManager:
                 return self._mark_content_completed_in_files(uid)
                 
         except Exception as e:
-            log_error(f"Error marking content completed {uid}: {e}")
+            logger.error(f"Error marking content completed {uid}: {e}")
             return False
     
     def get_processing_queue(self, status: str = "pending") -> List[Dict[str, Any]]:
@@ -287,7 +291,7 @@ class AtlasDatabaseManager:
                 return self._get_content_by_status_from_files(status)
                 
         except Exception as e:
-            log_error(f"Error getting processing queue: {e}")
+            logger.error(f"Error getting processing queue: {e}")
             return []
     
     # Private helper methods
@@ -350,7 +354,7 @@ class AtlasDatabaseManager:
             return result
             
         except Exception as e:
-            log_error(f"Error storing content files: {e}")
+            logger.error(f"Error storing content files: {e}")
             return False
     
     def _get_content_from_files(self, uid: str) -> Optional[Dict[str, Any]]:
@@ -378,7 +382,7 @@ class AtlasDatabaseManager:
             }
             
         except Exception as e:
-            log_error(f"Error loading content from files {uid}: {e}")
+            logger.error(f"Error loading content from files {uid}: {e}")
             return None
     
     def _get_articles_from_files(self, limit: int = None, since_days: int = None) -> List[Dict[str, Any]]:
@@ -424,7 +428,7 @@ class AtlasDatabaseManager:
             return articles
             
         except Exception as e:
-            log_error(f"Error getting articles from files: {e}")
+            logger.error(f"Error getting articles from files: {e}")
             return []
     
     def _get_content_by_type_from_files(self, content_type: str, limit: int = None) -> List[Dict[str, Any]]:
@@ -457,7 +461,7 @@ class AtlasDatabaseManager:
             return content
             
         except Exception as e:
-            log_error(f"Error getting content by type from files: {e}")
+            logger.error(f"Error getting content by type from files: {e}")
             return []
     
     def _search_content_files(self, query: str, content_type: str = None, limit: int = None) -> List[Dict[str, Any]]:
@@ -499,7 +503,7 @@ class AtlasDatabaseManager:
             return results
             
         except Exception as e:
-            log_error(f"Error searching content files: {e}")
+            logger.error(f"Error searching content files: {e}")
             return []
     
     def _get_statistics_from_files(self) -> Dict[str, Any]:
@@ -539,7 +543,7 @@ class AtlasDatabaseManager:
             return stats
             
         except Exception as e:
-            log_error(f"Error getting statistics from files: {e}")
+            logger.error(f"Error getting statistics from files: {e}")
             return {}
     
     def _mark_content_error_in_files(self, uid: str, error_message: str) -> bool:
@@ -562,7 +566,7 @@ class AtlasDatabaseManager:
             return True
             
         except Exception as e:
-            log_error(f"Error marking content error in files {uid}: {e}")
+            logger.error(f"Error marking content error in files {uid}: {e}")
             return False
     
     def _mark_content_completed_in_files(self, uid: str) -> bool:
@@ -585,7 +589,7 @@ class AtlasDatabaseManager:
             return True
             
         except Exception as e:
-            log_error(f"Error marking content completed in files {uid}: {e}")
+            logger.error(f"Error marking content completed in files {uid}: {e}")
             return False
     
     def _get_content_by_status_from_files(self, status: str) -> List[Dict[str, Any]]:
@@ -616,7 +620,7 @@ class AtlasDatabaseManager:
             return content
             
         except Exception as e:
-            log_error(f"Error getting content by status from files: {e}")
+            logger.error(f"Error getting content by status from files: {e}")
             return []
     
     def close(self):
