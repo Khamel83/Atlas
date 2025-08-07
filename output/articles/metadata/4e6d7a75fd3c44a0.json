@@ -1,0 +1,40 @@
+{
+  "uid": "4e6d7a75fd3c44a0",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2016/02/10-cool-new-travel-products-for-2016.html",
+  "title": "10 Cool New Travel Products for 2016 Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2016-02-23T15:37:23",
+  "error": null,
+  "content_path": "output/articles/markdown/4e6d7a75fd3c44a0.md",
+  "html_path": "output/articles/html/4e6d7a75fd3c44a0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4561,
+    "selection_length": 312,
+    "cleaned_selection_length": 319,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4e6d7a75fd3c44a0",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1456270643",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "There are a lot of cool travel products coming out all the time. I have rounded up 10 of the coolest new products for 2016. 1. The Travel Halo The Travel Halo is a relatively new, award winning alternative to your typical neck pillow. They currently have two different versions, the original ($24.00) and the […]",
+    "cleaned_selection": "<p>There are a lot of cool travel products coming out all the time. I have rounded up 10 of the coolest new products for 2016. 1. The Travel Halo The Travel Halo is a relatively new, award winning alternative to your typical neck pillow. They currently have two different versions, the original ($24.00) and the […]</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.332291",
+  "updated_at": "2025-08-06T08:47:04.332292"
+}

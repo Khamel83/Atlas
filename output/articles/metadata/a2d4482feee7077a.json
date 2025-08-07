@@ -1,0 +1,40 @@
+{
+  "uid": "a2d4482feee7077a",
+  "content_type": "instapaper",
+  "source": "http://kottke.org/17/08/the-best-photos-and-videos-of-the-2017-solar-eclipse",
+  "title": "The best photos and videos of the 2017 solar eclipse kottke.org",
+  "status": "success",
+  "date": "2025-08-05T14:00:36.009692",
+  "error": null,
+  "content_path": "output/articles/markdown/a2d4482feee7077a.md",
+  "html_path": "output/articles/html/a2d4482feee7077a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f512da3a45ee78404d5faa0e3ccf9191",
+  "type_specific": {
+    "bookmark_id": 946268607,
+    "instapaper_time": 1503505697,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:00:36.009788",
+  "updated_at": "2025-08-05T14:00:36.009792"
+}

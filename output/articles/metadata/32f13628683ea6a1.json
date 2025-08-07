@@ -1,0 +1,40 @@
+{
+  "uid": "32f13628683ea6a1",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://flowingdata.com/2017/04/13/a-century-of-facial-hair-styles/",
+  "title": "A century of facial hair styles FlowingData",
+  "status": "selection_content_extracted",
+  "date": "2017-04-13T04:18:42",
+  "error": null,
+  "content_path": "output/articles/markdown/32f13628683ea6a1.md",
+  "html_path": "output/articles/html/32f13628683ea6a1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4018,
+    "selection_length": 622,
+    "cleaned_selection_length": 649,
+    "domain": "flowingdata.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "32f13628683ea6a1",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1492082322",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Facial hair styles change with the years. One year it might be more fashionable to be clean shaven and another year the trend might veer towards big beards. Reddit user Mystic_Toaster sifted through old university yearbooks to manually tabulate the trends from 1898 to 2008.\n\nObviously there’s some self-selection going on here. It’s only a sample of yearbooks from four universities, and yearbook photos don’t always match everyday styles, but it’s a fun peek into long-term changes.\n\nSee also the older 1976 study.\n\nOh, and here’s the spreadsheet for the chart above in case you want to make your own charts.\n\nTags: hair",
+    "cleaned_selection": "<p>Facial hair styles change with the years. One year it might be more fashionable to be clean shaven and another year the trend might veer towards big beards. Reddit user Mystic_Toaster sifted through old university yearbooks to manually tabulate the trends from 1898 to 2008.</p><p>Obviously there’s some self-selection going on here. It’s only a sample of yearbooks from four universities, and yearbook photos don’t always match everyday styles, but it’s a fun peek into long-term changes.</p><p>See also the older 1976 study.</p><p>Oh, and here’s the spreadsheet for the chart above in case you want to make your own charts.</p><p>Tags: hair</p>",
+    "domain": "flowingdata.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.136765",
+  "updated_at": "2025-08-06T08:47:04.136767"
+}

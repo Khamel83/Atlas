@@ -1,0 +1,40 @@
+{
+  "uid": "4988878b5a8499a4",
+  "content_type": "instapaper",
+  "source": "https://food52.com/blog/20764-genius-broiled-buffalo-wings",
+  "title": "The Genius Little Secret to No-Fry, Crispy Buffalo Wings Food52",
+  "status": "success",
+  "date": "2025-08-05T13:57:11.387797",
+  "error": null,
+  "content_path": "output/articles/markdown/4988878b5a8499a4.md",
+  "html_path": "output/articles/html/4988878b5a8499a4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fdac888ab0303b0515862810eea78048",
+  "type_specific": {
+    "bookmark_id": 972469495,
+    "instapaper_time": 1508989853,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:57:11.387825",
+  "updated_at": "2025-08-05T13:57:11.387828"
+}

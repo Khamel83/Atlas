@@ -1,0 +1,26 @@
+{
+  "uid": "99dc478078987b6b",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1725783814",
+  "title": "💥Riled Up💥",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.910943",
+  "error": null,
+  "content_path": "output/articles/markdown/99dc478078987b6b.md",
+  "html_path": "output/articles/html/99dc478078987b6b.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1725783814,
+    "content_length": 19527,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1725783814,
+    "instapaper_time": 1731255393,
+    "is_private_content": true,
+    "content_length": 19527
+  },
+  "created_at": "2025-08-06T13:18:33.910946",
+  "updated_at": "2025-08-06T13:18:33.910947"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "5b4a0e7948c5cd9a",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.wired.com/2015/10/best-missed-connections-ever/",
+  "title": "This Might Be the First Craigslist Ad to Win a Pulitzer WIRED",
+  "status": "selection_content_extracted",
+  "date": "2015-10-03T09:44:44",
+  "error": null,
+  "content_path": "output/articles/markdown/5b4a0e7948c5cd9a.md",
+  "html_path": "output/articles/html/5b4a0e7948c5cd9a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4735,
+    "selection_length": 172,
+    "cleaned_selection_length": 184,
+    "domain": "wired.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5b4a0e7948c5cd9a",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1443890684",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Rain, a ballgown, and the world's most heartbreaking Missed Connection from 1972.\n\nThe post This Might Be the First Craigslist Ad to Win a Pulitzer appeared first on WIRED.",
+    "cleaned_selection": "<p>Rain, a ballgown, and the world's most heartbreaking Missed Connection from 1972.</p><p>The post This Might Be the First Craigslist Ad to Win a Pulitzer appeared first on WIRED.</p>",
+    "domain": "wired.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.374179",
+  "updated_at": "2025-08-06T08:47:04.374181"
+}

@@ -1,0 +1,36 @@
+{
+  "uid": "8f20cdb7455e575f",
+  "content_type": "instapaper_newsletter",
+  "source": "instapaper://private-content/1764169049",
+  "title": "Note to Readers",
+  "status": "success",
+  "date": "2025-03-29T11:37:48",
+  "error": null,
+  "content_path": "output/articles/markdown/8f20cdb7455e575f.md",
+  "html_path": "output/articles/html/8f20cdb7455e575f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api_private_content",
+  "fetch_details": {
+    "bookmark_id": 1764169049,
+    "extraction_method": "bookmarks_get_text",
+    "content_length": 16573,
+    "successful": true
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1764169049",
+  "type_specific": {
+    "bookmark_id": 1764169049,
+    "instapaper_time": 1743273468,
+    "starred": true,
+    "is_private_content": true,
+    "private_source": "email",
+    "content_length": 16573
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T21:58:51.998218",
+  "updated_at": "2025-08-05T21:58:51.998219"
+}

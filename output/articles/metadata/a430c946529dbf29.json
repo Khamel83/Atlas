@@ -1,0 +1,42 @@
+{
+  "uid": "a430c946529dbf29",
+  "content_type": "instapaper",
+  "source": "https://www.nytimes.com/2024/09/09/business/red-lobster-seafood-downfall.html?smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb",
+  "title": "Greed, Gluttony and the Crackup of Red Lobster",
+  "status": "success",
+  "date": "2025-08-05T13:32:19.046517",
+  "error": null,
+  "content_path": "output/articles/markdown/a430c946529dbf29.md",
+  "html_path": "output/articles/html/a430c946529dbf29.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "36735039f41a7e3cc72cbd1202ffe0df",
+  "type_specific": {
+    "bookmark_id": 1707937971,
+    "instapaper_time": 1725911038,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:32:19.046534",
+  "updated_at": "2025-08-05T13:32:19.046535"
+}

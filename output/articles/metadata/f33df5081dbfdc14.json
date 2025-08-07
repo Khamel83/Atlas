@@ -1,0 +1,40 @@
+{
+  "uid": "f33df5081dbfdc14",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://food52.com/blog/17987-7-one-pan-meals-to-add-to-your-rotation",
+  "title": "7 One-Pan Meals to Add to Your Rotation Food52",
+  "status": "selection_content_extracted",
+  "date": "2016-09-24T21:37:29",
+  "error": null,
+  "content_path": "output/articles/markdown/f33df5081dbfdc14.md",
+  "html_path": "output/articles/html/f33df5081dbfdc14.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4303,
+    "selection_length": 1108,
+    "cleaned_selection_length": 1155,
+    "domain": "food52.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f33df5081dbfdc14",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1474778249",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The results are in! Here are the recipes our community loved from Your Best One-Pan Meal.\n\nOnce again, we want to give a big, big thanks to all of our volunteer recipe testers for your thoughtful comments and for helping us continue to strengthen our recipe recommendations. You can read the winning headnote and tester's comments by clicking through to the Community Picks recipes—the comments are at the top. And even if the recipe you tested wasn't chosen as a CP, please feel free to leave your testing notes in the recipe's comments section. Constructive criticism is always encouraged!\n\nCommunity Picks (Tested and photographed by us!)\n\nDouble Mushroom & Kale Farro\nby Leslie Engel\nStir-Fried Rice Noodles with Minced Pork and Black Bean\nby Kirthana | Theblurrylime\nCoconut Braised Chickpeas and Broccoli\nby Vicky | Things I Made Today\n\nCommunity Picks (Tested by you!)\n\nAfrican Stew by Fille de la Foret Cajun Corn Chowder by inpatskitchenFish Fillets (Cod, Haddock, Pollack—You Name It!) in Roasted Tomato Broth by Bevi One-Pot Skinless Chicken Thigh with Kaffir Coconut Cream Crust by KetoInMuhBelly",
+    "cleaned_selection": "<p>The results are in! Here are the recipes our community loved from Your Best One-Pan Meal.</p><p>Once again, we want to give a big, big thanks to all of our volunteer recipe testers for your thoughtful comments and for helping us continue to strengthen our recipe recommendations. You can read the winning headnote and tester's comments by clicking through to the Community Picks recipes—the comments are at the top. And even if the recipe you tested wasn't chosen as a CP, please feel free to leave your testing notes in the recipe's comments section. Constructive criticism is always encouraged!</p><p>Community Picks (Tested and photographed by us!)</p><p>Double Mushroom & Kale Farro<br>by Leslie Engel<br>Stir-Fried Rice Noodles with Minced Pork and Black Bean<br>by Kirthana | Theblurrylime<br>Coconut Braised Chickpeas and Broccoli<br>by Vicky | Things I Made Today</p><p>Community Picks (Tested by you!)</p><p>African Stew by Fille de la Foret Cajun Corn Chowder by inpatskitchenFish Fillets (Cod, Haddock, Pollack—You Name It!) in Roasted Tomato Broth by Bevi One-Pot Skinless Chicken Thigh with Kaffir Coconut Cream Crust by KetoInMuhBelly</p>",
+    "domain": "food52.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.284049",
+  "updated_at": "2025-08-06T08:47:04.284050"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "7de44e3a3f7473cd",
+  "content_type": "instapaper",
+  "source": "https://www.core77.com//posts/79323/Womens-Pockets-Really-Suck",
+  "title": "Women's Pockets Really Suck Core77",
+  "status": "success",
+  "date": "2025-08-05T13:48:31.652324",
+  "error": null,
+  "content_path": "output/articles/markdown/7de44e3a3f7473cd.md",
+  "html_path": "output/articles/html/7de44e3a3f7473cd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "878e31588b39c687f6d8800459f0663f",
+  "type_specific": {
+    "bookmark_id": 1094675594,
+    "instapaper_time": 1534837078,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:48:31.652401",
+  "updated_at": "2025-08-05T13:48:31.652405"
+}

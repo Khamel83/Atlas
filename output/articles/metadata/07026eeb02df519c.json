@@ -1,0 +1,40 @@
+{
+  "uid": "07026eeb02df519c",
+  "content_type": "instapaper",
+  "source": "https://www.wired.com/story/big-data-streaming/",
+  "title": "Best-Ever Streaming Algorithm Found for Huge Amounts of Data Feed All Latest",
+  "status": "success",
+  "date": "2025-08-05T13:57:02.292830",
+  "error": null,
+  "content_path": "output/articles/markdown/07026eeb02df519c.md",
+  "html_path": "output/articles/html/07026eeb02df519c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "918e82113921544449eea8da95016c25",
+  "type_specific": {
+    "bookmark_id": 973848085,
+    "instapaper_time": 1509293929,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:57:02.292902",
+  "updated_at": "2025-08-05T13:57:02.292905"
+}

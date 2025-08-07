@@ -1,0 +1,40 @@
+{
+  "uid": "175daf6aa174699c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://kottke.org/18/03/dont-move-to-los-angeles",
+  "title": "Don’t move to Los Angeles kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2018-03-15T05:36:10",
+  "error": null,
+  "content_path": "output/articles/markdown/175daf6aa174699c.md",
+  "html_path": "output/articles/html/175daf6aa174699c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3582,
+    "selection_length": 984,
+    "cleaned_selection_length": 1012,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "175daf6aa174699c",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1521117370",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "As a nice coda to yesterday’s post on gentrification in Los Angeles, the adroit Ann Friedman tells us how not to ruin her adopted city.\n\nI like to think I’m one of the good transplants. (Don’t we all?) I came to California seven years ago when most New Yorkers were still turning up their noses at this city. I had a local job — not a work-remote situation. I befriended my neighbors. I patronized burrito joints that were not endorsed by Anthony Bourdain. I got a public library card. I learned the bus routes near my house. I made sure to vote in local elections.\n\nImage via Rafa Esparza, who asks “What can citizenship outside of colonization and more in tune with cultural stewardship look like?”\n\nThis is the question for L.A.’s economically privileged new arrivals: How do you help care for the city that drew you in, rather than allow your presence to steamroll its culture?\n\nAlso insert “New York” and “San Francisco,” above.\n\nTags: Ann Friedman   gentrification   Los Angeles",
+    "cleaned_selection": "<p>As a nice coda to yesterday’s post on gentrification in Los Angeles, the adroit Ann Friedman tells us how not to ruin her adopted city.</p><p>I like to think I’m one of the good transplants. (Don’t we all?) I came to California seven years ago when most New Yorkers were still turning up their noses at this city. I had a local job — not a work-remote situation. I befriended my neighbors. I patronized burrito joints that were not endorsed by Anthony Bourdain. I got a public library card. I learned the bus routes near my house. I made sure to vote in local elections.</p><p>Image via Rafa Esparza, who asks “What can citizenship outside of colonization and more in tune with cultural stewardship look like?”</p><p>This is the question for L.A.’s economically privileged new arrivals: How do you help care for the city that drew you in, rather than allow your presence to steamroll its culture?</p><p>Also insert “New York” and “San Francisco,” above.</p><p>Tags: Ann Friedman gentrification Los Angeles</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.922003",
+  "updated_at": "2025-08-06T08:47:03.922005"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "a46c7bb6793dc98f",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/spotify-knows-me-better-than-i-know-myself/",
+  "title": "Spotify Knows Me Better Than I Know Myself FiveThirtyEight » Features | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2014-09-16T07:34:53",
+  "error": null,
+  "content_path": "output/articles/markdown/a46c7bb6793dc98f.md",
+  "html_path": "output/articles/html/a46c7bb6793dc98f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5140,
+    "selection_length": 300,
+    "cleaned_selection_length": 307,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a46c7bb6793dc98f",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1410878093",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The days when you could listen to guilty pleasure music without consequence are over. In the dark ages, people used to buy music in a store. But stores never knew how many times you played the album you bought, or a particular song on that album, and the closest we came to a music recommendation […]",
+    "cleaned_selection": "<p>The days when you could listen to guilty pleasure music without consequence are over. In the dark ages, people used to buy music in a store. But stores never knew how many times you played the album you bought, or a particular song on that album, and the closest we came to a music recommendation […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.490820",
+  "updated_at": "2025-08-06T08:47:04.490821"
+}

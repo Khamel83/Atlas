@@ -1,0 +1,40 @@
+{
+  "uid": "0b82cfae0d45cf7e",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/924777/linkedins-former-head-of-sales-has-moved-on-to-the-next-generation-of-online-recruiting-tool/",
+  "title": "LinkedIn is no longer the future of recruiting, according to a former LinkedIn executive Quartz",
+  "status": "selection_content_extracted",
+  "date": "2017-03-04T22:18:29",
+  "error": null,
+  "content_path": "output/articles/markdown/0b82cfae0d45cf7e.md",
+  "html_path": "output/articles/html/0b82cfae0d45cf7e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4091,
+    "selection_length": 3336,
+    "cleaned_selection_length": 3378,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0b82cfae0d45cf7e",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1488694709",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "LinkedIn, Monster.com, and other job websites have revolutionized the way that companies look for new hires. But they’ve also made it easier for those companies to sort candidates based on factors like where they went to school and which companies they’ve worked at in the past—which can narrow the pool of candidates and contribute to diversity problems.\n\nDave Foley, the former leader of a global sales unit at LinkedIn, says that his hundreds of former customers were “typically looking at the same profile” in terms of schools and companies from which they were hoping to recruit. “Many as-good or better candidates are often overlooked because they don’t work or study in traditionally biased institutions like Harvard or McKinsey.”\n\nIn order to make it easier for hiring managers and recruiters to deemphasize attendance at top schools or career history, however, it helps to give them another way to quickly narrow down the candidate pool. That’s where the next generation of recruiting tools comes in.\n\nFolely recently left LinkedIn to join one of a handful of companies that is working on creating metrics that assess candidates fairly, at scale. He is now the head of global sales at Pymetrics, a company that tests potential candidates on more than 90 emotional and cognitive traits such as attention, sequencing, planning, risk profile, reward profile and how to read emotion in others. It then compares the results to those of the company’s current, most successful employees in the role. (That helps zero in on candidates whose traits have helped others be successful at that particular job, within that particular company.)\n\nExperts in hiring diversity say that broadening the pool of candidates from which companies hire is one of the most important aspects of creating better, more-diverse teams. Some non-profit organizations have focused on getting companies to consider candidates with unconventional credentials. Other startups have focused on assessing specific skills regardless of pedigree. A company called HackerRank uses coding challenges as a way for engineers to prove their skills (and for companies to recruit them). Another hiring platform, called Triplebyte, uses anonymous, standardized skills tests to help sort candidates.\n\nBoth of the Pymetrics’ founders are neuroscientists, and the tests the company gives to job candidates, which are presented as games, are based on science. One game that assesses how candidates respond to risk, for instance, presents them with a virtual balloon and asks candidates to make decisions about how much to inflate it. The more air that goes into the balloon, the more game money they receive, but if the balloon pops, they don’t receive any money.\n\nSome of the company’s clients use the tests as part of their application processes. For entry-level jobs, where experience isn’t as much of a factor (“they don’t have any experience,” Folely notes), companies may source candidates directly from Pymetrics’ pool of candidates. That includes recent college graduates and people who have taken Pymetrics’ assessment while applying for other jobs. The tool complements resumes and other skills-based tests and creates a useful filter for more traditional recruitment processes without necessarily replacing them.\n\n“I see this disruption as for the better,” Folely says.",
+    "cleaned_selection": "<p>LinkedIn, Monster.com, and other job websites have revolutionized the way that companies look for new hires. But they’ve also made it easier for those companies to sort candidates based on factors like where they went to school and which companies they’ve worked at in the past—which can narrow the pool of candidates and contribute to diversity problems.</p><p>Dave Foley, the former leader of a global sales unit at LinkedIn, says that his hundreds of former customers were “typically looking at the same profile” in terms of schools and companies from which they were hoping to recruit. “Many as-good or better candidates are often overlooked because they don’t work or study in traditionally biased institutions like Harvard or McKinsey.”</p><p>In order to make it easier for hiring managers and recruiters to deemphasize attendance at top schools or career history, however, it helps to give them another way to quickly narrow down the candidate pool. That’s where the next generation of recruiting tools comes in.</p><p>Folely recently left LinkedIn to join one of a handful of companies that is working on creating metrics that assess candidates fairly, at scale. He is now the head of global sales at Pymetrics, a company that tests potential candidates on more than 90 emotional and cognitive traits such as attention, sequencing, planning, risk profile, reward profile and how to read emotion in others. It then compares the results to those of the company’s current, most successful employees in the role. (That helps zero in on candidates whose traits have helped others be successful at that particular job, within that particular company.)</p><p>Experts in hiring diversity say that broadening the pool of candidates from which companies hire is one of the most important aspects of creating better, more-diverse teams. Some non-profit organizations have focused on getting companies to consider candidates with unconventional credentials. Other startups have focused on assessing specific skills regardless of pedigree. A company called HackerRank uses coding challenges as a way for engineers to prove their skills (and for companies to recruit them). Another hiring platform, called Triplebyte, uses anonymous, standardized skills tests to help sort candidates.</p><p>Both of the Pymetrics’ founders are neuroscientists, and the tests the company gives to job candidates, which are presented as games, are based on science. One game that assesses how candidates respond to risk, for instance, presents them with a virtual balloon and asks candidates to make decisions about how much to inflate it. The more air that goes into the balloon, the more game money they receive, but if the balloon pops, they don’t receive any money.</p><p>Some of the company’s clients use the tests as part of their application processes. For entry-level jobs, where experience isn’t as much of a factor (“they don’t have any experience,” Folely notes), companies may source candidates directly from Pymetrics’ pool of candidates. That includes recent college graduates and people who have taken Pymetrics’ assessment while applying for other jobs. The tool complements resumes and other skills-based tests and creates a useful filter for more traditional recruitment processes without necessarily replacing them.</p><p>“I see this disruption as for the better,” Folely says.</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.164782",
+  "updated_at": "2025-08-06T08:47:04.164783"
+}

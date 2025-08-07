@@ -1,0 +1,40 @@
+{
+  "uid": "c2ad2c41f1ef13fe",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.ribbonfarm.com/2016/03/24/the-holy-grail-of-self-improvement/",
+  "title": "The Holy Grail of Self-Improvement ribbonfarm",
+  "status": "selection_content_extracted",
+  "date": "2016-03-24T19:30:48",
+  "error": null,
+  "content_path": "output/articles/markdown/c2ad2c41f1ef13fe.md",
+  "html_path": "output/articles/html/c2ad2c41f1ef13fe.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4530,
+    "selection_length": 342,
+    "cleaned_selection_length": 349,
+    "domain": "ribbonfarm.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c2ad2c41f1ef13fe",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1458873048",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The holy grail of self-improvement in modern times is a framework for individual experimentation and learning that can be used by the average person. The key question such a framework would have to answer is “How do people change?” In this essay I will suggest possible answers to this question by looking at the recent history and theory […]",
+    "cleaned_selection": "<p>The holy grail of self-improvement in modern times is a framework for individual experimentation and learning that can be used by the average person. The key question such a framework would have to answer is “How do people change?” In this essay I will suggest possible answers to this question by looking at the recent history and theory […]</p>",
+    "domain": "ribbonfarm.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.326658",
+  "updated_at": "2025-08-06T08:47:04.326659"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "f78b9d77ca62c8ab",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://ritholtz.com/2016/06/real-house-prices/",
+  "title": "How High Are Real House Prices The Big Picture",
+  "status": "selection_content_extracted",
+  "date": "2016-06-08T16:26:15",
+  "error": null,
+  "content_path": "output/articles/markdown/f78b9d77ca62c8ab.md",
+  "html_path": "output/articles/html/f78b9d77ca62c8ab.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4417,
+    "selection_length": 145,
+    "cleaned_selection_length": 163,
+    "domain": "ritholtz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f78b9d77ca62c8ab",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1465428375",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "');//-->\n  }\n\n    © 2016    The Big Picture\n\nSign Up for My Newsletter\n\nGet subscriber-only insights and news delivered by Barry every two weeks.",
+    "cleaned_selection": "<p>');//--><br> }</p><p> © 2016 The Big Picture</p><p>Sign Up for My Newsletter</p><p>Get subscriber-only insights and news delivered by Barry every two weeks.</p>",
+    "domain": "ritholtz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.317247",
+  "updated_at": "2025-08-06T08:47:04.317259"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "f14e7923580c7298",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://food52.com/blog/13906-a-5-minute-trick-for-fresher-tomatoes",
+  "title": "A 5-Minute Trick for Fresher Tomatoes Food52",
+  "status": "selection_content_extracted",
+  "date": "2015-08-21T16:24:41",
+  "error": null,
+  "content_path": "output/articles/markdown/f14e7923580c7298.md",
+  "html_path": "output/articles/html/f14e7923580c7298.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4774,
+    "selection_length": 2814,
+    "cleaned_selection_length": 2866,
+    "domain": "food52.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f14e7923580c7298",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1440199481",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "This trick—which only takes 5 minutes—may be the answer to avoiding refrigerator-chilled, flavorless tomatoes.\n\nA few weeks ago, when our Test Kitchen Manager Derek was doling out tomatoes that wouldn't survive the weekend in the office, I made the mistake of offering that he put them in the refrigerator. A genuine look of shock came over him as he said, \"Put them in the refrigerator? I could never do that to a tomato!\" Over the next few weeks, I started to recognize just how much refrigerators can affect tomatoes' taste—the cold temperatures cause them to lose their flavor and become mealy. \n\nThis loss of flavor and degradation of textured is because the cold can halt the flavor-producing enzymes in tomatoes that thrive at room temperature. New research suggests, however, that the same could be true of the opposite.\n\nA recent article from Quartz brings to light new research from plant physiologist Jinhe Bai, who's found that dipping tomatoes in warm water before chilling them may help them retain their flavor. He took tomatoes fresh from the vine and dipped them into 125° F water, then chilled them—and he found that the flavor remained.\n\nWe decided to test the theory, albeit in a slightly flawed form (our tomatoes were store-bought, so it's likely that they were chilled before we ever reached them), but the findings may surprise you:\n\nThe method: We purchased two store-bought tomatoes and placed one in a water bath at 125° F for five minutes, then refrigerated both overnight. We allowed both tomatoes to come to room temperature (which in itself helps them recover from refrigeration), invited members of the Food52 to blind taste test of each tomato, then asked each person to pick their favorite tomato.\n\nThe findings: Of the 10 team member asked to try the tomatoes, eight of ten said that the pre-heated tomato was their favorite. Of those who chose the pre-heated tomato, almost all cited a \"more tomato-y\" taste—though to different degrees. Caroline, our Assistant Editor, determined more \"essence of tomato\" and our C.O.O. Bridget said that it was \"infinitely better.\" Amanda, our Design Editor, was perhaps the most specific, saying of the non-treated tomato, \"This is like chewing on paper—you know when paper disintegrates in your mouth? You’ll remember when you try this tomato.\" She chose the pre-heated version. But Kristen, our Executive Editor, said that she felt the texture was slightly better.\n\nConclusion: The pre-heated tomato had an 80% success rate, but many of the people who liked it said that its flavor was almost imperceptibly better. In a pinch, you'll find us dipping our tomatoes in warm water before refigeration—better safe than sorry!\n\nWhat are some of your tricks for keeping tomatoes fresher longer? Tell us in the comments below!\n\nPhoto by James Ransom",
+    "cleaned_selection": "<p>This trick—which only takes 5 minutes—may be the answer to avoiding refrigerator-chilled, flavorless tomatoes.</p><p>A few weeks ago, when our Test Kitchen Manager Derek was doling out tomatoes that wouldn't survive the weekend in the office, I made the mistake of offering that he put them in the refrigerator. A genuine look of shock came over him as he said, \"Put them in the refrigerator? I could never do that to a tomato!\" Over the next few weeks, I started to recognize just how much refrigerators can affect tomatoes' taste—the cold temperatures cause them to lose their flavor and become mealy. </p><p>This loss of flavor and degradation of textured is because the cold can halt the flavor-producing enzymes in tomatoes that thrive at room temperature. New research suggests, however, that the same could be true of the opposite.</p><p>A recent article from Quartz brings to light new research from plant physiologist Jinhe Bai, who's found that dipping tomatoes in warm water before chilling them may help them retain their flavor. He took tomatoes fresh from the vine and dipped them into 125° F water, then chilled them—and he found that the flavor remained.</p><p>We decided to test the theory, albeit in a slightly flawed form (our tomatoes were store-bought, so it's likely that they were chilled before we ever reached them), but the findings may surprise you:</p><p>The method: We purchased two store-bought tomatoes and placed one in a water bath at 125° F for five minutes, then refrigerated both overnight. We allowed both tomatoes to come to room temperature (which in itself helps them recover from refrigeration), invited members of the Food52 to blind taste test of each tomato, then asked each person to pick their favorite tomato.</p><p>The findings: Of the 10 team member asked to try the tomatoes, eight of ten said that the pre-heated tomato was their favorite. Of those who chose the pre-heated tomato, almost all cited a \"more tomato-y\" taste—though to different degrees. Caroline, our Assistant Editor, determined more \"essence of tomato\" and our C.O.O. Bridget said that it was \"infinitely better.\" Amanda, our Design Editor, was perhaps the most specific, saying of the non-treated tomato, \"This is like chewing on paper—you know when paper disintegrates in your mouth? You’ll remember when you try this tomato.\" She chose the pre-heated version. But Kristen, our Executive Editor, said that she felt the texture was slightly better.</p><p>Conclusion: The pre-heated tomato had an 80% success rate, but many of the people who liked it said that its flavor was almost imperceptibly better. In a pinch, you'll find us dipping our tomatoes in warm water before refigeration—better safe than sorry!</p><p>What are some of your tricks for keeping tomatoes fresher longer? Tell us in the comments below!</p><p>Photo by James Ransom</p>",
+    "domain": "food52.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.386894",
+  "updated_at": "2025-08-06T08:47:04.386895"
+}

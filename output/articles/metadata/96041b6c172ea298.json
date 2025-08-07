@@ -1,0 +1,40 @@
+{
+  "uid": "96041b6c172ea298",
+  "content_type": "instapaper",
+  "source": "https://www.theverge.com/2020/2/4/21122493/yahoo-class-action-settlement-data-breaches",
+  "title": "You might be able to get up to $100 from the settlement for Yahoo’s data breaches The Verge",
+  "status": "success",
+  "date": "2025-08-05T13:41:42.323140",
+  "error": null,
+  "content_path": "output/articles/markdown/96041b6c172ea298.md",
+  "html_path": "output/articles/html/96041b6c172ea298.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "48e6fcbdefe232afea4c953d8f2ac6b2",
+  "type_specific": {
+    "bookmark_id": 1274551638,
+    "instapaper_time": 1580853970,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:41:42.323175",
+  "updated_at": "2025-08-05T13:41:42.323178"
+}

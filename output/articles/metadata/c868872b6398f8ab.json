@@ -1,0 +1,40 @@
+{
+  "uid": "c868872b6398f8ab",
+  "content_type": "instapaper",
+  "source": "https://food52.com/blog/22509-legendary-crispy-as-heck-chicken-thighs-we-d-want-for-dinner-any-night",
+  "title": "Legendary, Crispy-As-Heck Chicken Thighs We'd Want for Dinner Any Night Food52",
+  "status": "success",
+  "date": "2025-08-05T13:49:01.055322",
+  "error": null,
+  "content_path": "output/articles/markdown/c868872b6398f8ab.md",
+  "html_path": "output/articles/html/c868872b6398f8ab.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f92abead248ff879529f675f81ca4efb",
+  "type_specific": {
+    "bookmark_id": 1066826873,
+    "instapaper_time": 1528746072,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:49:01.055395",
+  "updated_at": "2025-08-05T13:49:01.055399"
+}

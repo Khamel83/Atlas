@@ -1,0 +1,40 @@
+{
+  "uid": "72ef8aef2d11d7ea",
+  "content_type": "instapaper",
+  "source": "https://www.core77.com/posts/92811/China-Enacts-Massive-Speedy-Single-Use-Plastics-Ban",
+  "title": "China Enacts Massive, Speedy Single-Use Plastics Ban Core77",
+  "status": "success",
+  "date": "2025-08-05T13:41:45.001783",
+  "error": null,
+  "content_path": "output/articles/markdown/72ef8aef2d11d7ea.md",
+  "html_path": "output/articles/html/72ef8aef2d11d7ea.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "21f4c1b03f3f3eed4e3b1ed4793354da",
+  "type_specific": {
+    "bookmark_id": 1270902995,
+    "instapaper_time": 1579755889,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:41:45.001824",
+  "updated_at": "2025-08-05T13:41:45.001828"
+}

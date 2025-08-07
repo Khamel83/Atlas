@@ -1,0 +1,40 @@
+{
+  "uid": "31fe074cb3d18027",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.vogue.com/magazine/print/jon-huntsman-the-outsider/",
+  "title": "Vogue",
+  "status": "selection_content_extracted",
+  "date": "2011-08-22T16:32:23",
+  "error": null,
+  "content_path": "output/articles/markdown/31fe074cb3d18027.md",
+  "html_path": "output/articles/html/31fe074cb3d18027.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5646,
+    "selection_length": 154,
+    "cleaned_selection_length": 161,
+    "domain": "vogue.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "31fe074cb3d18027",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1314055943",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Farhad Manjoo: If this presidential thing doesn't work out, the Huntsmans could find work as Pottery Barn catalog models. http://bit.ly/qUEIEY ht @scootes",
+    "cleaned_selection": "<p>Farhad Manjoo: If this presidential thing doesn't work out, the Huntsmans could find work as Pottery Barn catalog models. http://bit.ly/qUEIEY ht @scootes</p>",
+    "domain": "vogue.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.527743",
+  "updated_at": "2025-08-06T08:47:04.527744"
+}

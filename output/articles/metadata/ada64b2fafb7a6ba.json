@@ -1,0 +1,40 @@
+{
+  "uid": "ada64b2fafb7a6ba",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1122362620",
+  "title": "IBM’s Old Playbook (Stratechery Weekly Article 10-29-2018)",
+  "status": "success",
+  "date": "2025-08-05T14:06:00.421515",
+  "error": null,
+  "content_path": "output/articles/markdown/ada64b2fafb7a6ba.md",
+  "html_path": "output/articles/html/ada64b2fafb7a6ba.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "876cd332ad7a7308eef567b885be2091",
+  "type_specific": {
+    "bookmark_id": 1122362620,
+    "instapaper_time": 1540821771,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Stratechery"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:06:00.421550",
+  "updated_at": "2025-08-05T14:06:00.421553"
+}

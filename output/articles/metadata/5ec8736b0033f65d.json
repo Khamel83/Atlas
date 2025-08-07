@@ -1,0 +1,40 @@
+{
+  "uid": "5ec8736b0033f65d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/christian-rudder-dataclysm-okcupid/",
+  "title": "Matchmaker, Matchmaker, Make Me A Spreadsheet FiveThirtyEight » Features | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2014-09-09T09:36:17",
+  "error": null,
+  "content_path": "output/articles/markdown/5ec8736b0033f65d.md",
+  "html_path": "output/articles/html/5ec8736b0033f65d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5142,
+    "selection_length": 324,
+    "cleaned_selection_length": 331,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5ec8736b0033f65d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1410280577",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "In mid-August, couples and lonely hearts packed a Brooklyn basement to hear scientists make sense of something the crowd could not: love. It was the 11th meeting of the Empiricist League, a kind of ad-hoc, small-scale TED Talks for scientists and the New Yorkers who adore them. In the back corner of the room, Christian […]",
+    "cleaned_selection": "<p>In mid-August, couples and lonely hearts packed a Brooklyn basement to hear scientists make sense of something the crowd could not: love. It was the 11th meeting of the Empiricist League, a kind of ad-hoc, small-scale TED Talks for scientists and the New Yorkers who adore them. In the back corner of the room, Christian […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.491910",
+  "updated_at": "2025-08-06T08:47:04.491911"
+}

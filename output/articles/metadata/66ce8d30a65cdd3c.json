@@ -1,0 +1,40 @@
+{
+  "uid": "66ce8d30a65cdd3c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.interviewmagazine.com/culture/david-carr/print/",
+  "title": "Aaron Sorkin Interviews David Carr [via Longreads]",
+  "status": "selection_content_extracted",
+  "date": "2011-06-29T16:37:48",
+  "error": null,
+  "content_path": "output/articles/markdown/66ce8d30a65cdd3c.md",
+  "html_path": "output/articles/html/66ce8d30a65cdd3c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5691,
+    "selection_length": 431,
+    "cleaned_selection_length": 438,
+    "domain": "interviewmagazine.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "66ce8d30a65cdd3c",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1309390668",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "\"The robot part is that he moves his elbow and content comes out. While he’s chatting, he’s also tweeting and blogging—and, you know, I’ll think that’s cute, and then the next day he’ll be on the front page with a synthetic piece about the analytics of television or new media, which he also covers. If Brian (Stelter) wasn’t such a decent guy, I would actually slip something into his food or quietly suffocate him with a pillow.\"",
+    "cleaned_selection": "<p>\"The robot part is that he moves his elbow and content comes out. While he’s chatting, he’s also tweeting and blogging—and, you know, I’ll think that’s cute, and then the next day he’ll be on the front page with a synthetic piece about the analytics of television or new media, which he also covers. If Brian (Stelter) wasn’t such a decent guy, I would actually slip something into his food or quietly suffocate him with a pillow.\"</p>",
+    "domain": "interviewmagazine.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.531134",
+  "updated_at": "2025-08-06T08:47:04.531136"
+}

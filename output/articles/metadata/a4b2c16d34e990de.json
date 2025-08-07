@@ -1,0 +1,40 @@
+{
+  "uid": "a4b2c16d34e990de",
+  "content_type": "instapaper",
+  "source": "https://kottke.org/18/06/everything-you-can-imagine-is-real",
+  "title": "Everything you can imagine is real kottke.org",
+  "status": "success",
+  "date": "2025-08-05T13:48:57.449186",
+  "error": null,
+  "content_path": "output/articles/markdown/a4b2c16d34e990de.md",
+  "html_path": "output/articles/html/a4b2c16d34e990de.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "90b1e94128645aa13b57103c5de49900",
+  "type_specific": {
+    "bookmark_id": 1074007149,
+    "instapaper_time": 1530391433,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:48:57.449213",
+  "updated_at": "2025-08-05T13:48:57.449216"
+}

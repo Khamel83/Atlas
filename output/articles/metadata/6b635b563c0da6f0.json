@@ -1,0 +1,40 @@
+{
+  "uid": "6b635b563c0da6f0",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://flowingdata.com/2016/10/20/composite-photos-of-airplanes-in-flight/",
+  "title": "Composite photos of airplanes in flight FlowingData",
+  "status": "selection_content_extracted",
+  "date": "2016-10-20T05:18:13",
+  "error": null,
+  "content_path": "output/articles/markdown/6b635b563c0da6f0.md",
+  "html_path": "output/articles/html/6b635b563c0da6f0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4272,
+    "selection_length": 871,
+    "cleaned_selection_length": 898,
+    "domain": "flowingdata.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6b635b563c0da6f0",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1476965893",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Composite photos of airplanes in flight\n\nPhotographer Mike Kelley visited airports around the world, took pictures of airplanes leaving, and then pieced the photos together in a series of composite photos. The result was Airportraits.\n\nA bit about the arduous process:\n\nI often get asked exactly just how ‘real’ these images are. And on one hand, they are as real as they get. I’d sit in one place for an entire day, and take a burst of pictures of each plane as it crossed in front of me. I’d then take one of those captures, wherever I thought I’d like that plane to be, and put it on my base image. Every plane in every picture was actually right in front of me at that point in time, and they are all exactly where they were relative to other planes in the frame. If you went to some of these spots, you’d see the exact same thing that I saw.\n\nI want to buy a camera.",
+    "cleaned_selection": "<p>Composite photos of airplanes in flight</p><p>Photographer Mike Kelley visited airports around the world, took pictures of airplanes leaving, and then pieced the photos together in a series of composite photos. The result was Airportraits.</p><p>A bit about the arduous process:</p><p>I often get asked exactly just how ‘real’ these images are. And on one hand, they are as real as they get. I’d sit in one place for an entire day, and take a burst of pictures of each plane as it crossed in front of me. I’d then take one of those captures, wherever I thought I’d like that plane to be, and put it on my base image. Every plane in every picture was actually right in front of me at that point in time, and they are all exactly where they were relative to other planes in the frame. If you went to some of these spots, you’d see the exact same thing that I saw.</p><p>I want to buy a camera.</p>",
+    "domain": "flowingdata.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.271012",
+  "updated_at": "2025-08-06T08:47:04.271014"
+}

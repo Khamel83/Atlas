@@ -1,0 +1,40 @@
+{
+  "uid": "1ff6da6c067157aa",
+  "content_type": "instapaper",
+  "source": "https://quartzy.qz.com/1258190/the-top-100-books-americans-love-the-most/",
+  "title": "The 100 novels Americans love the most, based on a survey of thousands Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:50:06.608864",
+  "error": null,
+  "content_path": "output/articles/markdown/1ff6da6c067157aa.md",
+  "html_path": "output/articles/html/1ff6da6c067157aa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cc1034cabbc4457cfc8c128b8ec4a2c6",
+  "type_specific": {
+    "bookmark_id": 1046679714,
+    "instapaper_time": 1524434593,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:50:06.608902",
+  "updated_at": "2025-08-05T13:50:06.608906"
+}

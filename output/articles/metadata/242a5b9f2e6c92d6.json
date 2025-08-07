@@ -1,0 +1,36 @@
+{
+  "uid": "242a5b9f2e6c92d6",
+  "content_type": "instapaper_newsletter",
+  "source": "instapaper://private-content/1719004861",
+  "title": "💥That's the Spirit!💥",
+  "status": "success",
+  "date": "2024-10-20T08:16:41",
+  "error": null,
+  "content_path": "output/articles/markdown/242a5b9f2e6c92d6.md",
+  "html_path": "output/articles/html/242a5b9f2e6c92d6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api_private_content",
+  "fetch_details": {
+    "bookmark_id": 1719004861,
+    "extraction_method": "bookmarks_get_text",
+    "content_length": 22294,
+    "successful": true
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1719004861",
+  "type_specific": {
+    "bookmark_id": 1719004861,
+    "instapaper_time": 1729437401,
+    "starred": true,
+    "is_private_content": true,
+    "private_source": "email",
+    "content_length": 22294
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T22:03:18.346264",
+  "updated_at": "2025-08-05T22:03:18.346269"
+}

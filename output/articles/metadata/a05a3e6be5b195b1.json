@@ -1,0 +1,42 @@
+{
+  "uid": "a05a3e6be5b195b1",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1721045509",
+  "title": "💥Another Flat Tire💥",
+  "status": "success",
+  "date": "2025-08-05T13:31:07.951444",
+  "error": null,
+  "content_path": "output/articles/markdown/a05a3e6be5b195b1.md",
+  "html_path": "output/articles/html/a05a3e6be5b195b1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "142d1cebd245bb0acce832bfb36f4b43",
+  "type_specific": {
+    "bookmark_id": 1721045509,
+    "instapaper_time": 1730042197,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:31:07.951457",
+  "updated_at": "2025-08-05T13:31:07.951458"
+}

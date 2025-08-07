@@ -1,0 +1,26 @@
+{
+  "uid": "1a504049a8e87422",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1728293458",
+  "title": "A Chance to Build (Stratechery Article 11-18-2024)",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.902998",
+  "error": null,
+  "content_path": "output/articles/markdown/1a504049a8e87422.md",
+  "html_path": "output/articles/html/1a504049a8e87422.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1728293458,
+    "content_length": 40667,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1728293458,
+    "instapaper_time": 1731946076,
+    "is_private_content": true,
+    "content_length": 40667
+  },
+  "created_at": "2025-08-06T13:18:33.903009",
+  "updated_at": "2025-08-06T13:18:33.903011"
+}

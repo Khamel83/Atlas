@@ -1,0 +1,26 @@
+{
+  "uid": "22ec675087e5dbfe",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1758580798",
+  "title": "479792 is your Substack verification code",
+  "status": "success",
+  "date": "2025-08-06T13:15:49.994973",
+  "error": null,
+  "content_path": "output/articles/markdown/22ec675087e5dbfe.md",
+  "html_path": "output/articles/html/22ec675087e5dbfe.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1758580798,
+    "content_length": 2680,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1758580798,
+    "instapaper_time": 1741244906,
+    "is_private_content": true,
+    "content_length": 2680
+  },
+  "created_at": "2025-08-06T13:15:49.994979",
+  "updated_at": "2025-08-06T13:15:49.994981"
+}

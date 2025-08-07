@@ -1,0 +1,42 @@
+{
+  "uid": "ed9a8793108d3185",
+  "content_type": "instapaper",
+  "source": "https://12ft.io/proxy",
+  "title": "12ft",
+  "status": "success",
+  "date": "2025-08-05T13:28:53.002939",
+  "error": null,
+  "content_path": "output/articles/markdown/ed9a8793108d3185.md",
+  "html_path": "output/articles/html/ed9a8793108d3185.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9a6130c0fcb2ae9ea194f2eb0b151fa5",
+  "type_specific": {
+    "bookmark_id": 1756575529,
+    "instapaper_time": 1740518446,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:28:53.002979",
+  "updated_at": "2025-08-05T13:28:53.002982"
+}

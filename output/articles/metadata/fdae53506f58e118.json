@@ -1,0 +1,26 @@
+{
+  "uid": "fdae53506f58e118",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1755076502",
+  "title": "💥A Vendor Apocalypse Part II💥",
+  "status": "success",
+  "date": "2025-08-06T13:15:50.015573",
+  "error": null,
+  "content_path": "output/articles/markdown/fdae53506f58e118.md",
+  "html_path": "output/articles/html/fdae53506f58e118.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1755076502,
+    "content_length": 44920,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1755076502,
+    "instapaper_time": 1739970401,
+    "is_private_content": true,
+    "content_length": 44920
+  },
+  "created_at": "2025-08-06T13:15:50.015577",
+  "updated_at": "2025-08-06T13:15:50.015578"
+}

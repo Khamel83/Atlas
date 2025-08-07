@@ -1,0 +1,40 @@
+{
+  "uid": "cb1c38c8d2aabf12",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://frequentmiler.boardingarea.com/not-targeted-for-the-amazon-amex-deal-try-this/",
+  "title": "Not Targeted For The AmazonAmex Deal Try This. Frequent Miler",
+  "status": "selection_content_extracted",
+  "date": "2019-06-30T10:21:24",
+  "error": null,
+  "content_path": "output/articles/markdown/cb1c38c8d2aabf12.md",
+  "html_path": "output/articles/html/cb1c38c8d2aabf12.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3097,
+    "selection_length": 2531,
+    "cleaned_selection_length": 2623,
+    "domain": "frequentmiler.boardingarea.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cb1c38c8d2aabf12",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1561915284",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Amazon launched a new promotion a few days ago that offers a 20% discount on up to $250 of spend when paying with at least 1 Membership Rewards point. See: Get 20% off at Amazon w/ 1 Membership Rewards point [YMMV]\n\nIt’s a great deal, but it’s also targeted. My wife and I were 0/2 with our accounts as we both received the following message saying that we’re not eligible.\n\nWe found ourselves in the exact same scenario last year when Amazon ran a similar promotion, albeit with a higher $500 spending limit. Back then, neither of us were targeted for the $100 savings, but we managed to get ourselves targeted by following a few different steps.\n\nCurious as to whether following the same steps would work again, I did just that a few days ago. I checked the next day to see if I was targeted – I wasn’t. I checked again the following day – still no joy. It was third time lucky though as I checked again yesterday and saw this shining beacon of wonderfulness.\n\nYep, I’d gotten myself targeted. To make sure the $5 million redemption limit didn’t get hit before I had a chance to take advantage of the deal, I immediately bought $250 worth of Airbnb gift cards.\n\nIf you’d received the same message saying that you’re not eligible, try following the same steps that I took. I can’t guarantee that you’ll definitely be targeted, but it worked on both mine and my wife’s accounts once again.\n\nStep 1\n\nFirst of all, delete all of your Membership Rewards-earning accounts from your Payment Options on Amazon. To do that, click on each applicable card, then click ‘Remove’.\n\nStep 2\n\nAdd at least one Membership Rewards-earning card back on as a payment option.\n\nStep 3\n\nNow that your Amex card is added back on, you’ll need to re-enroll in Shop With Points (our affiliate link). Click on the ‘Get Started’ button on that page and select your card. On the subsequent screen, make sure you select ‘Off’ where it asks if you want to apply Membership Rewards by default. Otherwise, you might accidentally pay for an entire order with Membership Rewards which is terrible value.\n\nStep 4\n\nCheck again to see if you were targeted for the 20% off promotion (our affiliate link).\n\nStep 5\n\nIf you weren’t targeted immediately, don’t give up – try that link every day. Like I mentioned earlier, it took three days before I became eligible for the offer, so hopefully you’ll have the same success in a few days time.\n\nEarn Miles Without Flying: START HERE\n\nThe post Not Targeted For The Amazon/Amex Deal? Try This. appeared first on Frequent Miler.",
+    "cleaned_selection": "<p>Amazon launched a new promotion a few days ago that offers a 20% discount on up to $250 of spend when paying with at least 1 Membership Rewards point. See: Get 20% off at Amazon w/ 1 Membership Rewards point [YMMV]</p><p>It’s a great deal, but it’s also targeted. My wife and I were 0/2 with our accounts as we both received the following message saying that we’re not eligible.</p><p>We found ourselves in the exact same scenario last year when Amazon ran a similar promotion, albeit with a higher $500 spending limit. Back then, neither of us were targeted for the $100 savings, but we managed to get ourselves targeted by following a few different steps.</p><p>Curious as to whether following the same steps would work again, I did just that a few days ago. I checked the next day to see if I was targeted – I wasn’t. I checked again the following day – still no joy. It was third time lucky though as I checked again yesterday and saw this shining beacon of wonderfulness.</p><p>Yep, I’d gotten myself targeted. To make sure the $5 million redemption limit didn’t get hit before I had a chance to take advantage of the deal, I immediately bought $250 worth of Airbnb gift cards.</p><p>If you’d received the same message saying that you’re not eligible, try following the same steps that I took. I can’t guarantee that you’ll definitely be targeted, but it worked on both mine and my wife’s accounts once again.</p><p>Step 1</p><p>First of all, delete all of your Membership Rewards-earning accounts from your Payment Options on Amazon. To do that, click on each applicable card, then click ‘Remove’.</p><p>Step 2</p><p>Add at least one Membership Rewards-earning card back on as a payment option.</p><p>Step 3</p><p>Now that your Amex card is added back on, you’ll need to re-enroll in Shop With Points (our affiliate link). Click on the ‘Get Started’ button on that page and select your card. On the subsequent screen, make sure you select ‘Off’ where it asks if you want to apply Membership Rewards by default. Otherwise, you might accidentally pay for an entire order with Membership Rewards which is terrible value.</p><p>Step 4</p><p>Check again to see if you were targeted for the 20% off promotion (our affiliate link).</p><p>Step 5</p><p>If you weren’t targeted immediately, don’t give up – try that link every day. Like I mentioned earlier, it took three days before I became eligible for the offer, so hopefully you’ll have the same success in a few days time.</p><p>Earn Miles Without Flying: START HERE</p><p>The post Not Targeted For The Amazon/Amex Deal? Try This. appeared first on Frequent Miler.</p>",
+    "domain": "frequentmiler.boardingarea.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.747531",
+  "updated_at": "2025-08-06T08:47:03.747532"
+}

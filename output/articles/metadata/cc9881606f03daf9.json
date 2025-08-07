@@ -1,0 +1,40 @@
+{
+  "uid": "cc9881606f03daf9",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://grantland.com/the-triangle/nba-windows-houston-rockets-james-harden-dwight-howard/",
+  "title": "NBA Windows The Rockets’ Missing Third Superstar and the NBA’s Continuity Problem Grantland » Contributors » Zach Lowe",
+  "status": "selection_content_extracted",
+  "date": "2014-09-30T18:51:37",
+  "error": null,
+  "content_path": "output/articles/markdown/cc9881606f03daf9.md",
+  "html_path": "output/articles/html/cc9881606f03daf9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5111,
+    "selection_length": 178,
+    "cleaned_selection_length": 185,
+    "domain": "grantland.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cc9881606f03daf9",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1412128297",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The NBA’s ever-changing financial landscape has teams like the Rockets struggling to round out their Big Three and maintain continuity. And it won’t get any easier in the future.",
+    "cleaned_selection": "<p>The NBA’s ever-changing financial landscape has teams like the Rockets struggling to round out their Big Three and maintain continuity. And it won’t get any easier in the future.</p>",
+    "domain": "grantland.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.480612",
+  "updated_at": "2025-08-06T08:47:04.480613"
+}

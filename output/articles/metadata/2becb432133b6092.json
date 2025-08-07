@@ -1,0 +1,40 @@
+{
+  "uid": "2becb432133b6092",
+  "content_type": "instapaper",
+  "source": "https://qz.com/991033/trump-meets-the-pope-what-the-veils-really-mean/",
+  "title": "Why Ivanka and Melania Trump covered up for the Vatican but not in Saudi Arabia Quartz",
+  "status": "success",
+  "date": "2025-08-05T14:03:22.523831",
+  "error": null,
+  "content_path": "output/articles/markdown/2becb432133b6092.md",
+  "html_path": "output/articles/html/2becb432133b6092.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7d15bfdb2a5457d1b3892a9d76365f73",
+  "type_specific": {
+    "bookmark_id": 910824809,
+    "instapaper_time": 1495669539,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:03:22.523861",
+  "updated_at": "2025-08-05T14:03:22.523865"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "47b200fd59b356e2",
+  "content_type": "instapaper",
+  "source": "https://www.theverge.com/tldr/2018/11/22/18108195/apple-siri-iphone-donald-trump-penis-wikipedia-fail-vandalism-editing",
+  "title": "Siri thinks Donald Trump is a penis The Verge",
+  "status": "success",
+  "date": "2025-08-05T13:47:49.788853",
+  "error": null,
+  "content_path": "output/articles/markdown/47b200fd59b356e2.md",
+  "html_path": "output/articles/html/47b200fd59b356e2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b0ee302d6c99135a392f364cbee531a9",
+  "type_specific": {
+    "bookmark_id": 1131829489,
+    "instapaper_time": 1542941394,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:47:49.788931",
+  "updated_at": "2025-08-05T13:47:49.788935"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "2ff24aec5563975c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.newyorker.com/reporting/2012/04/30/120430fa_fact_auletta?currentPage=all",
+  "title": "Get Rich U.  [via Longreads]",
+  "status": "selection_content_extracted",
+  "date": "2012-04-30T11:28:26",
+  "error": null,
+  "content_path": "output/articles/markdown/2ff24aec5563975c.md",
+  "html_path": "output/articles/html/2ff24aec5563975c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5480,
+    "selection_length": 985,
+    "cleaned_selection_length": 997,
+    "domain": "newyorker.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2ff24aec5563975c",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1335810506",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Stanford University, and its president John L. Hennessy, have a tight relationship with Silicon Valley, which has helped the university's endowment grow to nearly $17 billion. A look at how those relationships are shaping what's next: <br /><br />\n\n\"John Hennessy’s experience in Silicon Valley proves that digital disruption is normal, and even desirable. It is commonly believed that traditional companies and services get disrupted because they are inefficient and costly. The publishing industry has suffered in recent years, the argument goes, because reading on screens is more convenient. Why wait in line at a store when there’s Amazon? Why pay for a travel agent when there’s Expedia? The same argument can be applied to online education. An online syllabus could reach many more students, and reduce tuition charges and eliminate room and board. Students in an online university could take any course whenever they wanted, and wouldn’t have to waste time bicycling to class.\"",
+    "cleaned_selection": "<p>Stanford University, and its president John L. Hennessy, have a tight relationship with Silicon Valley, which has helped the university's endowment grow to nearly $17 billion. A look at how those relationships are shaping what's next: <br /><br /></p><p>\"John Hennessy’s experience in Silicon Valley proves that digital disruption is normal, and even desirable. It is commonly believed that traditional companies and services get disrupted because they are inefficient and costly. The publishing industry has suffered in recent years, the argument goes, because reading on screens is more convenient. Why wait in line at a store when there’s Amazon? Why pay for a travel agent when there’s Expedia? The same argument can be applied to online education. An online syllabus could reach many more students, and reduce tuition charges and eliminate room and board. Students in an online university could take any course whenever they wanted, and wouldn’t have to waste time bicycling to class.\"</p>",
+    "domain": "newyorker.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.515149",
+  "updated_at": "2025-08-06T08:47:04.515150"
+}

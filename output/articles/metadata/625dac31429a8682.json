@@ -1,0 +1,40 @@
+{
+  "uid": "625dac31429a8682",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://kottke.org/17/04/a-guide-to-what-teens-think-is-cool",
+  "title": "A guide to what teens think is cool kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2017-04-04T16:29:57",
+  "error": null,
+  "content_path": "output/articles/markdown/625dac31429a8682.md",
+  "html_path": "output/articles/html/625dac31429a8682.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4030,
+    "selection_length": 1256,
+    "cleaned_selection_length": 1318,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "625dac31429a8682",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1491348597",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Google recently released a report about what US teenagers think is cool. The chart above is getting a bunch of attention on social media; teens aged 13-17 were asked to rank a bunch of brands according to how cool they think they are. Since the poll was commissioned by Google (and the results published by an internal marketing team), it’s unsurprising that three Google brands (YouTube, Google, Chrome) are in the top 10. Other interesting data points:\n\n- Teens don’t know what Zara and Uniqlo are. Or Supreme.\n\n- Buzzfeed is only slightly cooler than Ford and Chevrolet, which are both cooler than HBO. Perhaps because HBO can’t get you to a party and you can’t make out in a Buzzfeed?\n\n- Kraft is cooler than Red Bull.\n\n- Whatsapp, TMZ, Vice, and Yahoo are all super uncool.\n\n- Twitter is cooler than Facebook, but Snapchat is much cooler than both.\n\n- The Wall Street Journal is the least cool thing in the teen universe.\n\n- This tweet is a good reminder not to take any of this too seriously.\n\nThere’s also this curious sentence in the introduction about Generation Z:\n\nUnlike millennials, this group is ambitious, engaged, and feel like they can change the world.\n\nOuch. In what universe is that even a remotely true or fair statement?\n\nTags: Google",
+    "cleaned_selection": "<p>Google recently released a report about what US teenagers think is cool. The chart above is getting a bunch of attention on social media; teens aged 13-17 were asked to rank a bunch of brands according to how cool they think they are. Since the poll was commissioned by Google (and the results published by an internal marketing team), it’s unsurprising that three Google brands (YouTube, Google, Chrome) are in the top 10. Other interesting data points:</p><p>- Teens don’t know what Zara and Uniqlo are. Or Supreme.</p><p>- Buzzfeed is only slightly cooler than Ford and Chevrolet, which are both cooler than HBO. Perhaps because HBO can’t get you to a party and you can’t make out in a Buzzfeed?</p><p>- Kraft is cooler than Red Bull.</p><p>- Whatsapp, TMZ, Vice, and Yahoo are all super uncool.</p><p>- Twitter is cooler than Facebook, but Snapchat is much cooler than both.</p><p>- The Wall Street Journal is the least cool thing in the teen universe.</p><p>- This tweet is a good reminder not to take any of this too seriously.</p><p>There’s also this curious sentence in the introduction about Generation Z:</p><p>Unlike millennials, this group is ambitious, engaged, and feel like they can change the world.</p><p>Ouch. In what universe is that even a remotely true or fair statement?</p><p>Tags: Google</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.143380",
+  "updated_at": "2025-08-06T08:47:04.143381"
+}

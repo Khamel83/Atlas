@@ -1,0 +1,42 @@
+{
+  "uid": "aba8ea78ef519324",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1748457109",
+  "title": "The magnolia bloomed today",
+  "status": "success",
+  "date": "2025-08-05T13:29:52.676854",
+  "error": null,
+  "content_path": "output/articles/markdown/aba8ea78ef519324.md",
+  "html_path": "output/articles/html/aba8ea78ef519324.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e445e2d4b45c3d7e4b00a1dafeb3a44e",
+  "type_specific": {
+    "bookmark_id": 1748457109,
+    "instapaper_time": 1737606288,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:29:52.680486",
+  "updated_at": "2025-08-05T13:29:52.680498"
+}

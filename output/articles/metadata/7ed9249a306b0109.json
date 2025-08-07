@@ -1,0 +1,40 @@
+{
+  "uid": "7ed9249a306b0109",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1407118/kavanaugh-hearings-watched-by-tens-of-millions-of-americans/",
+  "title": "At any given time, 20% of Americans were watching the Kavanaugh hearings Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:48:15.714487",
+  "error": null,
+  "content_path": "output/articles/markdown/7ed9249a306b0109.md",
+  "html_path": "output/articles/html/7ed9249a306b0109.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b72a9da9815bb723a2cc1c05c4e36816",
+  "type_specific": {
+    "bookmark_id": 1110427739,
+    "instapaper_time": 1538206860,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:48:15.714522",
+  "updated_at": "2025-08-05T13:48:15.714526"
+}

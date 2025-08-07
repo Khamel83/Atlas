@@ -1,0 +1,40 @@
+{
+  "uid": "afc90b93a669d3f4",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://flowingdata.com/2019/06/14/kids-nokids/",
+  "title": "How Much the Everyday Changes When You Have Kids FlowingData",
+  "status": "selection_content_extracted",
+  "date": "2019-06-14T06:01:47",
+  "error": null,
+  "content_path": "output/articles/markdown/afc90b93a669d3f4.md",
+  "html_path": "output/articles/html/afc90b93a669d3f4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3115,
+    "selection_length": 114,
+    "cleaned_selection_length": 121,
+    "domain": "flowingdata.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "afc90b93a669d3f4",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1560517307",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "I compared time use for those with children under 18 against those without. Here's where the minutes go. Read More",
+    "cleaned_selection": "<p>I compared time use for those with children under 18 against those without. Here's where the minutes go. Read More</p>",
+    "domain": "flowingdata.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.750947",
+  "updated_at": "2025-08-06T08:47:03.750948"
+}

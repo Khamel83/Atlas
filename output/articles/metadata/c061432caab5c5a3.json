@@ -1,0 +1,40 @@
+{
+  "uid": "c061432caab5c5a3",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/2015-nfl-preview-what-to-expect-if-youre-a-packers-lions-vikings-or-bears-fan/",
+  "title": "2015 NFL Preview What To Expect If You’re A Packers, Lions, Vikings Or Bears Fan FiveThirtyEight » Features | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2015-09-01T05:19:14",
+  "error": null,
+  "content_path": "output/articles/markdown/c061432caab5c5a3.md",
+  "html_path": "output/articles/html/c061432caab5c5a3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4761,
+    "selection_length": 329,
+    "cleaned_selection_length": 336,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c061432caab5c5a3",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1441109954",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "In preparation for the 2015 NFL season, FiveThirtyEight is running a series of eight division previews, each highlighting the numbers that may influence a team’s performance. To start things off, we head to the NFC North, a division that’s still the Packers’ to lose — but one that could get interesting if the Lions’ defense […]",
+    "cleaned_selection": "<p>In preparation for the 2015 NFL season, FiveThirtyEight is running a series of eight division previews, each highlighting the numbers that may influence a team’s performance. To start things off, we head to the NFC North, a division that’s still the Packers’ to lose — but one that could get interesting if the Lions’ defense […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.383922",
+  "updated_at": "2025-08-06T08:47:04.383923"
+}

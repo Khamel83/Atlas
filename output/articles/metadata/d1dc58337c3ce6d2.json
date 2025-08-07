@@ -1,0 +1,26 @@
+{
+  "uid": "d1dc58337c3ce6d2",
+  "content_type": "private_newsletter_batch_51_100",
+  "source": "instapaper://private-content/1738843742",
+  "title": "The Return of Magic",
+  "status": "success",
+  "date": "2025-08-06T13:17:14.826019",
+  "error": null,
+  "content_path": "output/articles/markdown/d1dc58337c3ce6d2.md",
+  "html_path": "output/articles/html/d1dc58337c3ce6d2.html",
+  "fetch_method": "instapaper_api_batch_51_100_extraction",
+  "fetch_details": {
+    "bookmark_id": 1738843742,
+    "content_length": 56905,
+    "successful": true,
+    "extraction_batch": "batch_51_100"
+  },
+  "type_specific": {
+    "bookmark_id": 1738843742,
+    "instapaper_time": 1734626817,
+    "is_private_content": true,
+    "content_length": 56905
+  },
+  "created_at": "2025-08-06T13:17:14.826023",
+  "updated_at": "2025-08-06T13:17:14.826024"
+}

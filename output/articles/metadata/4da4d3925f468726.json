@@ -1,0 +1,26 @@
+{
+  "uid": "4da4d3925f468726",
+  "content_type": "private_newsletter_batch_51_100",
+  "source": "instapaper://private-content/1750965371",
+  "title": "💥Cautionary Tales💥",
+  "status": "success",
+  "date": "2025-08-06T13:17:14.804559",
+  "error": null,
+  "content_path": "output/articles/markdown/4da4d3925f468726.md",
+  "html_path": "output/articles/html/4da4d3925f468726.html",
+  "fetch_method": "instapaper_api_batch_51_100_extraction",
+  "fetch_details": {
+    "bookmark_id": 1750965371,
+    "content_length": 17583,
+    "successful": true,
+    "extraction_batch": "batch_51_100"
+  },
+  "type_specific": {
+    "bookmark_id": 1750965371,
+    "instapaper_time": 1738512988,
+    "is_private_content": true,
+    "content_length": 17583
+  },
+  "created_at": "2025-08-06T13:17:14.804565",
+  "updated_at": "2025-08-06T13:17:14.804567"
+}

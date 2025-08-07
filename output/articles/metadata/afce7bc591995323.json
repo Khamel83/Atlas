@@ -1,0 +1,40 @@
+{
+  "uid": "afce7bc591995323",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://m.motherjones.com/politics/2012/02/mac-mcclelland-free-online-shipping-warehouses-labor",
+  "title": "I Was a Warehouse Wage Slave [via Longreads]",
+  "status": "selection_content_extracted",
+  "date": "2012-03-06T16:43:45",
+  "error": null,
+  "content_path": "output/articles/markdown/afce7bc591995323.md",
+  "html_path": "output/articles/html/afce7bc591995323.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5501,
+    "selection_length": 972,
+    "cleaned_selection_length": 989,
+    "domain": "m.motherjones.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "afce7bc591995323",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1331081025",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "A writer goes undercover at a shipping warehouse in Mississippi—and wonders whether Americans will ever demand higher standards for how their Internet purchases are being fulfilled:<br /><br />\n\n\"We will be fired if we say we just can't or won't get better, the workamper tells me. But so long as I resign myself to hearing how inadequate I am on a regular basis, I can keep this job. 'Do you think this job has to be this terrible?' I ask the workamper.<br /><br />\n\n\"'Oh, no,' she says, and makes a face at me like I've asked a stupid question, which I have. As if Amalgamated couldn't bear to lose a fraction of a percent of profits by employing a few more than the absolute minimum of bodies they have to, or by storing the merchandise at halfway ergonomic heights and angles. But that would cost space, and space costs money, and money is not a thing customers could possibly be expected to hand over for this service without huffily taking their business elsewhere.\"",
+    "cleaned_selection": "<p>A writer goes undercover at a shipping warehouse in Mississippi—and wonders whether Americans will ever demand higher standards for how their Internet purchases are being fulfilled:<br /><br /></p><p>\"We will be fired if we say we just can't or won't get better, the workamper tells me. But so long as I resign myself to hearing how inadequate I am on a regular basis, I can keep this job. 'Do you think this job has to be this terrible?' I ask the workamper.<br /><br /></p><p>\"'Oh, no,' she says, and makes a face at me like I've asked a stupid question, which I have. As if Amalgamated couldn't bear to lose a fraction of a percent of profits by employing a few more than the absolute minimum of bodies they have to, or by storing the merchandise at halfway ergonomic heights and angles. But that would cost space, and space costs money, and money is not a thing customers could possibly be expected to hand over for this service without huffily taking their business elsewhere.\"</p>",
+    "domain": "m.motherjones.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.516993",
+  "updated_at": "2025-08-06T08:47:04.516994"
+}

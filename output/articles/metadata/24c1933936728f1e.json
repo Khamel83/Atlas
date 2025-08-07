@@ -1,0 +1,26 @@
+{
+  "uid": "24c1933936728f1e",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1755351453",
+  "title": "Who is Larry Ellison?",
+  "status": "success",
+  "date": "2025-08-06T13:15:50.013681",
+  "error": null,
+  "content_path": "output/articles/markdown/24c1933936728f1e.md",
+  "html_path": "output/articles/html/24c1933936728f1e.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1755351453,
+    "content_length": 25856,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1755351453,
+    "instapaper_time": 1740059549,
+    "is_private_content": true,
+    "content_length": 25856
+  },
+  "created_at": "2025-08-06T13:15:50.013684",
+  "updated_at": "2025-08-06T13:15:50.013686"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "e404a3180fdbc199",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://kottke.org/16/10/weve-reached-the-end-of-white-christian-america",
+  "title": "We’ve reached the end of white Christian America kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2016-10-25T16:09:43",
+  "error": null,
+  "content_path": "output/articles/markdown/e404a3180fdbc199.md",
+  "html_path": "output/articles/html/e404a3180fdbc199.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4264,
+    "selection_length": 924,
+    "cleaned_selection_length": 941,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e404a3180fdbc199",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1477436983",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "America is no longer a majority white, Christian country.\n\nAt 45 percent of the population, white Christians are a shrinking demographic — and the backlash from many members of the group against the increasing diversification of America has been swift and bitter.\n\nThe narrator of the video, Robert P. Jones, wrote a book about this new reality called The End of White Christian America.\n\nFor most of our nation’s history, White Christian America (WCA) — the cultural and political edifice built primarily by white Protestant Christians — set the tone for our national policy and shaped American ideals. But especially since the 1990s, WCA has steadily lost influence, following declines within both its mainline and evangelical branches. Today, America is no longer demographically or culturally a majority white Christian nation.\n\nTags: books   religion   Robert P. Jones   The End of White Christian America   USA   video",
+    "cleaned_selection": "<p>America is no longer a majority white, Christian country.</p><p>At 45 percent of the population, white Christians are a shrinking demographic — and the backlash from many members of the group against the increasing diversification of America has been swift and bitter.</p><p>The narrator of the video, Robert P. Jones, wrote a book about this new reality called The End of White Christian America.</p><p>For most of our nation’s history, White Christian America (WCA) — the cultural and political edifice built primarily by white Protestant Christians — set the tone for our national policy and shaped American ideals. But especially since the 1990s, WCA has steadily lost influence, following declines within both its mainline and evangelical branches. Today, America is no longer demographically or culturally a majority white Christian nation.</p><p>Tags: books religion Robert P. Jones The End of White Christian America USA video</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.268606",
+  "updated_at": "2025-08-06T08:47:04.268609"
+}

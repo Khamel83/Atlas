@@ -1,0 +1,40 @@
+{
+  "uid": "e7e1e7a513dd3c03",
+  "content_type": "instapaper",
+  "source": "https://www.theverge.com/circuitbreaker/2017/5/23/15679828/ikea-lights-siri-google-home-and-echo-compatible",
+  "title": "Ikea's cheap smart lighting will be Apple HomeKit, Google Home, and Amazon Alexa compatible The Verge",
+  "status": "success",
+  "date": "2025-08-05T14:03:25.653518",
+  "error": null,
+  "content_path": "output/articles/markdown/e7e1e7a513dd3c03.md",
+  "html_path": "output/articles/html/e7e1e7a513dd3c03.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fa871b7744b804dbb6c12f8572b1a16f",
+  "type_specific": {
+    "bookmark_id": 910267212,
+    "instapaper_time": 1495566057,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:03:25.653548",
+  "updated_at": "2025-08-05T14:03:25.653552"
+}

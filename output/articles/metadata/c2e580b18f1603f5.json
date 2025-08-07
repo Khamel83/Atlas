@@ -1,0 +1,26 @@
+{
+  "uid": "c2e580b18f1603f5",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1714084107",
+  "title": "💥Concepts of a Plan💥",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.937578",
+  "error": null,
+  "content_path": "output/articles/markdown/c2e580b18f1603f5.md",
+  "html_path": "output/articles/html/c2e580b18f1603f5.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1714084107,
+    "content_length": 32761,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1714084107,
+    "instapaper_time": 1727870728,
+    "is_private_content": true,
+    "content_length": 32761
+  },
+  "created_at": "2025-08-06T13:18:33.937584",
+  "updated_at": "2025-08-06T13:18:33.937585"
+}

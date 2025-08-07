@@ -1,0 +1,40 @@
+{
+  "uid": "5e1469935433331b",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://kottke.org/16/10/airportraits",
+  "title": "Airportraits kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2016-10-18T16:53:02",
+  "error": null,
+  "content_path": "output/articles/markdown/5e1469935433331b.md",
+  "html_path": "output/articles/html/5e1469935433331b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4277,
+    "selection_length": 293,
+    "cleaned_selection_length": 299,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5e1469935433331b",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1476834782",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Mike Kelley has travelled to airports all over the world, photographing planes taking off and landing and then stitching them together into photos showing each airport’s traffic. (via @feltron whose book features an Airportrait on the cover)\n\nTags: flying   infoviz   Mike Kelley   photography",
+    "cleaned_selection": "<p>Mike Kelley has travelled to airports all over the world, photographing planes taking off and landing and then stitching them together into photos showing each airport’s traffic. (via @feltron whose book features an Airportrait on the cover)</p><p>Tags: flying infoviz Mike Kelley photography</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.273399",
+  "updated_at": "2025-08-06T08:47:04.273401"
+}

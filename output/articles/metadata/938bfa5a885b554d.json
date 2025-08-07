@@ -1,0 +1,40 @@
+{
+  "uid": "938bfa5a885b554d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2014/12/how-i-booked-first-class-to-tokyo-for-62500-miles-and-5-60/",
+  "title": "How I Booked First Class to Tokyo for 62,500 Miles and $5.60 The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2014-12-15T20:31:05",
+  "error": null,
+  "content_path": "output/articles/markdown/938bfa5a885b554d.md",
+  "html_path": "output/articles/html/938bfa5a885b554d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5020,
+    "selection_length": 306,
+    "cleaned_selection_length": 313,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "938bfa5a885b554d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1418704265",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "If you follow me on Facebook, Instagram or Twitter, then you probably know by now that I’m currently in Tokyo, and I flew here on Japan Airlines in their chic new first class service. The total out of pocket cost for my first class flights—from JFK to San Francisco on American Airlines’ new A321T, and […]",
+    "cleaned_selection": "<p>If you follow me on Facebook, Instagram or Twitter, then you probably know by now that I’m currently in Tokyo, and I flew here on Japan Airlines in their chic new first class service. The total out of pocket cost for my first class flights—from JFK to San Francisco on American Airlines’ new A321T, and […]</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.448312",
+  "updated_at": "2025-08-06T08:47:04.448403"
+}

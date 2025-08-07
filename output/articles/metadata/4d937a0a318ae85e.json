@@ -1,0 +1,42 @@
+{
+  "uid": "4d937a0a318ae85e",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1750564183",
+  "title": "How Will Financial Scams Affect Big Business in 2025?",
+  "status": "success",
+  "date": "2025-08-05T13:29:43.530647",
+  "error": null,
+  "content_path": "output/articles/markdown/4d937a0a318ae85e.md",
+  "html_path": "output/articles/html/4d937a0a318ae85e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a62512d37bf3f802885e67f8157bc11d",
+  "type_specific": {
+    "bookmark_id": 1750564183,
+    "instapaper_time": 1738355027,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:29:43.530933",
+  "updated_at": "2025-08-05T13:29:43.530936"
+}

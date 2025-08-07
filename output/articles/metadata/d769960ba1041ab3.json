@@ -1,0 +1,40 @@
+{
+  "uid": "d769960ba1041ab3",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/2014-nfl-preview-great-players-and-gambling-problems-in-the-nfc-north/",
+  "title": "2014 NFL Preview Great Players And Gambling Problems In The NFC North FiveThirtyEight » Sports | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2014-08-27T12:35:23",
+  "error": null,
+  "content_path": "output/articles/markdown/d769960ba1041ab3.md",
+  "html_path": "output/articles/html/d769960ba1041ab3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5154,
+    "selection_length": 353,
+    "cleaned_selection_length": 360,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d769960ba1041ab3",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1409168123",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "­ Editor’s Note: FiveThirtyEight is running a series of eight NFL previews, one division at a time, to highlight the numbers that may influence each team’s season. America’s favorite weekly soap opera is about to begin; get prepped. Green Bay Packers Expected wins (using implied power ratings from Las Vegas point spreads): 9.4 Playoff probability: […]",
+    "cleaned_selection": "<p>­ Editor’s Note: FiveThirtyEight is running a series of eight NFL previews, one division at a time, to highlight the numbers that may influence each team’s season. America’s favorite weekly soap opera is about to begin; get prepped. Green Bay Packers Expected wins (using implied power ratings from Las Vegas point spreads): 9.4 Playoff probability: […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.493362",
+  "updated_at": "2025-08-06T08:47:04.493363"
+}

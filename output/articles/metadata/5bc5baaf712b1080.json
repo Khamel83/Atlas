@@ -1,0 +1,42 @@
+{
+  "uid": "5bc5baaf712b1080",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1752321524",
+  "title": "The Media is Busted",
+  "status": "success",
+  "date": "2025-08-05T13:29:34.900441",
+  "error": null,
+  "content_path": "output/articles/markdown/5bc5baaf712b1080.md",
+  "html_path": "output/articles/html/5bc5baaf712b1080.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "417bc4856a0cd81ce1cf2446347504fe",
+  "type_specific": {
+    "bookmark_id": 1752321524,
+    "instapaper_time": 1738975219,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:29:34.900471",
+  "updated_at": "2025-08-05T13:29:34.900472"
+}

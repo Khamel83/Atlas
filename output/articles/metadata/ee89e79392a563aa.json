@@ -1,0 +1,40 @@
+{
+  "uid": "ee89e79392a563aa",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.vox.com/videos/2016/11/2/13500050/american-muslim-comedian-interview-ahmed-ahmed",
+  "title": "An American Muslim comedian on being typecast as a terrorist — and being mistaken for one Vox - All",
+  "status": "selection_content_extracted",
+  "date": "2016-11-02T17:08:22",
+  "error": null,
+  "content_path": "output/articles/markdown/ee89e79392a563aa.md",
+  "html_path": "output/articles/html/ee89e79392a563aa.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4257,
+    "selection_length": 1155,
+    "cleaned_selection_length": 1182,
+    "domain": "vox.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ee89e79392a563aa",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1478131702",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "If you turn on your TV, his face might well pop up in late-night fare like Steel Sharks, Executive Decision, and Roseanne. His lines are almost always the same — \"Death to America!\" \"I will kill you, American scum!\" For years, Ahmed Ahmed played the terrorist.\n\nUntil he decided to stop.\n\nWhen he rejected bad-guy roles, his phone stopped ringing — there were no other casting calls for him. \"There were just no parts for a guy like me,\" says Ahmed, who considers himself to be \"as American as you can get.\" So he started waiting tables at a lousy restaurant, where he was forced to sharpen his wit in order to get tips. \"That's when I started thinking about becoming a comedian.\"\n\nEventually Ahmed realized that the only way he could change his professional life — and maybe change how Americans actually perceive Arabs and more broadly, Muslims — was to write his own lines. Watch this episode of The Secret Life of Muslims to see how Ahmed goes from cracking heads … to cracking jokes.\n\nEditor’s note: This is the first in a series of videos called \"The Secret Life of Muslims,\" by director Joshua Seftel. We'll be releasing more over the coming weeks.",
+    "cleaned_selection": "<p>If you turn on your TV, his face might well pop up in late-night fare like Steel Sharks, Executive Decision, and Roseanne. His lines are almost always the same — \"Death to America!\" \"I will kill you, American scum!\" For years, Ahmed Ahmed played the terrorist.</p><p>Until he decided to stop.</p><p>When he rejected bad-guy roles, his phone stopped ringing — there were no other casting calls for him. \"There were just no parts for a guy like me,\" says Ahmed, who considers himself to be \"as American as you can get.\" So he started waiting tables at a lousy restaurant, where he was forced to sharpen his wit in order to get tips. \"That's when I started thinking about becoming a comedian.\"</p><p>Eventually Ahmed realized that the only way he could change his professional life — and maybe change how Americans actually perceive Arabs and more broadly, Muslims — was to write his own lines. Watch this episode of The Secret Life of Muslims to see how Ahmed goes from cracking heads … to cracking jokes.</p><p>Editor’s note: This is the first in a series of videos called \"The Secret Life of Muslims,\" by director Joshua Seftel. We'll be releasing more over the coming weeks.</p>",
+    "domain": "vox.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.267531",
+  "updated_at": "2025-08-06T08:47:04.267532"
+}

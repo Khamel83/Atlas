@@ -1,0 +1,40 @@
+{
+  "uid": "fb2db7cb248d16d2",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.vox.com/2017/7/28/16054694/senate-repeal-obamacare-failed-mccain",
+  "title": "The Senate had 3 Obamacare repeal bills. It has now voted against them all. Vox - All",
+  "status": "selection_content_extracted",
+  "date": "2017-07-27T23:09:06",
+  "error": null,
+  "content_path": "output/articles/markdown/fb2db7cb248d16d2.md",
+  "html_path": "output/articles/html/fb2db7cb248d16d2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3867,
+    "selection_length": 2407,
+    "cleaned_selection_length": 2454,
+    "domain": "vox.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fb2db7cb248d16d2",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1501222146",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The Senate failed to pass its Obamacare repeal bill early Friday morning after three Republican senators — Sens. Lisa Murkowski (R-AK), John McCain (R-AZ), and Susan Collins (R-ME) — voted against the effort.\n\nThis is the third day in a row that the Senate has voted down a health care bill. On Tuesday, the chamber rejected the Better Care Reconciliation Act, which would repeal and replace Obamacare. On Wednesday, it came down against the Obamacare Repeal Reconciliation Act, a straight repeal bill.\n\nAnd in a dramatic debate that began Thursday morning and stretched into Friday night, the chamber rejected the Health Care Freedom Act, a bill that whittled down the Republicans’ ambitions to repealing the individual mandate (which would still leave 16 million Americans without coverage).\n\nThree bills dead in one week now leaves the Senate with few, if any, options. The Republican caucus does not have any extra bill drafts floating around at this point. It only has options that it doesn’t like — and no clear sense of where to go next.\n\nThe HCFA wasn’t a bill that senators loved much from the start. Many senators were openly critical of the actual policy (which would spike premiums in the individual market) and tethered to their vote in favor of the bill to a promise that the House wouldn’t turn around and vote it into law.\n\nStill, through Thursday afternoon, the HCFA seemed to gather steam. A handful of senators, including McCain, liked the idea of using the bill to start a conference committee with the House and keep the debating moving forward. This group held a press conference late Thursday, saying they would support HCFA so long as the House guaranteed it would go to conference committee.\n\nThis was not a guarantee, however, the House could give. While House Majority Speaker Paul Ryan did put out a statement suggesting he’d be open to and even encourage a conference process, it wasn’t enough to win McCain over.\n\nAfter an hour of lobbying on the Senate floor — including discussions with Senate Majority Leader Mitch McConnell and Vice President Mike Pence — McCain crossed the floor to huddle with Democrats. Sen. Diane Feinstein of California gave him a big hug.\n\nIt’s not clear where the Senate Republicans go from here, their repeal options currently exhausted. They have a caucus that strongly supports repealing and replacing Obamacare but little path left to get there.",
+    "cleaned_selection": "<p>The Senate failed to pass its Obamacare repeal bill early Friday morning after three Republican senators — Sens. Lisa Murkowski (R-AK), John McCain (R-AZ), and Susan Collins (R-ME) — voted against the effort.</p><p>This is the third day in a row that the Senate has voted down a health care bill. On Tuesday, the chamber rejected the Better Care Reconciliation Act, which would repeal and replace Obamacare. On Wednesday, it came down against the Obamacare Repeal Reconciliation Act, a straight repeal bill.</p><p>And in a dramatic debate that began Thursday morning and stretched into Friday night, the chamber rejected the Health Care Freedom Act, a bill that whittled down the Republicans’ ambitions to repealing the individual mandate (which would still leave 16 million Americans without coverage).</p><p>Three bills dead in one week now leaves the Senate with few, if any, options. The Republican caucus does not have any extra bill drafts floating around at this point. It only has options that it doesn’t like — and no clear sense of where to go next.</p><p>The HCFA wasn’t a bill that senators loved much from the start. Many senators were openly critical of the actual policy (which would spike premiums in the individual market) and tethered to their vote in favor of the bill to a promise that the House wouldn’t turn around and vote it into law.</p><p>Still, through Thursday afternoon, the HCFA seemed to gather steam. A handful of senators, including McCain, liked the idea of using the bill to start a conference committee with the House and keep the debating moving forward. This group held a press conference late Thursday, saying they would support HCFA so long as the House guaranteed it would go to conference committee.</p><p>This was not a guarantee, however, the House could give. While House Majority Speaker Paul Ryan did put out a statement suggesting he’d be open to and even encourage a conference process, it wasn’t enough to win McCain over.</p><p>After an hour of lobbying on the Senate floor — including discussions with Senate Majority Leader Mitch McConnell and Vice President Mike Pence — McCain crossed the floor to huddle with Democrats. Sen. Diane Feinstein of California gave him a big hug.</p><p>It’s not clear where the Senate Republicans go from here, their repeal options currently exhausted. They have a caucus that strongly supports repealing and replacing Obamacare but little path left to get there.</p>",
+    "domain": "vox.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.064360",
+  "updated_at": "2025-08-06T08:47:04.064363"
+}

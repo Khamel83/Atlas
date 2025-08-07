@@ -1,0 +1,40 @@
+{
+  "uid": "644741a96ea6c055",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://kottke.org/20/09/browse-through-72-years-of-ikea-catalogs",
+  "title": "Browse Through 72 Years of Ikea Catalogs kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2020-09-03T21:25:52",
+  "error": null,
+  "content_path": "output/articles/markdown/644741a96ea6c055.md",
+  "html_path": "output/articles/html/644741a96ea6c055.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2771,
+    "selection_length": 255,
+    "cleaned_selection_length": 265,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "644741a96ea6c055",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1599193552",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Ikea has uploaded scans of all 72 years of their annual catalogs, from 1950 to 2021, to their online museum. (The company’s optimism that there will be a 2021 is heartening.) An entertaining time machine of Scandinavian design trends.\n\nTags: design   Ikea",
+    "cleaned_selection": "<p>Ikea has uploaded scans of all 72 years of their annual catalogs, from 1950 to 2021, to their online museum. (The company’s optimism that there will be a 2021 is heartening.) An entertaining time machine of Scandinavian design trends.</p><p>Tags: design Ikea</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.607208",
+  "updated_at": "2025-08-06T08:47:03.607209"
+}

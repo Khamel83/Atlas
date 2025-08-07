@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Slack vulnerability would have let hackers take over accounts and read archives The Verge</title>
+    <meta charset="utf-8">
+    <meta name="content-source" value="instapaper_selection">
+</head>
+<body>
+    <h1>Slack vulnerability would have let hackers take over accounts and read archives The Verge</h1>
+    
+    <div class="instapaper-info">
+        <p><strong>Source:</strong> <a href="http://www.theverge.com/2017/3/2/14790580/slack-vulnerability-authentication-token-postmessage-bounty">http://www.theverge.com/2017/3/2/14790580/slack-vulnerability-authentication-token-postmessage-bounty</a></p>
+        <p><strong>Domain:</strong> theverge.com</p>
+        <p><strong>Folder:</strong> Feedly</p>
+        <p><strong>Added:</strong> 2017-03-03T05:58:08</p>
+        <p><strong>Content Type:</strong> Selection Content Extracted</p>
+        <p><strong>Selection Length:</strong> 2,413 characters</p>
+        
+    </div>
+    
+    <div class="selection-content">
+        <h2>Selected Content</h2>
+        <div class="content-body">
+            <p>This morning, a researcher reported a previously unknown vulnerability in Slack, which could be used to take over accounts and read archived messages by compromising a user’s authentication token. First reported Tuesday evening, the vulnerability has already been patched by Slack shortly. The company claims there were no successful exploitations of the bug, based on an examination of the past two years of logs.</p><p>The vulnerability was discovered by Detectify’s Frans Rosen, who created the proof-of-concept after noticing a weakness in the way Slack uses pop-up windows. When Slack initiates a call, it does so in a pop-up window — but Rosen discovered that that pop-up window wasn’t verifying the messages between the new window and the original chat app. That meant that if you were running Rosen’s malicious webpage in the background, the page could masquerade as a Slack server, sending a phony call to the newly opened call window. Along the way, Rosen’s page could grab the users’ authentication token — essentially the password for any single session -- which allowed full access to all account data, including message archives.</p><p>The key, according to Rosen, is a function called PostMessage, which is commonly used for asynchronous messaging services like Slack, but often leads to this sort of under-authentication. “[PostMessage] requires you to be careful,” Rosen wrote. “If you're not, and if you're not checking where the messages came from, messages could actually be sent from another web page.”</p><p>It’s not the first time Slack’s authentication tokens have gotten the company in trouble. Last April, Detectify found more than 1,500 Slack tokens that had been inadvertently posted to Github as part of Slack integration code, exposing users to similar consequences.</p><p>Rosen contacted Slack about the vulnerability through the HackerOne disclosure service, and it was quickly solved by adding another layer of authentication. Slack had deployed the fix within five hours of being notified, and Rosen was paid $3,000 for the report. “This bug is exactly why we invest in our public bug bounty program,” a Slack spokesperson told The Verge.</p><p>There’s no indication anyone actively exploited the bug, but it plays on long-standing fears about the app’s data security policies. In 2014, Slack’s sign-up process was shown to accidentally reveal some of an organization’s groups before a user was verified.</p>
+        </div>
+        <p><em>This content was extracted from your Instapaper Selection field - representing the key parts you highlighted or selected from the original article.</em></p>
+    </div>
+    
+    <div class="metadata">
+        <p><strong>Original Selection:</strong></p>
+        <blockquote>This morning, a researcher reported a previously unknown vulnerability in Slack, which could be used to take over accounts and read archived messages by compromising a user’s authentication token. First reported Tuesday evening, the vulnerability has already been patched by Slack shortly. The company claims there were no successful exploitations of the bug, based on an examination of the past two years of logs.
+
+The vulnerability was discovered by Detectify’s Frans Rosen, who created the proof-of-concept after noticing a weakness in the way Slack uses pop-up windows. When Slack initiates a call, it does so in a pop-up window — but Rosen discovered that that pop-up window wasn’t verifying the messages between the new window and the original chat app. That meant that if you were running Rosen’s malicious webpage in the background, the page could masquerade as a Slack server, sending a phony call to the newly opened call window. Along the way, Rosen’s page could grab the users’ authentication token — essentially the password for any single session -- which allowed full access to all account data, including message archives.
+
+The key, according to Rosen, is a function called PostMessage, which is commonly used for asynchronous messaging services like Slack, but often leads to this sort of under-authentication. “[PostMessage] requires you to be careful,” Rosen wrote. “If you're not, and if you're not checking where the messages came from, messages could actually be sent from another web page.”
+
+It’s not the first time Slack’s authentication tokens have gotten the company in trouble. Last April, Detectify found more than 1,500 Slack tokens that had been inadvertently posted to Github as part of Slack integration code, exposing users to similar consequences.
+
+Rosen contacted Slack about the vulnerability through the HackerOne disclosure service, and it was quickly solved by adding another layer of authentication. Slack had deployed the fix within five hours of being notified, and Rosen was paid $3,000 for the report. “This bug is exactly why we invest in our public bug bounty program,” a Slack spokesperson told The Verge.
+
+There’s no indication anyone actively exploited the bug, but it plays on long-standing fears about the app’s data security policies. In 2014, Slack’s sign-up process was shown to accidentally reveal some of an organization’s groups before a user was verified.</blockquote>
+    </div>
+</body>
+</html>

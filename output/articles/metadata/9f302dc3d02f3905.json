@@ -1,0 +1,42 @@
+{
+  "uid": "9f302dc3d02f3905",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1662546144",
+  "title": "The Apple Vision Pro (Stratechery Article 2-6-2024)",
+  "status": "success",
+  "date": "2025-08-05T13:37:45.453989",
+  "error": null,
+  "content_path": "output/articles/markdown/9f302dc3d02f3905.md",
+  "html_path": "output/articles/html/9f302dc3d02f3905.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "14ef31fa312029d7b521caccf52224d8",
+  "type_specific": {
+    "bookmark_id": 1662546144,
+    "instapaper_time": 1707228924,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:37:45.454226",
+  "updated_at": "2025-08-05T13:37:45.454259"
+}

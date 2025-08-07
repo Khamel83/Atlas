@@ -1,0 +1,40 @@
+{
+  "uid": "33ff7ca8d981cb3d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://flowingdata.com/2019/05/08/amount-of-fish-to-raise-a-big-fish/",
+  "title": "Amount of fish to raise a big fish FlowingData",
+  "status": "selection_content_extracted",
+  "date": "2019-05-08T10:50:50",
+  "error": null,
+  "content_path": "output/articles/markdown/33ff7ca8d981cb3d.md",
+  "html_path": "output/articles/html/33ff7ca8d981cb3d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3149,
+    "selection_length": 298,
+    "cleaned_selection_length": 310,
+    "domain": "flowingdata.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "33ff7ca8d981cb3d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1557337850",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Raising living things requires resources. In the case of fish, it requires more fish so that another can grow larger. Artists Chow and Lin calculated how much. The surrounding small fish are required to grow the three yellow carp in the middle. [via kottke]\n\nTags: environment, fish, sustainability",
+    "cleaned_selection": "<p>Raising living things requires resources. In the case of fish, it requires more fish so that another can grow larger. Artists Chow and Lin calculated how much. The surrounding small fish are required to grow the three yellow carp in the middle. [via kottke]</p><p>Tags: environment, fish, sustainability</p>",
+    "domain": "flowingdata.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.762086",
+  "updated_at": "2025-08-06T08:47:03.762087"
+}

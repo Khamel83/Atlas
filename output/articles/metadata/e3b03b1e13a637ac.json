@@ -1,0 +1,40 @@
+{
+  "uid": "e3b03b1e13a637ac",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/05/wyndham-45000-points/",
+  "title": "Limited-Time Offer Wyndham Rewards Visa 45,000 Bonus Points The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-05-13T18:43:10",
+  "error": null,
+  "content_path": "output/articles/markdown/e3b03b1e13a637ac.md",
+  "html_path": "output/articles/html/e3b03b1e13a637ac.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4857,
+    "selection_length": 336,
+    "cleaned_selection_length": 343,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e3b03b1e13a637ac",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1431567790",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Barclaycard has just released higher limited-time sign-up bonus offers on both of its Wyndham Rewards Visa cards. The premium card usually offers a sign-up bonus of 30,000 points with first purchase, but that has been upped to 30,000 points with first purchase and the opportunity to earn 15,000 more points by spending $1,000 in the...",
+    "cleaned_selection": "<p>Barclaycard has just released higher limited-time sign-up bonus offers on both of its Wyndham Rewards Visa cards. The premium card usually offers a sign-up bonus of 30,000 points with first purchase, but that has been upped to 30,000 points with first purchase and the opportunity to earn 15,000 more points by spending $1,000 in the...</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.412238",
+  "updated_at": "2025-08-06T08:47:04.412240"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "5199c4f919c07f54",
+  "content_type": "instapaper",
+  "source": "https://www.fangraphs.com/blogs/the-managers-perspective-rick-renteria-on-mentoring-young-players/",
+  "title": "The Manager’s Perspective Rick Renteria on Mentoring Young Players FanGraphs Baseball",
+  "status": "success",
+  "date": "2025-08-05T13:48:52.254044",
+  "error": null,
+  "content_path": "output/articles/markdown/5199c4f919c07f54.md",
+  "html_path": "output/articles/html/5199c4f919c07f54.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "50c4fa2c26c78dd076f38a7cb00fc78f",
+  "type_specific": {
+    "bookmark_id": 1075013401,
+    "instapaper_time": 1530633108,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:48:52.254404",
+  "updated_at": "2025-08-05T13:48:52.254429"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "2686fde0a6f98bb0",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/the-most-clutch-postseason-quarterback-of-all-time-is-eli-manning/",
+  "title": "The Most Clutch Postseason Quarterback Of All Time Is Eli Manning FiveThirtyEight » Features | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2015-01-12T19:17:05",
+  "error": null,
+  "content_path": "output/articles/markdown/2686fde0a6f98bb0.md",
+  "html_path": "output/articles/html/2686fde0a6f98bb0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4977,
+    "selection_length": 367,
+    "cleaned_selection_length": 374,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2686fde0a6f98bb0",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1421119025",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Saturday’s AFC divisional playoff game featured a matchup between two quarterbacks with clutch reputations: the Baltimore Ravens’ Joe Flacco, who entered the game with a 10-4 lifetime postseason record, and the New England Patriots’ Tom Brady, whose first three playoff seasons all yielded Super Bowl championships. The Patriots got the better of the Ravens after […]",
+    "cleaned_selection": "<p>Saturday’s AFC divisional playoff game featured a matchup between two quarterbacks with clutch reputations: the Baltimore Ravens’ Joe Flacco, who entered the game with a 10-4 lifetime postseason record, and the New England Patriots’ Tom Brady, whose first three playoff seasons all yielded Super Bowl championships. The Patriots got the better of the Ravens after […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.434787",
+  "updated_at": "2025-08-06T08:47:04.434788"
+}

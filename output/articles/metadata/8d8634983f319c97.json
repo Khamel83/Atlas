@@ -1,0 +1,42 @@
+{
+  "uid": "8d8634983f319c97",
+  "content_type": "instapaper",
+  "source": "https://onlinelibrary.wiley.com/doi/10.1111/apa.14841",
+  "title": "<em>Acta Paediatrica</em> | Paediatrics Journal | Wiley Online Library",
+  "status": "success",
+  "date": "2025-08-05T13:30:29.148621",
+  "error": null,
+  "content_path": "output/articles/markdown/8d8634983f319c97.md",
+  "html_path": "output/articles/html/8d8634983f319c97.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9fd224a00b774150dc863363363ccc98",
+  "type_specific": {
+    "bookmark_id": 1738841532,
+    "instapaper_time": 1734626435,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:30:29.148655",
+  "updated_at": "2025-08-05T13:30:29.148658"
+}

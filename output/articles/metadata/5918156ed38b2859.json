@@ -1,0 +1,26 @@
+{
+  "uid": "5918156ed38b2859",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1756527393",
+  "title": "AI Promise and Chip Precariousness (Stratechery Article 2-25-2025)",
+  "status": "success",
+  "date": "2025-08-06T13:15:50.008462",
+  "error": null,
+  "content_path": "output/articles/markdown/5918156ed38b2859.md",
+  "html_path": "output/articles/html/5918156ed38b2859.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1756527393,
+    "content_length": 72892,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1756527393,
+    "instapaper_time": 1740503011,
+    "is_private_content": true,
+    "content_length": 72892
+  },
+  "created_at": "2025-08-06T13:15:50.008468",
+  "updated_at": "2025-08-06T13:15:50.008470"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "5a73c74c48a996b0",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://eatlovecode.com/self-driving-cars-and-the-future-of-retail/",
+  "title": "Self-Driving Cars and the Future of Retail – Eat Love Code by Adrienne",
+  "status": "selection_content_extracted",
+  "date": "2020-09-17T08:24:35",
+  "error": null,
+  "content_path": "output/articles/markdown/5a73c74c48a996b0.md",
+  "html_path": "output/articles/html/5a73c74c48a996b0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2763,
+    "selection_length": 400,
+    "cleaned_selection_length": 407,
+    "domain": "eatlovecode.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5a73c74c48a996b0",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1600356275",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "https://email.mg2.substack.com/c/eJxFUMuOgzAM_JrmFhQCoXDIoZf9DZSHKdmGBCUOK_brN6WHlSxZmrE9njEK4RnTKfeYkZQMaXZWtgMfO9FPxMretqMYicvzkgA25bzEVIDsRXtnFLoYrg3GuCCr7LSZjL1zoWxnluFuezUI1WkreNsvIyNvnVkV6yAYkHBAOmMA4uWKuN-6x41_1QKFPh5gooXGxK0iGfxCbXKHC09qVMpUBUtxBboULAloXGgCrP_VYeIkZ5yxqb23vB8Eb9om_ervY42D32892568yUVnVOb1FiBJhog6pnq90q9VbeAvovqca99KcHjOEJT2YD8R4Ce0yxGeO8gAP9kDIqQPWHPhbBKCTaSK2VjTC_86fz5Og3s",
+    "cleaned_selection": "<p>https://email.mg2.substack.com/c/eJxFUMuOgzAM_JrmFhQCoXDIoZf9DZSHKdmGBCUOK_brN6WHlSxZmrE9njEK4RnTKfeYkZQMaXZWtgMfO9FPxMretqMYicvzkgA25bzEVIDsRXtnFLoYrg3GuCCr7LSZjL1zoWxnluFuezUI1WkreNsvIyNvnVkV6yAYkHBAOmMA4uWKuN-6x41_1QKFPh5gooXGxK0iGfxCbXKHC09qVMpUBUtxBboULAloXGgCrP_VYeIkZ5yxqb23vB8Eb9om_ervY42D32892568yUVnVOb1FiBJhog6pnq90q9VbeAvovqca99KcHjOEJT2YD8R4Ce0yxGeO8gAP9kDIqQPWHPhbBKCTaSK2VjTC_86fz5Og3s</p>",
+    "domain": "eatlovecode.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.603292",
+  "updated_at": "2025-08-06T08:47:03.603293"
+}

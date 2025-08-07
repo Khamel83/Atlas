@@ -1,0 +1,40 @@
+{
+  "uid": "78f5ae5180b88c96",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1094716594",
+  "title": "No Daily Update: Personal Day (Sick)",
+  "status": "success",
+  "date": "2025-08-05T14:06:34.480515",
+  "error": null,
+  "content_path": "output/articles/markdown/78f5ae5180b88c96.md",
+  "html_path": "output/articles/html/78f5ae5180b88c96.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ebfa222e876e3bc306ba6cd29b552229",
+  "type_specific": {
+    "bookmark_id": 1094716594,
+    "instapaper_time": 1534846073,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Stratechery"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:06:34.480582",
+  "updated_at": "2025-08-05T14:06:34.480586"
+}

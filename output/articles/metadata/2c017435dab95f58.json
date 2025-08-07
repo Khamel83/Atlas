@@ -1,0 +1,40 @@
+{
+  "uid": "2c017435dab95f58",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/2018/1/23/16905844/media-landscape-verizon-amazon-comcast-disney-fox-relationships-chart",
+  "title": "Here’s who owns everything in Big Media today Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:43:08.269517",
+  "error": null,
+  "content_path": "output/articles/markdown/2c017435dab95f58.md",
+  "html_path": "output/articles/html/2c017435dab95f58.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "899efb10adf87aa01e1b8c20e3c95f77",
+  "type_specific": {
+    "bookmark_id": 1205322132,
+    "instapaper_time": 1561011797,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:43:08.269554",
+  "updated_at": "2025-08-05T13:43:08.269557"
+}

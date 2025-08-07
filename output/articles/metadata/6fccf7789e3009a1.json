@@ -1,0 +1,40 @@
+{
+  "uid": "6fccf7789e3009a1",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1079537/body-shaming-why-skinny-shaming-is-not-the-same-as-fat-shaming-and-masks-thin-privilege/",
+  "title": "Conflating “skinny shaming” and “fat shaming” of women masks the often forgotten issue of thin privilege Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:59:24.031635",
+  "error": null,
+  "content_path": "output/articles/markdown/6fccf7789e3009a1.md",
+  "html_path": "output/articles/html/6fccf7789e3009a1.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a45906a21aabf89fc7e97da6a86c4287",
+  "type_specific": {
+    "bookmark_id": 958080387,
+    "instapaper_time": 1506026288,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:59:24.031672",
+  "updated_at": "2025-08-05T13:59:24.031675"
+}

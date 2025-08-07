@@ -1,0 +1,40 @@
+{
+  "uid": "11491af01bb845ff",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://sports.vice.com/en_us/highlight/bears-drop-balls-at-record-pace-including-one-of-the-worst-youll-ever-see",
+  "title": "Bears Drop Balls At Record Pace, Including One Of The Worst You'll Ever See VICE Sports",
+  "status": "selection_content_extracted",
+  "date": "2016-11-29T05:15:23",
+  "error": null,
+  "content_path": "output/articles/markdown/11491af01bb845ff.md",
+  "html_path": "output/articles/html/11491af01bb845ff.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4232,
+    "selection_length": 2448,
+    "cleaned_selection_length": 2498,
+    "domain": "sports.vice.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "11491af01bb845ff",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1480425323",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The Chicago Bears stink, as everyone knows, which means their only real capacity for surprise and joy lies in the details. At 2-9, the Bears probably aren't as bad as the Cleveland Browns, who are winless and probably will stay that way. But that doesn't mean Chicago can't try to be its worst possible self. And that's pret-tay, pret-tay, pret-tay bad.\n\nCase in point: Sunday at Soldier Field against the Tennessee Titans, down 20 points with backup-backup-backup quarterback Matt Barkley at the helm, the Bears mounted an unlikely and impressive fourth quarter comeback. Making his first career NFL start, Barkley threw for 210 yards in the fourth alone, and the Bears found themselves one more short completion from a stunning victory. Of course it didn't happen, because two different Chicago receivers each dropped a pass in the end zone, including the particularly egregious above drop by Josh Bellamy with less than a minute to go.\n\nThis has to tie for the worst drop in NFL history that isn't Jackie Smith of the Dallas Cowboys in Super Bowl XIII. Undaunted, without daunts of any kind, Barkley tried again and threw another sharp pass that was dropped by Deonte Thompson, who at least was diving and actually had a defender to deal with. So that's some kind of excuse, I guess. But there's no excuse for this: The Bears dropped the ball A LOT on Sunday:\n\nBears receivers dropped 10 passes today. That is the most for a team in a game in the PFF era(2006-2016) http://pic.twitter.com/aH3430bfoD\nNathan Jahnke (@PFF_NateJahnke) November 27, 2016\n\nThree of those ten drops happened in the end zone. Not so good. Despite the historic futility of his teammates, Barkley did a good job of acquitting himself on the field and off, and was seen on the sideline encouraging Bellamy about his mistake.\n\nHe also spoke up for his receivers after the game:\n\n\"We win as a team and we'll lose as a team,\" said Barkley, who insisted he never got frustrated with all the drops. \"During the game, I don't get wrapped up in the emotions of all that negativity. I'm trying to keep guys going, keep the tempo pressed and one play at a time.\"\n\nPerhaps something good will come of this for the Bears, like Matt Barkley becoming a viable backup QB, or their receiving group learning something about grit and character and blah blah blah instead of being emotionally scarred for life. But more likely, none of that will happen.\n\nThe Bears lost to the Titans 27-21.",
+    "cleaned_selection": "<p>The Chicago Bears stink, as everyone knows, which means their only real capacity for surprise and joy lies in the details. At 2-9, the Bears probably aren't as bad as the Cleveland Browns, who are winless and probably will stay that way. But that doesn't mean Chicago can't try to be its worst possible self. And that's pret-tay, pret-tay, pret-tay bad.</p><p>Case in point: Sunday at Soldier Field against the Tennessee Titans, down 20 points with backup-backup-backup quarterback Matt Barkley at the helm, the Bears mounted an unlikely and impressive fourth quarter comeback. Making his first career NFL start, Barkley threw for 210 yards in the fourth alone, and the Bears found themselves one more short completion from a stunning victory. Of course it didn't happen, because two different Chicago receivers each dropped a pass in the end zone, including the particularly egregious above drop by Josh Bellamy with less than a minute to go.</p><p>This has to tie for the worst drop in NFL history that isn't Jackie Smith of the Dallas Cowboys in Super Bowl XIII. Undaunted, without daunts of any kind, Barkley tried again and threw another sharp pass that was dropped by Deonte Thompson, who at least was diving and actually had a defender to deal with. So that's some kind of excuse, I guess. But there's no excuse for this: The Bears dropped the ball A LOT on Sunday:</p><p>Bears receivers dropped 10 passes today. That is the most for a team in a game in the PFF era(2006-2016) http://pic.twitter.com/aH3430bfoD<br>Nathan Jahnke (@PFF_NateJahnke) November 27, 2016</p><p>Three of those ten drops happened in the end zone. Not so good. Despite the historic futility of his teammates, Barkley did a good job of acquitting himself on the field and off, and was seen on the sideline encouraging Bellamy about his mistake.</p><p>He also spoke up for his receivers after the game:</p><p>\"We win as a team and we'll lose as a team,\" said Barkley, who insisted he never got frustrated with all the drops. \"During the game, I don't get wrapped up in the emotions of all that negativity. I'm trying to keep guys going, keep the tempo pressed and one play at a time.\"</p><p>Perhaps something good will come of this for the Bears, like Matt Barkley becoming a viable backup QB, or their receiving group learning something about grit and character and blah blah blah instead of being emotionally scarred for life. But more likely, none of that will happen.</p><p>The Bears lost to the Titans 27-21.</p>",
+    "domain": "sports.vice.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.253828",
+  "updated_at": "2025-08-06T08:47:04.253829"
+}

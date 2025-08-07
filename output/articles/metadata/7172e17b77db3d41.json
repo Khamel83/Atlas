@@ -1,0 +1,26 @@
+{
+  "uid": "7172e17b77db3d41",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1756064164",
+  "title": "Listen to This Article - Bipartisan Coalition Finally Tells Europe, and the FBI, to Shove It",
+  "status": "success",
+  "date": "2025-08-06T13:15:50.009350",
+  "error": null,
+  "content_path": "output/articles/markdown/7172e17b77db3d41.md",
+  "html_path": "output/articles/html/7172e17b77db3d41.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1756064164,
+    "content_length": 1879,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1756064164,
+    "instapaper_time": 1740338191,
+    "is_private_content": true,
+    "content_length": 1879
+  },
+  "created_at": "2025-08-06T13:15:50.009354",
+  "updated_at": "2025-08-06T13:15:50.009407"
+}

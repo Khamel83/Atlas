@@ -1,0 +1,40 @@
+{
+  "uid": "b9e542bd77f09675",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.theverge.com/2016/7/18/12216406/colorize-black-and-white-photos-algorithmia-tool-image-editing",
+  "title": "This tool will instantly colorize your black-and-white photos The Verge",
+  "status": "selection_content_extracted",
+  "date": "2016-07-18T16:59:05",
+  "error": null,
+  "content_path": "output/articles/markdown/b9e542bd77f09675.md",
+  "html_path": "output/articles/html/b9e542bd77f09675.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4371,
+    "selection_length": 1498,
+    "cleaned_selection_length": 1524,
+    "domain": "theverge.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b9e542bd77f09675",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1468886345",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Have you ever thumbed through vintage postcards at a flee market and come across black-and-white photographs of a town or monument livened with a layer of water color or colored pencil? A new service on Algorithmia uses a deep learning algorithm to accomplish a similar result.\n\n\nTo give it a try, simply paste the URL of a black-and-white image and tap \"colorize it.\" After a few seconds of processing, a comparison of the original and colorized images appears. From our limited experimentation, it seems like Alogirthmia’s tool works best with images of faces, simple landscapes, and clear skies.\n\n\n\nHere are two examples we created. The first image is the original image, the second is a greyscale version, and the third is the colorization by Algorithmia.\n\n\nThe algorithm fails to differentiate the people and the setting, resulting in a muted-brown wash. Of course, this was meant as a curveball to test the tool’s limits. The results were much better when the original image featured faces and unobstructed bodies.\n\n\nSome folks on Reddit have found even better results. From user TheFeatheredFish, here are the before and after results of a classic photograph of an American city.\n\n\nThe colorization tool is just one part of Algorithmia’s API, which does everything from summarizing English text to detecting nudity in pictures. We first saw a method for colorizing black-and-white photos in April when researchers from Waseda University published their method along with a number of samples.",
+    "cleaned_selection": "<p>Have you ever thumbed through vintage postcards at a flee market and come across black-and-white photographs of a town or monument livened with a layer of water color or colored pencil? A new service on Algorithmia uses a deep learning algorithm to accomplish a similar result.</p><p>To give it a try, simply paste the URL of a black-and-white image and tap \"colorize it.\" After a few seconds of processing, a comparison of the original and colorized images appears. From our limited experimentation, it seems like Alogirthmia’s tool works best with images of faces, simple landscapes, and clear skies.</p><p>Here are two examples we created. The first image is the original image, the second is a greyscale version, and the third is the colorization by Algorithmia.</p><p>The algorithm fails to differentiate the people and the setting, resulting in a muted-brown wash. Of course, this was meant as a curveball to test the tool’s limits. The results were much better when the original image featured faces and unobstructed bodies.</p><p>Some folks on Reddit have found even better results. From user TheFeatheredFish, here are the before and after results of a classic photograph of an American city.</p><p>The colorization tool is just one part of Algorithmia’s API, which does everything from summarizing English text to detecting nudity in pictures. We first saw a method for colorizing black-and-white photos in April when researchers from Waseda University published their method along with a number of samples.</p>",
+    "domain": "theverge.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.306767",
+  "updated_at": "2025-08-06T08:47:04.306771"
+}

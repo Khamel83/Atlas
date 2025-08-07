@@ -1,0 +1,40 @@
+{
+  "uid": "46c7399a9968063d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/1157663/comcast-just-changed-its-website-and-youre-not-going-to-like-it/",
+  "title": "Comcast changed its website and net neutrality fans may not like it Quartz",
+  "status": "selection_content_extracted",
+  "date": "2017-12-15T06:12:46",
+  "error": null,
+  "content_path": "output/articles/markdown/46c7399a9968063d.md",
+  "html_path": "output/articles/html/46c7399a9968063d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3685,
+    "selection_length": 1690,
+    "cleaned_selection_length": 1721,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "46c7399a9968063d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1513347166",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "So it begins. The Federal Communications Commission voted on Dec. 14 to repeal the net neutrality rules that prevent US telecoms from blocking, slowing, or charging more for certain content. Those protections are gone. What’s left is an assurance that the Federal Trade Commission will enforce the voluntary commitments made by telecommunications firms like Comcast, AT&T, and Verizon.\n\nTechnically, the companies have pledged to uphold “net neutrality” commitments under the new regulatory regime. Yet the nature of those commitments are changing. Comcast’s website has changed dramatically since at least April, when the chairman of the FCC announced his intention to repeal net neutrality. Previous versions of the site, preserved by the Internet Archive, promised to not throttle content, prioritize internet traffic, or create paid fast lanes, while committing to making internet accessible to low income families.\n\nBut the website had already pared back its lofty language by November, as Ars Technica spotted at the time. The changes seem all the more glaring today.\n\nComcast now has three lines committing to “not block, slow down or discriminate against lawful content” while stating it “believes in full transparency in our customer policies.” That leaves a lot of wriggle room. It could be that Comcast will follow through on some of its earlier promises or, as the new language suggests, it will start implementing paid prioritization (arguing that it is not discrimination). The company has been changing its language about this for months. A Comcast spokesperson told CNET in November it has “no plans” to enter paid prioritization agreements.\n\nMost Popular\n\n\t\tRead full story",
+    "cleaned_selection": "<p>So it begins. The Federal Communications Commission voted on Dec. 14 to repeal the net neutrality rules that prevent US telecoms from blocking, slowing, or charging more for certain content. Those protections are gone. What’s left is an assurance that the Federal Trade Commission will enforce the voluntary commitments made by telecommunications firms like Comcast, AT&T, and Verizon.</p><p>Technically, the companies have pledged to uphold “net neutrality” commitments under the new regulatory regime. Yet the nature of those commitments are changing. Comcast’s website has changed dramatically since at least April, when the chairman of the FCC announced his intention to repeal net neutrality. Previous versions of the site, preserved by the Internet Archive, promised to not throttle content, prioritize internet traffic, or create paid fast lanes, while committing to making internet accessible to low income families.</p><p>But the website had already pared back its lofty language by November, as Ars Technica spotted at the time. The changes seem all the more glaring today.</p><p>Comcast now has three lines committing to “not block, slow down or discriminate against lawful content” while stating it “believes in full transparency in our customer policies.” That leaves a lot of wriggle room. It could be that Comcast will follow through on some of its earlier promises or, as the new language suggests, it will start implementing paid prioritization (arguing that it is not discrimination). The company has been changing its language about this for months. A Comcast spokesperson told CNET in November it has “no plans” to enter paid prioritization agreements.</p><p>Most Popular</p><p> Read full story</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.950099",
+  "updated_at": "2025-08-06T08:47:03.950102"
+}

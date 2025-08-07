@@ -1,0 +1,40 @@
+{
+  "uid": "f8f2042257127fa0",
+  "content_type": "instapaper",
+  "source": "https://fivethirtyeight.com/features/politicians-write-lots-of-books-heres-how-far-into-them-people-read/",
+  "title": "Politicians Write Lots Of Books. Here’s How Far Into Them People Read. FiveThirtyEight",
+  "status": "success",
+  "date": "2025-08-05T13:59:53.445486",
+  "error": null,
+  "content_path": "output/articles/markdown/f8f2042257127fa0.md",
+  "html_path": "output/articles/html/f8f2042257127fa0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "beb5c259aa52492a2f640a293cddc074",
+  "type_specific": {
+    "bookmark_id": 954506730,
+    "instapaper_time": 1505299478,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:59:53.445515",
+  "updated_at": "2025-08-05T13:59:53.445519"
+}

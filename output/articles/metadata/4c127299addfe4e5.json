@@ -1,0 +1,40 @@
+{
+  "uid": "4c127299addfe4e5",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2014/10/a-savvy-way-to-fly-to-south-africa-on-miles.html",
+  "title": "A Savvy Way to Fly to South Africa on Miles Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2014-10-21T16:17:55",
+  "error": null,
+  "content_path": "output/articles/markdown/4c127299addfe4e5.md",
+  "html_path": "output/articles/html/4c127299addfe4e5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5082,
+    "selection_length": 333,
+    "cleaned_selection_length": 340,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4c127299addfe4e5",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1413933475",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The ideal way to travel from North America to South Africa is on Delta’s daily non-stop flights between Atlanta (ATL) and Johannesburg (JNB) and South African Airways’ non-stop/direct flights between New York (JFK) and JNB and Washington-Dulles (IAD) and JNB. If you have ever tried to use Delta SkyMiles for the ATL – JNB route, […]",
+    "cleaned_selection": "<p>The ideal way to travel from North America to South Africa is on Delta’s daily non-stop flights between Atlanta (ATL) and Johannesburg (JNB) and South African Airways’ non-stop/direct flights between New York (JFK) and JNB and Washington-Dulles (IAD) and JNB. If you have ever tried to use Delta SkyMiles for the ATL – JNB route, […]</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.469259",
+  "updated_at": "2025-08-06T08:47:04.469261"
+}

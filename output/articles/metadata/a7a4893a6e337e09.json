@@ -1,0 +1,40 @@
+{
+  "uid": "a7a4893a6e337e09",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/01/layover-lowdown-singapore-changi-airport/",
+  "title": "Layover Lowdown Singapore Changi Airport The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-01-09T13:05:51",
+  "error": null,
+  "content_path": "output/articles/markdown/a7a4893a6e337e09.md",
+  "html_path": "output/articles/html/a7a4893a6e337e09.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4984,
+    "selection_length": 354,
+    "cleaned_selection_length": 361,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a7a4893a6e337e09",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1420837551",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Our new “Layover Lowdown” series will feature airports and destinations around the world where you’re likely to be stuck between flights. The TPG team will offer tips on navigating and spending time in the airport, as well as some things to do if you find yourself with time to explore the nearby city. TPG International Contributor Lori Zaino starts […]",
+    "cleaned_selection": "<p>Our new “Layover Lowdown” series will feature airports and destinations around the world where you’re likely to be stuck between flights. The TPG team will offer tips on navigating and spending time in the airport, as well as some things to do if you find yourself with time to explore the nearby city. TPG International Contributor Lori Zaino starts […]</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.436156",
+  "updated_at": "2025-08-06T08:47:04.436158"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "385c16dae969f4f7",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2015/09/i-want-to-go-to-panama-city-for-cheap.html",
+  "title": "I Want to Go to Panama City – for CHEAP! Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-09-23T16:01:33",
+  "error": null,
+  "content_path": "output/articles/markdown/385c16dae969f4f7.md",
+  "html_path": "output/articles/html/385c16dae969f4f7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4742,
+    "selection_length": 321,
+    "cleaned_selection_length": 328,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "385c16dae969f4f7",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1443049293",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Home to the magnificent Panama Canal, Panama City offers a vast array of activities and extraordinary venues to explore. It’s also very affordable. Though Panama does have its own currency, the U.S. dollar is used prominently so no need to exchange funds on arrival. Here’s how to make the most of your frugal trip to […]",
+    "cleaned_selection": "<p>Home to the magnificent Panama Canal, Panama City offers a vast array of activities and extraordinary venues to explore. It’s also very affordable. Though Panama does have its own currency, the U.S. dollar is used prominently so no need to exchange funds on arrival. Here’s how to make the most of your frugal trip to […]</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.377579",
+  "updated_at": "2025-08-06T08:47:04.377580"
+}

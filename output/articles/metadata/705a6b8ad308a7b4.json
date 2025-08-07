@@ -1,0 +1,40 @@
+{
+  "uid": "705a6b8ad308a7b4",
+  "content_type": "instapaper",
+  "source": "https://qz.com/work/1520476/should-your-resume-be-one-page-or-two/",
+  "title": "Should your resume be one page or two Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:47:12.097943",
+  "error": null,
+  "content_path": "output/articles/markdown/705a6b8ad308a7b4.md",
+  "html_path": "output/articles/html/705a6b8ad308a7b4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e85286dc9cb341c257964273621ee359",
+  "type_specific": {
+    "bookmark_id": 1149427371,
+    "instapaper_time": 1547239749,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:47:12.097992",
+  "updated_at": "2025-08-05T13:47:12.097995"
+}

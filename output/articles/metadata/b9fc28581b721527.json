@@ -1,0 +1,40 @@
+{
+  "uid": "b9fc28581b721527",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.fangraphs.com/blogs/why-wasnt-billy-hamilton-a-base-stealing-dynamo/",
+  "title": "Why Wasn’t Billy Hamilton a Base-Stealing Dynamo FanGraphs Baseball",
+  "status": "selection_content_extracted",
+  "date": "2014-11-11T19:57:35",
+  "error": null,
+  "content_path": "output/articles/markdown/b9fc28581b721527.md",
+  "html_path": "output/articles/html/b9fc28581b721527.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5054,
+    "selection_length": 320,
+    "cleaned_selection_length": 327,
+    "domain": "fangraphs.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b9fc28581b721527",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1415764655",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Shortly before people were making too much of the Mets signing Michael Cuddyer, people were making just enough of the Royals very nearly winning the actual World Series. It was an enjoyable race for a championship, and a part of the Royals’ game that got an incredible amount of attention was their habit of stealing […]",
+    "cleaned_selection": "<p>Shortly before people were making too much of the Mets signing Michael Cuddyer, people were making just enough of the Royals very nearly winning the actual World Series. It was an enjoyable race for a championship, and a part of the Royals’ game that got an incredible amount of attention was their habit of stealing […]</p>",
+    "domain": "fangraphs.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.460119",
+  "updated_at": "2025-08-06T08:47:04.460121"
+}

@@ -1,0 +1,42 @@
+{
+  "uid": "df1cf97fba22e50f",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1728913241",
+  "title": "💥Solar Coaster. Part II.💥",
+  "status": "success",
+  "date": "2025-08-05T13:30:50.921839",
+  "error": null,
+  "content_path": "output/articles/markdown/df1cf97fba22e50f.md",
+  "html_path": "output/articles/html/df1cf97fba22e50f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "139ad0fa0fb5a5d89642898845bacd2f",
+  "type_specific": {
+    "bookmark_id": 1728913241,
+    "instapaper_time": 1732107984,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:30:50.921882",
+  "updated_at": "2025-08-05T13:30:50.921884"
+}

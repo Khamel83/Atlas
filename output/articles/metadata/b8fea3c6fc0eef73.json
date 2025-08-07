@@ -1,0 +1,40 @@
+{
+  "uid": "b8fea3c6fc0eef73",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2017/03/marriott-is-giving-away-3-75-million-marriott-points-no-strings-attached.html",
+  "title": "Marriott Is Giving Away 3.75 Million Marriott Points, No Strings Attached Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2017-03-06T05:49:10",
+  "error": null,
+  "content_path": "output/articles/markdown/b8fea3c6fc0eef73.md",
+  "html_path": "output/articles/html/b8fea3c6fc0eef73.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4090,
+    "selection_length": 2754,
+    "cleaned_selection_length": 2971,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b8fea3c6fc0eef73",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1488808150",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The world’s largest hotel chain just announced the world’s biggest points giveaway. On June 1st, 2017 they’ll be giving away 3.75 million Marriott points, enough for Free Travel for Life, for nothing more than a little postage. And everyone can enter up to 60 times each.\n\nHow to Enter (The Easy Way)\n\nJust send Marriott a letter. Seriously, it’s that easy, we double-checked:\n\nJust “Hand print your name, address, day and evening phone numbers, email address, Rewards Account number, and date of birth on a 3″ x 5″ piece of paper.”\n\nThen mail it in to:\n\nMarriott Mobile App Travel For Life,” c/o HelloWorld, Inc.\n\nP.O. Box 5029, Department 829846\n\nKalamazoo, MI 49003-5029.\n\nEach entry that you mail in will count as 3 entries, and you can enter up to 20 times for a total of 60 entries, the limit for this promotion.\n\nAnd if you win, they’ll even give you $10,000 extra in cash to cover most of the tax liability.\n\nBut mailing in entries isn’t the only way to enter.\n\nHow to Enter With Stays\n\nThe Free Travel for Life sweepstakes is a promotion for the Marriott Mobile App. Sign up for it on Apple or Android with your Marriott Rewards Number and you can earn multiple entries, up to 20 through each method:\n\nMake a Reservation at a hotel anywhere in the world, through the app.\n\nProperty brands include:\n\nThe Ritz-Carlton\n\nRitzCarlton Reserve\n\nJW Marriott\n\nEDITION\n\nMarriott Hotels\n\nMarriott Vacation Club\n\nDelta\n\nAutograph Collection\n\nRenaissance Hotels\n\nGaylord Hotels\n\nCourtyard Hotels\n\nSpringHill Suites\n\nProtea Hotels\n\nFairfield Inn & Suites\n\nAC Hotels\n\nMoxy Hotels\n\nMarriott Executive Apartments\n\nResidence Inn\n\nTownePlace Suites\n\nCheck In to a Marriott Property Using Mobile Check-In:\n\nCheck in to a room reserved with your Rewards Account (whether the reservation is made on the app, phone, online or in person) using the app’s Mobile Check-In service. Each time you use this counts as one entry.\n\nUse the Mobile Request Feature:\n\nWhenever you use the app to message the hotel before or after your trip, or request anything the app will automatically register one entry.\n\nThe Catch\n\nNo matter how you earn the entries, each account holder is only allowed 60 entries. So, essentially, 20 letters at three points a letter is 60 entries. And 20 requests via the app, 20 check-ins and 20 reservations also equal 60 entries. And there is no point in doubling up since 60 is the limit.\n\nAlthough entering with stays if you’re already have Marriott Rewards card and 80,000 sign-up bonus points to put to use this could be a fun way to play with the app.\n\nJust know that all stays, letters, mobile app requests, etc. must be completed by May 31st 2017. The winner will be announced on June 30, 2017.\n\nFor more information about the contest, head here.",
+    "cleaned_selection": "<p>The world’s largest hotel chain just announced the world’s biggest points giveaway. On June 1st, 2017 they’ll be giving away 3.75 million Marriott points, enough for Free Travel for Life, for nothing more than a little postage. And everyone can enter up to 60 times each.</p><p>How to Enter (The Easy Way)</p><p>Just send Marriott a letter. Seriously, it’s that easy, we double-checked:</p><p>Just “Hand print your name, address, day and evening phone numbers, email address, Rewards Account number, and date of birth on a 3″ x 5″ piece of paper.”</p><p>Then mail it in to:</p><p>Marriott Mobile App Travel For Life,” c/o HelloWorld, Inc.</p><p>P.O. Box 5029, Department 829846</p><p>Kalamazoo, MI 49003-5029.</p><p>Each entry that you mail in will count as 3 entries, and you can enter up to 20 times for a total of 60 entries, the limit for this promotion.</p><p>And if you win, they’ll even give you $10,000 extra in cash to cover most of the tax liability.</p><p>But mailing in entries isn’t the only way to enter.</p><p>How to Enter With Stays</p><p>The Free Travel for Life sweepstakes is a promotion for the Marriott Mobile App. Sign up for it on Apple or Android with your Marriott Rewards Number and you can earn multiple entries, up to 20 through each method:</p><p>Make a Reservation at a hotel anywhere in the world, through the app.</p><p>Property brands include:</p><p>The Ritz-Carlton</p><p>RitzCarlton Reserve</p><p>JW Marriott</p><p>EDITION</p><p>Marriott Hotels</p><p>Marriott Vacation Club</p><p>Delta</p><p>Autograph Collection</p><p>Renaissance Hotels</p><p>Gaylord Hotels</p><p>Courtyard Hotels</p><p>SpringHill Suites</p><p>Protea Hotels</p><p>Fairfield Inn & Suites</p><p>AC Hotels</p><p>Moxy Hotels</p><p>Marriott Executive Apartments</p><p>Residence Inn</p><p>TownePlace Suites</p><p>Check In to a Marriott Property Using Mobile Check-In:</p><p>Check in to a room reserved with your Rewards Account (whether the reservation is made on the app, phone, online or in person) using the app’s Mobile Check-In service. Each time you use this counts as one entry.</p><p>Use the Mobile Request Feature:</p><p>Whenever you use the app to message the hotel before or after your trip, or request anything the app will automatically register one entry.</p><p>The Catch</p><p>No matter how you earn the entries, each account holder is only allowed 60 entries. So, essentially, 20 letters at three points a letter is 60 entries. And 20 requests via the app, 20 check-ins and 20 reservations also equal 60 entries. And there is no point in doubling up since 60 is the limit.</p><p>Although entering with stays if you’re already have Marriott Rewards card and 80,000 sign-up bonus points to put to use this could be a fun way to play with the app.</p><p>Just know that all stays, letters, mobile app requests, etc. must be completed by May 31st 2017. The winner will be announced on June 30, 2017.</p><p>For more information about the contest, head here.</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.164130",
+  "updated_at": "2025-08-06T08:47:04.164131"
+}

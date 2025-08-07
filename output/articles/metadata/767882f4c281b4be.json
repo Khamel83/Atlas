@@ -1,0 +1,40 @@
+{
+  "uid": "767882f4c281b4be",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/the-bulls-offense-still-starts-and-especially-stops-with-derrick-rose/",
+  "title": "The Bulls Offense Still Starts And (Especially) Stops With Derrick Rose FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2015-12-11T17:18:55",
+  "error": null,
+  "content_path": "output/articles/markdown/767882f4c281b4be.md",
+  "html_path": "output/articles/html/767882f4c281b4be.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4667,
+    "selection_length": 286,
+    "cleaned_selection_length": 293,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "767882f4c281b4be",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1449883135",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "On Thursday night in Chicago, the Bulls were clinging to a 4-point lead over the Clippers. With 50 seconds left, Derrick Rose ran off some clock near midcourt; as the shot clock hit 14, he used a Pau Gasol ball screen to beat Chris Paul to the elbow and attack the right side of the […]",
+    "cleaned_selection": "<p>On Thursday night in Chicago, the Bulls were clinging to a 4-point lead over the Clippers. With 50 seconds left, Derrick Rose ran off some clock near midcourt; as the shot clock hit 14, he used a Pau Gasol ball screen to beat Chris Paul to the elbow and attack the right side of the […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.360746",
+  "updated_at": "2025-08-06T08:47:04.360747"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "5b2c5a74f55baf7c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.informationisbeautiful.net/2014/islamic-sects-schools-branches-movements/",
+  "title": "Islamic Sects, Schools, Branches & Movements Information Is Beautiful",
+  "status": "selection_content_extracted",
+  "date": "2014-07-10T09:02:07",
+  "error": null,
+  "content_path": "output/articles/markdown/5b2c5a74f55baf7c.md",
+  "html_path": "output/articles/html/5b2c5a74f55baf7c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5225,
+    "selection_length": 361,
+    "cleaned_selection_length": 368,
+    "domain": "informationisbeautiful.net",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5b2c5a74f55baf7c",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1405008127",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Sunni? Shia? Hanbali? Ismali? Deobandi? Taliban? ISIS? A visual guide to the major & notable sects, schools & movements within Islam. Much confusion and chaos reigning in Iraq, amid the complex territorial, historical and doctrinal allegiances and enmities of the wider Arab world. I’m feeling confused by the breeze-block reporting of this situation as a [...]",
+    "cleaned_selection": "<p>Sunni? Shia? Hanbali? Ismali? Deobandi? Taliban? ISIS? A visual guide to the major & notable sects, schools & movements within Islam. Much confusion and chaos reigning in Iraq, amid the complex territorial, historical and doctrinal allegiances and enmities of the wider Arab world. I’m feeling confused by the breeze-block reporting of this situation as a [...]</p>",
+    "domain": "informationisbeautiful.net",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.502525",
+  "updated_at": "2025-08-06T08:47:04.502527"
+}

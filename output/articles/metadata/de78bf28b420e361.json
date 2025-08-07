@@ -1,0 +1,40 @@
+{
+  "uid": "de78bf28b420e361",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/policy-and-politics/2017/7/3/15893996/7-types-people-out-of-work",
+  "title": "7 types of people who are out of work, categorized with data Vox - All",
+  "status": "success",
+  "date": "2025-08-05T14:02:19.103566",
+  "error": null,
+  "content_path": "output/articles/markdown/de78bf28b420e361.md",
+  "html_path": "output/articles/html/de78bf28b420e361.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "53b3d6518e271331bd48f020b0543750",
+  "type_specific": {
+    "bookmark_id": 926488514,
+    "instapaper_time": 1499110757,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:02:19.103642",
+  "updated_at": "2025-08-05T14:02:19.103646"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "8bc625f008ba0157",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://fivethirtyeight.com/features/the-56-best-and-weirdest-charts-we-made-in-2019/",
+  "title": "The 56 Best — And Weirdest — Charts We Made In 2019 FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2019-12-28T13:53:05",
+  "error": null,
+  "content_path": "output/articles/markdown/8bc625f008ba0157.md",
+  "html_path": "output/articles/html/8bc625f008ba0157.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2924,
+    "selection_length": 572,
+    "cleaned_selection_length": 599,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8bc625f008ba0157",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1577569985",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Over the past year, FiveThirtyEight visual journalists have created hundreds of original charts and graphics. To mark the close of the year, we are continuing our tradition of collecting together a few dozen of our most creative (and most unusual) creations. There’s no particular order here, so don’t go looking for any deeper meaning. Click through any graphic to read the story that went with it.\n\nPolitics\n\nSports\n\nEverything else\n\nYou made it all the way here? We admire your commitment to great visual journalism! Check out our lists from 2018, 2016, 2015, and 2014.",
+    "cleaned_selection": "<p>Over the past year, FiveThirtyEight visual journalists have created hundreds of original charts and graphics. To mark the close of the year, we are continuing our tradition of collecting together a few dozen of our most creative (and most unusual) creations. There’s no particular order here, so don’t go looking for any deeper meaning. Click through any graphic to read the story that went with it.</p><p>Politics</p><p>Sports</p><p>Everything else</p><p>You made it all the way here? We admire your commitment to great visual journalism! Check out our lists from 2018, 2016, 2015, and 2014.</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.697762",
+  "updated_at": "2025-08-06T08:47:03.697764"
+}

@@ -1,0 +1,28 @@
+{
+  "uid": "b781c4ea1651c0d1",
+  "content_type": "instapaper_starred_additional_content",
+  "source": "instapaper://private-content/1764322695",
+  "title": "💥Dodge This💥",
+  "status": "success",
+  "date": "2025-08-06T13:40:59.403932",
+  "error": null,
+  "content_path": "output/articles/markdown/b781c4ea1651c0d1.md",
+  "html_path": "output/articles/html/b781c4ea1651c0d1.html",
+  "fetch_method": "instapaper_api_starred_folder_maximization",
+  "fetch_details": {
+    "bookmark_id": 1764322695,
+    "content_length": 70318,
+    "successful": true,
+    "extraction_batch": "maximization_discovery",
+    "folder": "starred"
+  },
+  "type_specific": {
+    "bookmark_id": 1764322695,
+    "instapaper_time": 1743347760,
+    "folder": "starred",
+    "content_length": 70318,
+    "discovery_method": "folder_deep_dive"
+  },
+  "created_at": "2025-08-06T13:40:59.403940",
+  "updated_at": "2025-08-06T13:40:59.403947"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "4909ecffa7dd7819",
+  "content_type": "instapaper",
+  "source": "http://www.getrichslowly.org/blog/2017/06/13/home-owners-guide-refinancing-mortgage/",
+  "title": "A Home Owner’s Guide to Refinancing Your Mortgage Get Rich Slowly",
+  "status": "success",
+  "date": "2025-08-05T14:02:49.932637",
+  "error": null,
+  "content_path": "output/articles/markdown/4909ecffa7dd7819.md",
+  "html_path": "output/articles/html/4909ecffa7dd7819.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "baf02e775891cece71a213a389b3ae73",
+  "type_specific": {
+    "bookmark_id": 918858994,
+    "instapaper_time": 1497394587,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:02:49.932665",
+  "updated_at": "2025-08-05T14:02:49.932669"
+}

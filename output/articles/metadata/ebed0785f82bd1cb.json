@@ -1,0 +1,40 @@
+{
+  "uid": "ebed0785f82bd1cb",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/974107/places-youll-pray-the-instagram-photo-series-of-all-of-the-unexpected-places-muslims-pray/",
+  "title": "A popular photo series documents all of the unexpected places Muslims pray Quartz",
+  "status": "selection_content_extracted",
+  "date": "2017-05-03T11:45:08",
+  "error": null,
+  "content_path": "output/articles/markdown/ebed0785f82bd1cb.md",
+  "html_path": "output/articles/html/ebed0785f82bd1cb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3989,
+    "selection_length": 1263,
+    "cleaned_selection_length": 1304,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ebed0785f82bd1cb",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1493837108",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "A changing room, a basketball court, an airport baggage claim, Machu Picchu.\n\nThese are some of the places Muslims have Instagrammed their prayer. Since 2015, Muslim-American photographer Sana Ullah has curated an Instagram page called Places You’ll Pray, where users can submit photos of all the unconventional places they’ve prayed.\n\nPrayer is one of the five pillars of Islam, with five required daily prayers spread throughout the day. Ullah says that especially in Muslim-minority countries, it can be hard for Muslims to find a mosque or designated prayer space every time they pray, so they often have to get creative.\n\nUllah used her work in Places You’ll Pray as a launching point for her recent master’s photo series. In interviewing subjects for the master’s project, she found that since the 2016 US presidential elections, Muslims have become more hesitant to pray publicly due to increased Islamophobia.\n\n“Because of the discourse happening right now, when they’re praying in public they’re worried that they’re making other people uncomfortable, while at the same time feeling uncomfortable and maybe scared for their own safety,” she said.\n\nFind some of the highlights from Ullah’s photo series in the video above.\n\nMost Popular\n\n\t\tRead full story",
+    "cleaned_selection": "<p>A changing room, a basketball court, an airport baggage claim, Machu Picchu.</p><p>These are some of the places Muslims have Instagrammed their prayer. Since 2015, Muslim-American photographer Sana Ullah has curated an Instagram page called Places You’ll Pray, where users can submit photos of all the unconventional places they’ve prayed.</p><p>Prayer is one of the five pillars of Islam, with five required daily prayers spread throughout the day. Ullah says that especially in Muslim-minority countries, it can be hard for Muslims to find a mosque or designated prayer space every time they pray, so they often have to get creative.</p><p>Ullah used her work in Places You’ll Pray as a launching point for her recent master’s photo series. In interviewing subjects for the master’s project, she found that since the 2016 US presidential elections, Muslims have become more hesitant to pray publicly due to increased Islamophobia.</p><p>“Because of the discourse happening right now, when they’re praying in public they’re worried that they’re making other people uncomfortable, while at the same time feeling uncomfortable and maybe scared for their own safety,” she said.</p><p>Find some of the highlights from Ullah’s photo series in the video above.</p><p>Most Popular</p><p> Read full story</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.119364",
+  "updated_at": "2025-08-06T08:47:04.119368"
+}

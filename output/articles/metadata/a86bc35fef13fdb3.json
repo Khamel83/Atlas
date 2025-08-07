@@ -1,0 +1,40 @@
+{
+  "uid": "a86bc35fef13fdb3",
+  "content_type": "instapaper",
+  "source": "http://frequentmiler.boardingarea.com/2017/09/14/anyone-want-40-amazon-fire-8-tablets/",
+  "title": "Can I interest you in 40 Amazon Fire tablets Frequent Miler",
+  "status": "success",
+  "date": "2025-08-05T13:59:45.006677",
+  "error": null,
+  "content_path": "output/articles/markdown/a86bc35fef13fdb3.md",
+  "html_path": "output/articles/html/a86bc35fef13fdb3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "02f16471dad234dd89a6d31edbc7c327",
+  "type_specific": {
+    "bookmark_id": 955206539,
+    "instapaper_time": 1505432186,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:59:45.006781",
+  "updated_at": "2025-08-05T13:59:45.006785"
+}

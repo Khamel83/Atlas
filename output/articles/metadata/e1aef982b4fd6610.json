@@ -1,0 +1,42 @@
+{
+  "uid": "e1aef982b4fd6610",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1761218971",
+  "title": "The End of Children",
+  "status": "success",
+  "date": "2025-08-05T13:28:22.654689",
+  "error": null,
+  "content_path": "output/articles/markdown/e1aef982b4fd6610.md",
+  "html_path": "output/articles/html/e1aef982b4fd6610.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "31a40bbcca5eb10d2de3feaef1bcad4f",
+  "type_specific": {
+    "bookmark_id": 1761218971,
+    "instapaper_time": 1742237593,
+    "starred": true,
+    "progress": 0.0101747,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:28:22.654804",
+  "updated_at": "2025-08-05T13:28:22.654805"
+}

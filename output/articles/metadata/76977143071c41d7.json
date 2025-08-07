@@ -1,0 +1,36 @@
+{
+  "uid": "76977143071c41d7",
+  "content_type": "instapaper_newsletter",
+  "source": "instapaper://private-content/1763370879",
+  "title": "Hyperlegible 001: Tina He",
+  "status": "success",
+  "date": "2025-03-26T05:40:41",
+  "error": null,
+  "content_path": "output/articles/markdown/76977143071c41d7.md",
+  "html_path": "output/articles/html/76977143071c41d7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api_private_content",
+  "fetch_details": {
+    "bookmark_id": 1763370879,
+    "extraction_method": "bookmarks_get_text",
+    "content_length": 56868,
+    "successful": true
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1763370879",
+  "type_specific": {
+    "bookmark_id": 1763370879,
+    "instapaper_time": 1742992841,
+    "starred": true,
+    "is_private_content": true,
+    "private_source": "email",
+    "content_length": 56868
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T21:58:52.004011",
+  "updated_at": "2025-08-05T21:58:52.004013"
+}

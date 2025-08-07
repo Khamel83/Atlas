@@ -1,0 +1,40 @@
+{
+  "uid": "e2096af5d28167f0",
+  "content_type": "instapaper",
+  "source": "https://skillet.lifehacker.com/the-perfect-time-to-get-into-bread-making-is-right-now-1837899445",
+  "title": "The Perfect Time to Get Into Bread Making is Right Now Skillet",
+  "status": "success",
+  "date": "2025-08-05T13:42:18.286041",
+  "error": null,
+  "content_path": "output/articles/markdown/e2096af5d28167f0.md",
+  "html_path": "output/articles/html/e2096af5d28167f0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "87be756936591cd78e25f1628225e0ef",
+  "type_specific": {
+    "bookmark_id": 1230897562,
+    "instapaper_time": 1567884933,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:42:18.286061",
+  "updated_at": "2025-08-05T13:42:18.286062"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "93c513a40ed9edf2",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://ritholtz.com/2016/10/bill-miller-closet-indexers-killing-active-investing/",
+  "title": "Bill Miller Closet Indexers Are Killing Active Investing The Big Picture",
+  "status": "selection_content_extracted",
+  "date": "2016-10-28T16:51:40",
+  "error": null,
+  "content_path": "output/articles/markdown/93c513a40ed9edf2.md",
+  "html_path": "output/articles/html/93c513a40ed9edf2.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4261,
+    "selection_length": 2452,
+    "cleaned_selection_length": 2511,
+    "domain": "ritholtz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "93c513a40ed9edf2",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1477698700",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The move from active investing to passive has been a hot topic lately. Fund flows show that investors are voting with their feet. The news media has been all over the story. The Wall Street Journal has done a big spread on it; Bloomberg has covered it extensively as well.\n\nBill Miller, the legendary stock picker at Legg Mason Capital Management who beat the Standard & Poor’s 500 Index for 15 consecutive years, has an intriguing theory about why investors have been abandoning active investments. Although some people see passive investing as a form of active investing, he sees the precise opposite phenomenon:\n\nActive fund managers are often nothing more than high-priced closet indexers.\n\nI recently spoke with Miller for a new episode of Masters in Business(it will broadcast Nov. 5) and we exchanged e-mails during the past few days about the subject. Here’s a summary of his thoughts and insights:\n\nNo. 1. Most active investment management is too expensive\n\nMiller suggests that about 70 percent of all active managers are really closet indexers because many of them pile into the same stocks as their benchmarks — just like an index fund. But a majority of them don’t produce net results as good as the average passive fund because their fees are so much higher.\n\nSo the choices are: You can buy cheap passive funds and match the market, or you can buy expensive active funds with the goal of beating the market. But buying expensive funds that are really closet indexers makes no sense. Miller points out that investors have begun to figure this out.\n\nNo. 2. Many closet indexers are doomed to underperform\n\nMiller points out the technical reasons so many closet indexers’ underperform:\n\nTo minimize tracking error and to avoid large drawdowns relative to the market, most managers have limits on how much they can be overweight or underweight the various components of the benchmark (e.g., the sectors of the S&P 500).\n\nSo-called active-share percentage is where the risk and reward comes from, Miller says. Managers whose funds differ a lot from the index in their concentrations have greater risk of drawdowns and underperformance. However, without that risk, there is no chance of outperformance. Miller adds “their active share — the amount by which they differ from their benchmark — is very low and thus their ability to outperform is also low, even before expenses.”\n\n \n\nContinues at: Shift From Active to Passive Isn’t What It Seems",
+    "cleaned_selection": "<p>The move from active investing to passive has been a hot topic lately. Fund flows show that investors are voting with their feet. The news media has been all over the story. The Wall Street Journal has done a big spread on it; Bloomberg has covered it extensively as well.</p><p>Bill Miller, the legendary stock picker at Legg Mason Capital Management who beat the Standard & Poor’s 500 Index for 15 consecutive years, has an intriguing theory about why investors have been abandoning active investments. Although some people see passive investing as a form of active investing, he sees the precise opposite phenomenon:</p><p>Active fund managers are often nothing more than high-priced closet indexers.</p><p>I recently spoke with Miller for a new episode of Masters in Business(it will broadcast Nov. 5) and we exchanged e-mails during the past few days about the subject. Here’s a summary of his thoughts and insights:</p><p>No. 1. Most active investment management is too expensive</p><p>Miller suggests that about 70 percent of all active managers are really closet indexers because many of them pile into the same stocks as their benchmarks — just like an index fund. But a majority of them don’t produce net results as good as the average passive fund because their fees are so much higher.</p><p>So the choices are: You can buy cheap passive funds and match the market, or you can buy expensive active funds with the goal of beating the market. But buying expensive funds that are really closet indexers makes no sense. Miller points out that investors have begun to figure this out.</p><p>No. 2. Many closet indexers are doomed to underperform</p><p>Miller points out the technical reasons so many closet indexers’ underperform:</p><p>To minimize tracking error and to avoid large drawdowns relative to the market, most managers have limits on how much they can be overweight or underweight the various components of the benchmark (e.g., the sectors of the S&P 500).</p><p>So-called active-share percentage is where the risk and reward comes from, Miller says. Managers whose funds differ a lot from the index in their concentrations have greater risk of drawdowns and underperformance. However, without that risk, there is no chance of outperformance. Miller adds “their active share — the amount by which they differ from their benchmark — is very low and thus their ability to outperform is also low, even before expenses.”</p><p>Continues at: Shift From Active to Passive Isn’t What It Seems</p>",
+    "domain": "ritholtz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.268036",
+  "updated_at": "2025-08-06T08:47:04.268037"
+}

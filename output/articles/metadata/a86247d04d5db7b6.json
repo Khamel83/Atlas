@@ -1,0 +1,40 @@
+{
+  "uid": "a86247d04d5db7b6",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://qz.com/749550/subscribe-to-our-olympics-calendar-to-stay-up-to-date-on-the-events-in-rio/",
+  "title": "Subscribe to our Olympics calendar to stay up-to-date on the events in Rio Quartz",
+  "status": "selection_content_extracted",
+  "date": "2016-08-04T18:33:26",
+  "error": null,
+  "content_path": "output/articles/markdown/a86247d04d5db7b6.md",
+  "html_path": "output/articles/html/a86247d04d5db7b6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4357,
+    "selection_length": 818,
+    "cleaned_selection_length": 840,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a86247d04d5db7b6",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1470360806",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "With 206 countries, 28 sports, and 306 competitions, the Summer Olympics can quickly become overwhelming. So we’re offering you a calendar to keep track of the major events and other news in Rio.\n\nThe best part is that you don’t have to download anything new. Just input your email address below, and we’ll subscribe you to the calendar. Then you can view it in whatever calendar apps you already use, along with the rest of your agenda.\n\nWe know you already have a busy schedule, so there will only be one event per day, with the most relevant, interesting, and up-to-date information. We won’t use your email for anything else, and once the Olympic Games are over, our calendar will disappear.\n\nProtect yourself against information overload and Olympic FOMO by subscribing to the Quartz Olympics Calendar right here:",
+    "cleaned_selection": "<p>With 206 countries, 28 sports, and 306 competitions, the Summer Olympics can quickly become overwhelming. So we’re offering you a calendar to keep track of the major events and other news in Rio.</p><p>The best part is that you don’t have to download anything new. Just input your email address below, and we’ll subscribe you to the calendar. Then you can view it in whatever calendar apps you already use, along with the rest of your agenda.</p><p>We know you already have a busy schedule, so there will only be one event per day, with the most relevant, interesting, and up-to-date information. We won’t use your email for anything else, and once the Olympic Games are over, our calendar will disappear.</p><p>Protect yourself against information overload and Olympic FOMO by subscribing to the Quartz Olympics Calendar right here:</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.303583",
+  "updated_at": "2025-08-06T08:47:04.303585"
+}

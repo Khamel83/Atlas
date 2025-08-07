@@ -1,0 +1,40 @@
+{
+  "uid": "d45a594d289339b6",
+  "content_type": "instapaper",
+  "source": "https://www.fangraphs.com/blogs/top-25-prospects-chicago-white-sox/",
+  "title": "Top 25 Prospects Chicago White Sox FanGraphs Baseball",
+  "status": "success",
+  "date": "2025-08-05T13:49:07.835339",
+  "error": null,
+  "content_path": "output/articles/markdown/d45a594d289339b6.md",
+  "html_path": "output/articles/html/d45a594d289339b6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d241be5ac694f37dd1f7da22ba86caeb",
+  "type_specific": {
+    "bookmark_id": 1062136354,
+    "instapaper_time": 1527650693,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:49:07.835367",
+  "updated_at": "2025-08-05T13:49:07.835370"
+}

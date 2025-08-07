@@ -1,0 +1,36 @@
+{
+  "uid": "a04902124ee4b010",
+  "content_type": "instapaper_newsletter",
+  "source": "instapaper://private-content/1746509074",
+  "title": "💥Prescription-Grade Problems?💥",
+  "status": "success",
+  "date": "2025-01-15T05:04:54",
+  "error": null,
+  "content_path": "output/articles/markdown/a04902124ee4b010.md",
+  "html_path": "output/articles/html/a04902124ee4b010.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api_private_content",
+  "fetch_details": {
+    "bookmark_id": 1746509074,
+    "extraction_method": "bookmarks_get_text",
+    "content_length": 36861,
+    "successful": true
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1746509074",
+  "type_specific": {
+    "bookmark_id": 1746509074,
+    "instapaper_time": 1736946294,
+    "starred": true,
+    "is_private_content": true,
+    "private_source": "email",
+    "content_length": 36861
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T22:01:13.945013",
+  "updated_at": "2025-08-05T22:01:13.945015"
+}

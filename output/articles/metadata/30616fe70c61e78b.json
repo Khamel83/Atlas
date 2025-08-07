@@ -1,0 +1,42 @@
+{
+  "uid": "30616fe70c61e78b",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1730162076",
+  "title": "💥Risk on AF💥",
+  "status": "success",
+  "date": "2025-08-05T13:30:47.632321",
+  "error": null,
+  "content_path": "output/articles/markdown/30616fe70c61e78b.md",
+  "html_path": "output/articles/html/30616fe70c61e78b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7334b5e17e08a596f2f26c5150a90de1",
+  "type_specific": {
+    "bookmark_id": 1730162076,
+    "instapaper_time": 1732464980,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:30:47.632381",
+  "updated_at": "2025-08-05T13:30:47.632383"
+}

@@ -1,0 +1,26 @@
+{
+  "uid": "c29494e5759261a5",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1721963659",
+  "title": "💥Azul Lands LM💥",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.917284",
+  "error": null,
+  "content_path": "output/articles/markdown/c29494e5759261a5.md",
+  "html_path": "output/articles/html/c29494e5759261a5.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1721963659,
+    "content_length": 33458,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1721963659,
+    "instapaper_time": 1730289921,
+    "is_private_content": true,
+    "content_length": 33458
+  },
+  "created_at": "2025-08-06T13:18:33.917292",
+  "updated_at": "2025-08-06T13:18:33.917293"
+}

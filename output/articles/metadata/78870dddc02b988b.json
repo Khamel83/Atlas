@@ -1,0 +1,40 @@
+{
+  "uid": "78870dddc02b988b",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2014/09/there-is-a-limit-on-credit-cards.html",
+  "title": "Yes, There IS a Limit on How Many Credit Cards You Can Get Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2014-09-22T06:46:13",
+  "error": null,
+  "content_path": "output/articles/markdown/78870dddc02b988b.md",
+  "html_path": "output/articles/html/78870dddc02b988b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5131,
+    "selection_length": 301,
+    "cleaned_selection_length": 308,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "78870dddc02b988b",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1411393573",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "How many actual credit cards have you owned? One of the credit scoring agencies lists 87 credit cards in my record over the last five years. Another agency that keeps longer records suggests that I have had 109 since I started this game and Katy at 108. That means we have received over 200 credit […]",
+    "cleaned_selection": "<p>How many actual credit cards have you owned? One of the credit scoring agencies lists 87 credit cards in my record over the last five years. Another agency that keeps longer records suggests that I have had 109 since I started this game and Katy at 108. That means we have received over 200 credit […]</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.488044",
+  "updated_at": "2025-08-06T08:47:04.488045"
+}

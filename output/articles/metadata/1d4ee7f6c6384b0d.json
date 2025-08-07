@@ -1,0 +1,40 @@
+{
+  "uid": "1d4ee7f6c6384b0d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://kottke.org/20/05/solving-the-the-miracle-sudoku",
+  "title": "Solving the “The Miracle Sudoku” kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2020-05-18T21:35:48",
+  "error": null,
+  "content_path": "output/articles/markdown/1d4ee7f6c6384b0d.md",
+  "html_path": "output/articles/html/1d4ee7f6c6384b0d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2835,
+    "selection_length": 916,
+    "cleaned_selection_length": 941,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1d4ee7f6c6384b0d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1589862948",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Every once in a while during my internet travels, I run across something like this video: something impossibly mundane and niche (a ~26-minute video of someone solving a sudoku puzzle) that turns out to be ludicrously entertaining. I cannot improve upon Ben Orlin’s description:\n\nYou’re about to spend the next 25 minutes watching a guy solve a Sudoku. Not only that, but it’s going to be the highlight of your day.\n\nThe solver himself calls it “a work of sublime genius” and “one of the most extraordinary puzzles we’ve ever seen”. It’s fascinating listening to him slowly uncover different aspects of the puzzle — watching him methodically figure out the 3s was genuinely thrilling. And the symmetry thing at the end…\n\nIf you fancy yourself a sudoku master, you can try solving the puzzle yourself here (keeping in mind the special chess-related rules laid out in the video). (via @robinsloan)\n\nTags: games   video",
+    "cleaned_selection": "<p>Every once in a while during my internet travels, I run across something like this video: something impossibly mundane and niche (a ~26-minute video of someone solving a sudoku puzzle) that turns out to be ludicrously entertaining. I cannot improve upon Ben Orlin’s description:</p><p>You’re about to spend the next 25 minutes watching a guy solve a Sudoku. Not only that, but it’s going to be the highlight of your day.</p><p>The solver himself calls it “a work of sublime genius” and “one of the most extraordinary puzzles we’ve ever seen”. It’s fascinating listening to him slowly uncover different aspects of the puzzle — watching him methodically figure out the 3s was genuinely thrilling. And the symmetry thing at the end…</p><p>If you fancy yourself a sudoku master, you can try solving the puzzle yourself here (keeping in mind the special chess-related rules laid out in the video). (via @robinsloan)</p><p>Tags: games video</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.652985",
+  "updated_at": "2025-08-06T08:47:03.652986"
+}

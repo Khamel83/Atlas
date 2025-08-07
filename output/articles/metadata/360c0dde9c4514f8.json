@@ -1,0 +1,40 @@
+{
+  "uid": "360c0dde9c4514f8",
+  "content_type": "instapaper",
+  "source": "https://www.frugaltravelguy.com/2017/09/why-the-southwest-card-60k-promotion-marks-the-best-time-of-the-year.html",
+  "title": "Why the Southwest Card 60k Promotion Marks The Best Time of the Year Frugal Travel Guy",
+  "status": "success",
+  "date": "2025-08-05T13:59:40.363885",
+  "error": null,
+  "content_path": "output/articles/markdown/360c0dde9c4514f8.md",
+  "html_path": "output/articles/html/360c0dde9c4514f8.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "689137dfbc12bbc1aecb6dd682330c95",
+  "type_specific": {
+    "bookmark_id": 955884354,
+    "instapaper_time": 1505580539,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:59:40.363916",
+  "updated_at": "2025-08-05T13:59:40.363919"
+}

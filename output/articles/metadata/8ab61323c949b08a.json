@@ -1,0 +1,40 @@
+{
+  "uid": "8ab61323c949b08a",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://frequentmiler.boardingarea.com/2015/03/11/free-awardwallet-upgrade-coupons-new-less-painful-process/",
+  "title": "Free AwardWallet upgrade coupons New less painful process The Frequent Miler",
+  "status": "selection_content_extracted",
+  "date": "2015-03-11T20:54:42",
+  "error": null,
+  "content_path": "output/articles/markdown/8ab61323c949b08a.md",
+  "html_path": "output/articles/html/8ab61323c949b08a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4913,
+    "selection_length": 533,
+    "cleaned_selection_length": 543,
+    "domain": "frequentmiler.boardingarea.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8ab61323c949b08a",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1426132482",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "This morning I posted many AwardWallet upgrade codes, several times, but each time the entire list was used up in minutes, and readers trying to find a valid code ended up frustrated.  It seems that some devious readers may have been using up all of the codes for themselves.  I still want to give away upgrades though, so let’s try a new process… Background: AwardWallet is a free service for keeping track of frequent flyer…\n\nThe post Free AwardWallet upgrade coupons: New less painful process appeared first on The Frequent Miler.",
+    "cleaned_selection": "<p>This morning I posted many AwardWallet upgrade codes, several times, but each time the entire list was used up in minutes, and readers trying to find a valid code ended up frustrated. It seems that some devious readers may have been using up all of the codes for themselves. I still want to give away upgrades though, so let’s try a new process… Background: AwardWallet is a free service for keeping track of frequent flyer…</p><p>The post Free AwardWallet upgrade coupons: New less painful process appeared first on The Frequent Miler.</p>",
+    "domain": "frequentmiler.boardingarea.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.421420",
+  "updated_at": "2025-08-06T08:47:04.421421"
+}

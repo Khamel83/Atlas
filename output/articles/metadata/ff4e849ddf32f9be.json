@@ -1,0 +1,40 @@
+{
+  "uid": "ff4e849ddf32f9be",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/unemployment-has-changed-unemployment-benefits-havent/",
+  "title": "Unemployment Has Changed. Unemployment Benefits Haven’t. FiveThirtyEight » Features | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2015-02-03T13:29:10",
+  "error": null,
+  "content_path": "output/articles/markdown/ff4e849ddf32f9be.md",
+  "html_path": "output/articles/html/ff4e849ddf32f9be.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4951,
+    "selection_length": 324,
+    "cleaned_selection_length": 331,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ff4e849ddf32f9be",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1422998950",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "When Michelle Wilson lost her job at a Baltimore logistics company in July, unemployment benefits provided her with a vital lifeline. At $430 a week, the payments didn’t come close to replacing her $47,000 annual salary. But they did allow her to pay rent and utilities and make her monthly car payments while she looked […]",
+    "cleaned_selection": "<p>When Michelle Wilson lost her job at a Baltimore logistics company in July, unemployment benefits provided her with a vital lifeline. At $430 a week, the payments didn’t come close to replacing her $47,000 annual salary. But they did allow her to pay rent and utilities and make her monthly car payments while she looked […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.429882",
+  "updated_at": "2025-08-06T08:47:04.429883"
+}

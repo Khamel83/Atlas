@@ -1,0 +1,42 @@
+{
+  "uid": "818b3d78a814121c",
+  "content_type": "instapaper",
+  "source": "https://www.madfientist.com/how-to-access-retirement-funds-early/",
+  "title": "How to Access Retirement Funds Early",
+  "status": "success",
+  "date": "2025-08-05T13:30:04.851621",
+  "error": null,
+  "content_path": "output/articles/markdown/818b3d78a814121c.md",
+  "html_path": "output/articles/html/818b3d78a814121c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b16e0ded3ce4f85c5f90e55527a16353",
+  "type_specific": {
+    "bookmark_id": 1745481635,
+    "instapaper_time": 1736624041,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:30:04.851706",
+  "updated_at": "2025-08-05T13:30:04.851709"
+}

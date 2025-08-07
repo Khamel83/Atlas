@@ -1,0 +1,40 @@
+{
+  "uid": "b2067a6bd6a0b3ea",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://food52.com/blog/13913-our-best-chicken-cooking-advice-all-in-one-place",
+  "title": "Our Best Chicken-Cooking Advice—All in One Place Food52",
+  "status": "selection_content_extracted",
+  "date": "2015-09-09T21:49:09",
+  "error": null,
+  "content_path": "output/articles/markdown/b2067a6bd6a0b3ea.md",
+  "html_path": "output/articles/html/b2067a6bd6a0b3ea.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4755,
+    "selection_length": 725,
+    "cleaned_selection_length": 759,
+    "domain": "food52.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b2067a6bd6a0b3ea",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1441860549",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "No bones about it: Here are the basics you need to know for winning chicken dinners.\n\nBefore you start dreaming about chicken braised in this or chicken roasted with that, you need to get the bird under control. It may need to be broken down, spatchcocked, trussed—and then after cooking, carved. You also want to avoid undercooking the thing. \n\nConsider this collection of articles your primer on chicken 101. Get an A and you're on your way to A+ chicken dinners.\n\nThe Safest Way to Prep and Cook Chicken\n\n \n\nHow to Break Down a Chicken\n\n \n\nThe Best Ways to Cook Different Cuts of Chicken\n\n \n\nHow to Truss a Chicken\n\n \n\nHow to Spatchcock a Chicken\n\n \n\nHow to Know When Chicken is Done\n\n \n\nHow to Carve a Chicken (or Turkey)",
+    "cleaned_selection": "<p>No bones about it: Here are the basics you need to know for winning chicken dinners.</p><p>Before you start dreaming about chicken braised in this or chicken roasted with that, you need to get the bird under control. It may need to be broken down, spatchcocked, trussed—and then after cooking, carved. You also want to avoid undercooking the thing. </p><p>Consider this collection of articles your primer on chicken 101. Get an A and you're on your way to A+ chicken dinners.</p><p>The Safest Way to Prep and Cook Chicken</p><p>How to Break Down a Chicken</p><p>The Best Ways to Cook Different Cuts of Chicken</p><p>How to Truss a Chicken</p><p>How to Spatchcock a Chicken</p><p>How to Know When Chicken is Done</p><p>How to Carve a Chicken (or Turkey)</p>",
+    "domain": "food52.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.381133",
+  "updated_at": "2025-08-06T08:47:04.381134"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "2c769a7980378e6b",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://qz.com/704343/watch-a-documentary-reveals-the-dismal-conditions-of-garment-workers-for-major-brands/",
+  "title": "Watch A documentary reveals the dismal conditions of garment workers for major brands Quartz",
+  "status": "selection_content_extracted",
+  "date": "2016-06-13T05:04:24",
+  "error": null,
+  "content_path": "output/articles/markdown/2c769a7980378e6b.md",
+  "html_path": "output/articles/html/2c769a7980378e6b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4412,
+    "selection_length": 2167,
+    "cleaned_selection_length": 2209,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2c769a7980378e6b",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1465819464",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "People in the West hear of the conditions endured by garment workers making clothes in Asian factories, but they rarely see them. A short documentary by the Asia Floor Wage Alliance (AFWA), a group of trade unions and labor rights activists, offers a glimpse of people at work in India, Cambodia, and Indonesia.\n\nIt includes footage from factories, which aren’t necessarily tiny, claustrophobic rooms with decrepit walls and little light. The most startling conditions are where the workers live. Some live in homes that are little more than a single, bare room with no toilet or running water.\n\n“Do you think that workers who are producing high level fashion for the global market should be living like rats?” asks Anannya Bhattacharjee, international coordinator of the AFWA.\n\nThe documentary doesn’t name which brands factories are supplying, but it follows from reports detailing worker abuses at those that supplied H&M, Gap, and Walmart. (We summarized the AFWA’s allegations and the brands’ responses to them in this story.)\n\nIt looks at unsafe workplaces, such as the Rana Plaza factory that collapsed and killed 1,134 people, and how workers are mistreated, including being sexually harassed and beaten during strikes. Its main focus is the effect of extremely low wages.\n\nOne married mother of two who earns $160 a month tells the camera, “That is just not enough to cover basic expenses.” It’s a sentiment repeated in the documentary.\n\nThe AFWA advocates for a living wage based on purchasing power that would cover a worker’s food, housing, clothing, travel expenses, children’s education, and healthcare, while still leaving a small amount for leisure or savings. It’s often more than the minimum wage in a country, but necessary for any worker to lead a decent life, according to the AFWA.\n\nIt wouldn’t cost consumers much to bring wages across Asia’s garment-producing countries up to the level recommended by AFWA. Christa Luginbuhl, a coordinator for the labor-rights group Clean Clothes Campaign, says in the documentary that her organization calculated the amount that increasing wages would add to the retail price of a t-shirt. It was just $0.10.",
+    "cleaned_selection": "<p>People in the West hear of the conditions endured by garment workers making clothes in Asian factories, but they rarely see them. A short documentary by the Asia Floor Wage Alliance (AFWA), a group of trade unions and labor rights activists, offers a glimpse of people at work in India, Cambodia, and Indonesia.</p><p>It includes footage from factories, which aren’t necessarily tiny, claustrophobic rooms with decrepit walls and little light. The most startling conditions are where the workers live. Some live in homes that are little more than a single, bare room with no toilet or running water.</p><p>“Do you think that workers who are producing high level fashion for the global market should be living like rats?” asks Anannya Bhattacharjee, international coordinator of the AFWA.</p><p>The documentary doesn’t name which brands factories are supplying, but it follows from reports detailing worker abuses at those that supplied H&M, Gap, and Walmart. (We summarized the AFWA’s allegations and the brands’ responses to them in this story.)</p><p>It looks at unsafe workplaces, such as the Rana Plaza factory that collapsed and killed 1,134 people, and how workers are mistreated, including being sexually harassed and beaten during strikes. Its main focus is the effect of extremely low wages.</p><p>One married mother of two who earns $160 a month tells the camera, “That is just not enough to cover basic expenses.” It’s a sentiment repeated in the documentary.</p><p>The AFWA advocates for a living wage based on purchasing power that would cover a worker’s food, housing, clothing, travel expenses, children’s education, and healthcare, while still leaving a small amount for leisure or savings. It’s often more than the minimum wage in a country, but necessary for any worker to lead a decent life, according to the AFWA.</p><p>It wouldn’t cost consumers much to bring wages across Asia’s garment-producing countries up to the level recommended by AFWA. Christa Luginbuhl, a coordinator for the labor-rights group Clean Clothes Campaign, says in the documentary that her organization calculated the amount that increasing wages would add to the retail price of a t-shirt. It was just $0.10.</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.316170",
+  "updated_at": "2025-08-06T08:47:04.316171"
+}

@@ -1,0 +1,28 @@
+{
+  "uid": "5598e8b672e94e46",
+  "content_type": "instapaper_archive_additional_content",
+  "source": "instapaper://private-content/1764578927",
+  "title": "Favorite Products/AI - Q2 2025 Survey Results",
+  "status": "success",
+  "date": "2025-08-06T13:40:59.401575",
+  "error": null,
+  "content_path": "output/articles/markdown/5598e8b672e94e46.md",
+  "html_path": "output/articles/html/5598e8b672e94e46.html",
+  "fetch_method": "instapaper_api_archive_folder_maximization",
+  "fetch_details": {
+    "bookmark_id": 1764578927,
+    "content_length": 7228,
+    "successful": true,
+    "extraction_batch": "maximization_discovery",
+    "folder": "archive"
+  },
+  "type_specific": {
+    "bookmark_id": 1764578927,
+    "instapaper_time": 1743446852,
+    "folder": "archive",
+    "content_length": 7228,
+    "discovery_method": "folder_deep_dive"
+  },
+  "created_at": "2025-08-06T13:40:59.401580",
+  "updated_at": "2025-08-06T13:40:59.401581"
+}

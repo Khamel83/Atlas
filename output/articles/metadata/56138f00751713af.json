@@ -1,0 +1,40 @@
+{
+  "uid": "56138f00751713af",
+  "content_type": "instapaper",
+  "source": "https://work.qz.com/1181261/womens-march-leader-linda-sarsour-stop-telling-me-to-go-back-to-my-country-im-from-brooklyn/",
+  "title": "Women’s March leader Linda Sarsour Stop telling me to go back to my country. I’m from Brooklyn Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:51:42.394893",
+  "error": null,
+  "content_path": "output/articles/markdown/56138f00751713af.md",
+  "html_path": "output/articles/html/56138f00751713af.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b67a30abda2682e8f7c058be19f4c3e9",
+  "type_specific": {
+    "bookmark_id": 1015685227,
+    "instapaper_time": 1518138147,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:51:42.394990",
+  "updated_at": "2025-08-05T13:51:42.394993"
+}

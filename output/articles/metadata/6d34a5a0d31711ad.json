@@ -1,0 +1,40 @@
+{
+  "uid": "6d34a5a0d31711ad",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/1687360/stock-name-and-ticker-confusion-costs-investors-millions-every-year/",
+  "title": "The embarrassing trading mistake that costs investors millions every year Quartz",
+  "status": "selection_content_extracted",
+  "date": "2019-08-23T16:33:47",
+  "error": null,
+  "content_path": "output/articles/markdown/6d34a5a0d31711ad.md",
+  "html_path": "output/articles/html/6d34a5a0d31711ad.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3046,
+    "selection_length": 2661,
+    "cleaned_selection_length": 2759,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6d34a5a0d31711ad",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1566603227",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "There are thousands of companies listed on US stock exchanges. With that many stock tickers to keep track of, it’s no surprise that people sometimes make mistakes when buying shares. These screw-ups cost investors—in transaction fees and embarrassment—when they have to undo the trades.\n\nTwo professors at the Rutgers School of Business-Camden, in a forthcoming issue of the Journal of Financial Markets, found that more than half of listed US companies share a “meaningful part” of their names or tickers with another firm, often in a separate industry and with a dramatically different market capitalization. Of that group, there are around 250 company pairs where the possibility of confusion is particularly high, and a quarter of these showed statistically significant similarities in trading patterns that can only be explained by cases of mistaken identity.\n\nTake Ford Motor, which has the stock ticker F. There’s also a consumer goods firm called Forward Industries, which has the stock ticker FORD. Forward Industries, which has a market capitalization of around $10 million versus Ford Motor’s $36 billion, sees its share purchases balloon when Ford makes a splash. These sorts of co-movements account for 5% of trades for the smaller companies in the pairs, a share that “indicates that confusion trading is not driven only by retail investors,” the professors write. Undoing the trades costs at least $1.1 million in yearly transaction fees for the most affected pairs. The effects of mistaken trades often take a week to fade away.\n\nCommon name/ticker mix-ups\n\nLarger company (Ticker)\nSmaller company (Ticker)\nMarket cap difference: Big vs small\n\nFord Motor Company (F)\nForward Industries (FORD)\n347,079%\n\nZions Bancorporation (ZION)\nZion Oil (ZN)\n26,439%\n\nR1 RCM (RCM)\nRCM Technologies (RCMT)\n3,215%\n\nAmerican Software Inc (AMSWA)\nAmerican Shared Hospital Services (AMS)\n2,883%\n\nM.D.C. Holdings (MDC)\nMDC Partners (MDCA)\n1,288%\n\nOne spectacular example was when, as the researchers document, the stock price of Tweeter Home Entertainment Group surged by more than 1,000% on Oct. 4, 2013. The company traded under the ticker TWTRQ, and social media giant Twitter had just filed plans for its IPO—it listed the following month, with the ticker TWTR.\n\nThe researchers note the phenomenon of name and ticker confusion is more common than the issue known as “fat finger trades,” when the wrong shares are bought due to an accidentally mistyped key. And the best way to avoid confusion between similarly named company pairs is easy enough: the researchers found that when companies changed their names or tickers, the abnormal trading patterns vanished.",
+    "cleaned_selection": "<p>There are thousands of companies listed on US stock exchanges. With that many stock tickers to keep track of, it’s no surprise that people sometimes make mistakes when buying shares. These screw-ups cost investors—in transaction fees and embarrassment—when they have to undo the trades.</p><p>Two professors at the Rutgers School of Business-Camden, in a forthcoming issue of the Journal of Financial Markets, found that more than half of listed US companies share a “meaningful part” of their names or tickers with another firm, often in a separate industry and with a dramatically different market capitalization. Of that group, there are around 250 company pairs where the possibility of confusion is particularly high, and a quarter of these showed statistically significant similarities in trading patterns that can only be explained by cases of mistaken identity.</p><p>Take Ford Motor, which has the stock ticker F. There’s also a consumer goods firm called Forward Industries, which has the stock ticker FORD. Forward Industries, which has a market capitalization of around $10 million versus Ford Motor’s $36 billion, sees its share purchases balloon when Ford makes a splash. These sorts of co-movements account for 5% of trades for the smaller companies in the pairs, a share that “indicates that confusion trading is not driven only by retail investors,” the professors write. Undoing the trades costs at least $1.1 million in yearly transaction fees for the most affected pairs. The effects of mistaken trades often take a week to fade away.</p><p>Common name/ticker mix-ups</p><p>Larger company (Ticker)<br>Smaller company (Ticker)<br>Market cap difference: Big vs small</p><p>Ford Motor Company (F)<br>Forward Industries (FORD)<br>347,079%</p><p>Zions Bancorporation (ZION)<br>Zion Oil (ZN)<br>26,439%</p><p>R1 RCM (RCM)<br>RCM Technologies (RCMT)<br>3,215%</p><p>American Software Inc (AMSWA)<br>American Shared Hospital Services (AMS)<br>2,883%</p><p>M.D.C. Holdings (MDC)<br>MDC Partners (MDCA)<br>1,288%</p><p>One spectacular example was when, as the researchers document, the stock price of Tweeter Home Entertainment Group surged by more than 1,000% on Oct. 4, 2013. The company traded under the ticker TWTRQ, and social media giant Twitter had just filed plans for its IPO—it listed the following month, with the ticker TWTR.</p><p>The researchers note the phenomenon of name and ticker confusion is more common than the issue known as “fat finger trades,” when the wrong shares are bought due to an accidentally mistyped key. And the best way to avoid confusion between similarly named company pairs is easy enough: the researchers found that when companies changed their names or tickers, the abnormal trading patterns vanished.</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.730018",
+  "updated_at": "2025-08-06T08:47:03.730020"
+}

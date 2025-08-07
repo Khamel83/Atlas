@@ -1,0 +1,42 @@
+{
+  "uid": "5fbf3d5f1f56f3d7",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1695668428",
+  "title": "💥Most Telegraphed Chapter7 in History💥",
+  "status": "success",
+  "date": "2025-08-05T13:33:43.465653",
+  "error": null,
+  "content_path": "output/articles/markdown/5fbf3d5f1f56f3d7.md",
+  "html_path": "output/articles/html/5fbf3d5f1f56f3d7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b63cae0f9894b3669a45f0120f799910",
+  "type_specific": {
+    "bookmark_id": 1695668428,
+    "instapaper_time": 1721574985,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:33:43.465667",
+  "updated_at": "2025-08-05T13:33:43.465668"
+}

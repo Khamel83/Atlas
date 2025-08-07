@@ -1,0 +1,40 @@
+{
+  "uid": "37120a22a368d60d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/datalab/tim-howard-lost-but-he-just-had-the-best-match-of-the-world-cup/",
+  "title": "Tim Howard Lost, But He Just Had the Best Match of the World Cup FiveThirtyEightNate Silver | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2014-07-02T15:28:34",
+  "error": null,
+  "content_path": "output/articles/markdown/37120a22a368d60d.md",
+  "html_path": "output/articles/html/37120a22a368d60d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5234,
+    "selection_length": 339,
+    "cleaned_selection_length": 346,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "37120a22a368d60d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1404340114",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "After losing 2-1 to Belgium on Tuesday, the U.S. men’s national team will be left to contemplate its future; after years of steady improvement, there are hints U.S. men’s soccer has hit a plateau. But one American left the tournament with a strong argument for his international quality: Goalkeeper Tim Howard. Howard was FIFA’s Man of […]",
+    "cleaned_selection": "<p>After losing 2-1 to Belgium on Tuesday, the U.S. men’s national team will be left to contemplate its future; after years of steady improvement, there are hints U.S. men’s soccer has hit a plateau. But one American left the tournament with a strong argument for his international quality: Goalkeeper Tim Howard. Howard was FIFA’s Man of […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.504346",
+  "updated_at": "2025-08-06T08:47:04.504347"
+}

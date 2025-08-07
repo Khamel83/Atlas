@@ -1,0 +1,40 @@
+{
+  "uid": "8ba7ea26e1485d9b",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.wired.com/2016/12/fail-safe-science-delicious-crispy-chicken/",
+  "title": "The Fail-Safe Science of Delicious Crispy Chicken WIRED",
+  "status": "selection_content_extracted",
+  "date": "2016-12-02T13:22:09",
+  "error": null,
+  "content_path": "output/articles/markdown/8ba7ea26e1485d9b.md",
+  "html_path": "output/articles/html/8ba7ea26e1485d9b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4221,
+    "selection_length": 2622,
+    "cleaned_selection_length": 2649,
+    "domain": "wired.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8ba7ea26e1485d9b",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1480713729",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Chicken breast is a ubiquitous weeknight dinner item, but there’s a fine line between crispy, juicy yum and overcooked cardboard yuck. One crowd pleasing technique is to just deep fry it—mmm, crunchy goodness. But then you’re looking at a messy, labor-intensive, and fattening extravaganza. You can get the same satisfying crunch using just a pan and some basic ingredients, without the mess and added fat of deep frying. So let Cook’s Science editor Dan Souza walk you through a few fail-safe tips for crispy chicken that seals in its own juices to make for a satisfying weeknight throw-together.\n\nThe trick is to start with a piece of chicken with its skin still on: That’s what’s going to crisp up in the pan and give you that crunchy outer layer. Souza pokes the chicken with a sharp, small knife several times, opening up channels that allow the meat’s fat to escape as it heats up in the pan. Then he pounds the chicken flat to break down the protein fibers in the meat, which softens it for a more tender bite. As the fat renders out of those channels, the skin is going to fry in it, which gives it that nice crunchy texture.\n\nThis is where things get a little tricky. Chicken skin is delicious, but it’s also full of collagen, the structural protein that gives it its stretchy strength. When exposed to heat, collagen proteins contract and tighten up, which is why the skin will shrivel if you just throw a chicken breast right into a hot pan. Pounding the chicken out before you cook it helps weaken that collagen. But Souza also puts a cast iron skillet over the chicken when it’s cooking. The added weight forces the chicken to stay stretched out as it cooks, so you get a bigger piece of crispy chicken skin that stays splayed out across the breast.\n\nTo further prevent the chicken skin from shriveling and the meat from toughening up, Souza also recommends starting with a cold pan. I know, I know—every other cook book you’ve ever read told you to start with a hot pan, but Souza’s endless tinkering at America’s Test Kitchen ultimately led him to the discovery that the collagen in chicken skin causes it to recoil and shrink back from sudden heat the same way a person would snap their finger back if they accidentally touched a hot pan. Stretching out the skin by pounding out the breast, weighing it down with the cast iron skillet, and slowly bringing it up to temperature is the ultimate trifecta of tough-meat prevention. Together, it breaks down those tough collagen proteins and holds them down until they’re cooked to a golden crisp in the rendered fat.\n\nGo Back to Top. Skip To: Start of Article.",
+    "cleaned_selection": "<p>Chicken breast is a ubiquitous weeknight dinner item, but there’s a fine line between crispy, juicy yum and overcooked cardboard yuck. One crowd pleasing technique is to just deep fry it—mmm, crunchy goodness. But then you’re looking at a messy, labor-intensive, and fattening extravaganza. You can get the same satisfying crunch using just a pan and some basic ingredients, without the mess and added fat of deep frying. So let Cook’s Science editor Dan Souza walk you through a few fail-safe tips for crispy chicken that seals in its own juices to make for a satisfying weeknight throw-together.</p><p>The trick is to start with a piece of chicken with its skin still on: That’s what’s going to crisp up in the pan and give you that crunchy outer layer. Souza pokes the chicken with a sharp, small knife several times, opening up channels that allow the meat’s fat to escape as it heats up in the pan. Then he pounds the chicken flat to break down the protein fibers in the meat, which softens it for a more tender bite. As the fat renders out of those channels, the skin is going to fry in it, which gives it that nice crunchy texture.</p><p>This is where things get a little tricky. Chicken skin is delicious, but it’s also full of collagen, the structural protein that gives it its stretchy strength. When exposed to heat, collagen proteins contract and tighten up, which is why the skin will shrivel if you just throw a chicken breast right into a hot pan. Pounding the chicken out before you cook it helps weaken that collagen. But Souza also puts a cast iron skillet over the chicken when it’s cooking. The added weight forces the chicken to stay stretched out as it cooks, so you get a bigger piece of crispy chicken skin that stays splayed out across the breast.</p><p>To further prevent the chicken skin from shriveling and the meat from toughening up, Souza also recommends starting with a cold pan. I know, I know—every other cook book you’ve ever read told you to start with a hot pan, but Souza’s endless tinkering at America’s Test Kitchen ultimately led him to the discovery that the collagen in chicken skin causes it to recoil and shrink back from sudden heat the same way a person would snap their finger back if they accidentally touched a hot pan. Stretching out the skin by pounding out the breast, weighing it down with the cast iron skillet, and slowly bringing it up to temperature is the ultimate trifecta of tough-meat prevention. Together, it breaks down those tough collagen proteins and holds them down until they’re cooked to a golden crisp in the rendered fat.</p><p>Go Back to Top. Skip To: Start of Article.</p>",
+    "domain": "wired.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.248150",
+  "updated_at": "2025-08-06T08:47:04.248151"
+}

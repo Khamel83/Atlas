@@ -1,0 +1,40 @@
+{
+  "uid": "0911e5ef0ac2d130",
+  "content_type": "instapaper",
+  "source": "https://blog.google/products/google-nest/how-google-helping-me-connect-family-year/",
+  "title": "How Google is helping me connect with family this year The Official Google Blog",
+  "status": "success",
+  "date": "2025-08-05T13:40:42.653172",
+  "error": null,
+  "content_path": "output/articles/markdown/0911e5ef0ac2d130.md",
+  "html_path": "output/articles/html/0911e5ef0ac2d130.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b56b1238e648089dbeddc9d2c5033925",
+  "type_specific": {
+    "bookmark_id": 1367578959,
+    "instapaper_time": 1607199695,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:40:42.653204",
+  "updated_at": "2025-08-05T13:40:42.653207"
+}

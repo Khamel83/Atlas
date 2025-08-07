@@ -1,0 +1,40 @@
+{
+  "uid": "a0238bab141468eb",
+  "content_type": "instapaper",
+  "source": "https://flowingdata.com/2019/05/08/amount-of-fish-to-raise-a-big-fish/",
+  "title": "Amount of fish to raise a big fish FlowingData",
+  "status": "success",
+  "date": "2025-08-05T13:43:23.718211",
+  "error": null,
+  "content_path": "output/articles/markdown/a0238bab141468eb.md",
+  "html_path": "output/articles/html/a0238bab141468eb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "320e067c1e7d7e6e4bbacc97cc32447a",
+  "type_specific": {
+    "bookmark_id": 1191286490,
+    "instapaper_time": 1557337850,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:43:23.718232",
+  "updated_at": "2025-08-05T13:43:23.718234"
+}

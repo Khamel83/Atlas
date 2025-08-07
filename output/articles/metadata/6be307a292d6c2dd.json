@@ -1,0 +1,40 @@
+{
+  "uid": "6be307a292d6c2dd",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://marginalrevolution.com/marginalrevolution/2019/11/pretty-stunning-data-on-dating.html",
+  "title": "Pretty stunning data on dating Marginal Revolution",
+  "status": "selection_content_extracted",
+  "date": "2019-11-16T09:38:22",
+  "error": null,
+  "content_path": "output/articles/markdown/6be307a292d6c2dd.md",
+  "html_path": "output/articles/html/6be307a292d6c2dd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2955,
+    "selection_length": 482,
+    "cleaned_selection_length": 501,
+    "domain": "marginalrevolution.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6be307a292d6c2dd",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1573925902",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Interesting throughout, but most of all see pp.5-6, comparing how men rate women to how women rate men.  Here is half of that story:\n\nHere is the link, by Dan McMurtrie, via David Perell.  The top of p.2 will indicate why friendship may be in decline:\n\nYou also can see that meeting on the job peaked in the 1980s, and do I need to tell you about meeting through church and the neighbors?  Recommended.\n\nThe post Pretty stunning data on dating appeared first on Marginal REVOLUTION.",
+    "cleaned_selection": "<p>Interesting throughout, but most of all see pp.5-6, comparing how men rate women to how women rate men. Here is half of that story:</p><p>Here is the link, by Dan McMurtrie, via David Perell. The top of p.2 will indicate why friendship may be in decline:</p><p>You also can see that meeting on the job peaked in the 1980s, and do I need to tell you about meeting through church and the neighbors? Recommended.</p><p>The post Pretty stunning data on dating appeared first on Marginal REVOLUTION.</p>",
+    "domain": "marginalrevolution.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.704807",
+  "updated_at": "2025-08-06T08:47:03.704809"
+}

@@ -1,0 +1,42 @@
+{
+  "uid": "a1e374cdc3a4503b",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1719548481",
+  "title": "💥Worse for the (Tupper)Ware💥",
+  "status": "success",
+  "date": "2025-08-05T13:31:28.198015",
+  "error": null,
+  "content_path": "output/articles/markdown/a1e374cdc3a4503b.md",
+  "html_path": "output/articles/html/a1e374cdc3a4503b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2eabbe2697a03c492859e1ab28ea720f",
+  "type_specific": {
+    "bookmark_id": 1719548481,
+    "instapaper_time": 1729598509,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:31:28.198030",
+  "updated_at": "2025-08-05T13:31:28.198031"
+}

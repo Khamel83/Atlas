@@ -1,0 +1,40 @@
+{
+  "uid": "510c50352776cc5c",
+  "content_type": "instapaper",
+  "source": "https://food52.com/blog/21632-instant-stock-broth-hack-for-quick-braised-fish",
+  "title": "The Instant, Genius Way to Make Any Fish Dinner More Delicious Food52",
+  "status": "success",
+  "date": "2025-08-05T13:51:18.663094",
+  "error": null,
+  "content_path": "output/articles/markdown/510c50352776cc5c.md",
+  "html_path": "output/articles/html/510c50352776cc5c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ffc5124a844fe23e5e65d1cbe033d54a",
+  "type_specific": {
+    "bookmark_id": 1023898213,
+    "instapaper_time": 1519883778,
+    "starred": true,
+    "progress": 0.294409,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:51:18.663122",
+  "updated_at": "2025-08-05T13:51:18.663125"
+}

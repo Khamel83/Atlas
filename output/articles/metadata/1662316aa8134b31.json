@@ -1,0 +1,40 @@
+{
+  "uid": "1662316aa8134b31",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://kottke.org/17/07/40-hours-and-counting-of-relaxing-planet-earth-ii-sounds",
+  "title": "40 hours (and counting) of relaxing Planet Earth II sounds kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2017-07-26T12:21:10",
+  "error": null,
+  "content_path": "output/articles/markdown/1662316aa8134b31.md",
+  "html_path": "output/articles/html/1662316aa8134b31.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3874,
+    "selection_length": 349,
+    "cleaned_selection_length": 357,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1662316aa8134b31",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1501096870",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The producers of Planet Earth II (aka probably the best thing I’ve watched in the past year) shot a loooooot of footage for the program. Most of it got cut, but they’ve cut some of it together into these 10-hour videos of relaxing sights and sounds. So far, they’ve done mountains, the jungle, island, and desert.\n\nTags: audio   Planet Earth   video",
+    "cleaned_selection": "<p>The producers of Planet Earth II (aka probably the best thing I’ve watched in the past year) shot a loooooot of footage for the program. Most of it got cut, but they’ve cut some of it together into these 10-hour videos of relaxing sights and sounds. So far, they’ve done mountains, the jungle, island, and desert.</p><p>Tags: audio Planet Earth video</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.070477",
+  "updated_at": "2025-08-06T08:47:04.070478"
+}

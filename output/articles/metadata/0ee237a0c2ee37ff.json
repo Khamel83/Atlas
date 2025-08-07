@@ -1,0 +1,40 @@
+{
+  "uid": "0ee237a0c2ee37ff",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://food52.com/blog/13539-13-ways-to-make-magic-with-your-food-processor",
+  "title": "13 Ways to Make Magic with Your Food Processor Food52",
+  "status": "selection_content_extracted",
+  "date": "2015-07-22T10:20:36",
+  "error": null,
+  "content_path": "output/articles/markdown/0ee237a0c2ee37ff.md",
+  "html_path": "output/articles/html/0ee237a0c2ee37ff.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4802,
+    "selection_length": 1449,
+    "cleaned_selection_length": 1510,
+    "domain": "food52.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0ee237a0c2ee37ff",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1437585636",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "If you, as a child or as an adult, read Calvin and Hobbes, you'll remember Calvin's transmogrifier. Ostensibly, the transmogrifier was a cardboard box—but we know that it was magic, capable of transforming one thing into another thing almost instantaneously (though only Calvin and Hobbes could see its effects).\n\nIf there were a culinary equivalent of the transmogrifier, it would be the food processor. Greens zip into pesto! Bananas become ice cream! Nuts and beans become butters and dips! Magic visible to all!\n\nHere are 13 ways to transmogrify with your food processor (plus a few extra tools):\n\nThe Kitchn's One-Ingredient Ice Cream by Genius Recipes\n\n \n\nRaw Vegan Chocolate Coconut Bars by Kendra Vaculin\n\n \n\nCalabrian Walnut Cake (Torta di Noci) by Emiko\n\n \n\nKey Lime Pie by Yossy Arefi\n\n \n\nGazpacho Without a Recipe by Rémy Robert \n\n \n\nAll About Grinding Meat by Catherine Lamb\n\nMore: Now that you've ground your meat, make a burger with it.\n\n \n\nTurnip Burgers by Alexandra Stafford\n\n \n\nWorld's Easiest Falafel and Tzatziki by marisab67\n\n \n\nVariegated Spiced Latkes by Sagegreen\n\n \n\nNut Butter Without a Recipe by Marian Bull\n\n \n\nWhip Up Your Own Coconut Butter by Ashley McLaughlin\n\n \n\nTara Duggan's Chard Stalk Hummus by Genius Recipes\n\nMore: Prefer a chickpea hummus? We've got a recipe for that, too.\n\n \n\nKale Pesto Orechiette by Brussels Sprouts for Breakfast\n\nWhat's your favorite use for your food processor? Share your magic below!",
+    "cleaned_selection": "<p>If you, as a child or as an adult, read Calvin and Hobbes, you'll remember Calvin's transmogrifier. Ostensibly, the transmogrifier was a cardboard box—but we know that it was magic, capable of transforming one thing into another thing almost instantaneously (though only Calvin and Hobbes could see its effects).</p><p>If there were a culinary equivalent of the transmogrifier, it would be the food processor. Greens zip into pesto! Bananas become ice cream! Nuts and beans become butters and dips! Magic visible to all!</p><p>Here are 13 ways to transmogrify with your food processor (plus a few extra tools):</p><p>The Kitchn's One-Ingredient Ice Cream by Genius Recipes</p><p>Raw Vegan Chocolate Coconut Bars by Kendra Vaculin</p><p>Calabrian Walnut Cake (Torta di Noci) by Emiko</p><p>Key Lime Pie by Yossy Arefi</p><p>Gazpacho Without a Recipe by Rémy Robert </p><p>All About Grinding Meat by Catherine Lamb</p><p>More: Now that you've ground your meat, make a burger with it.</p><p>Turnip Burgers by Alexandra Stafford</p><p>World's Easiest Falafel and Tzatziki by marisab67</p><p>Variegated Spiced Latkes by Sagegreen</p><p>Nut Butter Without a Recipe by Marian Bull</p><p>Whip Up Your Own Coconut Butter by Ashley McLaughlin</p><p>Tara Duggan's Chard Stalk Hummus by Genius Recipes</p><p>More: Prefer a chickpea hummus? We've got a recipe for that, too.</p><p>Kale Pesto Orechiette by Brussels Sprouts for Breakfast</p><p>What's your favorite use for your food processor? Share your magic below!</p>",
+    "domain": "food52.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.395191",
+  "updated_at": "2025-08-06T08:47:04.395192"
+}

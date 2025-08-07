@@ -1,0 +1,26 @@
+{
+  "uid": "b9025bcff9e53e81",
+  "content_type": "private_newsletter_batch_51_100",
+  "source": "instapaper://private-content/1738712355",
+  "title": "The 2024 Stratechery Year in Review",
+  "status": "success",
+  "date": "2025-08-06T13:17:14.827145",
+  "error": null,
+  "content_path": "output/articles/markdown/b9025bcff9e53e81.md",
+  "html_path": "output/articles/html/b9025bcff9e53e81.html",
+  "fetch_method": "instapaper_api_batch_51_100_extraction",
+  "fetch_details": {
+    "bookmark_id": 1738712355,
+    "content_length": 115805,
+    "successful": true,
+    "extraction_batch": "batch_51_100"
+  },
+  "type_specific": {
+    "bookmark_id": 1738712355,
+    "instapaper_time": 1734605620,
+    "is_private_content": true,
+    "content_length": 115805
+  },
+  "created_at": "2025-08-06T13:17:14.827152",
+  "updated_at": "2025-08-06T13:17:14.827154"
+}

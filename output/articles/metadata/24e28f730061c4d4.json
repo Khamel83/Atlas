@@ -1,0 +1,40 @@
+{
+  "uid": "24e28f730061c4d4",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2015/07/around-the-world-in-first-class-dubai.html",
+  "title": "Around The World in First Class The Dubai Experience (Plus Bonus Footage of Swanky Emirates’ Shower!) Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-07-21T15:02:56",
+  "error": null,
+  "content_path": "output/articles/markdown/24e28f730061c4d4.md",
+  "html_path": "output/articles/html/24e28f730061c4d4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4804,
+    "selection_length": 298,
+    "cleaned_selection_length": 305,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "24e28f730061c4d4",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1437516176",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "This is the second in a six-part series about a trip my wife Sara and I recently took around the world in first class. On our way to Thailand, we stopped in Dubai for a brief stopover/stay. Check out the photo gallery at the bottom of the post! The easiest way to fly first-class on Emirates is […]",
+    "cleaned_selection": "<p>This is the second in a six-part series about a trip my wife Sara and I recently took around the world in first class. On our way to Thailand, we stopped in Dubai for a brief stopover/stay. Check out the photo gallery at the bottom of the post! The easiest way to fly first-class on Emirates is […]</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.396615",
+  "updated_at": "2025-08-06T08:47:04.396616"
+}

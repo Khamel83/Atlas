@@ -1,0 +1,40 @@
+{
+  "uid": "65395fdb804499f4",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.motherjones.com/print/197186",
+  "title": "Solitary in Iran Nearly Broke Me. Then I Went Inside America's Prisons.",
+  "status": "selection_content_extracted",
+  "date": "2012-11-10T13:13:34",
+  "error": null,
+  "content_path": "output/articles/markdown/65395fdb804499f4.md",
+  "html_path": "output/articles/html/65395fdb804499f4.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5427,
+    "selection_length": 678,
+    "cleaned_selection_length": 685,
+    "domain": "motherjones.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "65395fdb804499f4",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1352582014",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The cell I am standing in is one of eight in a “pod,” a large concrete room with cells along one side and only one exit, which leads to the guards’ control room. A guard watches over us, rifle in hand, through a set of bars in the wall. He can easily shoot into any one of six pods around him. He communicates with prisoners through speakers and opens their steel grated cell doors via remote. That is how they are let out to the dog run, where they exercise for an hour a day, alone. They don’t leave the cell to eat. If they ever leave the pod, they have to strip naked, pass their hands through a food slot to be handcuffed, then wait for the door to open and be bellycuffed.",
+    "cleaned_selection": "<p>The cell I am standing in is one of eight in a “pod,” a large concrete room with cells along one side and only one exit, which leads to the guards’ control room. A guard watches over us, rifle in hand, through a set of bars in the wall. He can easily shoot into any one of six pods around him. He communicates with prisoners through speakers and opens their steel grated cell doors via remote. That is how they are let out to the dog run, where they exercise for an hour a day, alone. They don’t leave the cell to eat. If they ever leave the pod, they have to strip naked, pass their hands through a food slot to be handcuffed, then wait for the door to open and be bellycuffed.</p>",
+    "domain": "motherjones.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.509894",
+  "updated_at": "2025-08-06T08:47:04.509895"
+}

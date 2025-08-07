@@ -1,0 +1,40 @@
+{
+  "uid": "467c4b52c3c2615c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://blogs.wsj.com/numbers/how-much-meat-do-americans-eat-then-and-now-1792/",
+  "title": "How Much Meat Do Americans Eat Then and Now The Numbers",
+  "status": "selection_content_extracted",
+  "date": "2014-10-02T16:22:31",
+  "error": null,
+  "content_path": "output/articles/markdown/467c4b52c3c2615c.md",
+  "html_path": "output/articles/html/467c4b52c3c2615c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5106,
+    "selection_length": 152,
+    "cleaned_selection_length": 159,
+    "domain": "blogs.wsj.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "467c4b52c3c2615c",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1412292151",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Global demand for meat is on the rise, but in the U.S., which consumes more meat than much of the world, consumption has eased up a bit in recent years.",
+    "cleaned_selection": "<p>Global demand for meat is on the rise, but in the U.S., which consumes more meat than much of the world, consumption has eased up a bit in recent years.</p>",
+    "domain": "blogs.wsj.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.478444",
+  "updated_at": "2025-08-06T08:47:04.478446"
+}

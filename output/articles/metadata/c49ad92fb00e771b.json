@@ -1,0 +1,40 @@
+{
+  "uid": "c49ad92fb00e771b",
+  "content_type": "instapaper",
+  "source": "https://www.theatlantic.com/business/archive/2017/11/future-retail/546119/",
+  "title": "The 4 Reasons Why 2017 Is a Tipping Point for Retail The Atlantic - Business",
+  "status": "success",
+  "date": "2025-08-05T13:56:40.357243",
+  "error": null,
+  "content_path": "output/articles/markdown/c49ad92fb00e771b.md",
+  "html_path": "output/articles/html/c49ad92fb00e771b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e699dec6fe013c58270eb466908ac9a1",
+  "type_specific": {
+    "bookmark_id": 981892031,
+    "instapaper_time": 1510881848,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:56:40.357274",
+  "updated_at": "2025-08-05T13:56:40.357277"
+}

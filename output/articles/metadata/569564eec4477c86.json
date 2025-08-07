@@ -1,0 +1,40 @@
+{
+  "uid": "569564eec4477c86",
+  "content_type": "instapaper",
+  "source": "https://thepointsguy.com/2017/09/deal-lax-hong-kong-381-round-trip/",
+  "title": "Deal Alert Los Angeles to Hong Kong From $381 Round-Trip The Points Guy",
+  "status": "success",
+  "date": "2025-08-05T14:00:27.416924",
+  "error": null,
+  "content_path": "output/articles/markdown/569564eec4477c86.md",
+  "html_path": "output/articles/html/569564eec4477c86.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "42ba82791d8db2067e2c10d883d68b75",
+  "type_specific": {
+    "bookmark_id": 950522368,
+    "instapaper_time": 1504456243,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:00:27.416956",
+  "updated_at": "2025-08-05T14:00:27.416959"
+}

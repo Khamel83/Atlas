@@ -1,0 +1,40 @@
+{
+  "uid": "628556d4c01ffbe5",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://quartzy.qz.com/1152498/in-defense-of-donald-trump-drinking-a-dozen-diet-cokes-a-day/",
+  "title": "In defense of drinking one dozen Diet Cokes a day Quartz",
+  "status": "selection_content_extracted",
+  "date": "2017-12-10T15:45:10",
+  "error": null,
+  "content_path": "output/articles/markdown/628556d4c01ffbe5.md",
+  "html_path": "output/articles/html/628556d4c01ffbe5.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3692,
+    "selection_length": 2328,
+    "cleaned_selection_length": 2365,
+    "domain": "quartzy.qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "628556d4c01ffbe5",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1512949510",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "This weekend, when the New York Times ran a profile (paywall) about the daily life of Donald Trump, we learned that the US president drinks not one or two, but 12—or more!—cans of Diet Coke a day.\n\nJournalists, social media users, and citizens of the world at large are in a tizzy. Should anyone be surprised, though, given we already knew Trump simply presses a button on his desk in the Oval Office when in in need of a soda and gets one delivered posthaste?\n\n“Nobody drinks that much Diet Coke in one fucking day. He might be a serial killer,” wrote one Twitter user, the declaration garnering more than a thousand retweets. Others rebuked the president for indulging in junk food, over-caffeinating, or seeming to lack any interest in self-preservation.\n\nThose are valid criticisms, and there are a few minor downsides to drinking 12 cans of Diet Coke a day. But consider the myriad of benefits. Diet Coke is sweet, but not sugary, and contains zero calories. Yet it’s formulated in such a way to stimulate taste buds the same way that drinks full of actual sugar do, making it a decent substitute for people trying to stave off diabetes or cut weight while accustomed to a traditional high-carb Western diet. And a regular-size single can of Diet Coke contains about 40 mg of caffeine—less than half the amount of a cup of black coffee.\n\nThen there are its merits in filling an existential void. “Cracking open a can of it, or pouring some over ice, helps me survive a long work day,” one impassioned journalist wrote in NPR in 2012, responding to a wave of criticisms against Diet Coke launched by health and wellness magazines. The Outline earlier this year published an in-depth takedown of anti-Diet Coke claims, calling it a “magical, calorie-free elixir.”\n\nIn other words, as far as vices go, this one is relatively harm-free. All the more power if you can get it delivered—in a wine glass—by glove-clad servers waiting quietly behind you as you address the prime minster of Japan, as is the case in this set of infamous photographs taken earlier this year.\n\nCoca-Cola has been struggling to sell Diet Coke in recent years, as the world’s preferences shift to foods and drinks that are marketed as “natural” or “organic”—but good on Trump for doing his part to keep this particular American habit— and industry—alive.",
+    "cleaned_selection": "<p>This weekend, when the New York Times ran a profile (paywall) about the daily life of Donald Trump, we learned that the US president drinks not one or two, but 12—or more!—cans of Diet Coke a day.</p><p>Journalists, social media users, and citizens of the world at large are in a tizzy. Should anyone be surprised, though, given we already knew Trump simply presses a button on his desk in the Oval Office when in in need of a soda and gets one delivered posthaste?</p><p>“Nobody drinks that much Diet Coke in one fucking day. He might be a serial killer,” wrote one Twitter user, the declaration garnering more than a thousand retweets. Others rebuked the president for indulging in junk food, over-caffeinating, or seeming to lack any interest in self-preservation.</p><p>Those are valid criticisms, and there are a few minor downsides to drinking 12 cans of Diet Coke a day. But consider the myriad of benefits. Diet Coke is sweet, but not sugary, and contains zero calories. Yet it’s formulated in such a way to stimulate taste buds the same way that drinks full of actual sugar do, making it a decent substitute for people trying to stave off diabetes or cut weight while accustomed to a traditional high-carb Western diet. And a regular-size single can of Diet Coke contains about 40 mg of caffeine—less than half the amount of a cup of black coffee.</p><p>Then there are its merits in filling an existential void. “Cracking open a can of it, or pouring some over ice, helps me survive a long work day,” one impassioned journalist wrote in NPR in 2012, responding to a wave of criticisms against Diet Coke launched by health and wellness magazines. The Outline earlier this year published an in-depth takedown of anti-Diet Coke claims, calling it a “magical, calorie-free elixir.”</p><p>In other words, as far as vices go, this one is relatively harm-free. All the more power if you can get it delivered—in a wine glass—by glove-clad servers waiting quietly behind you as you address the prime minster of Japan, as is the case in this set of infamous photographs taken earlier this year.</p><p>Coca-Cola has been struggling to sell Diet Coke in recent years, as the world’s preferences shift to foods and drinks that are marketed as “natural” or “organic”—but good on Trump for doing his part to keep this particular American habit— and industry—alive.</p>",
+    "domain": "quartzy.qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.952307",
+  "updated_at": "2025-08-06T08:47:03.952308"
+}

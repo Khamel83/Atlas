@@ -1,0 +1,40 @@
+{
+  "uid": "4fa8cb05c0c2b747",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://millionmilesecrets.com/2014/09/25/korean-air-hawaii/",
+  "title": "Award Flights to Hawaii Just Got Cheaper for Everyone With Chase Points! Million Mile Secrets",
+  "status": "selection_content_extracted",
+  "date": "2014-09-25T17:53:01",
+  "error": null,
+  "content_path": "output/articles/markdown/4fa8cb05c0c2b747.md",
+  "html_path": "output/articles/html/4fa8cb05c0c2b747.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5122,
+    "selection_length": 857,
+    "cleaned_selection_length": 900,
+    "domain": "millionmilesecrets.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4fa8cb05c0c2b747",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1411692781",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Disclosure:  We get a commission for links on the blog.  You don’t have to use our links, but we’re very grateful when you do.  American Express is a Million Mile Secrets advertising partner.  Here’s our Advertiser Disclosure. Korean Air changed its … Continue reading →\n\n        \n\nComments\n\nFind Delta saver seats in peak times is more difficult than ... by ff_lover\n\nThis is a great card for international travel. by Joe\n\nDo NOT xfer UR to Korean in hopes of getting low award seats to ... by phil\n\nI believe Doug is correct. Avois needed from the west coast in ... by J\n\n@ Brandon – I'm sure we could do some research on flyertalk ... by Blake\n\nRelated Stories\n\nThe Secret Points Shopping Portal With More Stores Than the Ultimate Rewards Portal!\n\n26,250 Miles & $500 for Round-Trip Flight From Chicago to London\n\nHow to Find and Book Mistake & Low Fares",
+    "cleaned_selection": "<p>Disclosure: We get a commission for links on the blog. You don’t have to use our links, but we’re very grateful when you do. American Express is a Million Mile Secrets advertising partner. Here’s our Advertiser Disclosure. Korean Air changed its … Continue reading →</p><p>Comments</p><p>Find Delta saver seats in peak times is more difficult than ... by ff_lover</p><p>This is a great card for international travel. by Joe</p><p>Do NOT xfer UR to Korean in hopes of getting low award seats to ... by phil</p><p>I believe Doug is correct. Avois needed from the west coast in ... by J</p><p>@ Brandon – I'm sure we could do some research on flyertalk ... by Blake</p><p>Related Stories</p><p>The Secret Points Shopping Portal With More Stores Than the Ultimate Rewards Portal!</p><p>26,250 Miles & $500 for Round-Trip Flight From Chicago to London</p><p>How to Find and Book Mistake & Low Fares</p>",
+    "domain": "millionmilesecrets.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.484764",
+  "updated_at": "2025-08-06T08:47:04.484766"
+}

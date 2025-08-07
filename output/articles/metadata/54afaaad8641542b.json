@@ -1,0 +1,40 @@
+{
+  "uid": "54afaaad8641542b",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/science-and-health/2020/6/23/21299109/covid-19-pandemic-years-potential-life-lost",
+  "title": "“Years of potential life lost” is the most sobering and sad Covid-19 statistic I’ve seen Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:41:04.025218",
+  "error": null,
+  "content_path": "output/articles/markdown/54afaaad8641542b.md",
+  "html_path": "output/articles/html/54afaaad8641542b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8b28f0b0801ad198f009bcae4ce68e8d",
+  "type_specific": {
+    "bookmark_id": 1317695066,
+    "instapaper_time": 1592961405,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:41:04.025247",
+  "updated_at": "2025-08-05T13:41:04.025250"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "da2fe98974fe896f",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://kottke.org/16/11/the-100-most-influential-images-of-all-time",
+  "title": "The 100 most influential images of all time kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2016-11-22T12:39:13",
+  "error": null,
+  "content_path": "output/articles/markdown/da2fe98974fe896f.md",
+  "html_path": "output/articles/html/da2fe98974fe896f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4237,
+    "selection_length": 1128,
+    "cleaned_selection_length": 1149,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "da2fe98974fe896f",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1479847153",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Time Magazine has selected the 100 most influential photos of all time, from the first permanent photograph taken (in 1826) to the heartbreaking photo of the body of a 3-year-old refugee washed up on a beach from last year. As you might expect, many of the images are tough to view, but history and our good conscience compels us not to look away.\n\nI was pleased to see Josef Koudelka’s photo Invasion of Prague included (it’s the one above with the wristwatch); it’s one of my favorites.\n\nJosef Koudelka, a young Moravian-born engineer who had been taking wistful and gritty photos of Czech life, was in the capital when the soldiers arrived. He took pictures of the swirling turmoil and created a groundbreaking record of the invasion that would change the course of his nation. The most seminal piece includes a man’s arm in the foreground, showing on his wristwatch a moment of the Soviet invasion with a deserted street in the distance. It beautifully encapsulates time, loss and emptiness — and the strangling of a society.\n\nThe photos are also available in book form.\n\nTags: Josef Koudelka   best of   lists   photography",
+    "cleaned_selection": "<p>Time Magazine has selected the 100 most influential photos of all time, from the first permanent photograph taken (in 1826) to the heartbreaking photo of the body of a 3-year-old refugee washed up on a beach from last year. As you might expect, many of the images are tough to view, but history and our good conscience compels us not to look away.</p><p>I was pleased to see Josef Koudelka’s photo Invasion of Prague included (it’s the one above with the wristwatch); it’s one of my favorites.</p><p>Josef Koudelka, a young Moravian-born engineer who had been taking wistful and gritty photos of Czech life, was in the capital when the soldiers arrived. He took pictures of the swirling turmoil and created a groundbreaking record of the invasion that would change the course of his nation. The most seminal piece includes a man’s arm in the foreground, showing on his wristwatch a moment of the Soviet invasion with a deserted street in the distance. It beautifully encapsulates time, loss and emptiness — and the strangling of a society.</p><p>The photos are also available in book form.</p><p>Tags: Josef Koudelka best of lists photography</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.256149",
+  "updated_at": "2025-08-06T08:47:04.256151"
+}

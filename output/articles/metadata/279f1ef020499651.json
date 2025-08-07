@@ -1,0 +1,40 @@
+{
+  "uid": "279f1ef020499651",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/the-big-idea/2017/7/12/15955782/health-care-senate-conservative-ideas-universal-catastrophic-coverage",
+  "title": "What a good conservative health care plan would look like Vox - All",
+  "status": "success",
+  "date": "2025-08-05T14:02:14.836544",
+  "error": null,
+  "content_path": "output/articles/markdown/279f1ef020499651.md",
+  "html_path": "output/articles/html/279f1ef020499651.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8c9577e70861e120fc4d2ea1845d92ad",
+  "type_specific": {
+    "bookmark_id": 929751358,
+    "instapaper_time": 1499865458,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:02:14.836576",
+  "updated_at": "2025-08-05T14:02:14.836580"
+}

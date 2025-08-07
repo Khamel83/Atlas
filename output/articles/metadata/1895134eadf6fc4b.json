@@ -1,0 +1,40 @@
+{
+  "uid": "1895134eadf6fc4b",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/1407118/kavanaugh-hearings-watched-by-tens-of-millions-of-americans/",
+  "title": "At any given time, 20% of Americans were watching the Kavanaugh hearings Quartz",
+  "status": "selection_content_extracted",
+  "date": "2018-09-29T00:41:00",
+  "error": null,
+  "content_path": "output/articles/markdown/1895134eadf6fc4b.md",
+  "html_path": "output/articles/html/1895134eadf6fc4b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3384,
+    "selection_length": 1323,
+    "cleaned_selection_length": 1345,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1895134eadf6fc4b",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1538206860",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Yesterday (Sept. 27), US Supreme Court nominee Brett Kavanaugh and Christine Blasey Ford, the professor of clinical psychology who accuses him of sexual assault, delivered nearly nine hours of emotional testimony. There were tears; there was rage; there were explanations of neuroscience and eulogies to beer.\n\nThroughout it all, America was watching. According to Nielsen ratings, nearly 20% of US households with televisions were watching the hearings at any given time between 10am and 6:45pm. That’s without factoring in the many more who watched it in public places, on their phones, via digital livestreams, or who caught up on the highlights online after work.\n\nFor CNN, it was the channel’s biggest live video day since the Trump inauguration. For CBS News, it was its most-viewed livestream of the year. And at Fox, where opinion hosts have openly championed Kavanaugh’s nomination, viewers averaged 7.2 million during his appearance and 4.7 million during Ford’s.\n\nYesterday’s hearings meant many different things to many different people—a referendum on #MeToo, a masterclass in the evils of “bro culture” (paywall), a worrying outcome for American men and boys. But one thing remained consistent across party lines: The Kavanaugh hearings were very, very important—even if the “why” has proven more contentious.",
+    "cleaned_selection": "<p>Yesterday (Sept. 27), US Supreme Court nominee Brett Kavanaugh and Christine Blasey Ford, the professor of clinical psychology who accuses him of sexual assault, delivered nearly nine hours of emotional testimony. There were tears; there was rage; there were explanations of neuroscience and eulogies to beer.</p><p>Throughout it all, America was watching. According to Nielsen ratings, nearly 20% of US households with televisions were watching the hearings at any given time between 10am and 6:45pm. That’s without factoring in the many more who watched it in public places, on their phones, via digital livestreams, or who caught up on the highlights online after work.</p><p>For CNN, it was the channel’s biggest live video day since the Trump inauguration. For CBS News, it was its most-viewed livestream of the year. And at Fox, where opinion hosts have openly championed Kavanaugh’s nomination, viewers averaged 7.2 million during his appearance and 4.7 million during Ford’s.</p><p>Yesterday’s hearings meant many different things to many different people—a referendum on #MeToo, a masterclass in the evils of “bro culture” (paywall), a worrying outcome for American men and boys. But one thing remained consistent across party lines: The Kavanaugh hearings were very, very important—even if the “why” has proven more contentious.</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.843620",
+  "updated_at": "2025-08-06T08:47:03.843622"
+}

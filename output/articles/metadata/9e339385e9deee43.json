@@ -1,0 +1,40 @@
+{
+  "uid": "9e339385e9deee43",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://prospect.org/article/age-double-standards",
+  "title": "The Age of Double Standards",
+  "status": "selection_content_extracted",
+  "date": "2012-04-04T06:20:34",
+  "error": null,
+  "content_path": "output/articles/markdown/9e339385e9deee43.md",
+  "html_path": "output/articles/html/9e339385e9deee43.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5490,
+    "selection_length": 684,
+    "cleaned_selection_length": 691,
+    "domain": "prospect.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9e339385e9deee43",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1333545634",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Bankruptcy is intended to give a fresh start to persons and enterprises overwhelmed by creditors. In the case of American (like other airlines before it), the main “creditors” are its employees. The costs of American’s bankruptcy will be borne mainly by its workers and secondarily by taxpayers. The contracts being broken are union contracts and legal promises to honor pension obligations. American is laying off 13,000 workers, slashing wages, and reducing its annual pension contribution from $97 million to $6.5 million. The airline hopes to stick the federal Pension Benefit Guaranty Corporation with liability for much of the $6.5 billion that it owes its workers and retirees.",
+    "cleaned_selection": "<p>Bankruptcy is intended to give a fresh start to persons and enterprises overwhelmed by creditors. In the case of American (like other airlines before it), the main “creditors” are its employees. The costs of American’s bankruptcy will be borne mainly by its workers and secondarily by taxpayers. The contracts being broken are union contracts and legal promises to honor pension obligations. American is laying off 13,000 workers, slashing wages, and reducing its annual pension contribution from $97 million to $6.5 million. The airline hopes to stick the federal Pension Benefit Guaranty Corporation with liability for much of the $6.5 billion that it owes its workers and retirees.</p>",
+    "domain": "prospect.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.516259",
+  "updated_at": "2025-08-06T08:47:04.516260"
+}

@@ -1,0 +1,36 @@
+{
+  "uid": "bd8c32ec3476c361",
+  "content_type": "instapaper_newsletter",
+  "source": "instapaper://private-content/1753363662",
+  "title": "💥LMeaty IB Earnings💥",
+  "status": "success",
+  "date": "2025-02-12T05:08:34",
+  "error": null,
+  "content_path": "output/articles/markdown/bd8c32ec3476c361.md",
+  "html_path": "output/articles/html/bd8c32ec3476c361.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api_private_content",
+  "fetch_details": {
+    "bookmark_id": 1753363662,
+    "extraction_method": "bookmarks_get_text",
+    "content_length": 38359,
+    "successful": true
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1753363662",
+  "type_specific": {
+    "bookmark_id": 1753363662,
+    "instapaper_time": 1739365714,
+    "starred": true,
+    "is_private_content": true,
+    "private_source": "email",
+    "content_length": 38359
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T22:01:13.873166",
+  "updated_at": "2025-08-05T22:01:13.873177"
+}

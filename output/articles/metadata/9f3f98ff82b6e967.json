@@ -1,0 +1,40 @@
+{
+  "uid": "9f3f98ff82b6e967",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://ritholtz.com/2016/03/15-best-practices/",
+  "title": "Hirschhorn 15 Best Practices for PMs The Big Picture",
+  "status": "selection_content_extracted",
+  "date": "2016-03-13T09:27:18",
+  "error": null,
+  "content_path": "output/articles/markdown/9f3f98ff82b6e967.md",
+  "html_path": "output/articles/html/9f3f98ff82b6e967.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4545,
+    "selection_length": 377,
+    "cleaned_selection_length": 394,
+    "domain": "ritholtz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "9f3f98ff82b6e967",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1457886438",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "15 Best Practices Doug Hirschhorn observed over the years as a Peak Performance Coach to PMs at Hedge Funds 1) Ask yourself, “Is today a day to make money, do very little or limit losses?” 2) Always think, “If I had no position on right now, what would I do?” 3) Learn to endure the…\n\nRead More\n\nThe post Hirschhorn: 15 Best Practices for PMs appeared first on The Big Picture.",
+    "cleaned_selection": "<p>15 Best Practices Doug Hirschhorn observed over the years as a Peak Performance Coach to PMs at Hedge Funds 1) Ask yourself, “Is today a day to make money, do very little or limit losses?” 2) Always think, “If I had no position on right now, what would I do?” 3) Learn to endure the…</p><p>Read More</p><p>The post Hirschhorn: 15 Best Practices for PMs appeared first on The Big Picture.</p>",
+    "domain": "ritholtz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.328547",
+  "updated_at": "2025-08-06T08:47:04.328548"
+}

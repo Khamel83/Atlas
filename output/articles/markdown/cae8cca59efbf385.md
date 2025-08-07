@@ -1,0 +1,363 @@
+# The Greatest, Best, and Most Historic NBA MVP Column Ever The Ringer - Medium
+
+**Source:** https://theringer.com/bill-simmons-2017-nba-mvp-james-harden-russell-westbrook-kawhi-leonard-4f617e8d5df5  
+**Domain:** theringer.com  
+**Folder:** Feedly  
+**Added:** 2017-04-14T14:08:45  
+**Content Type:** Selection Content Extracted  
+**Selection Length:** 29,293 characters  
+
+
+---
+
+## Selected Content
+
+The Greatest, Best, and Most Historic NBA MVP Column Ever
+
+Russ? Harden? Kawhi? LeBron? Bill Simmons makes his Most Valuable Player pick. It’s historic.
+
+(AP Images/Ringer illustration)
+
+On Sunday afternoon, I was watching my daughter play soccer in Parts Unknown, California, right as Sergio Garcia was stealing the Masters from Justin Rose. The Masters app kept freezing on me, so I settled on clandestinely following the last few holes on Twitter. Out of nowhere, Russell Westbrook hijacked my feed — first by breaking Oscar’s triple-double record, then by beating Denver on a 30-foot buzzer-beater to finish with a stupefying 50–16–10.
+
+And yeah, it’s the Year of Stupefying Box Scores. But this one felt extra special: Westbrook had spent the previous two weeks on something of an MVP vigilante tour, one that was missing only a remember-it-10-years-from-now “HOLY SHIT!!!!!!” moment. Fans reacted accordingly, and in real time: exclamation points, all caps, weird GIFs and everything else that keeps Twitter indispensable. Within three minutes, I watched video of Westbrook burying that crazy heave, then being mobbed by teammates in a sports-movie ending that had everything but Explosions in the Sky. A little bit later, an awesome picture surfaced of Westbrook celebrating the shot — flying through the air, body clenched, fuck-you face in full effect — flanked by the faces of Nuggets fans reacting like their cars were getting towed.
+
+With that, Westbrook’s MVP résumé was complete: He pulled the first Oscar since Oscar, averaged a 32–11–10 for an entire season (it still seems like a typo), pulled at least 12 victories out of the deep recesses of the Thunder’s sphincter, saved Oklahoma City from its post-Durant hangover, seduced a normally crusty NBA internet culture, generated a remarkable amount of respect from his peers, and generally wore down even his most passionate haters. I believe that Russell Westbrook will win the 2017 MVP trophy.
+
+I just don’t know if it’s the right pick.
+
+(Getty Images)
+Twenty years ago, Jackie MacMullan swung the MVP vote from Michael Jordan by writing one “Wouldn’t it be nice if the Mailman finally won?” column for Sports Illustrated. In 2017, most media members agonize over their votes. Transparency helps — you can’t vote Westbrook or Harden fifth just to be a dick, and you can’t toss a fourth-place vote to your hometown star without everyone knowing. We also have better metrics, better access to games, better in-the-moment enjoyment tools, better everything. We breathe the league every single day. It’s a never-ending onslaught of information, opinion, dialogue, highlights and games.
+
+That constant noise spawns more peaks and valleys, more going-against-the-grain hot takes, more waffling, more getting-ahead-of-ourselves moments and waaaaaaaaaaay more hyperbole. (We’re on a historic pace in 2017 of people using the word “historic.”) For me, 2017 stands out as our first MVP Race On Demand. I wasn’t going to watch the Thunder tonight, but Westbrook has a 32–10–12 going through three quarters? I’m in! That made Westbrook-Harden-Kawhi-LeBron seem greater than it was. In reality, Stephen Curry’s 2016 résumé — 30–7–5, 50–45–91%, 5.1 made 3s, 31.5 PER, and oh yeah, SEVENTY-THREE WINS — trumps any 2017 MVP candidate.
+
+You know what made this year’s battle so delightful? The flaws.
+
+LeBron’s Cavs limped to a 23–23 record in their last 46 games; that dude hasn’t played for a 30-loss team in nine years. Kawhi would be remembered as our least impactful offensive MVP since Wes Unseld. Westbrook, by every conceivable metric, has been the biggest ball hog in NBA history; he’d also become the first MVP with fewer than 50 wins since 1982, when half the league was downing cocaine like it was vitamin B. Harden offers almost-as-big numbers as Westbrook and an undeniable ability to make teammates better … and yet, Houston won only eight more games than OKC.
+
+Can we call it the most entertaining MVP race ever? For sheer greatness, I would stick the following four ahead of it.
+
+(Getty Images)
+1987: Reigning three-time MVP Larry Bird submits his greatest start-to-finish season, throwing up a 28–8–9, creating the 50–40–90 Club (53–40–91% that year), setting the assists record for forwards and maintaining his Trash Talking/Basketball Jesus/Highlight Passing/Buzzer-Beating ceiling. He finishes … third!
+
+MJ grabs the torch as the league’s Next Great Superstar, breaks the non-Wilt record for points (37.1 PPG) and becomes the second player ever (still) to score more than 3,000 points in one season. He finishes … second!
+
+And Magic gently grabs the car keys from Kareem for a career year: 24–12–6, 65 wins, at least 2,927 thrilling plays and his first (deserved) MVP trophy. Signature seasons from two of the six best players ever coupled with a breakout season for the GOAT? Yeah, we’re not topping that one.
+
+1962: A frenetic pace juiced everyone’s numbers in the early ’60s, turning it into the NBA’s benevolent version of baseball’s Steroid Era (complete with beers and Marlboro Reds). Two-time MVP Bob Pettit averaged a 31–19 and finished sixth. Jerry West tossed up a 31–8–5 and finished fifth. Elgin Baylor played only 48 games thanks to military obligations; poor Elgin lived in an Army barracks in Washington, flying out whenever he could (usually weekends) in coach on planes that connected multiple times, and somehow averaged a 38–19–5 BECAUSE ELGIN BAYLOR WAS APPARENTLY SUPERHUMAN. He finished fourth. Oscar dropped his triple-double season and won MVP bronze. Wilt averaged 50 and 26, scored more than 4,000 points, dropped 100 on the Knicks … and finished second. And Russell was Russell: the best player on the best team, the greatest winner of all time. (He also averaged a 19–24 and probably blocked 230 shots a game.)
+
+Did you know the players voted back then? They gave Russell 51 of their 85 first-place votes; it’s a wonderful example of how they felt about Russell and Wilt. In my NBA book, I ranked Russell second, Wilt sixth, West ninth, Oscar 10th, Elgin 15th, and Pettit 17th. Wake me when we get another MVP race with (a) six of the best 20 players ever, (b) the runners-up averaging a triple-double or 50 points a game, and (c) someone moonlighting as a part-time NBA star who never practices and still averages 38.3 points per game.
+
+1993: After Phoenix stole Charles Barkley from the hapless Sixers, the Chuckster won our hearts on the ’92 Dream Team, then averaged a 26–12–5 on a charming 62-win Suns team. (If small-ball NBA offenses were video game systems, the ’93 Suns were Nintendo, Nash’s Suns were PlayStation, and Curry’s Warriors were Xbox One). The mainstream media had turned on an increasingly salty MJ (two straight MVPs, two straight rings, and six straight killer seasons, so his 33–7–6, 57 wins and first-team All-Defense somehow felt mundane), and they definitely weren’t excited about Hakeem’s outrageous Rockets season (26–13–4, 53% FG, 150 steals, 342 blocks, 55 wins, the best two-way center since Kareem) or Patrick Ewing anchoring Riley’s almost-champ Bully Ball Knicks (24–12, 60 wins, lots of sneering). It was more FUN to vote for Barkley.
+
+And look, there are hundreds of reasons to complain about the internet these days. Hundreds. Maybe thousands. Just know that the internet never, in a million bazillion katrillion years, would have allowed Michael Jordan to lose the ’93 and ’97 MVPs. He should have won seven, not five. But that ’93 race headlined a spectacular year for talent: the MJ-Barkley-Hakeem generation hitting its peak right as the Shaq-Kemp-Payton generation was spreading its wings. And seven fewer teams! 2017 reminds me of 1993 in that respect; if the 2017 playoffs can be 90 percent as good as the 1993 playoffs, everyone is going to lose their fucking minds.
+
+1990: Magic’s shakiest MVP season: 22–12–7 and 63 wins, only he couldn’t have defended Kevin Hart at that point. Barkley (25–12–4, 60% FG, 53 wins) garnered more first-place votes than Magic while playing for a mediocre Sixers team; he may have bested Magic if we’d have known about Barkley’s 66.1 true shooting percentage (????), 17.3 win shares, 27.1 PER, and 128 offensive rating. And MJ averaged a 33–7–6, dominated every advanced metric that we never knew about, and played his usual world-class defense on a 55-win Bulls team … only the idiotic “Michael doesn’t know how to make his teammates better” mainstream media backlash had blossomed into full-fledged ignorance. (Thank God Skip Bayless didn’t have a show back then.) Magic ran the league; Jordan hadn’t EARNED IT yet. Or something.
+
+(You know what? Jordan should have won eight MVPs. My bad, MJ. I counted wrong.)
+
+But here’s where 1990 goes to another level. Mailman (31–11, 56% FG, 55 wins) and Ewing (29–11, 4 BPG, 45 wins) had their best offensive seasons ever — repeat: EVER — and couldn’t crack the top three. Rookie David Robinson tossed up a 24–12 with 4 blocks and dragged the Spurs from 21 wins to 56 … all of which was good enough for sixth place. And Hakeem eked 41 wins out of a lousy Rockets team by doing this: 24–14, 50% FG, 2.1 steals, 4.6 blocks. I like a stat called “stocks” — it’s just blocks plus steals. Hakeem had 550 stocks that season. HE FINISHED SEVENTH. Vintage seasons from two of the best five players ever, three of the four best post-Kareem centers (including Hakeem, who’s a top-12 all-time guy) and two of the greatest power forwards ever? Yeeesh.
+
+Here’s the good news: 2017’s talent pool definitely mirrors that 1990–93 stretch. Check out my four All-NBA teams … and keep in mind that I can vote for only three.
+
+All-NBA Fourth Team
+
+Karl-Anthony TownsPaul GeorgeJimmy ButlerChris PaulDamian Lillard
+
+Notes: We’re so deep that Marc Gasol, Hassan Whiteside, Kyle Lowry, Kyrie Irving, Boogie Cousins and Klay Thompson couldn’t make my FOURTH team. Anyway, I couldn’t reward George and Butler with third-team spots for being the best players on fringe playoff teams. Chris Paul didn’t play enough games to steal a John Wall/DeMar DeRozan spot; the good news is that he’s officially grumpier than Clint Eastwood in Gran Torino. After the All-Star break, Towns averaged a 28–13 with inconceivable 60–43–84% splits — only a 50-loss season ruined his candidacy. And poor Dame Lillard … I don’t know what to say. I really don’t. After his All-Star snubbing, he averaged a 30–6–5 and dragged the Blazers into the playoffs … and I don’t have room for him. I feel terrible. Please don’t write a dis track about me, Dame.
+
+The Nuggets Have Finally Identified Their CornerstoneAfter a rough start, Denver has unleashed Nikola Jokic and is suddenly looking like one of the most exciting teams in…theringer.com
+
+All-NBA Third Team
+
+Nikola JokicDraymond GreenGordon HaywardJohn WallDeMar DeRozan
+
+Notes: We can’t penalize Jokic because his dopey coach needed two solid months to realize that he had the next Walton/Sabonis on his team. Since Christmas, Jokic has been 20–11–6 every night. Come on, Mike Malone. That’s like not realizing you were sitting on Netflix stock. As for Draymond, he’s been the night-to-night engine for the league’s superior team, as well as the most malleable elite defender since Dennis Rodman. When KD injured his knee, Green held down the fort as Golden State’s only rim protector. If Dray shot the ball better, and if his Uninterrupted videos were better, I would have flipped him with KD. I still fuck with Dray. (Sorry, I had to.) I don’t even hold it against him that, if he had never nailed LeBron in the balls, Durant would be on the Celtics right now. Fine, that’s not true.
+
+DeRozan proved that 2-guards could still score 27 a night on 18-footers, violent drives and free throws; you could easily imagine him playing with Frazier and DeBusschere 35 years ago. Wall’s breathtaking speed and athleticism would turn him into an internet legend if Westbrook didn’t exist; it’s amazing that he hasn’t hired Tonya Harding and Jeff Gillooly to take Westbrook out. And Hayward was the steadying offensive force on a sneaky-dangerous Jazz team — even if it feels weird naming someone with that beard-hair combo as one of the NBA’s best 15 players, there was no way around it. More important, he easily won 2017’s Mokeski Award as the league’s best white player. His first Mokeski! What a moment! Enjoy the trophy, Gordon. See you in Boston in October.
+
+All-NBA Second Team
+
+Anthony DavisGiannis AntetokounmpoKevin DurantStephen CurryIsaiah Thomas
+
+Notes: This summer, we’re sending a SWAT team to New Orleans to get AD out of there. It’s time. I’m thinking mid-July, when nobody is paying attention. We can’t allow him to turn into this generation’s KG. Meanwhile, Thomas single-handedly won about 20 Celtics games, carried their nightly scoring burden (and then some), helped steal a 1-seed and quietly tossed up the greatest advanced metrics season by a 6-foot-and-under guy. (Throwing up a 29–6 every night with 3.2 3-pointers and 46/38/91% splits while playing just 34 minutes a game? And smarter defenses basically doubling you as soon as you crossed midcourt? I’m still processing that one.)
+
+Isaiah Thomas: “I Feel Like I’m the Best Player in the World”The Celtics guard discusses what it takes to be one of the greatstheringer.com
+
+As for my podcast pal Durant, he gooses the MVP race to another level if Zaza never cut-blocks him like Richie Incognito. Even with KD missing 21 games, the Warriors finished 67–15 with one of the five highest point differentials ever. Let’s say KD avoids Zaza, bumps them to 70 wins and finishes 27–9–6 with 50/40/90%, underrated rim protection, and the highest night-to-night efficiency of anyone. Would he have supplanted Kawhi as the “best guy on the best team” choice? (I say yes.) Give me 61 KD games over 72 to 82 games of any forward not named LeBron, Kawhi or Giannis. His teammate Curry snares my no. 5 MVP spot for (a) being the most reliable star on the league’s best-by-far team; (b) having one of the better quote-unquote “off years”: 25–7–5, 47–41–90%, 324 threes (second highest ever); and (c) his usual terrorizing of defenders who spend Warriors games yelling, “Don’t lose him! Where is he? SWITCH!”
+
+And by the way, shout-out to Curry for leading the way on this:
+
+2015–17 Warriors: 207–391996–98 Bulls: 203–431984–86 Celtics: 192–541985–87 Lakers: 189–57
+
+That’s insane. As for Giannis, the Freak’s breakout season — 23–5–9, 52% FG and a 6-seed for the injury-ravaged Bucks — easily earned him Unicorn of the Year honors despite Jokic’s late charge. Sadly, the NBA’s digital ballot rejected Giannis as my first-team center, even if the Freak could have fake-protected the fake rim on our fake team. (Could we have handled our fake business on both fake ends with the Freak, Kawhi, LeBron, Russ and the Beard? Please.) I settled on … Rudy Gobert, my runner-up for Defensive Player of the Year, an offensive/defensive ratings god, an occasionally dominant force for the 50-win Jazz, the second-best French player ever, and a lifelong cautionary tale for anyone thinking about trading backward in the NBA draft just for cash.
+
+Speaking of that first team …
+
+All-NBA First Team
+
+Rudy GobertLeBron JamesKawhi LeonardRussell WestbrookJames Harden
+
+It’s MVP time. We’re sticking with my four tried-and-true MVP questions, which have determined every MVP vote for me since the early 1920s.
+
+Question 1: If you replaced each MVP candidate with a decent player at his position for the entire season, what would be the hypothetical effect on his team’s record?
+
+We’re using Marcus Morris and Jordan Clarkson as our “decent” replacements — Morris for Kawhi and LeBron, Clarkson for Westbrook and Harden. No offense, Marcus. Seriously, I don’t want the Morris brothers mad at me.
+
+(Thinking.)
+
+Actually, we’re going to use Kent Bazemore and Jordan Clarkson as our “decent” replacements — Bazemore for Kawhi and LeBron, Clarkson for Westbrook and Harden.
+
+San Antonio fares the best because of its Belichickian infrastructure; it’s hard to imagine them dipping below 47 wins even if Aldridge, Gasol, Ginobili, Green, Parker and Pop’s beard were all better three years ago. On my podcast once, Seth Meyers described everything Lorne Michaels built as “The Machine” — stars come and go, writers come and go, trends come and go, but the SNL machine keeps cranking out shows and remaining relevant. Trust the machine, Seth said. He might as well have been discussing the Spurs.
+
+And that’s the best anti-Kawhi case other than his offensive impact (not nearly as profound as we usually expect from an MVP) and his workload (74 games, 33.4 MPG and just 2,474 total minutes). Only three MVPs played less than 2,650 minutes and weren’t sidetracked by a lockout or strike: Curry in 2015 (2,613), Steve Nash in 2005 (2,573), and Bill Walton in the 1978 season (when he broke his foot, played just 1,929 minutes and still won). The Machine doesn’t care; the Machine cares only about the playoffs. The Machine isn’t built to spit out MVP candidates.
+
+If you switch Bazemore for LeBron, Cleveland gears its offense around Kyrie and Love and probably loses 18 to 20 wins, with an outside chance of turning into Portland East (a super-fun offensive team that can’t guard anyone). Clarkson dents Houston and OKC in a more profound way; both teams would free-fall into the 20–25-win range. The Thunder’s brain trust did everything possible to turn this post-KD season into a one-man MVP show, a savvy move for two reasons: They knew Russ wanted to shove it down Durant’s throat, and they wanted to create a new narrative that wasn’t “Kevin Durant ditched Oklahoma City for a bigger market and a franchise that might actually splurge on its players and try to keep the best ones.” Replacing Westbrook with anyone this season would be like replacing Louis CK in a Louis CK special.
+
+As for Houston, remember when Mike D’Antoni built Steve Nash a high-powered, ridiculously explosive race car in Phoenix that only Nash could drive? They did the same thing here: Every roster move and big-picture offensive decision was intended to leverage Harden’s unparalleled slash-and-kick ability. D’Antoni modernized that 2006 Suns car and accounted for better spacing, more 3s, and more screen-and-lobs, then handed the keys to Harden and stayed out of the way. You know who’s driving that car into a wall? Jordan Clarkson. And since it’s a steeper drop from 55 wins to 20–25 wins, Harden wins Question 1.
+
+Question 2: In a giant pickup game with every NBA player available and two knowledgeable fans forced to pick five-man teams, with their lives depending on the game’s outcome, who would be the first player picked based on how everyone played that season? (Translation: Who’s the alpha dog that season?)
+
+Anyone who doesn’t say “LeBron” is lying. You just are. For one game only, his ceiling is three floors higher than anyone else. We’re all taking LeBron. Kawhi’s defensive prowess makes him my second pick, especially if we’re applying the Bob Ryan Doomsday Scenario — if aliens landed and challenged us to a game of hoops, and we had to pick five guys to save the world. (I’d want Kawhi just in case they had a 6-foot-9 alien with five arms that we needed to lock down.) I’d pick Harden 3A and Westbrook 3B. If you have Russ, win or lose, Russ and only Russ is deciding the game’s outcome. Is that a good thing? My biggest gripe with his 2016–17 campaign: his unwillingness to allow anyone else to do anything. I have one of those 100 percent full-blooded Italian moms who invites you over for dinner and does everything short of cutting your food and chewing it for you. Every pre-dinner exchange goes like this:
+
+Can we bring anything?
+
+No.
+
+Can we help in any way?
+
+No.
+
+Can I put salt on my food?
+
+No.
+
+Can I pour my own wine?
+
+No.
+
+That’s Westbrook this season. He took 370 more shots than anyone else. He missed nearly 14 shots a game. He shattered the usage rate record (41.7%) and almost shattered the assist percentage rate (57.3%), a level of ball-hoggery that has no track record of ever translating to real NBA success (as covered in my Westbrook column last month). And yet, his night-to-night relentlessness was unlike anything that’s ever happened in the league. Who played harder for six straight months than Russell Westbrook just did? Did you ever see Russ tired? Did you ever see him sweat? Did you ever see him breathing heavily? Have you ever seen a basketball star with a bottomless stamina tank? This wasn’t an MVP season; this was performance art. Russell Westbrook gave more shits than anyone in the history of shits.
+
+And look, there’s barely any difference between Westbrook’s 32–11–10 and Harden’s 29–11–8. (I’d rather have the 29–11–8 and 400 more shots going to everyone else.) But the maniacal night-to-night drive that propelled Westbrook into the Oscar Club? Forty-two triple-doubles in 81 games? All those rebounds? All those times he went coast-to-coast, bounced off dudes like Zeke Elliott and finished in traffic? All those clutch shots when his legs should have been dead? I’ve never seen anything like it. Could LeBron match that passion for any 48-minute game? Fuck yeah. But for 82 games? No way. With 14 years of NBA miles on him, he couldn’t even do it for a month. LeBron wins Question 2, but Westbrook kind of wins it too.
+
+Question 3: If you’re explaining your MVP pick to someone who has a favorite player in the race — and your pick was a different player — will he/she at least say something like, “Yeah, I don’t like it, but I see how you arrived at that choice”?
+
+Anyone with half a basketball brain sees the cases for Kawhi, Harden and Westbrook. But if any Spurs, Rockets or Thunder fan heard a LeBron pick, they’d immediately shriek, “They went 23–23 in their last 46! He had Kyrie and Love on his team! He won only four more games than Russ!” Cross the King off. Stick him in fourth place. By the way, LeBron averaged 26–9–9, shot 55 percent and locked himself into another First-Team All-NBA selection and top-five MVP vote, which means he has the following streaks going:
+
+1. Six straight Finals, with maybe a seventh coming
+
+2. Twelve straight top-five MVP seasons
+
+3. Ten straight First-Team All-NBAs
+
+4. Thirteen straight seasons averaging at least a 25–6–6
+
+5. He’s still averaging a 27–7–7 with 50.1% shooting … FOR HIS ENTIRE CAREER.
+
+Don’t shed any tears for LeBron’s inevitable fourth-place MVP finish. He’s fine. But if there were ever a season for LeBron to steal one last MVP trophy and pull even with MJ, this was the one. He won’t ever get this close again, not unless he goes Lance Armstrong on us. If Maverick Carter starts flying to Germany every week this summer to allegedly raise funding for Space Jam 2, we’ll know something’s up.
+
+(Getty Images)
+Question 4: Ten years from now, who will be the first player from that season who pops into my head? (Every season belongs to someone to varying degrees.)
+
+The case for Kawhi: wins, efficiency, two-way play at the highest of levels. He’s the NBA’s third-best defensive player AND the league’s sixth-best offensive player AND everyone’s pick if we needed one defender to stop any great scorer in the last minute of any playoff game.
+
+The case against Kawhi: The 2016–17 season belonged to Westbrook’s triple-double chase and the Durant-Russ feud, then the Warriors, then Harden and Moreyball, then the overflowing batch of explosive guards (Curry, Thomas, Wall, Lillard, Kyrie, etc.), then the unicorns (Giannis, Jokic, Porzingis, Embiid, maybe Towns), then LeBron’s bizarre Cavs season, then Tankapalooza 2017 … and maybe THEN you’d remember Kawhi and the Spurs? He would own the NBA season less than any MVP I can ever remember. Just for fun, here’s “who owned the season” in the 21st century.
+
+2000: Shaq (MVP), then C-Webb/Kings2001: Iverson (MVP), then Peak Shaqobe2002: Duncan (MVP), then Kidd/Nets, then C-Webb/Kings2003: Duncan (MVP), then T-Mac’s monster season2004: Garnett (MVP), then the bizarre Lakers (and Kobe’s trial)2005: Nash (MVP), then Shaq/Miami, then the Artest melee2006: Kobe, then Nash (MVP), then Dirk/Mavs2007: Nash/Suns, then Dirk (MVP), then LeBron/Cavs2008: KG/Celts, then Kobe (MVP), then CP3, then T-Mac/Houston2009: LeBron (MVP), then Kobe/Lakers2010: LeBron (MVP), then Kobe/L.A., then Nash/Suns2011: Rose (MVP), then LeBron/Wade/Bosh2012: LeBron (MVP), then Lob City, then Durant/OKC, then Boston’s last stand2013: LeBron (MVP), then the Harden trade2014: Durant (MVP), then LeBron/Miami, then Duncan/Spurs2015: Curry (MVP), then LeBron/Cavs, then Harden, then Westbrook2016: Curry (MVP), then LeBron/Cavs, then Durant/Westbrook
+
+You could glance at any of those names and say, “Oh yeah, that’s when [blank] happened.” That’s happening with MVP Kawhi and the 2017 Spurs? Come on. I spent the past week trying to talk myself into him — because of San Antonio’s success, and because they’d never have anyone chase an MVP award like Westbrook did (and, to a lesser degree, like Harden did). But I couldn’t get there. It’s my own fault. I want my MVP to stand out in some uniquely impactful way. It’s not baseball. It’s not the Advanced Metrics Award. There’s a performance art/water cooler/alpha dog wrinkle that Kawhi just never offered, mainly because the Pop Machine would never want him to have it. He’s my third-place MVP pick.
+
+Spoiler alert: I’m not voting for Westbrook, either. Was Russ the FUN pick? Absolutely. Did he own the season? Absolutely — he won Question No. 4. But he wasn’t playing for the 2001 Sixers; he didn’t have to do absolutely everything at the expense of never developing/nurturing/testing anyone else.
+
+Remember when we came out of the 2016 playoffs raving about how much we liked Steven Adams, Enes Kanter, and Andre Roberson? Why didn’t they get any better? Why wasn’t Adams as devastating in OKC as the Capela-Nene-Harrell trio was for Houston? Why wasn’t Oladipo BETTER on a much better team? Why did they dump Ersan Ilyasova after only three games, and why wasn’t it a bigger deal when he thrived in Philly and Atlanta? Why such a wasted rookie year for Domantas Sabonis? Everyone acts like Russ is playing with the Washington Generals — he has two top-three lottery picks and three other lottery picks in their playing rotation. Kanter and Oladipo have near-max deals. Adams has a nine-figure deal coming. Ilyasova scored 15 a night on Philadelphia. Those guys sucked? If a superstar guarantees you 45 wins, then Westbrook dragged them to … 47 wins? What?
+
+Meanwhile, the Rockets were pegged as a fringe playoff team with only one All-Star and even lower expectations than OKC. And we didn’t know what to expect with Harden. After he finished second in the 2015 MVP voting, the Dwightbola virus turned him into a smoke-and-mirrors superstar last season. Why didn’t it seem like he cared? Was he turning into a glorified DH? This year, a rejuvenated Harden grabbed the point guard reins (why doesn’t he get more credit for switching positions, by the way?), made a bunch of role players better and transformed the Rockets into the league’s second-best offense. And not just that — they finished with one of the TEN BEST REGULAR-SEASON OFFENSES OF All TIME. (Here, look.)
+
+(Getty Images)
+Did Harden resonate as a performer like Westbrook did? Of course not. How do you compete with the NBA’s John Wick? Just don’t sleep on Harden’s magical passing, his Ginobili 2.0 slash-and-kick game, his famous Eurosteps, his surreal ability to find open shooters from every conceivable angle, his heat-check 3s, his occasional WTF box scores (an MVP staple), his annoyingly effective tactic of leaping suddenly into off-balance defenders for fake 3s (he’s the master at getting those calls), and his herky-jerky southpaw game that’s basically a one of one. You’d defend Russ by playing off him and hoping he jacks up 3s. You’d have no idea how to defend Harden. He’s just as durable as Westbrook, he’s almost as relentless and he’s even more dangerous because he uses everyone else on his team.
+
+And if you plugged this Harden season into a normal NBA year, when we weren’t obsessing over feuds, triple-doubles, body language, an endless barrage of 50-point games and everything else? We would have run out of ways to write Harden-D’Antoni comeback pieces two months ago. They figured out a better way to do Nash’s Suns while nearly reenacting Tiny Archibald’s legendary points-assists season? What???? But in that crowded 2017 landscape, Harden’s mega-season has yielded only some kudos, Chris Ryan’s Oscar contender Moreyball and that’s it.
+
+I loved watching Westbrook this season. Repeat: I loved it. I never imagined we’d see a Big O/triple-double sequel, just like I never imagined that Kobe could average 35 a game, or that Ron Artest could fight an entire section of Pistons fans without getting shanked. But if it’s down to Harden and Westbrook, and both sides are relatively equal, and we’re voting on offensive impact and team success over everything else and that breakdown comes down to this …
+
+47 wins, 17th-ranked offense, zero chance of winning the title
+
+55 wins, second-ranked offense (10th all time), puncher’s chance of winning the title
+
+… I mean, what are we arguing about? And why the hell did it take me so long? I’m picking James Harden.
+
+---
+
+*This content was extracted from your Instapaper Selection field.*
+
+Russ? Harden? Kawhi? LeBron? Bill Simmons makes his Most Valuable Player pick. It’s historic.
+
+(AP Images/Ringer illustration)
+
+On Sunday afternoon, I was watching my daughter play soccer in Parts Unknown, California, right as Sergio Garcia was stealing the Masters from Justin Rose. The Masters app kept freezing on me, so I settled on clandestinely following the last few holes on Twitter. Out of nowhere, Russell Westbrook hijacked my feed — first by breaking Oscar’s triple-double record, then by beating Denver on a 30-foot buzzer-beater to finish with a stupefying 50–16–10.
+
+And yeah, it’s the Year of Stupefying Box Scores. But this one felt extra special: Westbrook had spent the previous two weeks on something of an MVP vigilante tour, one that was missing only a remember-it-10-years-from-now “HOLY SHIT!!!!!!” moment. Fans reacted accordingly, and in real time: exclamation points, all caps, weird GIFs and everything else that keeps Twitter indispensable. Within three minutes, I watched video of Westbrook burying that crazy heave, then being mobbed by teammates in a sports-movie ending that had everything but Explosions in the Sky. A little bit later, an awesome picture surfaced of Westbrook celebrating the shot — flying through the air, body clenched, fuck-you face in full effect — flanked by the faces of Nuggets fans reacting like their cars were getting towed.
+
+With that, Westbrook’s MVP résumé was complete: He pulled the first Oscar since Oscar, averaged a 32–11–10 for an entire season (it still seems like a typo), pulled at least 12 victories out of the deep recesses of the Thunder’s sphincter, saved Oklahoma City from its post-Durant hangover, seduced a normally crusty NBA internet culture, generated a remarkable amount of respect from his peers, and generally wore down even his most passionate haters. I believe that Russell Westbrook will win the 2017 MVP trophy.
+
+I just don’t know if it’s the right pick.
+
+(Getty Images)
+Twenty years ago, Jackie MacMullan swung the MVP vote from Michael Jordan by writing one “Wouldn’t it be nice if the Mailman finally won?” column for Sports Illustrated. In 2017, most media members agonize over their votes. Transparency helps — you can’t vote Westbrook or Harden fifth just to be a dick, and you can’t toss a fourth-place vote to your hometown star without everyone knowing. We also have better metrics, better access to games, better in-the-moment enjoyment tools, better everything. We breathe the league every single day. It’s a never-ending onslaught of information, opinion, dialogue, highlights and games.
+
+That constant noise spawns more peaks and valleys, more going-against-the-grain hot takes, more waffling, more getting-ahead-of-ourselves moments and waaaaaaaaaaay more hyperbole. (We’re on a historic pace in 2017 of people using the word “historic.”) For me, 2017 stands out as our first MVP Race On Demand. I wasn’t going to watch the Thunder tonight, but Westbrook has a 32–10–12 going through three quarters? I’m in! That made Westbrook-Harden-Kawhi-LeBron seem greater than it was. In reality, Stephen Curry’s 2016 résumé — 30–7–5, 50–45–91%, 5.1 made 3s, 31.5 PER, and oh yeah, SEVENTY-THREE WINS — trumps any 2017 MVP candidate.
+
+You know what made this year’s battle so delightful? The flaws.
+
+LeBron’s Cavs limped to a 23–23 record in their last 46 games; that dude hasn’t played for a 30-loss team in nine years. Kawhi would be remembered as our least impactful offensive MVP since Wes Unseld. Westbrook, by every conceivable metric, has been the biggest ball hog in NBA history; he’d also become the first MVP with fewer than 50 wins since 1982, when half the league was downing cocaine like it was vitamin B. Harden offers almost-as-big numbers as Westbrook and an undeniable ability to make teammates better … and yet, Houston won only eight more games than OKC.
+
+Can we call it the most entertaining MVP race ever? For sheer greatness, I would stick the following four ahead of it.
+
+(Getty Images)
+1987: Reigning three-time MVP Larry Bird submits his greatest start-to-finish season, throwing up a 28–8–9, creating the 50–40–90 Club (53–40–91% that year), setting the assists record for forwards and maintaining his Trash Talking/Basketball Jesus/Highlight Passing/Buzzer-Beating ceiling. He finishes … third!
+
+MJ grabs the torch as the league’s Next Great Superstar, breaks the non-Wilt record for points (37.1 PPG) and becomes the second player ever (still) to score more than 3,000 points in one season. He finishes … second!
+
+And Magic gently grabs the car keys from Kareem for a career year: 24–12–6, 65 wins, at least 2,927 thrilling plays and his first (deserved) MVP trophy. Signature seasons from two of the six best players ever coupled with a breakout season for the GOAT? Yeah, we’re not topping that one.
+
+1962: A frenetic pace juiced everyone’s numbers in the early ’60s, turning it into the NBA’s benevolent version of baseball’s Steroid Era (complete with beers and Marlboro Reds). Two-time MVP Bob Pettit averaged a 31–19 and finished sixth. Jerry West tossed up a 31–8–5 and finished fifth. Elgin Baylor played only 48 games thanks to military obligations; poor Elgin lived in an Army barracks in Washington, flying out whenever he could (usually weekends) in coach on planes that connected multiple times, and somehow averaged a 38–19–5 BECAUSE ELGIN BAYLOR WAS APPARENTLY SUPERHUMAN. He finished fourth. Oscar dropped his triple-double season and won MVP bronze. Wilt averaged 50 and 26, scored more than 4,000 points, dropped 100 on the Knicks … and finished second. And Russell was Russell: the best player on the best team, the greatest winner of all time. (He also averaged a 19–24 and probably blocked 230 shots a game.)
+
+Did you know the players voted back then? They gave Russell 51 of their 85 first-place votes; it’s a wonderful example of how they felt about Russell and Wilt. In my NBA book, I ranked Russell second, Wilt sixth, West ninth, Oscar 10th, Elgin 15th, and Pettit 17th. Wake me when we get another MVP race with (a) six of the best 20 players ever, (b) the runners-up averaging a triple-double or 50 points a game, and (c) someone moonlighting as a part-time NBA star who never practices and still averages 38.3 points per game.
+
+1993: After Phoenix stole Charles Barkley from the hapless Sixers, the Chuckster won our hearts on the ’92 Dream Team, then averaged a 26–12–5 on a charming 62-win Suns team. (If small-ball NBA offenses were video game systems, the ’93 Suns were Nintendo, Nash’s Suns were PlayStation, and Curry’s Warriors were Xbox One). The mainstream media had turned on an increasingly salty MJ (two straight MVPs, two straight rings, and six straight killer seasons, so his 33–7–6, 57 wins and first-team All-Defense somehow felt mundane), and they definitely weren’t excited about Hakeem’s outrageous Rockets season (26–13–4, 53% FG, 150 steals, 342 blocks, 55 wins, the best two-way center since Kareem) or Patrick Ewing anchoring Riley’s almost-champ Bully Ball Knicks (24–12, 60 wins, lots of sneering). It was more FUN to vote for Barkley.
+
+And look, there are hundreds of reasons to complain about the internet these days. Hundreds. Maybe thousands. Just know that the internet never, in a million bazillion katrillion years, would have allowed Michael Jordan to lose the ’93 and ’97 MVPs. He should have won seven, not five. But that ’93 race headlined a spectacular year for talent: the MJ-Barkley-Hakeem generation hitting its peak right as the Shaq-Kemp-Payton generation was spreading its wings. And seven fewer teams! 2017 reminds me of 1993 in that respect; if the 2017 playoffs can be 90 percent as good as the 1993 playoffs, everyone is going to lose their fucking minds.
+
+1990: Magic’s shakiest MVP season: 22–12–7 and 63 wins, only he couldn’t have defended Kevin Hart at that point. Barkley (25–12–4, 60% FG, 53 wins) garnered more first-place votes than Magic while playing for a mediocre Sixers team; he may have bested Magic if we’d have known about Barkley’s 66.1 true shooting percentage (????), 17.3 win shares, 27.1 PER, and 128 offensive rating. And MJ averaged a 33–7–6, dominated every advanced metric that we never knew about, and played his usual world-class defense on a 55-win Bulls team … only the idiotic “Michael doesn’t know how to make his teammates better” mainstream media backlash had blossomed into full-fledged ignorance. (Thank God Skip Bayless didn’t have a show back then.) Magic ran the league; Jordan hadn’t EARNED IT yet. Or something.
+
+(You know what? Jordan should have won eight MVPs. My bad, MJ. I counted wrong.)
+
+But here’s where 1990 goes to another level. Mailman (31–11, 56% FG, 55 wins) and Ewing (29–11, 4 BPG, 45 wins) had their best offensive seasons ever — repeat: EVER — and couldn’t crack the top three. Rookie David Robinson tossed up a 24–12 with 4 blocks and dragged the Spurs from 21 wins to 56 … all of which was good enough for sixth place. And Hakeem eked 41 wins out of a lousy Rockets team by doing this: 24–14, 50% FG, 2.1 steals, 4.6 blocks. I like a stat called “stocks” — it’s just blocks plus steals. Hakeem had 550 stocks that season. HE FINISHED SEVENTH. Vintage seasons from two of the best five players ever, three of the four best post-Kareem centers (including Hakeem, who’s a top-12 all-time guy) and two of the greatest power forwards ever? Yeeesh.
+
+Here’s the good news: 2017’s talent pool definitely mirrors that 1990–93 stretch. Check out my four All-NBA teams … and keep in mind that I can vote for only three.
+
+All-NBA Fourth Team
+
+Karl-Anthony TownsPaul GeorgeJimmy ButlerChris PaulDamian Lillard
+
+Notes: We’re so deep that Marc Gasol, Hassan Whiteside, Kyle Lowry, Kyrie Irving, Boogie Cousins and Klay Thompson couldn’t make my FOURTH team. Anyway, I couldn’t reward George and Butler with third-team spots for being the best players on fringe playoff teams. Chris Paul didn’t play enough games to steal a John Wall/DeMar DeRozan spot; the good news is that he’s officially grumpier than Clint Eastwood in Gran Torino. After the All-Star break, Towns averaged a 28–13 with inconceivable 60–43–84% splits — only a 50-loss season ruined his candidacy. And poor Dame Lillard … I don’t know what to say. I really don’t. After his All-Star snubbing, he averaged a 30–6–5 and dragged the Blazers into the playoffs … and I don’t have room for him. I feel terrible. Please don’t write a dis track about me, Dame.
+
+The Nuggets Have Finally Identified Their CornerstoneAfter a rough start, Denver has unleashed Nikola Jokic and is suddenly looking like one of the most exciting teams in…theringer.com
+
+All-NBA Third Team
+
+Nikola JokicDraymond GreenGordon HaywardJohn WallDeMar DeRozan
+
+Notes: We can’t penalize Jokic because his dopey coach needed two solid months to realize that he had the next Walton/Sabonis on his team. Since Christmas, Jokic has been 20–11–6 every night. Come on, Mike Malone. That’s like not realizing you were sitting on Netflix stock. As for Draymond, he’s been the night-to-night engine for the league’s superior team, as well as the most malleable elite defender since Dennis Rodman. When KD injured his knee, Green held down the fort as Golden State’s only rim protector. If Dray shot the ball better, and if his Uninterrupted videos were better, I would have flipped him with KD. I still fuck with Dray. (Sorry, I had to.) I don’t even hold it against him that, if he had never nailed LeBron in the balls, Durant would be on the Celtics right now. Fine, that’s not true.
+
+DeRozan proved that 2-guards could still score 27 a night on 18-footers, violent drives and free throws; you could easily imagine him playing with Frazier and DeBusschere 35 years ago. Wall’s breathtaking speed and athleticism would turn him into an internet legend if Westbrook didn’t exist; it’s amazing that he hasn’t hired Tonya Harding and Jeff Gillooly to take Westbrook out. And Hayward was the steadying offensive force on a sneaky-dangerous Jazz team — even if it feels weird naming someone with that beard-hair combo as one of the NBA’s best 15 players, there was no way around it. More important, he easily won 2017’s Mokeski Award as the league’s best white player. His first Mokeski! What a moment! Enjoy the trophy, Gordon. See you in Boston in October.
+
+All-NBA Second Team
+
+Anthony DavisGiannis AntetokounmpoKevin DurantStephen CurryIsaiah Thomas
+
+Notes: This summer, we’re sending a SWAT team to New Orleans to get AD out of there. It’s time. I’m thinking mid-July, when nobody is paying attention. We can’t allow him to turn into this generation’s KG. Meanwhile, Thomas single-handedly won about 20 Celtics games, carried their nightly scoring burden (and then some), helped steal a 1-seed and quietly tossed up the greatest advanced metrics season by a 6-foot-and-under guy. (Throwing up a 29–6 every night with 3.2 3-pointers and 46/38/91% splits while playing just 34 minutes a game? And smarter defenses basically doubling you as soon as you crossed midcourt? I’m still processing that one.)
+
+Isaiah Thomas: “I Feel Like I’m the Best Player in the World”The Celtics guard discusses what it takes to be one of the greatstheringer.com
+
+As for my podcast pal Durant, he gooses the MVP race to another level if Zaza never cut-blocks him like Richie Incognito. Even with KD missing 21 games, the Warriors finished 67–15 with one of the five highest point differentials ever. Let’s say KD avoids Zaza, bumps them to 70 wins and finishes 27–9–6 with 50/40/90%, underrated rim protection, and the highest night-to-night efficiency of anyone. Would he have supplanted Kawhi as the “best guy on the best team” choice? (I say yes.) Give me 61 KD games over 72 to 82 games of any forward not named LeBron, Kawhi or Giannis. His teammate Curry snares my no. 5 MVP spot for (a) being the most reliable star on the league’s best-by-far team; (b) having one of the better quote-unquote “off years”: 25–7–5, 47–41–90%, 324 threes (second highest ever); and (c) his usual terrorizing of defenders who spend Warriors games yelling, “Don’t lose him! Where is he? SWITCH!”
+
+And by the way, shout-out to Curry for leading the way on this:
+
+2015–17 Warriors: 207–391996–98 Bulls: 203–431984–86 Celtics: 192–541985–87 Lakers: 189–57
+
+That’s insane. As for Giannis, the Freak’s breakout season — 23–5–9, 52% FG and a 6-seed for the injury-ravaged Bucks — easily earned him Unicorn of the Year honors despite Jokic’s late charge. Sadly, the NBA’s digital ballot rejected Giannis as my first-team center, even if the Freak could have fake-protected the fake rim on our fake team. (Could we have handled our fake business on both fake ends with the Freak, Kawhi, LeBron, Russ and the Beard? Please.) I settled on … Rudy Gobert, my runner-up for Defensive Player of the Year, an offensive/defensive ratings god, an occasionally dominant force for the 50-win Jazz, the second-best French player ever, and a lifelong cautionary tale for anyone thinking about trading backward in the NBA draft just for cash.
+
+Speaking of that first team …
+
+All-NBA First Team
+
+Rudy GobertLeBron JamesKawhi LeonardRussell WestbrookJames Harden
+
+It’s MVP time. We’re sticking with my four tried-and-true MVP questions, which have determined every MVP vote for me since the early 1920s.
+
+Question 1: If you replaced each MVP candidate with a decent player at his position for the entire season, what would be the hypothetical effect on his team’s record?
+
+We’re using Marcus Morris and Jordan Clarkson as our “decent” replacements — Morris for Kawhi and LeBron, Clarkson for Westbrook and Harden. No offense, Marcus. Seriously, I don’t want the Morris brothers mad at me.
+
+(Thinking.)
+
+Actually, we’re going to use Kent Bazemore and Jordan Clarkson as our “decent” replacements — Bazemore for Kawhi and LeBron, Clarkson for Westbrook and Harden.
+
+San Antonio fares the best because of its Belichickian infrastructure; it’s hard to imagine them dipping below 47 wins even if Aldridge, Gasol, Ginobili, Green, Parker and Pop’s beard were all better three years ago. On my podcast once, Seth Meyers described everything Lorne Michaels built as “The Machine” — stars come and go, writers come and go, trends come and go, but the SNL machine keeps cranking out shows and remaining relevant. Trust the machine, Seth said. He might as well have been discussing the Spurs.
+
+And that’s the best anti-Kawhi case other than his offensive impact (not nearly as profound as we usually expect from an MVP) and his workload (74 games, 33.4 MPG and just 2,474 total minutes). Only three MVPs played less than 2,650 minutes and weren’t sidetracked by a lockout or strike: Curry in 2015 (2,613), Steve Nash in 2005 (2,573), and Bill Walton in the 1978 season (when he broke his foot, played just 1,929 minutes and still won). The Machine doesn’t care; the Machine cares only about the playoffs. The Machine isn’t built to spit out MVP candidates.
+
+If you switch Bazemore for LeBron, Cleveland gears its offense around Kyrie and Love and probably loses 18 to 20 wins, with an outside chance of turning into Portland East (a super-fun offensive team that can’t guard anyone). Clarkson dents Houston and OKC in a more profound way; both teams would free-fall into the 20–25-win range. The Thunder’s brain trust did everything possible to turn this post-KD season into a one-man MVP show, a savvy move for two reasons: They knew Russ wanted to shove it down Durant’s throat, and they wanted to create a new narrative that wasn’t “Kevin Durant ditched Oklahoma City for a bigger market and a franchise that might actually splurge on its players and try to keep the best ones.” Replacing Westbrook with anyone this season would be like replacing Louis CK in a Louis CK special.
+
+As for Houston, remember when Mike D’Antoni built Steve Nash a high-powered, ridiculously explosive race car in Phoenix that only Nash could drive? They did the same thing here: Every roster move and big-picture offensive decision was intended to leverage Harden’s unparalleled slash-and-kick ability. D’Antoni modernized that 2006 Suns car and accounted for better spacing, more 3s, and more screen-and-lobs, then handed the keys to Harden and stayed out of the way. You know who’s driving that car into a wall? Jordan Clarkson. And since it’s a steeper drop from 55 wins to 20–25 wins, Harden wins Question 1.
+
+Question 2: In a giant pickup game with every NBA player available and two knowledgeable fans forced to pick five-man teams, with their lives depending on the game’s outcome, who would be the first player picked based on how everyone played that season? (Translation: Who’s the alpha dog that season?)
+
+Anyone who doesn’t say “LeBron” is lying. You just are. For one game only, his ceiling is three floors higher than anyone else. We’re all taking LeBron. Kawhi’s defensive prowess makes him my second pick, especially if we’re applying the Bob Ryan Doomsday Scenario — if aliens landed and challenged us to a game of hoops, and we had to pick five guys to save the world. (I’d want Kawhi just in case they had a 6-foot-9 alien with five arms that we needed to lock down.) I’d pick Harden 3A and Westbrook 3B. If you have Russ, win or lose, Russ and only Russ is deciding the game’s outcome. Is that a good thing? My biggest gripe with his 2016–17 campaign: his unwillingness to allow anyone else to do anything. I have one of those 100 percent full-blooded Italian moms who invites you over for dinner and does everything short of cutting your food and chewing it for you. Every pre-dinner exchange goes like this:
+
+Can we bring anything?
+
+No.
+
+Can we help in any way?
+
+No.
+
+Can I put salt on my food?
+
+No.
+
+Can I pour my own wine?
+
+No.
+
+That’s Westbrook this season. He took 370 more shots than anyone else. He missed nearly 14 shots a game. He shattered the usage rate record (41.7%) and almost shattered the assist percentage rate (57.3%), a level of ball-hoggery that has no track record of ever translating to real NBA success (as covered in my Westbrook column last month). And yet, his night-to-night relentlessness was unlike anything that’s ever happened in the league. Who played harder for six straight months than Russell Westbrook just did? Did you ever see Russ tired? Did you ever see him sweat? Did you ever see him breathing heavily? Have you ever seen a basketball star with a bottomless stamina tank? This wasn’t an MVP season; this was performance art. Russell Westbrook gave more shits than anyone in the history of shits.
+
+And look, there’s barely any difference between Westbrook’s 32–11–10 and Harden’s 29–11–8. (I’d rather have the 29–11–8 and 400 more shots going to everyone else.) But the maniacal night-to-night drive that propelled Westbrook into the Oscar Club? Forty-two triple-doubles in 81 games? All those rebounds? All those times he went coast-to-coast, bounced off dudes like Zeke Elliott and finished in traffic? All those clutch shots when his legs should have been dead? I’ve never seen anything like it. Could LeBron match that passion for any 48-minute game? Fuck yeah. But for 82 games? No way. With 14 years of NBA miles on him, he couldn’t even do it for a month. LeBron wins Question 2, but Westbrook kind of wins it too.
+
+Question 3: If you’re explaining your MVP pick to someone who has a favorite player in the race — and your pick was a different player — will he/she at least say something like, “Yeah, I don’t like it, but I see how you arrived at that choice”?
+
+Anyone with half a basketball brain sees the cases for Kawhi, Harden and Westbrook. But if any Spurs, Rockets or Thunder fan heard a LeBron pick, they’d immediately shriek, “They went 23–23 in their last 46! He had Kyrie and Love on his team! He won only four more games than Russ!” Cross the King off. Stick him in fourth place. By the way, LeBron averaged 26–9–9, shot 55 percent and locked himself into another First-Team All-NBA selection and top-five MVP vote, which means he has the following streaks going:
+
+1. Six straight Finals, with maybe a seventh coming
+
+2. Twelve straight top-five MVP seasons
+
+3. Ten straight First-Team All-NBAs
+
+4. Thirteen straight seasons averaging at least a 25–6–6
+
+5. He’s still averaging a 27–7–7 with 50.1% shooting … FOR HIS ENTIRE CAREER.
+
+Don’t shed any tears for LeBron’s inevitable fourth-place MVP finish. He’s fine. But if there were ever a season for LeBron to steal one last MVP trophy and pull even with MJ, this was the one. He won’t ever get this close again, not unless he goes Lance Armstrong on us. If Maverick Carter starts flying to Germany every week this summer to allegedly raise funding for Space Jam 2, we’ll know something’s up.
+
+(Getty Images)
+Question 4: Ten years from now, who will be the first player from that season who pops into my head? (Every season belongs to someone to varying degrees.)
+
+The case for Kawhi: wins, efficiency, two-way play at the highest of levels. He’s the NBA’s third-best defensive player AND the league’s sixth-best offensive player AND everyone’s pick if we needed one defender to stop any great scorer in the last minute of any playoff game.
+
+The case against Kawhi: The 2016–17 season belonged to Westbrook’s triple-double chase and the Durant-Russ feud, then the Warriors, then Harden and Moreyball, then the overflowing batch of explosive guards (Curry, Thomas, Wall, Lillard, Kyrie, etc.), then the unicorns (Giannis, Jokic, Porzingis, Embiid, maybe Towns), then LeBron’s bizarre Cavs season, then Tankapalooza 2017 … and maybe THEN you’d remember Kawhi and the Spurs? He would own the NBA season less than any MVP I can ever remember. Just for fun, here’s “who owned the season” in the 21st century.
+
+2000: Shaq (MVP), then C-Webb/Kings2001: Iverson (MVP), then Peak Shaqobe2002: Duncan (MVP), then Kidd/Nets, then C-Webb/Kings2003: Duncan (MVP), then T-Mac’s monster season2004: Garnett (MVP), then the bizarre Lakers (and Kobe’s trial)2005: Nash (MVP), then Shaq/Miami, then the Artest melee2006: Kobe, then Nash (MVP), then Dirk/Mavs2007: Nash/Suns, then Dirk (MVP), then LeBron/Cavs2008: KG/Celts, then Kobe (MVP), then CP3, then T-Mac/Houston2009: LeBron (MVP), then Kobe/Lakers2010: LeBron (MVP), then Kobe/L.A., then Nash/Suns2011: Rose (MVP), then LeBron/Wade/Bosh2012: LeBron (MVP), then Lob City, then Durant/OKC, then Boston’s last stand2013: LeBron (MVP), then the Harden trade2014: Durant (MVP), then LeBron/Miami, then Duncan/Spurs2015: Curry (MVP), then LeBron/Cavs, then Harden, then Westbrook2016: Curry (MVP), then LeBron/Cavs, then Durant/Westbrook
+
+You could glance at any of those names and say, “Oh yeah, that’s when [blank] happened.” That’s happening with MVP Kawhi and the 2017 Spurs? Come on. I spent the past week trying to talk myself into him — because of San Antonio’s success, and because they’d never have anyone chase an MVP award like Westbrook did (and, to a lesser degree, like Harden did). But I couldn’t get there. It’s my own fault. I want my MVP to stand out in some uniquely impactful way. It’s not baseball. It’s not the Advanced Metrics Award. There’s a performance art/water cooler/alpha dog wrinkle that Kawhi just never offered, mainly because the Pop Machine would never want him to have it. He’s my third-place MVP pick.
+
+Spoiler alert: I’m not voting for Westbrook, either. Was Russ the FUN pick? Absolutely. Did he own the season? Absolutely — he won Question No. 4. But he wasn’t playing for the 2001 Sixers; he didn’t have to do absolutely everything at the expense of never developing/nurturing/testing anyone else.
+
+Remember when we came out of the 2016 playoffs raving about how much we liked Steven Adams, Enes Kanter, and Andre Roberson? Why didn’t they get any better? Why wasn’t Adams as devastating in OKC as the Capela-Nene-Harrell trio was for Houston? Why wasn’t Oladipo BETTER on a much better team? Why did they dump Ersan Ilyasova after only three games, and why wasn’t it a bigger deal when he thrived in Philly and Atlanta? Why such a wasted rookie year for Domantas Sabonis? Everyone acts like Russ is playing with the Washington Generals — he has two top-three lottery picks and three other lottery picks in their playing rotation. Kanter and Oladipo have near-max deals. Adams has a nine-figure deal coming. Ilyasova scored 15 a night on Philadelphia. Those guys sucked? If a superstar guarantees you 45 wins, then Westbrook dragged them to … 47 wins? What?
+
+Meanwhile, the Rockets were pegged as a fringe playoff team with only one All-Star and even lower expectations than OKC. And we didn’t know what to expect with Harden. After he finished second in the 2015 MVP voting, the Dwightbola virus turned him into a smoke-and-mirrors superstar last season. Why didn’t it seem like he cared? Was he turning into a glorified DH? This year, a rejuvenated Harden grabbed the point guard reins (why doesn’t he get more credit for switching positions, by the way?), made a bunch of role players better and transformed the Rockets into the league’s second-best offense. And not just that — they finished with one of the TEN BEST REGULAR-SEASON OFFENSES OF All TIME. (Here, look.)
+
+(Getty Images)
+Did Harden resonate as a performer like Westbrook did? Of course not. How do you compete with the NBA’s John Wick? Just don’t sleep on Harden’s magical passing, his Ginobili 2.0 slash-and-kick game, his famous Eurosteps, his surreal ability to find open shooters from every conceivable angle, his heat-check 3s, his occasional WTF box scores (an MVP staple), his annoyingly effective tactic of leaping suddenly into off-balance defenders for fake 3s (he’s the master at getting those calls), and his herky-jerky southpaw game that’s basically a one of one. You’d defend Russ by playing off him and hoping he jacks up 3s. You’d have no idea how to defend Harden. He’s just as durable as Westbrook, he’s almost as relentless and he’s even more dangerous because he uses everyone else on his team.
+
+And if you plugged this Harden season into a normal NBA year, when we weren’t obsessing over feuds, triple-doubles, body language, an endless barrage of 50-point games and everything else? We would have run out of ways to write Harden-D’Antoni comeback pieces two months ago. They figured out a better way to do Nash’s Suns while nearly reenacting Tiny Archibald’s legendary points-assists season? What???? But in that crowded 2017 landscape, Harden’s mega-season has yielded only some kudos, Chris Ryan’s Oscar contender Moreyball and that’s it.
+
+I loved watching Westbrook this season. Repeat: I loved it. I never imagined we’d see a Big O/triple-double sequel, just like I never imagined that Kobe could average 35 a game, or that Ron Artest could fight an entire section of Pistons fans without getting shanked. But if it’s down to Harden and Westbrook, and both sides are relatively equal, and we’re voting on offensive impact and team success over everything else and that breakdown comes down to this …
+
+47 wins, 17th-ranked offense, zero chance of winning the title
+
+55 wins, second-ranked offense (10th all time), puncher’s chance of winning the title
+
+… I mean, what are we arguing about? And why the hell did it take me so long? I’m picking James Harden.

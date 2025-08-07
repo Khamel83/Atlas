@@ -1,0 +1,40 @@
+{
+  "uid": "a23de9ccaf8c173b",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://qz.com/779488/j-crew-cast-normal-people-as-its-models-at-new-york-fashion-week-2016-and-it-was-a-triumph/",
+  "title": "J.Crew cast normal people as its models at New York Fashion Week, and it was a triumph Quartz",
+  "status": "selection_content_extracted",
+  "date": "2016-09-12T14:22:40",
+  "error": null,
+  "content_path": "output/articles/markdown/a23de9ccaf8c173b.md",
+  "html_path": "output/articles/html/a23de9ccaf8c173b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4321,
+    "selection_length": 2031,
+    "cleaned_selection_length": 2078,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a23de9ccaf8c173b",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1473715360",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The models who stood around the edges of a sun-filled gallery in downtown Manhattan on Sunday (Sept. 11), were not the typical young, porcelain-skinned sort who can effortlessly pull off fuchsia lipstick. Rather, visitors to J.Crew’s presentation at New York Fashion Week met a diverse cast of characters, who varied in their ages, sizes, and skin-tones.\n\nThe American retail giant’s creative director Jenna Lyons said that many were J.Crew staffers, along with their friends and families, and noted that their ages ranged from 13 to 72 years old. One was seven months pregnant. (She wore a tie-front jumpsuit and sensible shoes.)\n\nTheir hair was a little bit messy, but more in a “I’m-a-stylish-human” way than a “model-off-duty” way. They mouthed “Hello!” to their friends, and sometimes broke character to offer a hug, take a sip of water, or tend to a child.\n\n rather than using professional models, @jcrew used staffers, friends, and family for today's show…and they still look like a j.crew catalog!\n\nA video posted by Jenni Avins (@jenniavins) on Sep 11, 2016 at 1:46pm PDT\n\nThe overall effect was lovely—and smart, in a moment when J.Crew’s sales have been slipping. Loyal customers have complained that more risky, fashion-forward looks are too much of a departure from J.Crew’s casual, preppy roots. The company has gone to great lengths to address this. (Full disclosure: They resurrected a swimsuit from the 1990s after I requested it.)\n\n Our crew in blue: Tamu M., photographer & style obsessive, Natasha J., LA-based baker, and Aaron M., women's designer & Nantucket native. See more from our show on our Instagram Story. #jcrewnyfw\n\nA photo posted by J.Crew (@jcrew) on Sep 11, 2016 at 1:58pm PDT\n\nThe collection was full of the brand’s signatures: stripes, chambray, and loads of khaki—with the odd polka-dotted crinoline and bubblegum-pink pajama shirt thrown in. By styling the presentation on a cast of non-models, J.Crew seemed to be stating loudly, to all those loyal customers: This will look good on you too.",
+    "cleaned_selection": "<p>The models who stood around the edges of a sun-filled gallery in downtown Manhattan on Sunday (Sept. 11), were not the typical young, porcelain-skinned sort who can effortlessly pull off fuchsia lipstick. Rather, visitors to J.Crew’s presentation at New York Fashion Week met a diverse cast of characters, who varied in their ages, sizes, and skin-tones.</p><p>The American retail giant’s creative director Jenna Lyons said that many were J.Crew staffers, along with their friends and families, and noted that their ages ranged from 13 to 72 years old. One was seven months pregnant. (She wore a tie-front jumpsuit and sensible shoes.)</p><p>Their hair was a little bit messy, but more in a “I’m-a-stylish-human” way than a “model-off-duty” way. They mouthed “Hello!” to their friends, and sometimes broke character to offer a hug, take a sip of water, or tend to a child.</p><p> rather than using professional models, @jcrew used staffers, friends, and family for today's show…and they still look like a j.crew catalog!</p><p>A video posted by Jenni Avins (@jenniavins) on Sep 11, 2016 at 1:46pm PDT</p><p>The overall effect was lovely—and smart, in a moment when J.Crew’s sales have been slipping. Loyal customers have complained that more risky, fashion-forward looks are too much of a departure from J.Crew’s casual, preppy roots. The company has gone to great lengths to address this. (Full disclosure: They resurrected a swimsuit from the 1990s after I requested it.)</p><p> Our crew in blue: Tamu M., photographer & style obsessive, Natasha J., LA-based baker, and Aaron M., women's designer & Nantucket native. See more from our show on our Instagram Story. #jcrewnyfw</p><p>A photo posted by J.Crew (@jcrew) on Sep 11, 2016 at 1:58pm PDT</p><p>The collection was full of the brand’s signatures: stripes, chambray, and loads of khaki—with the odd polka-dotted crinoline and bubblegum-pink pajama shirt thrown in. By styling the presentation on a cast of non-models, J.Crew seemed to be stating loudly, to all those loyal customers: This will look good on you too.</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.290952",
+  "updated_at": "2025-08-06T08:47:04.290954"
+}

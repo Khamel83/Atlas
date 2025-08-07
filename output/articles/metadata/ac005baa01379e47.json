@@ -1,0 +1,40 @@
+{
+  "uid": "ac005baa01379e47",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.bloomberg.com/news/features/2020-09-17/facebook-and-mark-zuckerberg-need-trump-even-more-than-trump-needs-facebook",
+  "title": "Facebook Needs Trump Even More Than Trump Needs Facebook",
+  "status": "selection_content_extracted",
+  "date": "2020-09-17T08:54:28",
+  "error": null,
+  "content_path": "output/articles/markdown/ac005baa01379e47.md",
+  "html_path": "output/articles/html/ac005baa01379e47.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2761,
+    "selection_length": 126,
+    "cleaned_selection_length": 133,
+    "domain": "bloomberg.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ac005baa01379e47",
+  "type_specific": {
+    "folder": "Unread",
+    "instapaper_timestamp": "1600358068",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "https://www.bloomberg.com/news/features/2020-09-17/facebook-and-mark-zuckerberg-need-trump-even-more-than-trump-needs-facebook",
+    "cleaned_selection": "<p>https://www.bloomberg.com/news/features/2020-09-17/facebook-and-mark-zuckerberg-need-trump-even-more-than-trump-needs-facebook</p>",
+    "domain": "bloomberg.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.602339",
+  "updated_at": "2025-08-06T08:47:03.602342"
+}

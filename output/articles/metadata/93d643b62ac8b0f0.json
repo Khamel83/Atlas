@@ -1,0 +1,40 @@
+{
+  "uid": "93d643b62ac8b0f0",
+  "content_type": "instapaper",
+  "source": "https://www.theverge.com/2017/9/4/16251200/apple-leaked-iphone-warranty-guide-repair-replace",
+  "title": "Apple leak shows how it decides to repair or replace iPhones The Verge",
+  "status": "success",
+  "date": "2025-08-05T14:00:26.168702",
+  "error": null,
+  "content_path": "output/articles/markdown/93d643b62ac8b0f0.md",
+  "html_path": "output/articles/html/93d643b62ac8b0f0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "df3dd118358cdedd32f0cd7416514fb9",
+  "type_specific": {
+    "bookmark_id": 950869425,
+    "instapaper_time": 1504534184,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:00:26.168731",
+  "updated_at": "2025-08-05T14:00:26.168735"
+}

@@ -1,0 +1,113 @@
+# A linguist explains why Trump’s silence about big issues is a brilliant power move Quartz
+
+**Source:** https://qz.com/933702/a-linguist-explains-why-trumps-silence-about-big-issues-is-a-brilliant-power-move/  
+**Domain:** qz.com  
+**Folder:** Feedly  
+**Added:** 2017-03-16T05:32:44  
+**Content Type:** Selection Content Extracted  
+**Selection Length:** 4,711 characters  
+
+
+---
+
+## Selected Content
+
+In recent weeks, a lot of people have condemned US president Donald’s Trump’s silence on the xenophobic murder of Srinivas Kuchibhotla, an Indian immigrant. The president finally spoke up, six days later, and many critiqued his response as too little, too late.
+
+Why did he wait so long? And given how often he’s been attacked for his silence on various issues, why does he continue to wait before speaking up?
+
+When linguists discuss the art of conversation, we often reference turn-taking. If only one person is speaking, it’s obvious who holds the floor. When multiple people are speaking at once, it only becomes clear in retrospect who held the floor. But who holds the floor when nobody is speaking? And at what point does a pause become a silence?
+
+Who owns a silence?
+
+Sometimes a silence is heard as belonging to nobody in particular. But more often silence is coupled with an expectation for a particular person to speak. In those cases, the silence “belongs” to that particular person—and other participants in the interaction will treat it that way. Consider what happens if someone is called on by name but does not respond:
+
+“What do you think, Jena?”[silence]
+
+What’s likely to come next? Among the possibilities are “Earth to Jena?” “Are you mad?” and “So you don’t like it, then?” Each of these construes the meaning of the silence differently—but all of them treat the silence as a meaningful turn.
+
+Events build on the way silence—or any turn in conversation—is construed, rather than on the speakers’ intentions. A recent example was Warren Beatty’s silence before announcing the Best Picture winner at the 2017 Oscars. His co-presenter interpreted his silence as a teasing attempt to build suspense—but as we later learned, Beatty was unsure how to handle what turned out to be an incorrect cue card.
+
+Like all conversational norms, silence is cultural; it means different things in different places. Even the length of time that differentiates ‘waiting for someone else to finish their turn’ from ‘choosing not to answer’ is cultural, and depends on who you are and where you are.
+
+Consider the American aphorism if you don’t have something nice to say, don’t say it at all. It works in reverse, too: We often understand silence to mean you have nothing nice to say. If you had a positive comment to hand, why wouldn’t you just say it?
+
+Silence as security
+
+And yet silence can provide its own defense:
+
+“Do you like it?”
+[silence]
+“So you don’t like it.”
+“I didn’t say I didn’t!”
+
+Silence is one way to avoid going on the record. It suggests an unwillingness to commit to any particular response. And that lack of commitment allows for plausible deniability after the fact.
+
+A silence before speaking, whether it’s short or long, communicates hesitation or doubt about the speech that follows. Consider how you’d feel if someone turned to you and said “Your new haircut is [pause] really nice.” You’d doubt if they really liked it, and your doubt would be entirely due to the pause. As Deborah Tannen says in her essay Silence: Anything But, “Whether or not silence is uncomfortable in interaction hinges on whether or not participants feel something should be said, in which case silence is perceived as an omission.”
+
+The president’s silences
+
+Trump’s silences are strategic. Far from learning to speak up more quickly after acts of hate, he is learning just the opposite: that a statement made after a long pause allows him to have his cake and eat it too.
+
+It’s a three-step process:
+
+First, something terrible happens, and people demand the president condemn it or make some sort of statement.
+
+Second, the president does not respond. This silence does not commit him to one position or the other. However, as more and more people call for him to say something in particular, expectations for him to speak grow. As a result, the silence is increasingly understood as a “turn,” rather than the absence of one—and that turn is taken to communicate tacit approval of the opposite stance.
+
+Third, the president eventually speaks up to decry whatever he’s being asked to decry. The delay provides plausible deniability. In response to too-little-too-late critiques, he’s able to say that after we asked him to speak up, he did. What more could we want? And yet the doubt communicated in the silence remains, allowing him to appease those who did not want him to speak up in the first place.
+
+Silence is a powerful tool in Trump’s plausible deniability toolkit. But those of us who oppose him have our own powerful tools: We can continue to hold him accountable for his silences, even after he finally speaks.
+
+Learn how to write for Quartz Ideas. We welcome your comments at ideas@qz.com.
+
+---
+
+*This content was extracted from your Instapaper Selection field.*
+
+Why did he wait so long? And given how often he’s been attacked for his silence on various issues, why does he continue to wait before speaking up?
+
+When linguists discuss the art of conversation, we often reference turn-taking. If only one person is speaking, it’s obvious who holds the floor. When multiple people are speaking at once, it only becomes clear in retrospect who held the floor. But who holds the floor when nobody is speaking? And at what point does a pause become a silence?
+
+Who owns a silence?
+
+Sometimes a silence is heard as belonging to nobody in particular. But more often silence is coupled with an expectation for a particular person to speak. In those cases, the silence “belongs” to that particular person—and other participants in the interaction will treat it that way. Consider what happens if someone is called on by name but does not respond:
+
+“What do you think, Jena?”[silence]
+
+What’s likely to come next? Among the possibilities are “Earth to Jena?” “Are you mad?” and “So you don’t like it, then?” Each of these construes the meaning of the silence differently—but all of them treat the silence as a meaningful turn.
+
+Events build on the way silence—or any turn in conversation—is construed, rather than on the speakers’ intentions. A recent example was Warren Beatty’s silence before announcing the Best Picture winner at the 2017 Oscars. His co-presenter interpreted his silence as a teasing attempt to build suspense—but as we later learned, Beatty was unsure how to handle what turned out to be an incorrect cue card.
+
+Like all conversational norms, silence is cultural; it means different things in different places. Even the length of time that differentiates ‘waiting for someone else to finish their turn’ from ‘choosing not to answer’ is cultural, and depends on who you are and where you are.
+
+Consider the American aphorism if you don’t have something nice to say, don’t say it at all. It works in reverse, too: We often understand silence to mean you have nothing nice to say. If you had a positive comment to hand, why wouldn’t you just say it?
+
+Silence as security
+
+And yet silence can provide its own defense:
+
+“Do you like it?”
+[silence]
+“So you don’t like it.”
+“I didn’t say I didn’t!”
+
+Silence is one way to avoid going on the record. It suggests an unwillingness to commit to any particular response. And that lack of commitment allows for plausible deniability after the fact.
+
+A silence before speaking, whether it’s short or long, communicates hesitation or doubt about the speech that follows. Consider how you’d feel if someone turned to you and said “Your new haircut is [pause] really nice.” You’d doubt if they really liked it, and your doubt would be entirely due to the pause. As Deborah Tannen says in her essay Silence: Anything But, “Whether or not silence is uncomfortable in interaction hinges on whether or not participants feel something should be said, in which case silence is perceived as an omission.”
+
+The president’s silences
+
+Trump’s silences are strategic. Far from learning to speak up more quickly after acts of hate, he is learning just the opposite: that a statement made after a long pause allows him to have his cake and eat it too.
+
+It’s a three-step process:
+
+First, something terrible happens, and people demand the president condemn it or make some sort of statement.
+
+Second, the president does not respond. This silence does not commit him to one position or the other. However, as more and more people call for him to say something in particular, expectations for him to speak grow. As a result, the silence is increasingly understood as a “turn,” rather than the absence of one—and that turn is taken to communicate tacit approval of the opposite stance.
+
+Third, the president eventually speaks up to decry whatever he’s being asked to decry. The delay provides plausible deniability. In response to too-little-too-late critiques, he’s able to say that after we asked him to speak up, he did. What more could we want? And yet the doubt communicated in the silence remains, allowing him to appease those who did not want him to speak up in the first place.
+
+Silence is a powerful tool in Trump’s plausible deniability toolkit. But those of us who oppose him have our own powerful tools: We can continue to hold him accountable for his silences, even after he finally speaks.
+
+Learn how to write for Quartz Ideas. We welcome your comments at ideas@qz.com.

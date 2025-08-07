@@ -1,0 +1,40 @@
+{
+  "uid": "dfaf5e7a46614159",
+  "content_type": "instapaper",
+  "source": "https://www.getrichslowly.org/financial-rules-of-thumb/",
+  "title": "18 favorite financial rules of thumb (and some useful money guidelines) Get Rich Slowly",
+  "status": "success",
+  "date": "2025-08-05T13:49:33.426043",
+  "error": null,
+  "content_path": "output/articles/markdown/dfaf5e7a46614159.md",
+  "html_path": "output/articles/html/dfaf5e7a46614159.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "353e491b1127c7db928d7068117d7467",
+  "type_specific": {
+    "bookmark_id": 1056134152,
+    "instapaper_time": 1526360769,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:49:33.426097",
+  "updated_at": "2025-08-05T13:49:33.426101"
+}

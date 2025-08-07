@@ -1,0 +1,40 @@
+{
+  "uid": "e73fd380446bbfef",
+  "content_type": "instapaper",
+  "source": "https://slate.com/human-interest/2019/04/sex-workers-cancer-treatment-gift-advice.html",
+  "title": "I Want to Buy My Dying Mom One Last Night With a Stud. Should I Tell Her I Paid Him Slate Magazine",
+  "status": "success",
+  "date": "2025-08-05T13:45:05.120489",
+  "error": null,
+  "content_path": "output/articles/markdown/e73fd380446bbfef.md",
+  "html_path": "output/articles/html/e73fd380446bbfef.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7fc5bd84058704c011ff11e93c40544b",
+  "type_specific": {
+    "bookmark_id": 1187611415,
+    "instapaper_time": 1556376127,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:45:05.120518",
+  "updated_at": "2025-08-05T13:45:05.120522"
+}

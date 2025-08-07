@@ -1,0 +1,42 @@
+{
+  "uid": "74dc0ec705890e88",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1658113942",
+  "title": "💥Lender on Lender Violence is Back! And on Steroids. Part III.💥",
+  "status": "success",
+  "date": "2025-08-05T13:38:19.911130",
+  "error": null,
+  "content_path": "output/articles/markdown/74dc0ec705890e88.md",
+  "html_path": "output/articles/html/74dc0ec705890e88.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e57e87516df9c15062bc87dff518481d",
+  "type_specific": {
+    "bookmark_id": 1658113942,
+    "instapaper_time": 1705323873,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:38:19.911212",
+  "updated_at": "2025-08-05T13:38:19.911470"
+}

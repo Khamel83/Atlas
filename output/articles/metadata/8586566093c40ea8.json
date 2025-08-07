@@ -1,0 +1,26 @@
+{
+  "uid": "8586566093c40ea8",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1753371268",
+  "title": "Long Questions/Short Answers",
+  "status": "success",
+  "date": "2025-08-06T13:15:50.023036",
+  "error": null,
+  "content_path": "output/articles/markdown/8586566093c40ea8.md",
+  "html_path": "output/articles/html/8586566093c40ea8.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1753371268,
+    "content_length": 37350,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1753371268,
+    "instapaper_time": 1739367987,
+    "is_private_content": true,
+    "content_length": 37350
+  },
+  "created_at": "2025-08-06T13:15:50.023040",
+  "updated_at": "2025-08-06T13:15:50.023041"
+}

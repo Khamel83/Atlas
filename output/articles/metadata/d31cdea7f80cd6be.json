@@ -1,0 +1,28 @@
+{
+  "uid": "d31cdea7f80cd6be",
+  "content_type": "instapaper_starred_additional_content",
+  "source": "https://www.nytimes.com/2025/03/26/opinion/young-maga-trump-vote.html",
+  "title": "This Is Why Young People Really Voted for Trump",
+  "status": "success",
+  "date": "2025-08-06T13:40:59.407372",
+  "error": null,
+  "content_path": "output/articles/markdown/d31cdea7f80cd6be.md",
+  "html_path": "output/articles/html/d31cdea7f80cd6be.html",
+  "fetch_method": "instapaper_api_starred_folder_maximization",
+  "fetch_details": {
+    "bookmark_id": 1763458309,
+    "content_length": 19512,
+    "successful": true,
+    "extraction_batch": "maximization_discovery",
+    "folder": "starred"
+  },
+  "type_specific": {
+    "bookmark_id": 1763458309,
+    "instapaper_time": 1743019575,
+    "folder": "starred",
+    "content_length": 19512,
+    "discovery_method": "folder_deep_dive"
+  },
+  "created_at": "2025-08-06T13:40:59.407377",
+  "updated_at": "2025-08-06T13:40:59.407378"
+}

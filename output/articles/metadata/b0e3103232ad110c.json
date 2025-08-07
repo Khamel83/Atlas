@@ -1,0 +1,40 @@
+{
+  "uid": "b0e3103232ad110c",
+  "content_type": "instapaper",
+  "source": "https://food52.com/blog/21465-fried-chicken-recipes-from-all-around-the-world",
+  "title": "Crispy, Crunchy Fried Chicken Knows No Borders Food52",
+  "status": "success",
+  "date": "2025-08-05T13:52:04.929921",
+  "error": null,
+  "content_path": "output/articles/markdown/b0e3103232ad110c.md",
+  "html_path": "output/articles/html/b0e3103232ad110c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "12f2e47080ec6292e55c18cc995ea9d4",
+  "type_specific": {
+    "bookmark_id": 1012806967,
+    "instapaper_time": 1517534383,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:52:04.929954",
+  "updated_at": "2025-08-05T13:52:04.929957"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "d5f2e02841eba8c0",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/2019/3/7/18254616/2020-democrats-ilhan-omar-israel",
+  "title": "Three 2020 Democrats express concern that attacks against Ilhan Omar will stifle debate on Israel Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:45:43.618286",
+  "error": null,
+  "content_path": "output/articles/markdown/d5f2e02841eba8c0.md",
+  "html_path": "output/articles/html/d5f2e02841eba8c0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "087d9fff8d247426b83a929b76479f5b",
+  "type_specific": {
+    "bookmark_id": 1170312702,
+    "instapaper_time": 1552110191,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:45:43.618317",
+  "updated_at": "2025-08-05T13:45:43.618321"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "d97e85b64a4b5e53",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.vox.com/2017/7/3/15915368/john-roberts-graduation-speech",
+  "title": "Justice John Roberts’s graduation speech is a quiet rebuke to Trump Vox - All",
+  "status": "selection_content_extracted",
+  "date": "2017-07-03T12:22:40",
+  "error": null,
+  "content_path": "output/articles/markdown/d97e85b64a4b5e53.md",
+  "html_path": "output/articles/html/d97e85b64a4b5e53.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3907,
+    "selection_length": 3242,
+    "cleaned_selection_length": 3319,
+    "domain": "vox.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d97e85b64a4b5e53",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1499109760",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "While the president of the United States was busy tweeting memes and insulting television personalities this weekend, a video circulated showing the chief justice of the US Supreme Court, John Roberts, encouraging a new generation of young men to be humble and generous.\n\nAs the commencement speaker at his son Jack’s ninth-grade graduation at the Cardigan Mountain School in rural New Hampshire last month, Roberts delivered a humorous speech, telling the new graduates that life would inevitably throw a number of curveballs their way.\n\nHow each boy responded would be a measure of who they are as people, he added.\n\n“I wish you bad luck, from time to time, so that you will be conscious of the role of chance in life and understand that your success is not completely deserved, and the failure of others is not completely deserved either,” Roberts said. “And when you lose, as you will from time to time, I hope every now and then that your opponent will gloat over your failure, as a way to understand the importance of sportsmanship. I hope you’ll be ignored, so you understand the importance of listening to others, and I hope you will have just enough pain to learn compassion.”\n\nRoberts told the graduates that they just gotten through the easiest parts of their lives. And while the road ahead would not be as easy, it would be full of moments to learn from, he said.\n\n“Whether I wish these things or not, they’re going to happen,” he said. “And whether you benefit from them or not will depend upon the ability to see the message in your misfortunes.”\n\nRoberts’s speech quickly won accolades for its focus on humility, with Robert Barnes at the Washington Post saying the chief’s justice’s commencement speech was more important than any decision he had handed down from the bench this year.\n\nLA Times editorial writer and former Supreme Court reporter Michael McGough drew a sharp distinction between the speech and the recent antics of President Trump.\n\n“Much of what Roberts said could also plausibly come from the mouth of a president — but not, unfortunately, this one,” McGough wrote.\n\nCardigan Mountain is an all-male junior prep school with an annual tuition costing about as much as that of most universities. But Roberts used his address to remind students that their privileged position comes with a recognition, and responsibility.\n\n“You are also privileged young men, and if you weren’t privileged when you came here, you are now, because you have been here,” he said. “My advice is don’t act like it.”\n\nAs students made their way to their new high schools, Roberts encouraged them to introduce themselves to the staff there, especially “to the person who is raking the leaves, shoveling the snow, or emptying the trash. Learn their name, and call them by their name during your time at school.”\n\nHe told graduates to say hello to everyone they meet, even if they thought it awkward to start out with — and to write their old teachers at Cardigan handmade thank-you notes.\n\nRoberts dispensed a lot of advice throughout his 15-minute speech, but there was one area where he admitted he couldn’t be helpful.\n\n“Most of you will be going to a school with girls. I have no advice for you,” he said, to laughter and applause.",
+    "cleaned_selection": "<p>While the president of the United States was busy tweeting memes and insulting television personalities this weekend, a video circulated showing the chief justice of the US Supreme Court, John Roberts, encouraging a new generation of young men to be humble and generous.</p><p>As the commencement speaker at his son Jack’s ninth-grade graduation at the Cardigan Mountain School in rural New Hampshire last month, Roberts delivered a humorous speech, telling the new graduates that life would inevitably throw a number of curveballs their way.</p><p>How each boy responded would be a measure of who they are as people, he added.</p><p>“I wish you bad luck, from time to time, so that you will be conscious of the role of chance in life and understand that your success is not completely deserved, and the failure of others is not completely deserved either,” Roberts said. “And when you lose, as you will from time to time, I hope every now and then that your opponent will gloat over your failure, as a way to understand the importance of sportsmanship. I hope you’ll be ignored, so you understand the importance of listening to others, and I hope you will have just enough pain to learn compassion.”</p><p>Roberts told the graduates that they just gotten through the easiest parts of their lives. And while the road ahead would not be as easy, it would be full of moments to learn from, he said.</p><p>“Whether I wish these things or not, they’re going to happen,” he said. “And whether you benefit from them or not will depend upon the ability to see the message in your misfortunes.”</p><p>Roberts’s speech quickly won accolades for its focus on humility, with Robert Barnes at the Washington Post saying the chief’s justice’s commencement speech was more important than any decision he had handed down from the bench this year.</p><p>LA Times editorial writer and former Supreme Court reporter Michael McGough drew a sharp distinction between the speech and the recent antics of President Trump.</p><p>“Much of what Roberts said could also plausibly come from the mouth of a president — but not, unfortunately, this one,” McGough wrote.</p><p>Cardigan Mountain is an all-male junior prep school with an annual tuition costing about as much as that of most universities. But Roberts used his address to remind students that their privileged position comes with a recognition, and responsibility.</p><p>“You are also privileged young men, and if you weren’t privileged when you came here, you are now, because you have been here,” he said. “My advice is don’t act like it.”</p><p>As students made their way to their new high schools, Roberts encouraged them to introduce themselves to the staff there, especially “to the person who is raking the leaves, shoveling the snow, or emptying the trash. Learn their name, and call them by their name during your time at school.”</p><p>He told graduates to say hello to everyone they meet, even if they thought it awkward to start out with — and to write their old teachers at Cardigan handmade thank-you notes.</p><p>Roberts dispensed a lot of advice throughout his 15-minute speech, but there was one area where he admitted he couldn’t be helpful.</p><p>“Most of you will be going to a school with girls. I have no advice for you,” he said, to laughter and applause.</p>",
+    "domain": "vox.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.086816",
+  "updated_at": "2025-08-06T08:47:04.086819"
+}

@@ -1,0 +1,26 @@
+{
+  "uid": "b009e6d158931e1d",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1717869611",
+  "title": "💥A Wave of Cancelled Auctions💥",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.928207",
+  "error": null,
+  "content_path": "output/articles/markdown/b009e6d158931e1d.md",
+  "html_path": "output/articles/html/b009e6d158931e1d.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1717869611,
+    "content_length": 35317,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1717869611,
+    "instapaper_time": 1729080388,
+    "is_private_content": true,
+    "content_length": 35317
+  },
+  "created_at": "2025-08-06T13:18:33.928212",
+  "updated_at": "2025-08-06T13:18:33.928213"
+}

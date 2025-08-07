@@ -1,0 +1,40 @@
+{
+  "uid": "cea2737c1171ac16",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.latimes.com/local/lanow/la-me-ln-authorities-investigate-blaze-inside-coachella-valley-mosque-20151211-story.html",
+  "title": "Fire at Coachella mosque was intentionally set, authorities say - Los Angeles Times Top Stories - Google News",
+  "status": "selection_content_extracted",
+  "date": "2015-12-11T22:46:50",
+  "error": null,
+  "content_path": "output/articles/markdown/cea2737c1171ac16.md",
+  "html_path": "output/articles/html/cea2737c1171ac16.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4666,
+    "selection_length": 591,
+    "cleaned_selection_length": 603,
+    "domain": "latimes.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cea2737c1171ac16",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1449902810",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Los Angeles Times\n\nFire at Coachella mosque was intentionally set, authorities sayLos Angeles TimesLaw enforcement officials investigate the scene of suspected arson at the Islamic Society of Palm Springs on Friday. Law enforcement officials investigate the scene of suspected arson at the Islamic Society of Palm Springs on Friday. (Gina Ferazzi ...The Latest: Arson Confirmed in Fire at California MosqueABC NewsBurned Mosque Worshipers: Blame TrumpDaily BeastFire at Southern California mosque; cause being investigatedMiami HeraldReuters -CBS Local -New York Timesall 241 news articles »",
+    "cleaned_selection": "<p>Los Angeles Times</p><p>Fire at Coachella mosque was intentionally set, authorities sayLos Angeles TimesLaw enforcement officials investigate the scene of suspected arson at the Islamic Society of Palm Springs on Friday. Law enforcement officials investigate the scene of suspected arson at the Islamic Society of Palm Springs on Friday. (Gina Ferazzi ...The Latest: Arson Confirmed in Fire at California MosqueABC NewsBurned Mosque Worshipers: Blame TrumpDaily BeastFire at Southern California mosque; cause being investigatedMiami HeraldReuters -CBS Local -New York Timesall 241 news articles »</p>",
+    "domain": "latimes.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.360197",
+  "updated_at": "2025-08-06T08:47:04.360199"
+}

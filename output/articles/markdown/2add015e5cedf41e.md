@@ -1,0 +1,127 @@
+# To find a job you love, ask yourself these questions Quartz
+
+**Source:** https://work.qz.com/1095504/to-find-a-job-that-you-care-about/  
+**Domain:** work.qz.com  
+**Folder:** Feedly  
+**Added:** 2017-10-11T07:50:20  
+**Content Type:** Selection Content Extracted  
+**Selection Length:** 8,442 characters  
+
+
+---
+
+## Selected Content
+
+At least a few times every week, people ask me for advice about how to think about their careers: What’s the best way to get a job I care about? Should I start my own company? How can I build a career I can be proud of?
+
+As the founder of ReWork, a recruiting firm that is all about meaningful work, I used to have ready-made answers to all these questions. I had a fairly tidy view of how career strategy should work, and I got consistent feedback that the frameworks I used were helpful to people.
+
+But we started ReWork in 2011. And in the years since then—and especially since 2015, when I left the firm to run recruiting for Hillary Clinton’s campaign—the world of work has gotten more complicated. New technologies have seeped into more and more industries and workplaces, and society is undergoing the turbulence associated with that unfolding.
+
+At this point, instead of having answers for people who ask me for guidance, mostly I just have more questions for them. I think they’re the right questions, I think they are helpful, and I think that if you sit with them, your answer for how to find meaningful work will slowly start to take shape.
+
+How do you see your career, relative to your life?
+
+I see a career as the entire dimension of life associated with earning, professional endeavors, and vocation—what you do for work. It’s not the same thing as your life, but for anyone who values the world of work, it’s a major slice of your life, by any measure.
+
+I’m also what we might call a career optimist; I believe that our careers can be vehicles for meaning, personal growth, and community in addition to earnings and wealth. I understand that many people have dry, negative connotations to the word career—perhaps seeing images of drudgery or workaholism—but to me those are just attributes of non-meaningful careers. Meaningful careers are possible, if you put your attention on developing one.
+
+It’s important to periodically consider the relationship you want with work and the world of careers. There are no right or wrong answers, but if you aren’t clear on this for yourself, it’ll complicate all of your decisions and thinking.
+
+What sorts of contributions do you want to be making to the world?
+
+The best way to start charting your course is by asking yourself, even categorically, about the ways in which you want to contribute to the world. Do you want to help make advances in science? Make beautiful art? Invent new technologies? Help shape your community via public service? Your goal should be to get increasingly specific about the types of things that you want to do.
+
+If you can’t answer this question, it will be very difficult to make plans that survive the real world, so your first move should be charting some exploratory activities that you think will help you answer it.
+
+I encourage people to think in terms of professional pursuits that they want to undertake, rather than jobs they want to “get.” Pursuits can look different ways. Some examples might be starting a company to solve a specific problem you care about, going on a particular adventure, contributing to society’s body of knowledge on a topic that fascinates you, or working to accomplish something with a team of people you enjoy. By their nature, pursuits are multi-dimensional and involve a combination of learning things, making moves, forming alliances, and being resourceful. They are inherently more nuanced and more robust than “getting” XYZ job.
+
+When you decide what kind of contributions you want to make, that should help focus your instinct for what types of organizations to work for or what sorts of projects you want to commit to. Keep track of the places—specific companies, networks, markets—that might be options for you, and make it a habit to meet people who work in those spaces and stay up to speed on their doings. Most importantly, make a list of the things that you want to learn.
+
+Where can you learn the things you need to learn? Can you get paid to learn them?
+
+Grad school is always one option for learning about a new topic, but I also think it’s usually the worst option. There are almost certainly companies or organizations that will pay you—even if it’s not a full private sector salary—to learn deeply about a topic or industry. These days it is incredibly easy to combine active work responsibilities with a self-styled curriculum of books, articles, podcasts, and online courses.
+
+Except for the most credentialist industries (law, medicine), I am incredibly skeptical about the value of a graduate education price tag, especially if you have to take a loan out to pay it. Every dollar you spend on education is a dollar you don’t have for buying a house, making investments, or making other moves toward the lifestyle you want. So if you’re going to invest in a multi-six-figure graduate degree, you’d better make sure it’s an investment you need to make to get where you want to go.
+
+There are other benefits to this way of thinking (“What can I learn here?”) besides avoiding graduate school tuition. When you take a discerning approach to examining job opportunities and start asking thoughtful questions about what you are likely to learn in a given job, you become more likely to get that job, because you’re showing that you’re thoughtful, curious, strategic, and a learner. These are all valuable traits in today’s economy.
+
+Could starting your own company be the best way to do the work that you want to do?
+
+Most people under-appreciate how strategic it can be to start a small firm (not necessarily a go-big-or-go-home startup) focused on a problem that they care about. Running a business isn’t easy, but it’s easier than most people think, and there are a ton of upsides when it comes to learning.
+
+When considering the sort of work you want to do, and the pursuits you want to be undertaking, make sure to include starting a company on your list. Even entrepreneurial failures can be great stepping stones in a career, if well-timed.
+
+Are you sure that you’re really seeking “work-life balance”?
+
+Usually what people really want when they bring up work-life balance is freedom: the freedom to choose how and when to work, and the freedom to work on the things they care about. There’s no one way to get that freedom. It’ll look different depending on how you’re earning a living. But odds are that it’s the choice of how to spend your time that you’re seeking, not some specific breakdown of equal hours between “work life” and “personal life.”
+
+If you realize that you actually want freedom, then it’s important to start defining the dimensions of freedom that matter most to you. Is it the ability to set your own unusual work hours? To work from home? To sometimes work remotely? To design your own projects? As the answers emerge, bring them up with your employer or possible-employers to see which pieces you can put in place.
+
+Just know that dimensions of freedom are unevenly distributed in today’s economy. Degrees of freedom that some firms give everyone, others might reserve for their true all-stars who make them conditional on employment. Keep in mind that almost every employer, if getting enough value [from you, in a given role], will agree to increased degrees of freedom in order to keep getting that value. It’s just a matter of how much value the firm is getting relative to which degrees of freedom you are requesting.
+
+What’s your personal strategic practice?
+
+Regardless of your initial game plan, personality, talents, and overall career track, there is no way that you can run an effective career playbook over the long haul without revisiting these basic questions and reflecting on them with the new information that you’ve gathered since the last check-in with yourself. So if you do nothing else, create a specific habit: design a practice of career reflection in which you create the strategic headspace to ask questions that matter. I recommend doing this once every month, but make sure to do it once every quarter at least. Do not wait years in-between these reflections—that will make your learning unnecessarily long.
+
+As long as you’re asking yourself these questions on a regular basis, you’ll make progress in the great adventure that is your career.
+
+Nathaniel Koloc is SVP People at Future Laboratories, an applied research lab focused on inventing new companies, policies, and concepts to improve the quality of modern life in the United States.
+
+---
+
+*This content was extracted from your Instapaper Selection field.*
+
+As the founder of ReWork, a recruiting firm that is all about meaningful work, I used to have ready-made answers to all these questions. I had a fairly tidy view of how career strategy should work, and I got consistent feedback that the frameworks I used were helpful to people.
+
+But we started ReWork in 2011. And in the years since then—and especially since 2015, when I left the firm to run recruiting for Hillary Clinton’s campaign—the world of work has gotten more complicated. New technologies have seeped into more and more industries and workplaces, and society is undergoing the turbulence associated with that unfolding.
+
+At this point, instead of having answers for people who ask me for guidance, mostly I just have more questions for them. I think they’re the right questions, I think they are helpful, and I think that if you sit with them, your answer for how to find meaningful work will slowly start to take shape.
+
+How do you see your career, relative to your life?
+
+I see a career as the entire dimension of life associated with earning, professional endeavors, and vocation—what you do for work. It’s not the same thing as your life, but for anyone who values the world of work, it’s a major slice of your life, by any measure.
+
+I’m also what we might call a career optimist; I believe that our careers can be vehicles for meaning, personal growth, and community in addition to earnings and wealth. I understand that many people have dry, negative connotations to the word career—perhaps seeing images of drudgery or workaholism—but to me those are just attributes of non-meaningful careers. Meaningful careers are possible, if you put your attention on developing one.
+
+It’s important to periodically consider the relationship you want with work and the world of careers. There are no right or wrong answers, but if you aren’t clear on this for yourself, it’ll complicate all of your decisions and thinking.
+
+What sorts of contributions do you want to be making to the world?
+
+The best way to start charting your course is by asking yourself, even categorically, about the ways in which you want to contribute to the world. Do you want to help make advances in science? Make beautiful art? Invent new technologies? Help shape your community via public service? Your goal should be to get increasingly specific about the types of things that you want to do.
+
+If you can’t answer this question, it will be very difficult to make plans that survive the real world, so your first move should be charting some exploratory activities that you think will help you answer it.
+
+I encourage people to think in terms of professional pursuits that they want to undertake, rather than jobs they want to “get.” Pursuits can look different ways. Some examples might be starting a company to solve a specific problem you care about, going on a particular adventure, contributing to society’s body of knowledge on a topic that fascinates you, or working to accomplish something with a team of people you enjoy. By their nature, pursuits are multi-dimensional and involve a combination of learning things, making moves, forming alliances, and being resourceful. They are inherently more nuanced and more robust than “getting” XYZ job.
+
+When you decide what kind of contributions you want to make, that should help focus your instinct for what types of organizations to work for or what sorts of projects you want to commit to. Keep track of the places—specific companies, networks, markets—that might be options for you, and make it a habit to meet people who work in those spaces and stay up to speed on their doings. Most importantly, make a list of the things that you want to learn.
+
+Where can you learn the things you need to learn? Can you get paid to learn them?
+
+Grad school is always one option for learning about a new topic, but I also think it’s usually the worst option. There are almost certainly companies or organizations that will pay you—even if it’s not a full private sector salary—to learn deeply about a topic or industry. These days it is incredibly easy to combine active work responsibilities with a self-styled curriculum of books, articles, podcasts, and online courses.
+
+Except for the most credentialist industries (law, medicine), I am incredibly skeptical about the value of a graduate education price tag, especially if you have to take a loan out to pay it. Every dollar you spend on education is a dollar you don’t have for buying a house, making investments, or making other moves toward the lifestyle you want. So if you’re going to invest in a multi-six-figure graduate degree, you’d better make sure it’s an investment you need to make to get where you want to go.
+
+There are other benefits to this way of thinking (“What can I learn here?”) besides avoiding graduate school tuition. When you take a discerning approach to examining job opportunities and start asking thoughtful questions about what you are likely to learn in a given job, you become more likely to get that job, because you’re showing that you’re thoughtful, curious, strategic, and a learner. These are all valuable traits in today’s economy.
+
+Could starting your own company be the best way to do the work that you want to do?
+
+Most people under-appreciate how strategic it can be to start a small firm (not necessarily a go-big-or-go-home startup) focused on a problem that they care about. Running a business isn’t easy, but it’s easier than most people think, and there are a ton of upsides when it comes to learning.
+
+When considering the sort of work you want to do, and the pursuits you want to be undertaking, make sure to include starting a company on your list. Even entrepreneurial failures can be great stepping stones in a career, if well-timed.
+
+Are you sure that you’re really seeking “work-life balance”?
+
+Usually what people really want when they bring up work-life balance is freedom: the freedom to choose how and when to work, and the freedom to work on the things they care about. There’s no one way to get that freedom. It’ll look different depending on how you’re earning a living. But odds are that it’s the choice of how to spend your time that you’re seeking, not some specific breakdown of equal hours between “work life” and “personal life.”
+
+If you realize that you actually want freedom, then it’s important to start defining the dimensions of freedom that matter most to you. Is it the ability to set your own unusual work hours? To work from home? To sometimes work remotely? To design your own projects? As the answers emerge, bring them up with your employer or possible-employers to see which pieces you can put in place.
+
+Just know that dimensions of freedom are unevenly distributed in today’s economy. Degrees of freedom that some firms give everyone, others might reserve for their true all-stars who make them conditional on employment. Keep in mind that almost every employer, if getting enough value [from you, in a given role], will agree to increased degrees of freedom in order to keep getting that value. It’s just a matter of how much value the firm is getting relative to which degrees of freedom you are requesting.
+
+What’s your personal strategic practice?
+
+Regardless of your initial game plan, personality, talents, and overall career track, there is no way that you can run an effective career playbook over the long haul without revisiting these basic questions and reflecting on them with the new information that you’ve gathered since the last check-in with yourself. So if you do nothing else, create a specific habit: design a practice of career reflection in which you create the strategic headspace to ask questions that matter. I recommend doing this once every month, but make sure to do it once every quarter at least. Do not wait years in-between these reflections—that will make your learning unnecessarily long.
+
+As long as you’re asking yourself these questions on a regular basis, you’ll make progress in the great adventure that is your career.
+
+Nathaniel Koloc is SVP People at Future Laboratories, an applied research lab focused on inventing new companies, policies, and concepts to improve the quality of modern life in the United States.

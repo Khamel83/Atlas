@@ -1,0 +1,40 @@
+{
+  "uid": "3b59d256b2e969b6",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://ritholtz.com/2018/05/tlc-medallion-owners-created-uber/",
+  "title": "How the TLC & Medallion Owners Created Uber The Big Picture",
+  "status": "selection_content_extracted",
+  "date": "2018-05-11T05:11:34",
+  "error": null,
+  "content_path": "output/articles/markdown/3b59d256b2e969b6.md",
+  "html_path": "output/articles/html/3b59d256b2e969b6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3517,
+    "selection_length": 1752,
+    "cleaned_selection_length": 1786,
+    "domain": "ritholtz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3b59d256b2e969b6",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1526040694",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Taxi Cab Owners and Regulators Created Uber\nThe number of cars for hire didn’t rise with demand. What would you expect?\nBloomberg, May 4, 2018\n\n \n\n \n\nOn this day May 4, 2011, Uber NYC launched. It filled an enormous, artificial void that was created by the Taxi and Limousine Commission at the behest of the Yellow Cab medallion owners.\n\nIn New York, Uber has been thrust back into the news after several Yellow Cab driver suicides (read this or listen to this) and indebtedness and families of survivors are blaming the stress of competing with smartphone ride-hailing services. The New York City Council is looking to limit or perhaps even reverse the expansion of app-based rides.\n\nThis is a terrible idea.\n\nThis is because it was market forces — plain, pure and simple — that created the demand for ride services like Uber, Lyft and others. 1 Indeed, these companies might not have achieved the wild success they found in New York but for the combination of the TLC’s aggressive incompetence and the medallion owners’ unbridled greed. Since the 1970s, these two groups have made taxi service in New York abysmal while enriching themselves. They did this by keeping the number of taxi medallions at an artificially low number and ignoring demand, much to the eternal dismay of anyone trying to hail a cab.\n\nA little history: The TLC was created in 1971 to “wrest control of taxi industry regulation away from the [New York City] Police Department,” according to Biju Mathew, 2 author of “Taxi!: Cabs and Capitalism in New York City.” This change took curbside ride-hailing from bad to worse and the TLC began a rich epoch of corruption and failure, marked by indictments and convictions.\n\n \n\nContinues at: Taxi Cab Owners and Regulators Created Uber",
+    "cleaned_selection": "<p>Taxi Cab Owners and Regulators Created Uber<br>The number of cars for hire didn’t rise with demand. What would you expect?<br>Bloomberg, May 4, 2018</p><p>On this day May 4, 2011, Uber NYC launched. It filled an enormous, artificial void that was created by the Taxi and Limousine Commission at the behest of the Yellow Cab medallion owners.</p><p>In New York, Uber has been thrust back into the news after several Yellow Cab driver suicides (read this or listen to this) and indebtedness and families of survivors are blaming the stress of competing with smartphone ride-hailing services. The New York City Council is looking to limit or perhaps even reverse the expansion of app-based rides.</p><p>This is a terrible idea.</p><p>This is because it was market forces — plain, pure and simple — that created the demand for ride services like Uber, Lyft and others. 1 Indeed, these companies might not have achieved the wild success they found in New York but for the combination of the TLC’s aggressive incompetence and the medallion owners’ unbridled greed. Since the 1970s, these two groups have made taxi service in New York abysmal while enriching themselves. They did this by keeping the number of taxi medallions at an artificially low number and ignoring demand, much to the eternal dismay of anyone trying to hail a cab.</p><p>A little history: The TLC was created in 1971 to “wrest control of taxi industry regulation away from the [New York City] Police Department,” according to Biju Mathew, 2 author of “Taxi!: Cabs and Capitalism in New York City.” This change took curbside ride-hailing from bad to worse and the TLC began a rich epoch of corruption and failure, marked by indictments and convictions.</p><p>Continues at: Taxi Cab Owners and Regulators Created Uber</p>",
+    "domain": "ritholtz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.889755",
+  "updated_at": "2025-08-06T08:47:03.889757"
+}

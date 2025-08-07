@@ -1,0 +1,42 @@
+{
+  "uid": "cdfcd26537efbf93",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1674054465",
+  "title": "💥Rite Aid Salvaged?💥",
+  "status": "success",
+  "date": "2025-08-05T13:36:32.216375",
+  "error": null,
+  "content_path": "output/articles/markdown/cdfcd26537efbf93.md",
+  "html_path": "output/articles/html/cdfcd26537efbf93.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "034ab63ca0b863283f72ee029f7fbbf3",
+  "type_specific": {
+    "bookmark_id": 1674054465,
+    "instapaper_time": 1712503013,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:36:32.216406",
+  "updated_at": "2025-08-05T13:36:32.216410"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "8474d691db982db6",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/policy-and-politics/2017/6/7/15758816/donald-trump-comey-crisis",
+  "title": "Donald Trump’s presidency is an American crisis Vox - All",
+  "status": "success",
+  "date": "2025-08-05T14:03:06.090042",
+  "error": null,
+  "content_path": "output/articles/markdown/8474d691db982db6.md",
+  "html_path": "output/articles/html/8474d691db982db6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4b7927587a74c64964e59fef10975b29",
+  "type_specific": {
+    "bookmark_id": 916500829,
+    "instapaper_time": 1496890793,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:03:06.090076",
+  "updated_at": "2025-08-05T14:03:06.090079"
+}

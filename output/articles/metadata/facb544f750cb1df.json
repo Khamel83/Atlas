@@ -1,0 +1,40 @@
+{
+  "uid": "facb544f750cb1df",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://food52.com/blog/18772-the-top-10-genius-recipes-of-2016",
+  "title": "The Top 10 Genius Recipes of 2016 Food52",
+  "status": "selection_content_extracted",
+  "date": "2016-12-28T08:50:56",
+  "error": null,
+  "content_path": "output/articles/markdown/facb544f750cb1df.md",
+  "html_path": "output/articles/html/facb544f750cb1df.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4183,
+    "selection_length": 1564,
+    "cleaned_selection_length": 1643,
+    "domain": "food52.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "facb544f750cb1df",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1482943856",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "With 2016 coming to an end, one of the more gratifying ways to take stock is to look back on all that we've cooked—and the recipes we'll pocket to keep feeding each other and ourselves on repeat.\n\nThe ten recipes below are the Food52 community's very favorite Genius Recipes of the year. Like every year, comfort foods abound—but this year, they're particularly nourishing, simple, smart ones. The one possible exception is the absurd grilled cheese—and if I were you, I'd make that one first.\n\nGenius, 5-Ingredient Fried Chicken—Without the Frying\nby Kristen Miglore\nMake Genius, Creamy, Scoopable Frozen Yogurt in 3 Ingredients (and 20 Minutes) Flat\nby Kristen Miglore\nZahav's Hummus Recipe is Genius—for Even More Reasons Than Everyone Says\nby Kristen Miglore\nRuth Reichl’s Grilled Cheese is Genius, and Completely Out of Control\nby Kristen Miglore\nA Genius Technique for the Best Vodka Pasta (And Better Marinara, Too)\nby Kristen Miglore\nA Genius One-Pan Lasagna—for the Hurried and the Lazy\nby Kristen Miglore\nThe Magic of the 3-Ingredient Chocolate Oblivion Truffle Torte, As Told By Rose Levy Beranbaum\nby Kristen Miglore\nBe a Genius, Do This One Thing, Have Better Soups All Winter\nby Kristen Miglore\nA Genius Trick for Fluffier Buttermilk Pancakes (No Whipping Egg Whites!)\nby Kristen Miglore\nA Genius Way to Upgrade Your Fried Eggs\nby Kristen Miglore\n\nGot a genius recipe to share—from a classic cookbook, an online source, or anywhere, really? Perhaps a genius dessert? Please send it my way (and tell me what's so smart about it) at kristen@food52.com.",
+    "cleaned_selection": "<p>With 2016 coming to an end, one of the more gratifying ways to take stock is to look back on all that we've cooked—and the recipes we'll pocket to keep feeding each other and ourselves on repeat.</p><p>The ten recipes below are the Food52 community's very favorite Genius Recipes of the year. Like every year, comfort foods abound—but this year, they're particularly nourishing, simple, smart ones. The one possible exception is the absurd grilled cheese—and if I were you, I'd make that one first.</p><p>Genius, 5-Ingredient Fried Chicken—Without the Frying<br>by Kristen Miglore<br>Make Genius, Creamy, Scoopable Frozen Yogurt in 3 Ingredients (and 20 Minutes) Flat<br>by Kristen Miglore<br>Zahav's Hummus Recipe is Genius—for Even More Reasons Than Everyone Says<br>by Kristen Miglore<br>Ruth Reichl’s Grilled Cheese is Genius, and Completely Out of Control<br>by Kristen Miglore<br>A Genius Technique for the Best Vodka Pasta (And Better Marinara, Too)<br>by Kristen Miglore<br>A Genius One-Pan Lasagna—for the Hurried and the Lazy<br>by Kristen Miglore<br>The Magic of the 3-Ingredient Chocolate Oblivion Truffle Torte, As Told By Rose Levy Beranbaum<br>by Kristen Miglore<br>Be a Genius, Do This One Thing, Have Better Soups All Winter<br>by Kristen Miglore<br>A Genius Trick for Fluffier Buttermilk Pancakes (No Whipping Egg Whites!)<br>by Kristen Miglore<br>A Genius Way to Upgrade Your Fried Eggs<br>by Kristen Miglore</p><p>Got a genius recipe to share—from a classic cookbook, an online source, or anywhere, really? Perhaps a genius dessert? Please send it my way (and tell me what's so smart about it) at kristen@food52.com.</p>",
+    "domain": "food52.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.202870",
+  "updated_at": "2025-08-06T08:47:04.202871"
+}

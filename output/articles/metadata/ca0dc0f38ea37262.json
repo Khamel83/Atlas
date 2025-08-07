@@ -1,0 +1,40 @@
+{
+  "uid": "ca0dc0f38ea37262",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/identities/2017/7/18/15958214/age-of-white-christian-america-over",
+  "title": "The age of white Christian America is ending. Here's how it got there. Vox - All",
+  "status": "success",
+  "date": "2025-08-05T14:02:08.398177",
+  "error": null,
+  "content_path": "output/articles/markdown/ca0dc0f38ea37262.md",
+  "html_path": "output/articles/html/ca0dc0f38ea37262.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f74428bca0b1d1cd92a98e5a79226f21",
+  "type_specific": {
+    "bookmark_id": 932224565,
+    "instapaper_time": 1500414622,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:02:08.398254",
+  "updated_at": "2025-08-05T14:02:08.398257"
+}

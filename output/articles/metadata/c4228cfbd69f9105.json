@@ -1,0 +1,42 @@
+{
+  "uid": "c4228cfbd69f9105",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1674490693",
+  "title": "3 Colors, 3 Events, 1 Book",
+  "status": "success",
+  "date": "2025-08-05T13:36:26.793386",
+  "error": null,
+  "content_path": "output/articles/markdown/c4228cfbd69f9105.md",
+  "html_path": "output/articles/html/c4228cfbd69f9105.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a0c8fc7ba5db237b9773fd61857bb522",
+  "type_specific": {
+    "bookmark_id": 1674490693,
+    "instapaper_time": 1712704663,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:36:26.793416",
+  "updated_at": "2025-08-05T13:36:26.793419"
+}

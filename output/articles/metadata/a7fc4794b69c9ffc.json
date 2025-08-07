@@ -1,0 +1,40 @@
+{
+  "uid": "a7fc4794b69c9ffc",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/1522088/chart-why-china-is-so-desperate-to-protect-its-industries/",
+  "title": "This chart shows why China is so desperate to protect its industries Quartz",
+  "status": "selection_content_extracted",
+  "date": "2019-01-12T17:05:20",
+  "error": null,
+  "content_path": "output/articles/markdown/a7fc4794b69c9ffc.md",
+  "html_path": "output/articles/html/a7fc4794b69c9ffc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3274,
+    "selection_length": 2824,
+    "cleaned_selection_length": 2866,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "a7fc4794b69c9ffc",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1547341520",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Last year, the slowdown that China had staved off for years finally hit—just as Donald Trump began pummeling the country with tariffs. Beijing and the White House are now negotiating a trade war truce. What’s remarkable, though, is that China hasn’t yet cried uncle and reversed the practices Trump condemns—most notably, its industrial policies that support domestic companies.\n\nThough there are some reports that China will put on hold its Made in China 2025 program (paywall), one of Trump’s biggest bugbears, moves to scrap its industrial policies are likely to be limited to symbolism. Here’s one illustration of why.\n\nThis chart comes from a recent analysis by the Federal Reserve Bank of San Francisco that recalculates how much US consumers really spend on imports once you subtract the dollars spent locally to sell the good—for instance, the cost of trucking, rent, and workers’ wages.\n\nIf you look at the headline data, in 2017, about 11% of what American households spent went toward imported goods. But that “Made in China” or “Made in Mexico” label is deceptive. Only some of the final price that American consumers pay goes to the country where the good is actually made. A fair chunk gets pocketed by US companies and workers.\n\nFor instance, the authors cite a 2014 study that found that an Asian factory that assembles a $100 pair of Nike sneakers earns only around $25. The container shipping company pockets $3.50, while Nike collects $22 for licensing and other intellectual property. And a whopping $50 goes to the US retailer, defraying costs of rent, insurance, trucking, warehousing, and the wages of salespeople.\n\nThe proportions in the Nike analogy aren’t representative. Overall, it turns out that for every $7 US consumers spent on imported goods, about $3 stayed in America, according to the analysis. But that breakdown varies a lot by country. As you can see in the chart above, nearly 62% of the value of Japanese goods went back overseas (presumably, mostly back to Japan). That compares with only 44% for goods made in China.\n\nIn other words, Chinese companies are losing out on a much higher share of sales than Japanese firms are. To close this gap, China needs to make goods of higher value, competing on quality rather than on the low-margin, labor-intensive mass production work that powered its growth in the 1990s and 2000s.\n\nWhether Chinese people’s living standards continue to improve depends heavily on this process of “moving up the value chain.” In turn, to pull this shift off, China must boost its skills base, build well-managed firms, and pioneer in new technologies. Its industrial policies channel resources toward doing all that. Which means that to get China to ditch said policies, Trump will probably have to wage a much uglier trade war than anything we’ve seen yet.",
+    "cleaned_selection": "<p>Last year, the slowdown that China had staved off for years finally hit—just as Donald Trump began pummeling the country with tariffs. Beijing and the White House are now negotiating a trade war truce. What’s remarkable, though, is that China hasn’t yet cried uncle and reversed the practices Trump condemns—most notably, its industrial policies that support domestic companies.</p><p>Though there are some reports that China will put on hold its Made in China 2025 program (paywall), one of Trump’s biggest bugbears, moves to scrap its industrial policies are likely to be limited to symbolism. Here’s one illustration of why.</p><p>This chart comes from a recent analysis by the Federal Reserve Bank of San Francisco that recalculates how much US consumers really spend on imports once you subtract the dollars spent locally to sell the good—for instance, the cost of trucking, rent, and workers’ wages.</p><p>If you look at the headline data, in 2017, about 11% of what American households spent went toward imported goods. But that “Made in China” or “Made in Mexico” label is deceptive. Only some of the final price that American consumers pay goes to the country where the good is actually made. A fair chunk gets pocketed by US companies and workers.</p><p>For instance, the authors cite a 2014 study that found that an Asian factory that assembles a $100 pair of Nike sneakers earns only around $25. The container shipping company pockets $3.50, while Nike collects $22 for licensing and other intellectual property. And a whopping $50 goes to the US retailer, defraying costs of rent, insurance, trucking, warehousing, and the wages of salespeople.</p><p>The proportions in the Nike analogy aren’t representative. Overall, it turns out that for every $7 US consumers spent on imported goods, about $3 stayed in America, according to the analysis. But that breakdown varies a lot by country. As you can see in the chart above, nearly 62% of the value of Japanese goods went back overseas (presumably, mostly back to Japan). That compares with only 44% for goods made in China.</p><p>In other words, Chinese companies are losing out on a much higher share of sales than Japanese firms are. To close this gap, China needs to make goods of higher value, competing on quality rather than on the low-margin, labor-intensive mass production work that powered its growth in the 1990s and 2000s.</p><p>Whether Chinese people’s living standards continue to improve depends heavily on this process of “moving up the value chain.” In turn, to pull this shift off, China must boost its skills base, build well-managed firms, and pioneer in new technologies. Its industrial policies channel resources toward doing all that. Which means that to get China to ditch said policies, Trump will probably have to wage a much uglier trade war than anything we’ve seen yet.</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.802481",
+  "updated_at": "2025-08-06T08:47:03.802482"
+}

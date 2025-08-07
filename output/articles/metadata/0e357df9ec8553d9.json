@@ -1,0 +1,40 @@
+{
+  "uid": "0e357df9ec8553d9",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://marginalrevolution.com/marginalrevolution/2019/06/laying-of-cable-for-the-transatlantic-telegraph-is-an-underrated-achievement.html",
+  "title": "Laying of cable for the transatlantic telegraph is an underrated achievement Marginal Revolution",
+  "status": "selection_content_extracted",
+  "date": "2019-06-14T21:47:56",
+  "error": null,
+  "content_path": "output/articles/markdown/0e357df9ec8553d9.md",
+  "html_path": "output/articles/html/0e357df9ec8553d9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3113,
+    "selection_length": 1040,
+    "cleaned_selection_length": 1058,
+    "domain": "marginalrevolution.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "0e357df9ec8553d9",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1560574076",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "To provide storage space for the huge coils of wire, three great tanks were carved into the heart of the ship.  The drums, sheaves, and dynamometers of the laying mechanism, occupied a large part of the stem decking, and one funnel with its associated boilers had been removed to give additional storage space.  When the ship sailed from the Medway on June 24, 1865, she carried seven thousand tons of cable, eight thousand tons of coal, and provisions for five hundred men.  Since this was before the days of refrigeration, she also became a seagoing farm.  Her passenger list included one cow, a dozen oxen, twenty pigs, one hundred twenty sheep. and a whole poultry-yard of fowl.\n\nThat is 1865 we are talking about here, remarkably early (in my view) for laying a cable across the bottom of the entire Atlantic.\n\nThe passage is from Arthur C. Clarke’s excellent How the World Was One: Beyond the Global Village.\n\nThe post Laying of cable for the transatlantic telegraph is an underrated achievement appeared first on Marginal REVOLUTION.",
+    "cleaned_selection": "<p>To provide storage space for the huge coils of wire, three great tanks were carved into the heart of the ship. The drums, sheaves, and dynamometers of the laying mechanism, occupied a large part of the stem decking, and one funnel with its associated boilers had been removed to give additional storage space. When the ship sailed from the Medway on June 24, 1865, she carried seven thousand tons of cable, eight thousand tons of coal, and provisions for five hundred men. Since this was before the days of refrigeration, she also became a seagoing farm. Her passenger list included one cow, a dozen oxen, twenty pigs, one hundred twenty sheep. and a whole poultry-yard of fowl.</p><p>That is 1865 we are talking about here, remarkably early (in my view) for laying a cable across the bottom of the entire Atlantic.</p><p>The passage is from Arthur C. Clarke’s excellent How the World Was One: Beyond the Global Village.</p><p>The post Laying of cable for the transatlantic telegraph is an underrated achievement appeared first on Marginal REVOLUTION.</p>",
+    "domain": "marginalrevolution.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.750403",
+  "updated_at": "2025-08-06T08:47:03.750404"
+}

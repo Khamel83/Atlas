@@ -1,0 +1,40 @@
+{
+  "uid": "da1a51bf4364d6f3",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2015/10/upgrade-and-perks-exchange-2015/",
+  "title": "Expiring Elite Upgrade and Perks Exchange for Winter 2015 The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-10-29T07:26:00",
+  "error": null,
+  "content_path": "output/articles/markdown/da1a51bf4364d6f3.md",
+  "html_path": "output/articles/html/da1a51bf4364d6f3.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4706,
+    "selection_length": 318,
+    "cleaned_selection_length": 325,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "da1a51bf4364d6f3",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1446128760",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Do you have some expiring upgrades or airline perks that you don’t plan to use? Or perhaps you’re in need of some for an upcoming flight? Scroll on down to swap your benefits expiring this winter! In case you haven’t noticed, 2015 is rapidly drawing to a close. Yesterday I wrote about various credit card perks and...",
+    "cleaned_selection": "<p>Do you have some expiring upgrades or airline perks that you don’t plan to use? Or perhaps you’re in need of some for an upcoming flight? Scroll on down to swap your benefits expiring this winter! In case you haven’t noticed, 2015 is rapidly drawing to a close. Yesterday I wrote about various credit card perks and...</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.367136",
+  "updated_at": "2025-08-06T08:47:04.367137"
+}

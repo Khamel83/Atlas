@@ -1,0 +1,40 @@
+{
+  "uid": "7e935be9b9fef889",
+  "content_type": "instapaper",
+  "source": "https://www.wired.com/review/brilliant-two-panel-switch-smart-home-controller",
+  "title": "Brilliant Two Switch Panel Rule Your Smart Home Devices Wired",
+  "status": "success",
+  "date": "2025-08-05T13:47:50.980996",
+  "error": null,
+  "content_path": "output/articles/markdown/7e935be9b9fef889.md",
+  "html_path": "output/articles/html/7e935be9b9fef889.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "536c540e7b11cd5e58e62a71a9d15791",
+  "type_specific": {
+    "bookmark_id": 1131410824,
+    "instapaper_time": 1542834347,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:47:50.981057",
+  "updated_at": "2025-08-05T13:47:50.981061"
+}

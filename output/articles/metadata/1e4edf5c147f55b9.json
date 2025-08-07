@@ -1,0 +1,26 @@
+{
+  "uid": "1e4edf5c147f55b9",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1720633150",
+  "title": "Recommendations from your Substacks",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.920830",
+  "error": null,
+  "content_path": "output/articles/markdown/1e4edf5c147f55b9.md",
+  "html_path": "output/articles/html/1e4edf5c147f55b9.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1720633150,
+    "content_length": 2111,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1720633150,
+    "instapaper_time": 1729891080,
+    "is_private_content": true,
+    "content_length": 2111
+  },
+  "created_at": "2025-08-06T13:18:33.920833",
+  "updated_at": "2025-08-06T13:18:33.920834"
+}

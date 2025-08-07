@@ -1,0 +1,40 @@
+{
+  "uid": "c433c9d08192c021",
+  "content_type": "instapaper",
+  "source": "https://frequentmiler.boardingarea.com/not-targeted-for-the-amazon-amex-deal-try-this/",
+  "title": "Not Targeted For The AmazonAmex Deal Try This. Frequent Miler",
+  "status": "success",
+  "date": "2025-08-05T13:43:05.811373",
+  "error": null,
+  "content_path": "output/articles/markdown/c433c9d08192c021.md",
+  "html_path": "output/articles/html/c433c9d08192c021.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b6c14616954ce90c7e70adbc484ea94b",
+  "type_specific": {
+    "bookmark_id": 1208668091,
+    "instapaper_time": 1561915284,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:43:05.811410",
+  "updated_at": "2025-08-05T13:43:05.811414"
+}

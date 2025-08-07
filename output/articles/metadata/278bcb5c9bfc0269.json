@@ -1,0 +1,40 @@
+{
+  "uid": "278bcb5c9bfc0269",
+  "content_type": "instapaper",
+  "source": "http://www.getrichslowly.org/2018/01/22/salary-negotiation/",
+  "title": "How to negotiate your salary (and earn an extra half-million dollars in your lifetime) Get Rich Slowly",
+  "status": "success",
+  "date": "2025-08-05T13:52:16.279973",
+  "error": null,
+  "content_path": "output/articles/markdown/278bcb5c9bfc0269.md",
+  "html_path": "output/articles/html/278bcb5c9bfc0269.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cf77d369cb3ed3e3356f1d604a9b564a",
+  "type_specific": {
+    "bookmark_id": 1008344399,
+    "instapaper_time": 1516638866,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:52:16.280038",
+  "updated_at": "2025-08-05T13:52:16.280041"
+}

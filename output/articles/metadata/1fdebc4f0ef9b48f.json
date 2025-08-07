@@ -1,0 +1,40 @@
+{
+  "uid": "1fdebc4f0ef9b48f",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.theverge.com/2017/12/6/16741106/deepmind-ai-chess-alphazero-shogi-go",
+  "title": "DeepMind’s AI became a superhuman chess player in a few hours, just for fun The Verge",
+  "status": "selection_content_extracted",
+  "date": "2017-12-06T17:29:41",
+  "error": null,
+  "content_path": "output/articles/markdown/1fdebc4f0ef9b48f.md",
+  "html_path": "output/articles/html/1fdebc4f0ef9b48f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3695,
+    "selection_length": 2732,
+    "cleaned_selection_length": 2769,
+    "domain": "theverge.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1fdebc4f0ef9b48f",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1512610181",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The end-game for Google’s AI subsidiary DeepMind was never beating people at board games. It’s always been about creating something akin to a combustion engine for intelligence — a generic thinking machine that can be applied to a broad range of challenges. The company is still a long way off achieving this goal, but new research published by its scientists this week suggests they’re at least headed down the right path.\n\nIn the paper, DeepMind describes how a descendant of the AI program that first conquered the board game Go has taught itself to play a number of other games at a superhuman level. After eight hours of self-play, the program bested the AI that first beat the human world Go champion; and after four hours of training, it beat the current world champion chess-playing program, Stockfish. Then for a victory lap, it trained for just two hours and polished off one of the world’s best shogi-playing programs named Elmo (shogi being a Japanese version of chess that’s played on a bigger board).\n\nFor each game, the AI program taught itself how to play\n\nOne of the key advances here is that the new AI program, named AlphaZero, wasn’t specifically designed to play any of these games. In each case, it was given some basic rules (like how knights move in chess, and so on) but was programmed with no other strategies or tactics. It simply got better by playing itself over and over again at an accelerated pace — a method of training AI known as “reinforcement learning.”\n\nUsing reinforcement learning in this way isn’t new in and of itself. DeepMind’s engineers used the same method to create AlphaGo Zero; the AI program that was unveiled this October. But, as this week’s paper describes, the new AlphaZero is a “more generic version” of the same software, meaning it can be applied to a broader range of tasks without being primed beforehand.\n\nWhat’s remarkable here is that in less than 24 hours, the same computer program was able to teach itself how to play three complex board games at superhuman levels. That’s a new feat for the world of AI.\n\nThis takes DeepMind just that little bit closer to building the generic thinking machine the company dreams of, but major challenges lie ahead. When DeepMind CEO Demis Hassabis showed off AlphaGo Zero earlier this year, he suggested that a future version of the program could help with a range of scientific problems — from designing new drugs to discovering new materials. But these problems are qualitatively very different to just playing board games, and a whole lot of work needs to be done to find out how exactly algorithms can tackle them. All we can say for certain now, is that artificial intelligence has definitely moved on from just playing chess.",
+    "cleaned_selection": "<p>The end-game for Google’s AI subsidiary DeepMind was never beating people at board games. It’s always been about creating something akin to a combustion engine for intelligence — a generic thinking machine that can be applied to a broad range of challenges. The company is still a long way off achieving this goal, but new research published by its scientists this week suggests they’re at least headed down the right path.</p><p>In the paper, DeepMind describes how a descendant of the AI program that first conquered the board game Go has taught itself to play a number of other games at a superhuman level. After eight hours of self-play, the program bested the AI that first beat the human world Go champion; and after four hours of training, it beat the current world champion chess-playing program, Stockfish. Then for a victory lap, it trained for just two hours and polished off one of the world’s best shogi-playing programs named Elmo (shogi being a Japanese version of chess that’s played on a bigger board).</p><p>For each game, the AI program taught itself how to play</p><p>One of the key advances here is that the new AI program, named AlphaZero, wasn’t specifically designed to play any of these games. In each case, it was given some basic rules (like how knights move in chess, and so on) but was programmed with no other strategies or tactics. It simply got better by playing itself over and over again at an accelerated pace — a method of training AI known as “reinforcement learning.”</p><p>Using reinforcement learning in this way isn’t new in and of itself. DeepMind’s engineers used the same method to create AlphaGo Zero; the AI program that was unveiled this October. But, as this week’s paper describes, the new AlphaZero is a “more generic version” of the same software, meaning it can be applied to a broader range of tasks without being primed beforehand.</p><p>What’s remarkable here is that in less than 24 hours, the same computer program was able to teach itself how to play three complex board games at superhuman levels. That’s a new feat for the world of AI.</p><p>This takes DeepMind just that little bit closer to building the generic thinking machine the company dreams of, but major challenges lie ahead. When DeepMind CEO Demis Hassabis showed off AlphaGo Zero earlier this year, he suggested that a future version of the program could help with a range of scientific problems — from designing new drugs to discovering new materials. But these problems are qualitatively very different to just playing board games, and a whole lot of work needs to be done to find out how exactly algorithms can tackle them. All we can say for certain now, is that artificial intelligence has definitely moved on from just playing chess.</p>",
+    "domain": "theverge.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.953470",
+  "updated_at": "2025-08-06T08:47:03.953472"
+}

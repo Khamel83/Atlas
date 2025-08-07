@@ -1,0 +1,28 @@
+{
+  "uid": "fcd2193e79741c17",
+  "content_type": "instapaper_archive_additional_content",
+  "source": "https://www.semafor.com/article/04/27/2025/the-group-chats-that-changed-america",
+  "title": "The group chats that changed America",
+  "status": "success",
+  "date": "2025-08-06T13:40:59.400198",
+  "error": null,
+  "content_path": "output/articles/markdown/fcd2193e79741c17.md",
+  "html_path": "output/articles/html/fcd2193e79741c17.html",
+  "fetch_method": "instapaper_api_archive_folder_maximization",
+  "fetch_details": {
+    "bookmark_id": 1770773020,
+    "content_length": 43757,
+    "successful": true,
+    "extraction_batch": "maximization_discovery",
+    "folder": "archive"
+  },
+  "type_specific": {
+    "bookmark_id": 1770773020,
+    "instapaper_time": 1745814643,
+    "folder": "archive",
+    "content_length": 43757,
+    "discovery_method": "folder_deep_dive"
+  },
+  "created_at": "2025-08-06T13:40:59.400212",
+  "updated_at": "2025-08-06T13:40:59.400214"
+}

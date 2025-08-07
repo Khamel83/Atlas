@@ -1,0 +1,40 @@
+{
+  "uid": "75e6e83822a0dcdc",
+  "content_type": "instapaper",
+  "source": "https://www.getrichslowly.org/perfect-is-the-enemy-of-the-good/",
+  "title": "The perfect is the enemy of the good Get Rich Slowly",
+  "status": "success",
+  "date": "2025-08-05T13:49:47.504511",
+  "error": null,
+  "content_path": "output/articles/markdown/75e6e83822a0dcdc.md",
+  "html_path": "output/articles/html/75e6e83822a0dcdc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5f3c69e0d3de5b03e12f4cbd21c0ef9a",
+  "type_specific": {
+    "bookmark_id": 1054679692,
+    "instapaper_time": 1526040559,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:49:47.504540",
+  "updated_at": "2025-08-05T13:49:47.504543"
+}

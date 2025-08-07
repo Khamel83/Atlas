@@ -1,0 +1,40 @@
+{
+  "uid": "77039aa6c4ebd78d",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/2017/12/30/16832964/trump-business-washington-hotel",
+  "title": "Trump is “definitely still involved” in his hotel business, a new report says Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:53:30.453332",
+  "error": null,
+  "content_path": "output/articles/markdown/77039aa6c4ebd78d.md",
+  "html_path": "output/articles/html/77039aa6c4ebd78d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "33d2933b023151ccf64a8a6e97bf7fdf",
+  "type_specific": {
+    "bookmark_id": 999278868,
+    "instapaper_time": 1514686485,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:53:30.453360",
+  "updated_at": "2025-08-05T13:53:30.453363"
+}

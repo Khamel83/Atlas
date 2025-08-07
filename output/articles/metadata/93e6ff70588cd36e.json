@@ -1,0 +1,42 @@
+{
+  "uid": "93e6ff70588cd36e",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1726749283",
+  "title": "💥Notice of Appearance💥",
+  "status": "success",
+  "date": "2025-08-05T13:30:57.942776",
+  "error": null,
+  "content_path": "output/articles/markdown/93e6ff70588cd36e.md",
+  "html_path": "output/articles/html/93e6ff70588cd36e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3be4e1858c7a011057d82e5b504ad18a",
+  "type_specific": {
+    "bookmark_id": 1726749283,
+    "instapaper_time": 1731503307,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:30:57.943304",
+  "updated_at": "2025-08-05T13:30:57.943310"
+}

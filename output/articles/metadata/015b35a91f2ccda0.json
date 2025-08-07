@@ -1,0 +1,40 @@
+{
+  "uid": "015b35a91f2ccda0",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1087015/singapores-chinese-embassy-issues-27-page-pamphlet-with-etiquette-advice-for-mainland-tourists/",
+  "title": "Please don’t bribe the officials Singapore’s Chinese embassy has some etiquette rules for mainland tourists Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:59:13.421794",
+  "error": null,
+  "content_path": "output/articles/markdown/015b35a91f2ccda0.md",
+  "html_path": "output/articles/html/015b35a91f2ccda0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "43708a3e608713f54175795c8e7bdba0",
+  "type_specific": {
+    "bookmark_id": 960003149,
+    "instapaper_time": 1506436463,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:59:13.421824",
+  "updated_at": "2025-08-05T13:59:13.421827"
+}

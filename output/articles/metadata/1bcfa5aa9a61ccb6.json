@@ -1,0 +1,40 @@
+{
+  "uid": "1bcfa5aa9a61ccb6",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.theverge.com/2018/12/19/18148020/remove-bg-ai-background-foreground-without-photoshop",
+  "title": "This free online tool uses AI to quickly remove the background from images The Verge",
+  "status": "selection_content_extracted",
+  "date": "2018-12-19T09:10:21",
+  "error": null,
+  "content_path": "output/articles/markdown/1bcfa5aa9a61ccb6.md",
+  "html_path": "output/articles/html/1bcfa5aa9a61ccb6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3300,
+    "selection_length": 1624,
+    "cleaned_selection_length": 1655,
+    "domain": "theverge.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1bcfa5aa9a61ccb6",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1545239421",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "If you’ve ever needed to quickly remove the background of an image you know it can be  tedious, even with access to software like Photoshop. Well, Remove.bg is a single-purpose website that uses AI to do the hard work for you. Just upload any image and the site will automatically identify any people in it, cut around the foreground, and let you download a PNG of your subject with a transparent background. Easy.\n\nIt’s the latest example of how machine learning techniques that were once cutting-edge are being turned into simple consumer tools. In the case of removing an image’s background, there are already a few open-source algorithms that can handle this particular task. Remove.bg has simply turned them (or something like them) into a free online utility.\n\nOther similar tools include Deepart.io which applies the style of one image (like a painting) to another, and LetsEnhance.io, which uses AI to automatically upscale pictures.\n\nRemove.bg certainly isn’t faultless . Like any magic wand tool, it gets a bit confused when faced with fuzzy boundaries between foreground and background. You can see that in the picture of Elon Musk at the top of the article (check out his missing eye-chunk) and with this picture of Miles Davis lying on a furry bedspread:\n\nBut, it’s certainly robust enough to handle a wide range of pictures, and even though the site claims the tool only works with people, it can handle other subjects, as long as they’re clearly foregrounded:\n\nAnyway. It’s a simple little utility that might be handy to bookmark. It saves time and can produce some pretty fun image macros without any hassle.",
+    "cleaned_selection": "<p>If you’ve ever needed to quickly remove the background of an image you know it can be tedious, even with access to software like Photoshop. Well, Remove.bg is a single-purpose website that uses AI to do the hard work for you. Just upload any image and the site will automatically identify any people in it, cut around the foreground, and let you download a PNG of your subject with a transparent background. Easy.</p><p>It’s the latest example of how machine learning techniques that were once cutting-edge are being turned into simple consumer tools. In the case of removing an image’s background, there are already a few open-source algorithms that can handle this particular task. Remove.bg has simply turned them (or something like them) into a free online utility.</p><p>Other similar tools include Deepart.io which applies the style of one image (like a painting) to another, and LetsEnhance.io, which uses AI to automatically upscale pictures.</p><p>Remove.bg certainly isn’t faultless . Like any magic wand tool, it gets a bit confused when faced with fuzzy boundaries between foreground and background. You can see that in the picture of Elon Musk at the top of the article (check out his missing eye-chunk) and with this picture of Miles Davis lying on a furry bedspread:</p><p>But, it’s certainly robust enough to handle a wide range of pictures, and even though the site claims the tool only works with people, it can handle other subjects, as long as they’re clearly foregrounded:</p><p>Anyway. It’s a simple little utility that might be handy to bookmark. It saves time and can produce some pretty fun image macros without any hassle.</p>",
+    "domain": "theverge.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.812677",
+  "updated_at": "2025-08-06T08:47:03.812678"
+}

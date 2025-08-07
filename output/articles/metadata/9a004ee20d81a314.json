@@ -1,0 +1,42 @@
+{
+  "uid": "9a004ee20d81a314",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1652453151",
+  "title": "After Debate Loss Last Year, the Mainstream Press Hasn't Learned Much",
+  "status": "success",
+  "date": "2025-08-05T13:39:12.952440",
+  "error": null,
+  "content_path": "output/articles/markdown/9a004ee20d81a314.md",
+  "html_path": "output/articles/html/9a004ee20d81a314.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c30571ce9e113c267ed5fa6ab9597ec1",
+  "type_specific": {
+    "bookmark_id": 1652453151,
+    "instapaper_time": 1702764608,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:39:12.952470",
+  "updated_at": "2025-08-05T13:39:12.952473"
+}

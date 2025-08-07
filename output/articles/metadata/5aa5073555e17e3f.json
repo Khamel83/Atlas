@@ -1,0 +1,26 @@
+{
+  "uid": "5aa5073555e17e3f",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1759552864",
+  "title": "Apple AI's Platform Pivot Potential (Stratechery Article 3-10-2025)",
+  "status": "success",
+  "date": "2025-08-06T13:15:49.991124",
+  "error": null,
+  "content_path": "output/articles/markdown/5aa5073555e17e3f.md",
+  "html_path": "output/articles/html/5aa5073555e17e3f.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1759552864,
+    "content_length": 55197,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1759552864,
+    "instapaper_time": 1741608500,
+    "is_private_content": true,
+    "content_length": 55197
+  },
+  "created_at": "2025-08-06T13:15:49.991128",
+  "updated_at": "2025-08-06T13:15:49.991129"
+}

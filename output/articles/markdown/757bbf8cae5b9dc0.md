@@ -1,0 +1,181 @@
+# Ventana Big Sur Hyatt. Bottom Line Review Awesome Frequent Miler
+
+**Source:** https://frequentmiler.boardingarea.com/ventana-big-sur-hyatt-bottom-line-review-awesome/  
+**Domain:** frequentmiler.boardingarea.com  
+**Folder:** Feedly  
+**Added:** 2020-03-11T23:26:17  
+**Content Type:** Selection Content Extracted  
+**Selection Length:** 5,141 characters  
+
+
+---
+
+## Selected Content
+
+Ventana Big Sur is an adults-only resort in Big Sur California. Ventana is part of Hyatt’s Alila luxury brand and currently the only Alila property in the United States (although a second Alila is being developed in Encinatas, north of San Diego). We stayed four nights in early March and paid 30,000 points per night. A friend with Globalist status booked our stay for us as a Guest of Honor reservation. This gave us all of the perks of top-tier Globalist status during the stay (free breakfast, suite upgrade, etc.). Cash rates at Ventana are often over $1,000 per night, but rates were under $600 per night during our stay. Even then, 30,000 points per night resulted in very good value for our points especially when considering that we didn’t have to pay resort fees (Hyatt doesn’t charge resort fees on award bookings).
+
+Ventana Big Sur Bottom Line Review
+
+Wow. Wow. Wow. Did I say “wow”? Wow.
+
+My wife and I loved everything about Ventana. The property itself is beautiful. The surrounding area (Big Sur) is fantastic. Our suite was awesome. We plan to return often.
+
+This is not the place to go if you want to play golf or tennis. You won’t find those options here. This is not a place to bring kids — it’s adults only. This is a place to relax, to enjoy nature at its most beautiful, and to bring your dog — dogs are welcome here.
+
+Points Price: Category 7, 30,000 points per night standard, 25,000 off-peak, or 35,000 peak
+
+Point value: Excellent. Base rooms often cost over $1,000 per night, so even at peak award pricing you’ll often get 3 cents per point value or more.
+
+Location: Excellent. Big Sur is a gorgeous area. The drive itself, along highway 1 is breathtaking.
+
+Resort Dining: Excellent. Breakfast was very good and the ocean view when seated outside was incredible. We ate dinner at the resort restaurant (The Sur House) once, and it was fantastic.
+
+Room: We were upgraded to the Vista Hot Tub Suite. It was a huge one-room suite with a very large and private rear patio featuring nature views and, of course, a hot tub. We loved everything about the suite.
+
+Complementary Activities:
+
+Morning Yoga and Tai chi (we didn’t do either)
+
+Guided property hike daily at 10 am (this was very good)
+
+Cocktails and snacks daily from 4 to 5 (loved this)
+
+Pet friendly: We didn’t bring a pet, but there were many dogs on property and they seemed very happy.
+
+Service: Excellent
+
+Turn-down service? Yes, daily turn-down service included delicious chocolates.
+
+Resort fee: $50 per day, includes valet parking. Keep in mind that Hyatt doesn’t charge resort fees on award stays, so we didn’t have to pay this. Those with top-tier Globalist status don’t pay on resort fees on paid stays either.
+
+Misc:
+
+Welcome gift: We had notified the resort ahead of time that we would be celebrating a major anniversary and so they delivered a bottle of Prosecco and chocolate covered strawberries.
+
+No phone service for me: I can’t remember the last time I went four straight days with no phone signals. I use Google Fi which is on T-Mobile’s network. T-mobile seems to have given Big Sur a hard pass. My wife had service most of the time via AT&T.
+
+Hyatt Elite Benefits: Excellent…
+
+We were upgraded to a suite the day before check-in (we could see the room assignment through the Hyatt app)
+
+Breakfast was free, up to $82 per day, either at the Sur House restaurant or for in-room dining. If the weather is good, I highly recommend going to the Sur House.
+
+The desk agent proactively told us that we were eligible for 4pm late checkout (but we didn’t need it since we had a plane to catch).
+
+Would I stay again? Duh.
+
+Photos and captions follow…
+
+Vista Hot Tub Suite. As you can see, our room was enormous. In the far corner you’ll spot a wood burning fireplace.
+
+Vista Hot Tub Suite. My wife and I enjoyed the wood burning fireplace every evening. Ventana stocks each room with firewood held in flammable bags. Simply stick the bag into the fireplace and light it. Done.
+
+Vista Hot Tub Suite rear patio. Even though there were units on each side of us, the patio was designed to be completely private (if you don’t count the deer that occasionally peeked at us).
+
+Deer peeking at us from ridge
+
+Another view of the Vista Hot Tub Suite rear patio. You can see the bathroom soaking tub through the window on the right. The furthest right window is the bathroom shower.
+
+Vista Hot Tub Suite soaking tub and shower. The shower was stocked with home-made (I think?) exfoliating bar soap. We loved this.
+
+View from path near our suite.
+
+The Ventana’s restaurant is a short walk through Redwood trees. They’ll alternatively drive you there on a golf cart, but come on… this was a fantastic little walk each morning!
+
+Breakfast at the Ventana’s Sur House Restaurant.
+
+Another view of breakfast dining at the Sur House.
+
+Glass House Gallery next to the Sur House restaurant.
+
+Redwood Trees!
+
+Ventana also offers Glamping tents like this one. I don’t think there’s an option to use points for these at this time though.
+
+The post Ventana Big Sur Hyatt. Bottom Line Review: Awesome appeared first on Frequent Miler.
+
+---
+
+*This content was extracted from your Instapaper Selection field.*
+
+Ventana Big Sur Bottom Line Review
+
+Wow.  Wow.  Wow.  Did I say “wow”?  Wow.
+
+My wife and I loved everything about Ventana.  The property itself is beautiful.  The surrounding area (Big Sur) is fantastic.  Our suite was awesome.  We plan to return often.
+
+This is not the place to go if you want to play golf or tennis.  You won’t find those options here.  This is not a place to bring kids — it’s adults only.  This is a place to relax, to enjoy nature at its most beautiful, and to bring your dog — dogs are welcome here.
+
+Points Price: Category 7, 30,000 points per night standard, 25,000 off-peak, or 35,000 peak
+
+Point value: Excellent.  Base rooms often cost over $1,000 per night, so even at peak award pricing you’ll often get 3 cents per point value or more.
+
+Location: Excellent.  Big Sur is a gorgeous area.  The drive itself, along highway 1 is breathtaking.
+
+Resort Dining: Excellent.  Breakfast was very good and the ocean view when seated outside was incredible.  We ate dinner at the resort restaurant (The Sur House) once, and it was fantastic.
+
+Room: We were upgraded to the Vista Hot Tub Suite.  It was a huge one-room suite with a very large and private rear patio featuring nature views and, of course, a hot tub. We loved everything about the suite.
+
+Complementary Activities:
+
+Morning Yoga and Tai chi (we didn’t do either)
+
+Guided property hike daily at 10 am (this was very good)
+
+Cocktails and snacks daily from 4 to 5 (loved this)
+
+Pet friendly: We didn’t bring a pet, but there were many dogs on property and they seemed very happy.
+
+Service: Excellent
+
+Turn-down service? Yes, daily turn-down service included delicious chocolates.
+
+Resort fee: $50 per day, includes valet parking.  Keep in mind that Hyatt doesn’t charge resort fees on award stays, so we didn’t have to pay this.  Those with top-tier Globalist status don’t pay on resort fees on paid stays either.
+
+Misc:
+
+Welcome gift: We had notified the resort ahead of time that we would be celebrating a major anniversary and so they delivered a bottle of Prosecco and chocolate covered strawberries.
+
+No phone service for me: I can’t remember the last time I went four straight days with no phone signals.  I use Google Fi which is on T-Mobile’s network.  T-mobile seems to have given Big Sur a hard pass.  My wife had service most of the time via AT&T.
+
+Hyatt Elite Benefits: Excellent…
+
+We were upgraded to a suite the day before check-in (we could see the room assignment through the Hyatt app)
+
+Breakfast was free, up to $82 per day, either at the Sur House restaurant or for in-room dining.  If the weather is good, I highly recommend going to the Sur House.
+
+The desk agent proactively told us that we were eligible for 4pm late checkout (but we didn’t need it since we had a plane to catch).
+
+Would I stay again?  Duh.
+
+Photos and captions follow…
+
+Vista Hot Tub Suite. As you can see, our room was enormous. In the far corner you’ll spot a wood burning fireplace.
+
+Vista Hot Tub Suite. My wife and I enjoyed the wood burning fireplace every evening.  Ventana stocks each room with firewood held in flammable bags.  Simply stick the bag into the fireplace and light it.  Done.
+
+Vista Hot Tub Suite rear patio. Even though there were units on each side of us, the patio was designed to be completely private (if you don’t count the deer that occasionally peeked at us).
+
+ 
+
+Deer peeking at us from ridge
+
+Another view of the Vista Hot Tub Suite rear patio. You can see the bathroom soaking tub through the window on the right.  The furthest right window is the bathroom shower.
+
+Vista Hot Tub Suite soaking tub and shower. The shower was stocked with home-made (I think?) exfoliating bar soap. We loved this.
+
+View from path near our suite.
+
+The Ventana’s restaurant is a short walk through Redwood trees. They’ll alternatively drive you there on a golf cart, but come on… this was a fantastic little walk each morning!
+
+Breakfast at the Ventana’s Sur House Restaurant.
+
+Another view of breakfast dining at the Sur House.
+
+Glass House Gallery next to the Sur House restaurant.
+
+Redwood Trees!
+
+Ventana also offers Glamping tents like this one. I don’t think there’s an option to use points for these at this time though.
+
+The post Ventana Big Sur Hyatt. Bottom Line Review: Awesome appeared first on Frequent Miler.

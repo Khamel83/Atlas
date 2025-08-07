@@ -1,0 +1,26 @@
+{
+  "uid": "48acee7a0569758e",
+  "content_type": "private_newsletter_batch_101_150",
+  "source": "instapaper://private-content/1729606320",
+  "title": "Weekly Dose of Optimism #121",
+  "status": "success",
+  "date": "2025-08-06T13:18:33.895461",
+  "error": null,
+  "content_path": "output/articles/markdown/48acee7a0569758e.md",
+  "html_path": "output/articles/html/48acee7a0569758e.html",
+  "fetch_method": "instapaper_api_batch_101_150_extraction",
+  "fetch_details": {
+    "bookmark_id": 1729606320,
+    "content_length": 20758,
+    "successful": true,
+    "extraction_batch": "batch_101_150"
+  },
+  "type_specific": {
+    "bookmark_id": 1729606320,
+    "instapaper_time": 1732283309,
+    "is_private_content": true,
+    "content_length": 20758
+  },
+  "created_at": "2025-08-06T13:18:33.895476",
+  "updated_at": "2025-08-06T13:18:33.895480"
+}

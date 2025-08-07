@@ -1,0 +1,40 @@
+{
+  "uid": "140654acaf0e358d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://nplusonemag.com/revolt-of-the-elites",
+  "title": "Revolt of the Elites",
+  "status": "selection_content_extracted",
+  "date": "2011-05-31T01:30:20",
+  "error": null,
+  "content_path": "output/articles/markdown/140654acaf0e358d.md",
+  "html_path": "output/articles/html/140654acaf0e358d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5942,
+    "selection_length": 515,
+    "cleaned_selection_length": 522,
+    "domain": "nplusonemag.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "140654acaf0e358d",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1306830620",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Has any concept more completely defined and disfigured public life over the last generation than so-called elitism? Ever since Richard Nixon’s speechwriters pitted a silent majority (later sometimes “the real America”) against the nattering nabobs of negativism (later “tenured radicals,” the “cultural elite,” and so on), American political, aesthetic, and intellectual experience can only be glimpsed through a thickening fog of culture war. And the fog, very often, has swirled around a single disreputable term.",
+    "cleaned_selection": "<p>Has any concept more completely defined and disfigured public life over the last generation than so-called elitism? Ever since Richard Nixon’s speechwriters pitted a silent majority (later sometimes “the real America”) against the nattering nabobs of negativism (later “tenured radicals,” the “cultural elite,” and so on), American political, aesthetic, and intellectual experience can only be glimpsed through a thickening fog of culture war. And the fog, very often, has swirled around a single disreputable term.</p>",
+    "domain": "nplusonemag.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.540599",
+  "updated_at": "2025-08-06T08:47:04.540600"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "c13ab36819cf6121",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2014/09/chase-ink-plus-70000-point-sign-up-bonus-amazing-deal-alert/",
+  "title": "Chase Ink Plus 70,000 Point Sign-up Bonus – Amazing Deal Alert The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2014-09-29T19:44:42",
+  "error": null,
+  "content_path": "output/articles/markdown/c13ab36819cf6121.md",
+  "html_path": "output/articles/html/c13ab36819cf6121.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5120,
+    "selection_length": 321,
+    "cleaned_selection_length": 328,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c13ab36819cf6121",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1412045082",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Chase has just launched a limited-time sign-up offer for the Ink Plus card, where you’ll earn 70,000 points when you spend $5,000 in 3 months. That’s 40% higher than the normal sign-up bonus of 50,000 points, so if you’ve been holding off on getting this card, now is the time to do it. Previously this offer was only […]",
+    "cleaned_selection": "<p>Chase has just launched a limited-time sign-up offer for the Ink Plus card, where you’ll earn 70,000 points when you spend $5,000 in 3 months. That’s 40% higher than the normal sign-up bonus of 50,000 points, so if you’ve been holding off on getting this card, now is the time to do it. Previously this offer was only […]</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.482956",
+  "updated_at": "2025-08-06T08:47:04.482957"
+}

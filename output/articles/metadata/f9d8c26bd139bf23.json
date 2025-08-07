@@ -1,0 +1,40 @@
+{
+  "uid": "f9d8c26bd139bf23",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/obama-wont-be-able-to-replace-scalia-with-a-justice-as-liberal-as-sotomayor/",
+  "title": "Obama Won’t Be Able To Replace Scalia With A Justice As Liberal As Sotomayor FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2016-02-13T18:59:28",
+  "error": null,
+  "content_path": "output/articles/markdown/f9d8c26bd139bf23.md",
+  "html_path": "output/articles/html/f9d8c26bd139bf23.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4576,
+    "selection_length": 333,
+    "cleaned_selection_length": 340,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "f9d8c26bd139bf23",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1455418768",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The death of Supreme Court Justice Antonin Scalia today set off a scramble in a deeply polarized Washington over his replacement on the court. Within hours of the announcement of Scalia’s death, Senate Majority Leader Mitch McConnell said a vote should wait for the next president to be elected. He and the Republican majority in […]",
+    "cleaned_selection": "<p>The death of Supreme Court Justice Antonin Scalia today set off a scramble in a deeply polarized Washington over his replacement on the court. Within hours of the announcement of Scalia’s death, Senate Majority Leader Mitch McConnell said a vote should wait for the next president to be elected. He and the Republican majority in […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.334407",
+  "updated_at": "2025-08-06T08:47:04.334408"
+}

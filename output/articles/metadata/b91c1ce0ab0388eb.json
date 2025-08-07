@@ -1,0 +1,40 @@
+{
+  "uid": "b91c1ce0ab0388eb",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.getrichslowly.org/better-resume/",
+  "title": "Building a better resume Get Rich Slowly",
+  "status": "selection_content_extracted",
+  "date": "2018-07-20T23:23:52",
+  "error": null,
+  "content_path": "output/articles/markdown/b91c1ce0ab0388eb.md",
+  "html_path": "output/articles/html/b91c1ce0ab0388eb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3441,
+    "selection_length": 3054,
+    "cleaned_selection_length": 3140,
+    "domain": "getrichslowly.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b91c1ce0ab0388eb",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1532154232",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Building a better resume\n\n posted by J.D. Roth on 18 July 2018  Leave a Comment\n\nYesterday at the Financial Careers forum on Reddit, a user named /u/unfoldcareers posted some useful advice for job-seekers. “I’ve reviewed and screened thousands of resumes,” /u/unfoldcareers writes, “and I’m sharing my preferred resume format…along with my best resume advice.”\n\nThe poster notes that “bad resume format” leads most folks to get little or nor response to their job applications. To help current job hunters, /u/unfoldcareers created a free resume template that can be downloaded via Google Docs.\n\nThe Reddit post itself contains a number of useful tips. To craft a better resume, you should:\n\nBe precise. Don’t speak in general terms, but include specific numbers and metrics. Instead of saying, “Was top salesperson at my company,” note how many people were on the sales team, how much better you performed than everybody else, and for how long.\n\nEmphasize impact. According to /u/unfoldcareers, too many people focus on their achievements when they should really emphasize the impact they had on their company or team.\n\nStick to one page — unless you really do have decades of experience.\n\nMake it scannable. “A hiring manager will review your resume for approximately 10 seconds or less,” writes /u/unfoldcareers. Be sure that they’ll be able to scan all of the important info quickly.\n\nExplain gaps. Don’t leave a mystery. If you took time off to be a stay-at-home parent, say so.\n\nRemove the “objective” line. It’s irrelevant. (I did a very little hiring for our family’s box factory. I never did understand why people put an objective on their resume.)\n\nRemove references. It’s fine to create a separate document that contains your references so that you can provide them if asked, but don’t include them on the resume itself.\n\nThe full post on Reddit includes more info, of course, along with the reasoning behind some of the recommendations.\n\nFrom my experience, most people forget is that a resume isn’t really about you. That might sound strange, but the truth is that a resume is about how well your skills and experience match an employer’s job requirements. Because of this, the best resumes are individually tailored to specific jobs.\n\nSure, you might create a “base” or “default” resume that serves as a framework when applying for work. But you’ll have greater success with your job hunt if you take the time to make subtle tweaks to this default each time you apply for a different job.\n\nAlso: I believe strongly that, whenever possible, you should hand-deliver your resume.\n\nObviously, this doesn’t work for online-only applications or for positions outside your local area. But I know that when we hired at the box factory, we paid more attention to folks who had come by in person than those who simply mailed their resume. (And from watching Kim go through a couple of job searches now, I’d say that one of the reasons she has such success is that she literally goes door to door, dropping her resume off at different dental offices.)",
+    "cleaned_selection": "<p>Building a better resume</p><p> posted by J.D. Roth on 18 July 2018 Leave a Comment</p><p>Yesterday at the Financial Careers forum on Reddit, a user named /u/unfoldcareers posted some useful advice for job-seekers. “I’ve reviewed and screened thousands of resumes,” /u/unfoldcareers writes, “and I’m sharing my preferred resume format…along with my best resume advice.”</p><p>The poster notes that “bad resume format” leads most folks to get little or nor response to their job applications. To help current job hunters, /u/unfoldcareers created a free resume template that can be downloaded via Google Docs.</p><p>The Reddit post itself contains a number of useful tips. To craft a better resume, you should:</p><p>Be precise. Don’t speak in general terms, but include specific numbers and metrics. Instead of saying, “Was top salesperson at my company,” note how many people were on the sales team, how much better you performed than everybody else, and for how long.</p><p>Emphasize impact. According to /u/unfoldcareers, too many people focus on their achievements when they should really emphasize the impact they had on their company or team.</p><p>Stick to one page — unless you really do have decades of experience.</p><p>Make it scannable. “A hiring manager will review your resume for approximately 10 seconds or less,” writes /u/unfoldcareers. Be sure that they’ll be able to scan all of the important info quickly.</p><p>Explain gaps. Don’t leave a mystery. If you took time off to be a stay-at-home parent, say so.</p><p>Remove the “objective” line. It’s irrelevant. (I did a very little hiring for our family’s box factory. I never did understand why people put an objective on their resume.)</p><p>Remove references. It’s fine to create a separate document that contains your references so that you can provide them if asked, but don’t include them on the resume itself.</p><p>The full post on Reddit includes more info, of course, along with the reasoning behind some of the recommendations.</p><p>From my experience, most people forget is that a resume isn’t really about you. That might sound strange, but the truth is that a resume is about how well your skills and experience match an employer’s job requirements. Because of this, the best resumes are individually tailored to specific jobs.</p><p>Sure, you might create a “base” or “default” resume that serves as a framework when applying for work. But you’ll have greater success with your job hunt if you take the time to make subtle tweaks to this default each time you apply for a different job.</p><p>Also: I believe strongly that, whenever possible, you should hand-deliver your resume.</p><p>Obviously, this doesn’t work for online-only applications or for positions outside your local area. But I know that when we hired at the box factory, we paid more attention to folks who had come by in person than those who simply mailed their resume. (And from watching Kim go through a couple of job searches now, I’d say that one of the reasons she has such success is that she literally goes door to door, dropping her resume off at different dental offices.)</p>",
+    "domain": "getrichslowly.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.860002",
+  "updated_at": "2025-08-06T08:47:03.860004"
+}

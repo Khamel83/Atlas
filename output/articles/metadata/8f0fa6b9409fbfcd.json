@@ -1,0 +1,40 @@
+{
+  "uid": "8f0fa6b9409fbfcd",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2014/10/amtrak-guest-rewards-double-days-promo-2x-points-this-fall/",
+  "title": "Amtrak Guest Rewards Double Days Promo 2x Points This Fall The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2014-10-01T13:48:04",
+  "error": null,
+  "content_path": "output/articles/markdown/8f0fa6b9409fbfcd.md",
+  "html_path": "output/articles/html/8f0fa6b9409fbfcd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5109,
+    "selection_length": 372,
+    "cleaned_selection_length": 379,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8f0fa6b9409fbfcd",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1412196484",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "If you were inspired to book a rail trip this fall by yesterday’s post about U.S. Routes Where Amtrak Beats Flying, you’re in luck. Amtrak’s latest Double Days promotion will allow you to earn double Amtrak Guest Rewards points on qualifying Amtrak travel taken retroactively since September 8, 2014 and continuing through November 14, 2014. In order to take advantage […]",
+    "cleaned_selection": "<p>If you were inspired to book a rail trip this fall by yesterday’s post about U.S. Routes Where Amtrak Beats Flying, you’re in luck. Amtrak’s latest Double Days promotion will allow you to earn double Amtrak Guest Rewards points on qualifying Amtrak travel taken retroactively since September 8, 2014 and continuing through November 14, 2014. In order to take advantage […]</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.479508",
+  "updated_at": "2025-08-06T08:47:04.479509"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "2e875021ab2193fc",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1103694409",
+  "title": "Apple’s iPhone Event, Facebook Fact-Checking, Vimeo Pivots Again (Stratechery Daily Update 9-12-2018)",
+  "status": "success",
+  "date": "2025-08-05T14:06:22.716149",
+  "error": null,
+  "content_path": "output/articles/markdown/2e875021ab2193fc.md",
+  "html_path": "output/articles/html/2e875021ab2193fc.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "5bc77e9f1781cab2db2dbb744e684d15",
+  "type_specific": {
+    "bookmark_id": 1103694409,
+    "instapaper_time": 1536751823,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Stratechery"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:06:22.716181",
+  "updated_at": "2025-08-05T14:06:22.716184"
+}

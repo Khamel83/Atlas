@@ -1,0 +1,42 @@
+{
+  "uid": "8ddf28cf9a111399",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1652958356",
+  "title": "Listen to This Article - FOIA Exclusive: Did Pharma Companies Help Plan \"Virality Project\" Censorship Program?",
+  "status": "success",
+  "date": "2025-08-05T13:39:09.282670",
+  "error": null,
+  "content_path": "output/articles/markdown/8ddf28cf9a111399.md",
+  "html_path": "output/articles/html/8ddf28cf9a111399.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3e0bdfb93278b363675eda1a17319445",
+  "type_specific": {
+    "bookmark_id": 1652958356,
+    "instapaper_time": 1702995158,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:39:09.282707",
+  "updated_at": "2025-08-05T13:39:09.282710"
+}

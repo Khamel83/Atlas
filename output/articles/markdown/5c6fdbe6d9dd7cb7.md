@@ -1,0 +1,67 @@
+# Egyptian billionaire Naguib Sawiris The Big Picture
+
+**Source:** [http://ritholtz.com/2018/05/egyptian-billionaire-naguib-sawiris/](http://ritholtz.com/2018/05/egyptian-billionaire-naguib-sawiris/)  
+**Folders:** Feedly  
+**Description:** ');//-->
+  }
+
+    © 2018    The Big Picture  
+
+Sign Up for My Newsletter
+
+Get subscriber-only insights and news delivered by Barry every two weeks.
+
+
+---
+
+<div>
+
+		      <header>
+		        <h1>
+		          Egyptian billionaire Naguib Sawiris		        </h1>
+		        <p>
+			        May 3, 2018 7:00am by
+			        		        </p>
+		      </header>
+
+		      <div>
+		        <div><p>This is fascinating:</p>
+<p><br>
+Source: <a href="https://www.bloomberg.com/news/articles/2018-05-01/north-korea-is-a-bright-spot-for-billionaire-who-forecasts-crash">Bloomberg</a><br>
+ </p>
+<p>More on the topic later today . . .</p>
+<div>
+                    
+                </div></div>		      </div>
+
+		      <div>
+			      				      <p>This content, which contains security-related opinions and/or information, is provided for informational purposes only and should not be relied upon in any manner as professional advice, or an endorsement of any practices, products or services. There can be no guarantees or assurances that the views expressed here will be applicable for any particular facts or circumstances, and should not be relied upon in any manner. You should consult your own advisers as to legal, business, tax, and other related matters concerning any investment.  The commentary in this “post” (including any related blog, podcasts, videos, and social media)  reflects the personal opinions, viewpoints, and analyses of the Ritholtz Wealth Management employees providing such comments, and should not be regarded the views of Ritholtz Wealth Management LLC. or its respective affiliates or as a description of advisory services provided by Ritholtz Wealth Management or performance returns of any Ritholtz Wealth Management Investments client.   References to any securities or digital assets, or performance data, are for illustrative purposes only and do not constitute an investment recommendation or offer to provide investment advisory services. Charts and graphs provided within are for informational purposes solely and should not be relied upon when making any investment decision. Past performance is not indicative of future results. The content speaks only as of the date indicated. Any projections, estimates, forecasts, targets, prospects, and/or opinions expressed in these materials are subject to change without notice and may differ or be contrary to opinions expressed by others.   The Compound Media, Inc., an affiliate of Ritholtz Wealth Management, receives payment from various entities for advertisements in affiliated podcasts, blogs and emails. Inclusion of such advertisements does not constitute or imply endorsement, sponsorship or recommendation thereof, or any affiliation therewith, by the Content Creator or by Ritholtz Wealth Management or any of its employees. Investments in securities involve the risk of loss. For additional advertisement disclaimers see here: https://www.ritholtzwealth.com/advertising-disclaimers  Please see disclosures here: https://ritholtzwealth.com/blog-disclosures/</p>
+				    			      <div>
+			      	  			      	  
+			      </div>
+
+			      <div>
+			      	
+			      </div>
+
+		        <div>
+		        	
+		        </div>
+		      </div>
+		    
+		    
+								
+							  
+			  		      
+		      
+		       <div>
+		       				       	<div>
+			       		<p>Previous Post</p>
+			      		<a href="https://ritholtz.com/2018/05/supply-demand-u-s-treasury-debt/">On the Supply of, and Demand for, U.S. Treasury Debt</a>			      	</div>
+			    			    			      	<div>
+			      		<p>Next Post</p>
+			      		<a href="https://ritholtz.com/2018/05/10-thursday-reads-205-38/">10 Thursday AM Reads</a>			      	</div>
+			    		      </div>
+	      </div>
+
+	    

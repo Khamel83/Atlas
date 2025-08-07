@@ -1,0 +1,43 @@
+# Lenovo’s Yoga Book is a new kind of tablet The Verge
+
+**Source:** http://www.theverge.com/2016/8/31/12714672/lenovo-yoga-book-announced-specs-price-release-date-ifa-2016  
+**Domain:** theverge.com  
+**Folder:** Feedly  
+**Added:** 2016-08-31T16:54:43  
+**Content Type:** Selection Content Extracted  
+**Selection Length:** 2,359 characters  
+
+
+---
+
+## Selected Content
+
+Today, Lenovo has announced the all-new Yoga Book, a different kind of tablet. It uses Lenovo’s now-familiar "watchband" hinge to put together two different pieces. The first is the usual touchscreen you’d expect, but the second is something new: it’s a touch-sensitive surface powered by Wacom. It has light-up keys that make it a keyboard, but it also accepts input from a stylus.
+
+Lenovo calls it the "Create Pad," and it has one more trick: you can swap in an ink cartridge into the included stylus and take notes on real paper and the Yoga Book will copy what you’re doing in real time. Because the hinge lets you swing the screen all the way around, you can take notes on paper while it’s folded up with the screen off on the back and the tablet will still record them.
+
+As is Lenovo’s way, there are two variants getting released in October. The first runs on Android Marshmallow and runs $499. The other is a Windows 10 version, for $549. Both versions come with the stylus/pen included and also have LTE radios. Lenovo rates the Android version at 15 hours and the Windows version at 13 hours, numbers that are hard to judge — although the 8500mAh battery is big, we don’t know what kind of power draw the "Create Pad" has.
+
+Both versions of the tablet have the same specs, including a 10/1-inch 1920x1200 display, 4GB of RAM, and 64GB of storage. You can expand it via microSD as well. They also have the same processor, an Intel Atom 5x, which should tell you that these are not powerhouse machines — but that’s theoretically not going to be a problem for people who want to use it to take notes and watch a few movies.
+
+Read Next: Rewriting the tablet: How Lenovo brought a dream design to life
+
+Lenovo essentially made no changes to Windows for the Yoga Book, but the Android version is heavily customized. There’s the aforementioned note-taking capabilities built-in, but the software has also been altered to act a bit more like a desktop. There’s a taskbar and the ability to run multiple apps in windows.
+
+We’ll need to actually try the thing out to see if it works, but it’s the first tablet we’ve seen in awhile that does more than try to innovate on hardware beyond clever kickstands or physical keyboard attachments. It’s enough to call to mind the nearly forgotten Microsoft Courier concept — but let’s not dwell on what might have been.
+
+---
+
+*This content was extracted from your Instapaper Selection field.*
+
+Lenovo calls it the "Create Pad," and it has one more trick: you can swap in an ink cartridge into the included stylus and take notes on real paper and the Yoga Book will copy what you’re doing in real time. Because the hinge lets you swing the screen all the way around, you can take notes on paper while it’s folded up with the screen off on the back and the tablet will still record them.
+
+As is Lenovo’s way, there are two variants getting released in October. The first runs on Android Marshmallow and runs $499. The other is a Windows 10 version, for $549. Both versions come with the stylus/pen included and also have LTE radios. Lenovo rates the Android version at 15 hours and the Windows version at 13 hours, numbers that are hard to judge — although the 8500mAh battery is big, we don’t know what kind of power draw the "Create Pad" has.
+
+Both versions of the tablet have the same specs, including a 10/1-inch 1920x1200 display, 4GB of RAM, and 64GB of storage. You can expand it via microSD as well. They also have the same processor, an Intel Atom 5x, which should tell you that these are not powerhouse machines — but that’s theoretically not going to be a problem for people who want to use it to take notes and watch a few movies.
+
+Read Next: Rewriting the tablet: How Lenovo brought a dream design to life
+
+Lenovo essentially made no changes to Windows for the Yoga Book, but the Android version is heavily customized. There’s the aforementioned note-taking capabilities built-in, but the software has also been altered to act a bit more like a desktop. There’s a taskbar and the ability to run multiple apps in windows.
+
+We’ll need to actually try the thing out to see if it works, but it’s the first tablet we’ve seen in awhile that does more than try to innovate on hardware beyond clever kickstands or physical keyboard attachments. It’s enough to call to mind the nearly forgotten Microsoft Courier concept — but let’s not dwell on what might have been.

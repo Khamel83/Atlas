@@ -1,0 +1,36 @@
+{
+  "uid": "28b24a1cf1ee0ca7",
+  "content_type": "instapaper_newsletter",
+  "source": "instapaper://private-content/1756876557",
+  "title": "Notes on My Book, The Pacific Circuit, in the Present Moment",
+  "status": "success",
+  "date": "2025-02-26T13:57:22",
+  "error": null,
+  "content_path": "output/articles/markdown/28b24a1cf1ee0ca7.md",
+  "html_path": "output/articles/html/28b24a1cf1ee0ca7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api_private_content",
+  "fetch_details": {
+    "bookmark_id": 1756876557,
+    "extraction_method": "bookmarks_get_text",
+    "content_length": 11317,
+    "successful": true
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "1756876557",
+  "type_specific": {
+    "bookmark_id": 1756876557,
+    "instapaper_time": 1740607042,
+    "starred": true,
+    "is_private_content": true,
+    "private_source": "email",
+    "content_length": 11317
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T21:58:52.052318",
+  "updated_at": "2025-08-05T21:58:52.052320"
+}

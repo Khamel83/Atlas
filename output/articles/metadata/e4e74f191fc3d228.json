@@ -1,0 +1,42 @@
+{
+  "uid": "e4e74f191fc3d228",
+  "content_type": "instapaper",
+  "source": "https://www.wsj.com/tech/ai/meta-zuckerberg-ai-recruiting-fail-e6107555?mod=hp_lead_pos7",
+  "title": "Thanks for Your $1 Billion Job Offer, Mark Zuckerberg. I’m Gonna Pass.",
+  "status": "success",
+  "date": "2025-08-05T13:27:48.673974",
+  "error": null,
+  "content_path": "output/articles/markdown/e4e74f191fc3d228.md",
+  "html_path": "output/articles/html/e4e74f191fc3d228.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "011ef7b3254c167ed7ae7cb647ab095f",
+  "type_specific": {
+    "bookmark_id": 1871331769,
+    "instapaper_time": 1754159831,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:27:48.674049",
+  "updated_at": "2025-08-05T13:27:48.674053"
+}

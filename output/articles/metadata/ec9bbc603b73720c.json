@@ -1,0 +1,26 @@
+{
+  "uid": "ec9bbc603b73720c",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1762965037",
+  "title": "Live video with Matt Taibbi now: America This Week, Live on Monday Nights",
+  "status": "success",
+  "date": "2025-08-06T13:15:49.954155",
+  "error": null,
+  "content_path": "output/articles/markdown/ec9bbc603b73720c.md",
+  "html_path": "output/articles/html/ec9bbc603b73720c.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1762965037,
+    "content_length": 3822,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1762965037,
+    "instapaper_time": 1742860971,
+    "is_private_content": true,
+    "content_length": 3822
+  },
+  "created_at": "2025-08-06T13:15:49.954160",
+  "updated_at": "2025-08-06T13:15:49.954163"
+}

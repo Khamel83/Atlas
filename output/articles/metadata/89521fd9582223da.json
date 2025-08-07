@@ -1,0 +1,26 @@
+{
+  "uid": "89521fd9582223da",
+  "content_type": "private_newsletter_first_50",
+  "source": "instapaper://private-content/1758405562",
+  "title": "Primer: From Software to Schools",
+  "status": "success",
+  "date": "2025-08-06T13:15:49.996205",
+  "error": null,
+  "content_path": "output/articles/markdown/89521fd9582223da.md",
+  "html_path": "output/articles/html/89521fd9582223da.html",
+  "fetch_method": "instapaper_api_first_50_extraction",
+  "fetch_details": {
+    "bookmark_id": 1758405562,
+    "content_length": 79644,
+    "successful": true,
+    "extraction_batch": "first_50_collection"
+  },
+  "type_specific": {
+    "bookmark_id": 1758405562,
+    "instapaper_time": 1741182659,
+    "is_private_content": true,
+    "content_length": 79644
+  },
+  "created_at": "2025-08-06T13:15:49.996210",
+  "updated_at": "2025-08-06T13:15:49.996211"
+}

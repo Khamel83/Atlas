@@ -1,0 +1,40 @@
+{
+  "uid": "ddbddcaf83de4315",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/the-goods/2019/3/11/18259894/bankruptcy-business-chapter-11-close-stores",
+  "title": "Why businesses that declare bankruptcy don’t always die Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:45:31.051304",
+  "error": null,
+  "content_path": "output/articles/markdown/ddbddcaf83de4315.md",
+  "html_path": "output/articles/html/ddbddcaf83de4315.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "06d218fe433754b1a36353d8be0274bd",
+  "type_specific": {
+    "bookmark_id": 1171130717,
+    "instapaper_time": 1552330372,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:45:31.051319",
+  "updated_at": "2025-08-05T13:45:31.051320"
+}

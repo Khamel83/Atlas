@@ -1,0 +1,40 @@
+{
+  "uid": "ec9e52858872d00e",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://kottke.org/21/10/an-hd-walking-tour-of-the-giza-pyramids",
+  "title": "An HD Walking Tour of the Giza Pyramids kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2021-10-16T18:01:19",
+  "error": null,
+  "content_path": "output/articles/markdown/ec9e52858872d00e.md",
+  "html_path": "output/articles/html/ec9e52858872d00e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 1902,
+    "selection_length": 349,
+    "cleaned_selection_length": 355,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ec9e52858872d00e",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1634432479",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "If you, like me, haven’t had the opportunity to visit the Giza Pyramid Complex outside of Cairo, Egypt, this 2-hour HD walking tour is probably the next best thing — it feels like walking around about as much as a video can. Strap on those headphones for the full immersive experience. (via open culture)\n\nTags: architecture   Egypt   travel   video",
+    "cleaned_selection": "<p>If you, like me, haven’t had the opportunity to visit the Giza Pyramid Complex outside of Cairo, Egypt, this 2-hour HD walking tour is probably the next best thing — it feels like walking around about as much as a video can. Strap on those headphones for the full immersive experience. (via open culture)</p><p>Tags: architecture Egypt travel video</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.574835",
+  "updated_at": "2025-08-06T08:47:03.574836"
+}

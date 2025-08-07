@@ -1,0 +1,40 @@
+{
+  "uid": "eedca22f98d80438",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1123769304",
+  "title": "Text Messaging in the United States; Google's Earnings; Google, Facebook, and GDPR (Stratechery Daily Update 11-01-2018)",
+  "status": "success",
+  "date": "2025-08-05T14:05:56.275897",
+  "error": null,
+  "content_path": "output/articles/markdown/eedca22f98d80438.md",
+  "html_path": "output/articles/html/eedca22f98d80438.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "381b1084aa580a8addfb5d309851c06d",
+  "type_specific": {
+    "bookmark_id": 1123769304,
+    "instapaper_time": 1541101116,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Stratechery"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:05:56.275925",
+  "updated_at": "2025-08-05T14:05:56.275929"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "62a3b6520e7d0efb",
+  "content_type": "instapaper",
+  "source": "https://thepointsguy.com/2018/01/2017-safest-year-in-air-travel/",
+  "title": "2017 Was the Safest Year on Record For Commercial Air Travel The Points Guy",
+  "status": "success",
+  "date": "2025-08-05T13:53:28.866759",
+  "error": null,
+  "content_path": "output/articles/markdown/62a3b6520e7d0efb.md",
+  "html_path": "output/articles/html/62a3b6520e7d0efb.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8349b9c136ca51f6dcbf977db491d22d",
+  "type_specific": {
+    "bookmark_id": 1000086771,
+    "instapaper_time": 1514898362,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:53:28.866813",
+  "updated_at": "2025-08-05T13:53:28.866815"
+}

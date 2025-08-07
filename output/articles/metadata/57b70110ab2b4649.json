@@ -1,0 +1,40 @@
+{
+  "uid": "57b70110ab2b4649",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/policy-and-politics/2017/12/13/16771638/doug-jones-roy-moore-alabama-black-voters",
+  "title": "Doug Jones’s secret weapon with black voters in Alabama Roy Moore Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:53:59.162576",
+  "error": null,
+  "content_path": "output/articles/markdown/57b70110ab2b4649.md",
+  "html_path": "output/articles/html/57b70110ab2b4649.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "26ce3bd713c8353af6ef6f659d4ec3e3",
+  "type_specific": {
+    "bookmark_id": 993569638,
+    "instapaper_time": 1513347181,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:53:59.162593",
+  "updated_at": "2025-08-05T13:53:59.162595"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "0a24b456cd95b58e",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1208363/amazons-push-into-fashion-retail-should-scare-these-companies-the-most/",
+  "title": "Amazon’s push into fashion retail should scare these companies the most Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:51:23.133071",
+  "error": null,
+  "content_path": "output/articles/markdown/0a24b456cd95b58e.md",
+  "html_path": "output/articles/html/0a24b456cd95b58e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7625f4a329d9535681edce4fd50665cd",
+  "type_specific": {
+    "bookmark_id": 1021009053,
+    "instapaper_time": 1519276118,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:51:23.133103",
+  "updated_at": "2025-08-05T13:51:23.133107"
+}

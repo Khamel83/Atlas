@@ -1,0 +1,40 @@
+{
+  "uid": "48a97c6f7a81fa07",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://millionmilesecrets.com/2014/07/15/avios-american-airlines/",
+  "title": "How & Why You Should Add Your American Airlines Frequent Flyer Number to a British Airways Avios Booking Million Mile Secrets",
+  "status": "selection_content_extracted",
+  "date": "2014-07-15T08:34:31",
+  "error": null,
+  "content_path": "output/articles/markdown/48a97c6f7a81fa07.md",
+  "html_path": "output/articles/html/48a97c6f7a81fa07.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5218,
+    "selection_length": 526,
+    "cleaned_selection_length": 543,
+    "domain": "millionmilesecrets.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "48a97c6f7a81fa07",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1405438471",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Disclosure: Emily & I get a commission for links on the blog. You don’t have to use our links, but we’re very grateful when you do.  By adding your American Airlines frequent flyer number to a British Airways Avios booking … Continue reading →\n\n       \n\nRelated Stories\n\nCan You Can Still Get 100,000 Miles With the Citi American Airlines Executive Card?\n\n“I Seriously Die a Little Inside When the Person in Front of Me at the Grocery Store Is Paying Cash”\n\nWhich Are the Best Credit Cards for Earning American Airlines Miles?",
+    "cleaned_selection": "<p>Disclosure: Emily & I get a commission for links on the blog. You don’t have to use our links, but we’re very grateful when you do. By adding your American Airlines frequent flyer number to a British Airways Avios booking … Continue reading →</p><p>Related Stories</p><p>Can You Can Still Get 100,000 Miles With the Citi American Airlines Executive Card?</p><p>“I Seriously Die a Little Inside When the Person in Front of Me at the Grocery Store Is Paying Cash”</p><p>Which Are the Best Credit Cards for Earning American Airlines Miles?</p>",
+    "domain": "millionmilesecrets.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.500373",
+  "updated_at": "2025-08-06T08:47:04.500374"
+}

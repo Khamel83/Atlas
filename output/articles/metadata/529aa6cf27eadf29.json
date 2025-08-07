@@ -1,0 +1,40 @@
+{
+  "uid": "529aa6cf27eadf29",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://sports.espn.go.com/fantasy/football/ffl/story?ex_cid=espn-twttr&page=nfldk2k11_harrisflag",
+  "title": "10 'flag-planting' players for 2011",
+  "status": "selection_content_extracted",
+  "date": "2011-09-06T12:54:35",
+  "error": null,
+  "content_path": "output/articles/markdown/529aa6cf27eadf29.md",
+  "html_path": "output/articles/html/529aa6cf27eadf29.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5647,
+    "selection_length": 124,
+    "cleaned_selection_length": 131,
+    "domain": "sports.espn.go.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "529aa6cf27eadf29",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1315338875",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "ESPN: Bro, if you want to win, take these ten guys in your fantasy football draft-> http://es.pn/p1yvfP (via @WriterBoyESPN)",
+    "cleaned_selection": "<p>ESPN: Bro, if you want to win, take these ten guys in your fantasy football draft-> http://es.pn/p1yvfP (via @WriterBoyESPN)</p>",
+    "domain": "sports.espn.go.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.528331",
+  "updated_at": "2025-08-06T08:47:04.528332"
+}

@@ -1,0 +1,42 @@
+{
+  "uid": "d7fe4727727d997d",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1683070238",
+  "title": "Weekly Dose of Optimism #95",
+  "status": "success",
+  "date": "2025-08-05T13:35:43.060280",
+  "error": null,
+  "content_path": "output/articles/markdown/d7fe4727727d997d.md",
+  "html_path": "output/articles/html/d7fe4727727d997d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fcdfb90f17a27a36ad6d2085db4246ba",
+  "type_specific": {
+    "bookmark_id": 1683070238,
+    "instapaper_time": 1716554501,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:35:43.060323",
+  "updated_at": "2025-08-05T13:35:43.060326"
+}

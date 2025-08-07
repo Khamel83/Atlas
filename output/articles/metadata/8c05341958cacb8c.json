@@ -1,0 +1,40 @@
+{
+  "uid": "8c05341958cacb8c",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2014/11/how-to-better-add-stopovers-to-your-award-trip-with-ba-avios.html",
+  "title": "Get Better Stopovers on Your Award Trip with BA Avios Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2014-11-11T19:57:33",
+  "error": null,
+  "content_path": "output/articles/markdown/8c05341958cacb8c.md",
+  "html_path": "output/articles/html/8c05341958cacb8c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5055,
+    "selection_length": 313,
+    "cleaned_selection_length": 320,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8c05341958cacb8c",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1415764653",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Whenever I travel internationally, I usually visit more than one country and certainly more than one city. I am not the kind of person that will take a 10-hour flight and then stay two weeks in the same place before returning back home — not saying there is anything wrong with that! Fortunately, some rewards […]",
+    "cleaned_selection": "<p>Whenever I travel internationally, I usually visit more than one country and certainly more than one city. I am not the kind of person that will take a 10-hour flight and then stay two weeks in the same place before returning back home — not saying there is anything wrong with that! Fortunately, some rewards […]</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.461004",
+  "updated_at": "2025-08-06T08:47:04.461007"
+}

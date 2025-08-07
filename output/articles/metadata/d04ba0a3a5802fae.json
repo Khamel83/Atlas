@@ -1,0 +1,40 @@
+{
+  "uid": "d04ba0a3a5802fae",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/1174538/donald-trumps-morning-routine-includes-executive-time/",
+  "title": "How Donald Trump spends his three hours of “executive time” every morning Quartz",
+  "status": "selection_content_extracted",
+  "date": "2018-01-08T17:41:00",
+  "error": null,
+  "content_path": "output/articles/markdown/d04ba0a3a5802fae.md",
+  "html_path": "output/articles/html/d04ba0a3a5802fae.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3667,
+    "selection_length": 1536,
+    "cleaned_selection_length": 1572,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d04ba0a3a5802fae",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1515462060",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The morning routines of the most powerful and accomplished people are commonly scrutinized and emulated in the hope of replicating their productivity. For those who struggle to get started in the morning, studying their schedules tends to generate shame.\n\nSo it is particularly refreshing to learn that the world’s most powerful person, Donald Trump, doesn’t get to work till 11 am. Before his official schedule begins, according to Axios writer Jonathan Swan, the president takes at least three hours every morning for “executive time” in the Oval Office.\n\nSwan describes this as “time in his residence, watching TV, making phone calls and tweeting.” Indeed, the president is a known early riser and morning tweeter. He also rejects working out, doesn’t read much, and has few hobbies beyond golf, so catching up on cable news and social media chatter during that time seems entirely plausible.\n\nUnless he is traveling, the president’s schedule includes a solid chunk of “executive time” between 8 am and 11 am, and then more of it through the day. This doesn’t necessarily mean he’s not working, but in Swan’s words, he spends the hours “generally taking the same loose, improvisational approach to being president that he took to running the Trump Organization for so many years.”\n\nPress secretary Sarah Sanders notes that “the time in the morning is a mix of residence time and Oval Office time but he always has calls with staff, Hill members, cabinet members and foreign leaders during this time.”\n\nMost Popular\n\n\t\tRead full story",
+    "cleaned_selection": "<p>The morning routines of the most powerful and accomplished people are commonly scrutinized and emulated in the hope of replicating their productivity. For those who struggle to get started in the morning, studying their schedules tends to generate shame.</p><p>So it is particularly refreshing to learn that the world’s most powerful person, Donald Trump, doesn’t get to work till 11 am. Before his official schedule begins, according to Axios writer Jonathan Swan, the president takes at least three hours every morning for “executive time” in the Oval Office.</p><p>Swan describes this as “time in his residence, watching TV, making phone calls and tweeting.” Indeed, the president is a known early riser and morning tweeter. He also rejects working out, doesn’t read much, and has few hobbies beyond golf, so catching up on cable news and social media chatter during that time seems entirely plausible.</p><p>Unless he is traveling, the president’s schedule includes a solid chunk of “executive time” between 8 am and 11 am, and then more of it through the day. This doesn’t necessarily mean he’s not working, but in Swan’s words, he spends the hours “generally taking the same loose, improvisational approach to being president that he took to running the Trump Organization for so many years.”</p><p>Press secretary Sarah Sanders notes that “the time in the morning is a mix of residence time and Oval Office time but he always has calls with staff, Hill members, cabinet members and foreign leaders during this time.”</p><p>Most Popular</p><p> Read full story</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.939661",
+  "updated_at": "2025-08-06T08:47:03.939662"
+}

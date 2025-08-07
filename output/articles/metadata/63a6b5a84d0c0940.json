@@ -1,0 +1,40 @@
+{
+  "uid": "63a6b5a84d0c0940",
+  "content_type": "instapaper",
+  "source": "https://millionmilesecrets.com/guides/your-guide-to-using-transferable-points-for-award-flights-to-hawaii/",
+  "title": "Your guide to using transferable points for award flights to Hawaii Million Mile Secrets",
+  "status": "success",
+  "date": "2025-08-05T13:41:52.269127",
+  "error": null,
+  "content_path": "output/articles/markdown/63a6b5a84d0c0940.md",
+  "html_path": "output/articles/html/63a6b5a84d0c0940.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c2962c9a0d59e0195404861339533108",
+  "type_specific": {
+    "bookmark_id": 1264130630,
+    "instapaper_time": 1577651457,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:41:52.269155",
+  "updated_at": "2025-08-05T13:41:52.269158"
+}

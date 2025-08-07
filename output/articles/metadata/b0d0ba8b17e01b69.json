@@ -1,0 +1,40 @@
+{
+  "uid": "b0d0ba8b17e01b69",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://food52.com/blog/15446-dinner-tonight-bff-crispy-coated-chicken",
+  "title": "Dinner Tonight BFF Crispy Coated Chicken Food52",
+  "status": "selection_content_extracted",
+  "date": "2016-01-05T20:02:49",
+  "error": null,
+  "content_path": "output/articles/markdown/b0d0ba8b17e01b69.md",
+  "html_path": "output/articles/html/b0d0ba8b17e01b69.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4646,
+    "selection_length": 3021,
+    "cleaned_selection_length": 3098,
+    "domain": "food52.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b0d0ba8b17e01b69",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1452052969",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Alas, the holiday season is at an end, and it's the height of back-to-work, back-to-school, back-to-life blues. It's been almost a month and a half of straight gluttony, with all the delicious holiday dishes we crave throughout the year, and we could all use a bit of a break from gravies, roasts, and Grandma's wintry casseroles.\n\nPhoto by Mark Weinberg\n\nEnter BFF Crispy Coated Chicken. It's definitely kid-approved, but it's also just plain delicious. Best of all, it comes with a lemony and creamy dressing to serve over the chicken—alone or on a big salad. It's a meal that comes together in the blink of an eye—and it's comforting, tasty, and makes great leftovers, to boot.\n\nGrocery List\n\n(Organized by area of the market)\n\n1 pound boneless chicken tenders or chicken breast\n\n1 1/2 cup panko bread crumbs\n\n1 1/4 cup grated Parmesan cheese\n\n1 tablespoon crème fraîche\n\n2 tablespoons lemon juice\n\n1 teaspoon anchovy paste (optional—only if you want it in your dressing)\n\nWe're assuming you already have 2 eggs, 1/4 cup flour, garlic salt, olive oil, vegetable oil (or some other high-heat oil), salt and pepper, a clove of garlic, and a teaspoon of honey, but if you don't, add those to your list as well.\n\nWith about 30 minutes to dinner, slice the chicken breasts or tenders into 1/2-inch-thick pieces. Place the chicken between two pieces of plastic wrap and pound them to 1/4-inch thickness. Season with salt and pepper, and set aside. Now it's time to set up your breading station. Mix 1/4 cup flour with 1/2 teaspoon (or a healthy shake) of garlic salt in one bowl. In the next bowl, preferably a shallow one, beat 2 eggs. In the final bowl (or plate), mix together 1 1/2 cups panko crumbs with 1 cup grated Parmesan cheese. Make sure to leave a fourth bowl or plate at the end to collect all your coated chicken pieces.\n\nTo coat each piece of chicken, cover it in the flour mixture, then generously coat both sides with the beaten eggs. Finish it off with the panko/Parmesan mixture, being sure to cover each side evenly. Set the coated pieces on the fourth plate and continue until all the chicken is coated. Heat enough vegetable oil to cover the bottom of a frying pan on medium heat. Once the oil is hot, cook the chicken pieces, turning once, until both sides are golden brown. You may have to add a bit more oil to ensure that both sides are evenly browned, but once the chicken is done, place it aside on paper towels.\n\nThen whip up the lemony dressing. Mash up the clove of garlic, and mix well with 1/4 cup grated Parmesan, 1 tablespoon crème fraîche, 2 tablespoons lemon juice, and 1 teaspoon anchovy paste. Add about 6 tablespoons of olive oil and whisk until emulsified. Toss the dressing on your favorite salad greens from the fridge, or drizzle it over the chicken alone and gobble them down. Be sure to save some for lunch—the dressing will keep in a separate container, so you can pack a chicken sandwich, or cold chicken pieces, and serve up a decidedly #NSDL your first week back to reality.",
+    "cleaned_selection": "<p>Alas, the holiday season is at an end, and it's the height of back-to-work, back-to-school, back-to-life blues. It's been almost a month and a half of straight gluttony, with all the delicious holiday dishes we crave throughout the year, and we could all use a bit of a break from gravies, roasts, and Grandma's wintry casseroles.</p><p>Photo by Mark Weinberg</p><p>Enter BFF Crispy Coated Chicken. It's definitely kid-approved, but it's also just plain delicious. Best of all, it comes with a lemony and creamy dressing to serve over the chicken—alone or on a big salad. It's a meal that comes together in the blink of an eye—and it's comforting, tasty, and makes great leftovers, to boot.</p><p>Grocery List</p><p>(Organized by area of the market)</p><p>1 pound boneless chicken tenders or chicken breast</p><p>1 1/2 cup panko bread crumbs</p><p>1 1/4 cup grated Parmesan cheese</p><p>1 tablespoon crème fraîche</p><p>2 tablespoons lemon juice</p><p>1 teaspoon anchovy paste (optional—only if you want it in your dressing)</p><p>We're assuming you already have 2 eggs, 1/4 cup flour, garlic salt, olive oil, vegetable oil (or some other high-heat oil), salt and pepper, a clove of garlic, and a teaspoon of honey, but if you don't, add those to your list as well.</p><p>With about 30 minutes to dinner, slice the chicken breasts or tenders into 1/2-inch-thick pieces. Place the chicken between two pieces of plastic wrap and pound them to 1/4-inch thickness. Season with salt and pepper, and set aside. Now it's time to set up your breading station. Mix 1/4 cup flour with 1/2 teaspoon (or a healthy shake) of garlic salt in one bowl. In the next bowl, preferably a shallow one, beat 2 eggs. In the final bowl (or plate), mix together 1 1/2 cups panko crumbs with 1 cup grated Parmesan cheese. Make sure to leave a fourth bowl or plate at the end to collect all your coated chicken pieces.</p><p>To coat each piece of chicken, cover it in the flour mixture, then generously coat both sides with the beaten eggs. Finish it off with the panko/Parmesan mixture, being sure to cover each side evenly. Set the coated pieces on the fourth plate and continue until all the chicken is coated. Heat enough vegetable oil to cover the bottom of a frying pan on medium heat. Once the oil is hot, cook the chicken pieces, turning once, until both sides are golden brown. You may have to add a bit more oil to ensure that both sides are evenly browned, but once the chicken is done, place it aside on paper towels.</p><p>Then whip up the lemony dressing. Mash up the clove of garlic, and mix well with 1/4 cup grated Parmesan, 1 tablespoon crème fraîche, 2 tablespoons lemon juice, and 1 teaspoon anchovy paste. Add about 6 tablespoons of olive oil and whisk until emulsified. Toss the dressing on your favorite salad greens from the fridge, or drizzle it over the chicken alone and gobble them down. Be sure to save some for lunch—the dressing will keep in a separate container, so you can pack a chicken sandwich, or cold chicken pieces, and serve up a decidedly #NSDL your first week back to reality.</p>",
+    "domain": "food52.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.354874",
+  "updated_at": "2025-08-06T08:47:04.354875"
+}

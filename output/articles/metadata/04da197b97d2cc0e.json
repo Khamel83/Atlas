@@ -1,0 +1,40 @@
+{
+  "uid": "04da197b97d2cc0e",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://tywkiwdbi.blogspot.com/2018/03/which-us-household-do-you-belong-to.html",
+  "title": "Which U.S. household do you belong to TYWKIWDBI (Tai",
+  "status": "selection_content_extracted",
+  "date": "2018-03-15T22:05:43",
+  "error": null,
+  "content_path": "output/articles/markdown/04da197b97d2cc0e.md",
+  "html_path": "output/articles/html/04da197b97d2cc0e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3581,
+    "selection_length": 686,
+    "cleaned_selection_length": 769,
+    "domain": "tywkiwdbi.blogspot.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "04da197b97d2cc0e",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1521176743",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Golf Carts and Gourmets\nColleges and Cafés\nModest Metro Means\nStatus-Seeking Singles\nFootloose and Family-Free\nSettled and Sensible\nDiapers and Debit Cards\nBabies and Bliss\nKids and Cabernet\nDigital Dependents\nFull Pockets, Empty Nests\nTown Elders\nGenerational Soup\nBooming and Consuming\nBirkenstocks and Beemers\nProgressive Potpourri\nCul-de-Sac Diversity\nTrue-Grit Americans\nCountrified Pragmatics\nRed, White, and Bluegrass\nAmerican Royalty\nTough Times\nTight Money\n\nI guess our household is \"Settled and Sensible.\"\n\nSelections from a larger list of 71 categories developed by Experian, a credit data corporation, and published in Harper's under the much better title \"Glass Menagerie.\"",
+    "cleaned_selection": "<p>Golf Carts and Gourmets<br>Colleges and Cafés<br>Modest Metro Means<br>Status-Seeking Singles<br>Footloose and Family-Free<br>Settled and Sensible<br>Diapers and Debit Cards<br>Babies and Bliss<br>Kids and Cabernet<br>Digital Dependents<br>Full Pockets, Empty Nests<br>Town Elders<br>Generational Soup<br>Booming and Consuming<br>Birkenstocks and Beemers<br>Progressive Potpourri<br>Cul-de-Sac Diversity<br>True-Grit Americans<br>Countrified Pragmatics<br>Red, White, and Bluegrass<br>American Royalty<br>Tough Times<br>Tight Money</p><p>I guess our household is \"Settled and Sensible.\"</p><p>Selections from a larger list of 71 categories developed by Experian, a credit data corporation, and published in Harper's under the much better title \"Glass Menagerie.\"</p>",
+    "domain": "tywkiwdbi.blogspot.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.921436",
+  "updated_at": "2025-08-06T08:47:03.921437"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "dfd41eec74e45460",
+  "content_type": "instapaper",
+  "source": "http://www.frugaltravelguy.com/2017/06/should-you-redeem-urs-or-transfer-them-for-better-value-how-to-decide.html",
+  "title": "Should You Redeem URs or Transfer Them for Better Value How to Decide Frugal Travel Guy",
+  "status": "success",
+  "date": "2025-08-05T14:02:42.986917",
+  "error": null,
+  "content_path": "output/articles/markdown/dfd41eec74e45460.md",
+  "html_path": "output/articles/html/dfd41eec74e45460.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7905c2f8b2f3f752f38256f58ddee4e8",
+  "type_specific": {
+    "bookmark_id": 921930990,
+    "instapaper_time": 1498064443,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:02:42.986931",
+  "updated_at": "2025-08-05T14:02:42.986932"
+}

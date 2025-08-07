@@ -1,0 +1,40 @@
+{
+  "uid": "65afb3c94eddbbe7",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://qz.com/1801623/streaming-has-a-long-way-to-go-to-catch-regular-tv/",
+  "title": "Streaming still has a long way to go before it catches regular old TV Quartz",
+  "status": "selection_content_extracted",
+  "date": "2020-02-13T15:58:53",
+  "error": null,
+  "content_path": "output/articles/markdown/65afb3c94eddbbe7.md",
+  "html_path": "output/articles/html/65afb3c94eddbbe7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2876,
+    "selection_length": 2835,
+    "cleaned_selection_length": 2884,
+    "domain": "qz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "65afb3c94eddbbe7",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1581638333",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "What’s lost in the battle between Netflix and Disney+ is that most Americans are still spending much of their free time watching old-fashioned TV instead.\n\nThe average adult in the US spends about 27 hours per week watching traditional television (including live, on-demand, and DVR), according to Nielsen’s 2020 Total Audience Report. Only 19% of video consumption on TV sets in streaming-capable US homes is through a subscription streaming service, the report said. Nielsen did not breakdown the remaining 81% of TV usage, beyond saying it’s made up of a combination of traditional TV, watching DVDs, and playing video games.\n\nAmericans watched about three and a half hours of traditional TV per day, not including DVR or on-demand, in 2019 (down from three hours and 45 minutes in 2018). By comparison, they streamed only 38 minutes of content per day, though that was up from 29 minutes the prior year.\n\nThe prevalence of old-school TV watching through a cable or satellite provider (or via antennae) is mostly driven by older demographics. Americans 65-years and older still watch a whopping 46.5 hours of normal TV per week (vs. 4.6 hours of non-TV video consumption), while 18- to 34-year-olds only watch 11 hours of linear TV each week.\n\nThe older viewers gets, the more they tend to rely on traditional TV for their content. Likewise, younger Americans are much more likely to stream content on other devices. Eighteen to 34-year-olds watch three hours of content on their phones each week, while 65-and-ups watch just 49 minutes. The youngest adult demographic watches about the same amount of content on other devices as they do on TVs:\n\n \n\nThat’s why the “streaming wars” matter, even if streaming is not currently the predominant method of consuming content in the US. It probably will be soon.\n\nAccording to Nielsen, there were 646,152 “unique program titles” (read: TV series, movies, specials, and news programs) across all of American entertainment last year—up 10% from the year before. Many of these new titles are on streaming services.\n\nNinety-one percent of Americans in Nielsen’s survey of TV viewers said they subscribe to at least one streaming service. And 93% of that group said they are most likely to either increase or maintain their current number of subscriptions. Only 3% said they are planning to cut down on them.\n\nThe story is quite different for traditional TV. Virtually every major US cable or satellite provider is hemorrhaging subscribers. A 2018 report by eMarketer forecasted that by 2022, one fifth of Americans once subscribed to a traditional TV package will have cut the cord.\n\nLive and on-demand TV still represents a huge chunk of overall TV consumption—considerably bigger than that of streaming services like Netflix and Disney. But the days where that remains the case are numbered.",
+    "cleaned_selection": "<p>What’s lost in the battle between Netflix and Disney+ is that most Americans are still spending much of their free time watching old-fashioned TV instead.</p><p>The average adult in the US spends about 27 hours per week watching traditional television (including live, on-demand, and DVR), according to Nielsen’s 2020 Total Audience Report. Only 19% of video consumption on TV sets in streaming-capable US homes is through a subscription streaming service, the report said. Nielsen did not breakdown the remaining 81% of TV usage, beyond saying it’s made up of a combination of traditional TV, watching DVDs, and playing video games.</p><p>Americans watched about three and a half hours of traditional TV per day, not including DVR or on-demand, in 2019 (down from three hours and 45 minutes in 2018). By comparison, they streamed only 38 minutes of content per day, though that was up from 29 minutes the prior year.</p><p>The prevalence of old-school TV watching through a cable or satellite provider (or via antennae) is mostly driven by older demographics. Americans 65-years and older still watch a whopping 46.5 hours of normal TV per week (vs. 4.6 hours of non-TV video consumption), while 18- to 34-year-olds only watch 11 hours of linear TV each week.</p><p>The older viewers gets, the more they tend to rely on traditional TV for their content. Likewise, younger Americans are much more likely to stream content on other devices. Eighteen to 34-year-olds watch three hours of content on their phones each week, while 65-and-ups watch just 49 minutes. The youngest adult demographic watches about the same amount of content on other devices as they do on TVs:</p><p>That’s why the “streaming wars” matter, even if streaming is not currently the predominant method of consuming content in the US. It probably will be soon.</p><p>According to Nielsen, there were 646,152 “unique program titles” (read: TV series, movies, specials, and news programs) across all of American entertainment last year—up 10% from the year before. Many of these new titles are on streaming services.</p><p>Ninety-one percent of Americans in Nielsen’s survey of TV viewers said they subscribe to at least one streaming service. And 93% of that group said they are most likely to either increase or maintain their current number of subscriptions. Only 3% said they are planning to cut down on them.</p><p>The story is quite different for traditional TV. Virtually every major US cable or satellite provider is hemorrhaging subscribers. A 2018 report by eMarketer forecasted that by 2022, one fifth of Americans once subscribed to a traditional TV package will have cut the cord.</p><p>Live and on-demand TV still represents a huge chunk of overall TV consumption—considerably bigger than that of streaming services like Netflix and Disney. But the days where that remains the case are numbered.</p>",
+    "domain": "qz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.680394",
+  "updated_at": "2025-08-06T08:47:03.680395"
+}

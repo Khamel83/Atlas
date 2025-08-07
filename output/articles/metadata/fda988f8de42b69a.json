@@ -1,0 +1,40 @@
+{
+  "uid": "fda988f8de42b69a",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.core77.com//posts/72059/Rescue-Drone-Saves-Two-Boys-from-Drowning-on-Its-First-Day-in-Service",
+  "title": "Rescue Drone Saves Two Boys from Drowning on Its First Day in Service Core77",
+  "status": "selection_content_extracted",
+  "date": "2018-01-22T09:31:06",
+  "error": null,
+  "content_path": "output/articles/markdown/fda988f8de42b69a.md",
+  "html_path": "output/articles/html/fda988f8de42b69a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3649,
+    "selection_length": 2279,
+    "cleaned_selection_length": 2331,
+    "domain": "core77.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fda988f8de42b69a",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1516642266",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Imagine being in the ocean, trapped in a swell some 700 meters from shore. Suddenly a yellow package drops out of the sky as if sent by a god, hits the water next to you and expands into a flotation device.\n\nThat was the experience of two unlucky, then lucky teenage boys off the coast of Lennox Head in Australia last week. Someone spotted the boys in distress and called it in, but the nearest lifeguard station was a kilometer away. Just that morning, however, Lennox Head had brought their new lifesaving drone into service.\n\nIn a little over a minute, a lifeguard supervisor had launched the drone, spotted the boys, flew it over to them, and remotely dropped the flotation device. The boys were able to grab it and swim to shore. Here's the footage:\n\nThe drone is manufactured by a company called Little Ripper Lifesaver, founded by Kevin Weldon after he witnessed a drone canvassing the streets of New Orleans after Hurricane Katrina and realized its lifesaving potential. The Marine Pod dropped over Lennox Head contained a water-triggered flotation device, which is repackable and reusable. The company is now testing a saltwater-activated electromagnetic shark repellent device, with plans to include that in future kits.\n\nLittle Ripper also makes a Land Pod, which contains an automatic defibrillator, a location beacon, a thermal blanket, a radio, a highly-visible rescue banner and a first aid kit. Lastly they make a Snow Pod, which adds skin warmers and energy bars to the Land Pod.\n\nLennox Head received the drone as part of a trial set up by an organization called Surf Life Saving NSW and the New South Wales Government. According to ABC News,\n\nSurf Life Saving NSW project manager for unmanned aerial vehicles (UAV), Kelvin Morton, said the project was a world-first.\n\n\"These UAVs that we're using to drop these inflatable pods is innovative, and we know that most or all of the lifesaving organisations around the world are stepping back and waiting to see how this goes.\"\n\nMr Morton said the drones gave surf lifesavers a new advantage. \"It gives them eyes across the water at a height of 60 metres and they can move at 50 kilometres an hour,\" he said. \n\n\"They've never had that ability before. They can see things in the water that a jet-ski simply cannot.\"",
+    "cleaned_selection": "<p>Imagine being in the ocean, trapped in a swell some 700 meters from shore. Suddenly a yellow package drops out of the sky as if sent by a god, hits the water next to you and expands into a flotation device.</p><p>That was the experience of two unlucky, then lucky teenage boys off the coast of Lennox Head in Australia last week. Someone spotted the boys in distress and called it in, but the nearest lifeguard station was a kilometer away. Just that morning, however, Lennox Head had brought their new lifesaving drone into service.</p><p>In a little over a minute, a lifeguard supervisor had launched the drone, spotted the boys, flew it over to them, and remotely dropped the flotation device. The boys were able to grab it and swim to shore. Here's the footage:</p><p>The drone is manufactured by a company called Little Ripper Lifesaver, founded by Kevin Weldon after he witnessed a drone canvassing the streets of New Orleans after Hurricane Katrina and realized its lifesaving potential. The Marine Pod dropped over Lennox Head contained a water-triggered flotation device, which is repackable and reusable. The company is now testing a saltwater-activated electromagnetic shark repellent device, with plans to include that in future kits.</p><p>Little Ripper also makes a Land Pod, which contains an automatic defibrillator, a location beacon, a thermal blanket, a radio, a highly-visible rescue banner and a first aid kit. Lastly they make a Snow Pod, which adds skin warmers and energy bars to the Land Pod.</p><p>Lennox Head received the drone as part of a trial set up by an organization called Surf Life Saving NSW and the New South Wales Government. According to ABC News,</p><p>Surf Life Saving NSW project manager for unmanned aerial vehicles (UAV), Kelvin Morton, said the project was a world-first.</p><p>\"These UAVs that we're using to drop these inflatable pods is innovative, and we know that most or all of the lifesaving organisations around the world are stepping back and waiting to see how this goes.\"</p><p>Mr Morton said the drones gave surf lifesavers a new advantage. \"It gives them eyes across the water at a height of 60 metres and they can move at 50 kilometres an hour,\" he said. </p><p>\"They've never had that ability before. They can see things in the water that a jet-ski simply cannot.\"</p>",
+    "domain": "core77.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.933425",
+  "updated_at": "2025-08-06T08:47:03.933426"
+}

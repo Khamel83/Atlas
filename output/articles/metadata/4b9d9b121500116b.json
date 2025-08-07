@@ -1,0 +1,40 @@
+{
+  "uid": "4b9d9b121500116b",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://gawker.com/5845576/",
+  "title": "Today Is the Last Day to Have Sex with an Animal in Florida—Legally",
+  "status": "selection_content_extracted",
+  "date": "2011-10-01T10:47:20",
+  "error": null,
+  "content_path": "output/articles/markdown/4b9d9b121500116b.md",
+  "html_path": "output/articles/html/4b9d9b121500116b.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5587,
+    "selection_length": 101,
+    "cleaned_selection_length": 108,
+    "domain": "gawker.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4b9d9b121500116b",
+  "type_specific": {
+    "folder": "Archive",
+    "instapaper_timestamp": "1317491240",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "RT @defamer: Today Is the Last Day to Have Sex with an Animal in Florida—Legally http://t.co/sd97WHCw",
+    "cleaned_selection": "<p>RT @defamer: Today Is the Last Day to Have Sex with an Animal in Florida—Legally http://t.co/sd97WHCw</p>",
+    "domain": "gawker.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.525262",
+  "updated_at": "2025-08-06T08:47:04.525263"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "f00d60fc274550d0",
+  "content_type": "instapaper",
+  "source": "https://qz.com/1618066/trumps-25-china-tariff-how-much-would-it-raise-the-price-of-sneakers/",
+  "title": "How much more a pair of sneakers will cost in the US with Trump’s China tariffs Quartz",
+  "status": "success",
+  "date": "2025-08-05T13:43:22.935321",
+  "error": null,
+  "content_path": "output/articles/markdown/f00d60fc274550d0.md",
+  "html_path": "output/articles/html/f00d60fc274550d0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "942a2a5b07f76e073c3f8e2fda3d5926",
+  "type_specific": {
+    "bookmark_id": 1193037299,
+    "instapaper_time": 1557811468,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:43:22.935336",
+  "updated_at": "2025-08-05T13:43:22.935337"
+}

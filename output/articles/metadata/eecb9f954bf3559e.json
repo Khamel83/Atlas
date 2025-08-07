@@ -1,0 +1,40 @@
+{
+  "uid": "eecb9f954bf3559e",
+  "content_type": "instapaper",
+  "source": "http://ritholtz.com/2017/10/100000-middle-class/",
+  "title": "Is $100,000 Middle Class The Big Picture",
+  "status": "success",
+  "date": "2025-08-05T13:57:00.553855",
+  "error": null,
+  "content_path": "output/articles/markdown/eecb9f954bf3559e.md",
+  "html_path": "output/articles/html/eecb9f954bf3559e.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "b922241aaaa10751bce76ab5b942fcc5",
+  "type_specific": {
+    "bookmark_id": 974514006,
+    "instapaper_time": 1509423478,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:57:00.553934",
+  "updated_at": "2025-08-05T13:57:00.553938"
+}

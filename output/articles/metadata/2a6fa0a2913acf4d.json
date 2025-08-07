@@ -1,0 +1,40 @@
+{
+  "uid": "2a6fa0a2913acf4d",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://www.theverge.com/2020/2/4/21122493/yahoo-class-action-settlement-data-breaches",
+  "title": "You might be able to get up to $100 from the settlement for Yahoo’s data breaches The Verge",
+  "status": "selection_content_extracted",
+  "date": "2020-02-04T14:06:10",
+  "error": null,
+  "content_path": "output/articles/markdown/2a6fa0a2913acf4d.md",
+  "html_path": "output/articles/html/2a6fa0a2913acf4d.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2892,
+    "selection_length": 2120,
+    "cleaned_selection_length": 2177,
+    "domain": "theverge.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2a6fa0a2913acf4d",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1580853970",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Photo Illustration by Rafael Henrique/SOPA Images/LightRocket via Getty Images\n\nYahoo famously suffered numerous data breaches from 2012 to 2016 (including one in 2013 that affected all 3 billion of its users), and the company is informing users that they can now submit claims for either credit monitoring or cash compensation as part of a proposed class action lawsuit settlement. Yahoo says if you had a Yahoo account anytime between 2012 and 2016 and are a resident of the US or Israel, the class action settlement may affect you.\n\nThe total amount of the settlement fund is $117.5 million, up from a proposed $50 million settlement that was rejected by a judge. Yahoo will use that settlement fund to pay for:\n\nA minimum of two years of credit monitoring for individual users\n\nA cash payment of $100 to users who can prove they already have at least 12 months of credit monitoring (though the final cash amount may be higher or lower depending on how many claims are filed)\n\nCompensation for time spent dealing with issues resulting from the data breaches\n\nOut-of-pocket costs users may have had to pay as a result of having their information stolen in the data breaches, such as paying an accountant to help refile a falsified tax return\n\nReimbursement for some costs of Yahoo’s premium or small business services\n\nIf you want to file a claim, you can find the forms right here. You must submit your claim online or by mail by July 20th.\n\nBut before you get too excited, just remember the Equifax situation; if a ton of people go through this process and opt for the cash payment, you’re not getting anything close to $100.\n\nIn addition to the 2013 breach that affected 3 billion Yahoo users, this proposed class action lawsuit also covers a 2014 “state-sponsored” hack that affected more than 500 million accounts, a 2012 “data security intrusion” (though Yahoo says there is no evidence that user credentials, email accounts, or contents of emails were taken from that), and a breach that lasted from 2015 to September 2016 where hackers were able to gain access to approximately 32 million Yahoo email accounts.",
+    "cleaned_selection": "<p>Photo Illustration by Rafael Henrique/SOPA Images/LightRocket via Getty Images</p><p>Yahoo famously suffered numerous data breaches from 2012 to 2016 (including one in 2013 that affected all 3 billion of its users), and the company is informing users that they can now submit claims for either credit monitoring or cash compensation as part of a proposed class action lawsuit settlement. Yahoo says if you had a Yahoo account anytime between 2012 and 2016 and are a resident of the US or Israel, the class action settlement may affect you.</p><p>The total amount of the settlement fund is $117.5 million, up from a proposed $50 million settlement that was rejected by a judge. Yahoo will use that settlement fund to pay for:</p><p>A minimum of two years of credit monitoring for individual users</p><p>A cash payment of $100 to users who can prove they already have at least 12 months of credit monitoring (though the final cash amount may be higher or lower depending on how many claims are filed)</p><p>Compensation for time spent dealing with issues resulting from the data breaches</p><p>Out-of-pocket costs users may have had to pay as a result of having their information stolen in the data breaches, such as paying an accountant to help refile a falsified tax return</p><p>Reimbursement for some costs of Yahoo’s premium or small business services</p><p>If you want to file a claim, you can find the forms right here. You must submit your claim online or by mail by July 20th.</p><p>But before you get too excited, just remember the Equifax situation; if a ton of people go through this process and opt for the cash payment, you’re not getting anything close to $100.</p><p>In addition to the 2013 breach that affected 3 billion Yahoo users, this proposed class action lawsuit also covers a 2014 “state-sponsored” hack that affected more than 500 million accounts, a 2012 “data security intrusion” (though Yahoo says there is no evidence that user credentials, email accounts, or contents of emails were taken from that), and a breach that lasted from 2015 to September 2016 where hackers were able to gain access to approximately 32 million Yahoo email accounts.</p>",
+    "domain": "theverge.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.683497",
+  "updated_at": "2025-08-06T08:47:03.683499"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "2644ed2e0c481254",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://ritholtz.com/2020/12/cost-of-financing-us-deficits/",
+  "title": "Cost of Financing US Deficits The Big Picture",
+  "status": "selection_content_extracted",
+  "date": "2020-12-18T20:03:26",
+  "error": null,
+  "content_path": "output/articles/markdown/2644ed2e0c481254.md",
+  "html_path": "output/articles/html/2644ed2e0c481254.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2559,
+    "selection_length": 1919,
+    "cleaned_selection_length": 1966,
+    "domain": "ritholtz.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "2644ed2e0c481254",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1608350606",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Source: Peterson Institute for International Economics,\n\n \n\n \n\n \n\nAs the Congress continues to debate the details of a Covid rescue package, a brief reminder: Low interest rates makes it easier to pay off debts.\n\nThis is what awaits the new administration that will begin governing in a little over a month. The facts about deficit financing should be front and center of the White House and Congress.\n\nIts the Debt servicing costs, stupid — not total debt.\n\nConsider in 2000, when the US federal debt was 34% of GDP, relatively close to its post-war low. By the end of 2020, the debt-to-GDP ratio will have nearly tripled to over 100% of GDP. At the same time, the cost of servicing this larger debt has fallen, relative to the size of the economy, because of the widespread fall in interest rates across advanced economies. As a share of GDP, the cost of servicing US debt has fallen since 2000, even though federal debt has increased.\n\nThe Peterson Institute has observed:\n\n“This situation also creates more space for primary deficits (noninterest spending minus revenue) without resulting in an unlimited explosion of debt. Rather than focus on the size of US debt, policymakers should assess fiscal capacity in terms of real interest payments, ensuring they remain comfortably below 2 percent of GDP. By this measure, there is room for substantial additional fiscal support and needed public investments while maintaining a sustainable public debt.” (adapted from Jason Furman and Lawrence H. Summers’ working paper, “A Reconsideration of Fiscal Policy in the Era of Low Interest Rates)\n\nI will be watching to see if this argument carries with the faux deficit hawks.\n\n \n\n \n\n \n\nPreviously:\nCan We Please Have an Honest Debate About Tax Policy? (October 2, 2017)\n\nDeficit Chicken Hawks vs Ronald Reagan (July 13, 2010)\n\nPolitics & Investing\n\nThe post Cost of Financing US Deficits appeared first on The Big Picture.",
+    "cleaned_selection": "<p>Source: Peterson Institute for International Economics,</p><p>As the Congress continues to debate the details of a Covid rescue package, a brief reminder: Low interest rates makes it easier to pay off debts.</p><p>This is what awaits the new administration that will begin governing in a little over a month. The facts about deficit financing should be front and center of the White House and Congress.</p><p>Its the Debt servicing costs, stupid — not total debt.</p><p>Consider in 2000, when the US federal debt was 34% of GDP, relatively close to its post-war low. By the end of 2020, the debt-to-GDP ratio will have nearly tripled to over 100% of GDP. At the same time, the cost of servicing this larger debt has fallen, relative to the size of the economy, because of the widespread fall in interest rates across advanced economies. As a share of GDP, the cost of servicing US debt has fallen since 2000, even though federal debt has increased.</p><p>The Peterson Institute has observed:</p><p>“This situation also creates more space for primary deficits (noninterest spending minus revenue) without resulting in an unlimited explosion of debt. Rather than focus on the size of US debt, policymakers should assess fiscal capacity in terms of real interest payments, ensuring they remain comfortably below 2 percent of GDP. By this measure, there is room for substantial additional fiscal support and needed public investments while maintaining a sustainable public debt.” (adapted from Jason Furman and Lawrence H. Summers’ working paper, “A Reconsideration of Fiscal Policy in the Era of Low Interest Rates)</p><p>I will be watching to see if this argument carries with the faux deficit hawks.</p><p>Previously:<br>Can We Please Have an Honest Debate About Tax Policy? (October 2, 2017)</p><p>Deficit Chicken Hawks vs Ronald Reagan (July 13, 2010)</p><p>Politics & Investing</p><p>The post Cost of Financing US Deficits appeared first on The Big Picture.</p>",
+    "domain": "ritholtz.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.589105",
+  "updated_at": "2025-08-06T08:47:03.589107"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "5d72d024e32893ac",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1128877041",
+  "title": "Stratechery Merch, The New York Times on Facebook, Facebook Morale (Stratechery Daily Update 11-15-2018)",
+  "status": "success",
+  "date": "2025-08-05T14:05:43.424957",
+  "error": null,
+  "content_path": "output/articles/markdown/5d72d024e32893ac.md",
+  "html_path": "output/articles/html/5d72d024e32893ac.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "76217e7ac56eb8331fda685802b1ff3f",
+  "type_specific": {
+    "bookmark_id": 1128877041,
+    "instapaper_time": 1542274976,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Stratechery"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:05:43.424985",
+  "updated_at": "2025-08-05T14:05:43.424988"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "281fe32eb796432a",
+  "content_type": "instapaper",
+  "source": "https://www.seriouseats.com/2020/07/kenji-makes-pan-pizza-video.html",
+  "title": "Watch Kenji Demonstrate How Foolproof His Pan Pizza Recipe Really Is Serious Eats",
+  "status": "success",
+  "date": "2025-08-05T13:40:58.118965",
+  "error": null,
+  "content_path": "output/articles/markdown/281fe32eb796432a.md",
+  "html_path": "output/articles/html/281fe32eb796432a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "270893e25596f27f9a273ea804bfd007",
+  "type_specific": {
+    "bookmark_id": 1324605056,
+    "instapaper_time": 1594936381,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:40:58.118999",
+  "updated_at": "2025-08-05T13:40:58.119002"
+}

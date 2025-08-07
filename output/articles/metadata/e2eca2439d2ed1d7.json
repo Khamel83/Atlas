@@ -1,0 +1,40 @@
+{
+  "uid": "e2eca2439d2ed1d7",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://thepointsguy.com/news/these-are-the-exclusive-perks-amex-and-marriott-members-get-at-coachella/",
+  "title": "These Are the Exclusive Perks Amex and Marriott Members Get at Coachella The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2018-04-06T17:51:06",
+  "error": null,
+  "content_path": "output/articles/markdown/e2eca2439d2ed1d7.md",
+  "html_path": "output/articles/html/e2eca2439d2ed1d7.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3554,
+    "selection_length": 2499,
+    "cleaned_selection_length": 2552,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e2eca2439d2ed1d7",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1523062266",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The Coachella Valley Music & Arts Festival, one of the world’s largest music festivals, kicks off next Friday in Southern California’s Coachella Valley.\n\nAmerican Express and Marriott both have exclusive experiences in conjunction with Coachella. Marriott and SPG Rewards members are invited to the loyalty tent in the general admission area. The tent includes amenities like free wi-fi, frozen treats and comfortable seating. Marriott and SPG elites get access to even more preferred seating and refreshments — they’ll also enjoy access to skin treatments with chilled jade rollers and rose water face mists.\n\nRemember that the Platinum Card from American Express offers complimentary SPG Gold Status. The Marriott Rewards Premier Credit Card offers cardholders 15 elite night credits each year — enough to qualify automatically for Silver Elite status.\n\nThe hotel chain allowed rewards members to bid on packages that included a stay at one of three designer yurts at Coachella’s VIP campground. Unfortunately, all auctions have already closed.\n\nAmerican Express will reopen its Platinum House at the Parker Palm Springs for its second year. The house will only be open for Coachella’s first weekend from 11am to 5pm on Saturday April 14 and Sunday April 15.\n\nActivities include SoulCycle classes taught by Senior Master Instructor Stacey Griffith in the morning and an afternoon packed with performances from musical artists like Justine Skye and Julia Michaels. TPG himself plans on attending Saturday afternoon  — he completely soaked up the experience last year.\n\n Sunkist by Platinum   Stop by the Platinum House at the Parker- no Coachella passes needed, just an Amex Platinum + 3 free guests. 3pm @beberexha performs. Come play! #amexplatinum #amexambassador\n\nA post shared by  Brian Kelly (@briankelly) on Apr 15, 2017 at 2:40pm PDT\n\nYou’ll have to be an Amex Platinum or Centurion cardholder to get into the Platinum House. Fortunately, cardholders are allowed to bring up to three guests each.\n\nAmex cardmembers get access to a variety of complimentary perks at Coachella, including a $10 statement credit after spending $10 at participating Coachella vendors. You’ll need to download the Coachella app and enroll your Amex card in the app to be eligible. Other perks include a free ferris wheel ride for you and a guest, access to the priority Uber lane and admission to the Amex Card Member Club for you and three guests.\n\nFeatured image by Matt Winkelmeyer/Getty Images for Coachella.",
+    "cleaned_selection": "<p>The Coachella Valley Music & Arts Festival, one of the world’s largest music festivals, kicks off next Friday in Southern California’s Coachella Valley.</p><p>American Express and Marriott both have exclusive experiences in conjunction with Coachella. Marriott and SPG Rewards members are invited to the loyalty tent in the general admission area. The tent includes amenities like free wi-fi, frozen treats and comfortable seating. Marriott and SPG elites get access to even more preferred seating and refreshments — they’ll also enjoy access to skin treatments with chilled jade rollers and rose water face mists.</p><p>Remember that the Platinum Card from American Express offers complimentary SPG Gold Status. The Marriott Rewards Premier Credit Card offers cardholders 15 elite night credits each year — enough to qualify automatically for Silver Elite status.</p><p>The hotel chain allowed rewards members to bid on packages that included a stay at one of three designer yurts at Coachella’s VIP campground. Unfortunately, all auctions have already closed.</p><p>American Express will reopen its Platinum House at the Parker Palm Springs for its second year. The house will only be open for Coachella’s first weekend from 11am to 5pm on Saturday April 14 and Sunday April 15.</p><p>Activities include SoulCycle classes taught by Senior Master Instructor Stacey Griffith in the morning and an afternoon packed with performances from musical artists like Justine Skye and Julia Michaels. TPG himself plans on attending Saturday afternoon — he completely soaked up the experience last year.</p><p> Sunkist by Platinum Stop by the Platinum House at the Parker- no Coachella passes needed, just an Amex Platinum + 3 free guests. 3pm @beberexha performs. Come play! #amexplatinum #amexambassador</p><p>A post shared by Brian Kelly (@briankelly) on Apr 15, 2017 at 2:40pm PDT</p><p>You’ll have to be an Amex Platinum or Centurion cardholder to get into the Platinum House. Fortunately, cardholders are allowed to bring up to three guests each.</p><p>Amex cardmembers get access to a variety of complimentary perks at Coachella, including a $10 statement credit after spending $10 at participating Coachella vendors. You’ll need to download the Coachella app and enroll your Amex card in the app to be eligible. Other perks include a free ferris wheel ride for you and a guest, access to the priority Uber lane and admission to the Amex Card Member Club for you and three guests.</p><p>Featured image by Matt Winkelmeyer/Getty Images for Coachella.</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.908190",
+  "updated_at": "2025-08-06T08:47:03.908191"
+}

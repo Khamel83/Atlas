@@ -1,0 +1,40 @@
+{
+  "uid": "d3c5dadd3d530ed6",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://marginalrevolution.com/marginalrevolution/2019/09/how-harvard-makes-admissions-decisions.html",
+  "title": "How Harvard makes admissions decisions Marginal Revolution",
+  "status": "selection_content_extracted",
+  "date": "2019-09-19T23:10:20",
+  "error": null,
+  "content_path": "output/articles/markdown/d3c5dadd3d530ed6.md",
+  "html_path": "output/articles/html/d3c5dadd3d530ed6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3015,
+    "selection_length": 1539,
+    "cleaned_selection_length": 1574,
+    "domain": "marginalrevolution.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d3c5dadd3d530ed6",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1568959820",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Here are some new and very thorough results from Peter Arcidiacono, Josh Kinsler, and the excellent Tyler Ransom:\n\nThe lawsuit Students For Fair Admissions v. Harvard University provided an unprecedented look at how an elite school makes admissions decisions. Using publicly released reports, we examine the preferences Harvard gives for recruited athletes, legacies, those on the dean’s interest list, and children of faculty and staff (ALDCs). Among white admits, over 43% are ALDC. Among admits who are African American, Asian American, and Hispanic, the share is less than 16% each. Our model of admissions shows that roughly three quarters of white ALDC admits would have been rejected if they had been treated as white non-ALDCs. Removing preferences for athletes and legacies would significantly alter the racial distribution of admitted students, with the share of white admits falling and all other groups rising or remaining unchanged.\n\nAm I allowed to observe that this seems wrong to me?  And that our “liberal elite” (not my preferred term, but what you see in the discourse and I don’t know which other referent to use) has failed us?\n\nAnd from Garett Jones:\n\nControlling for academic traits and much else, being Asian American predicts a substantially lower probability of Harvard admission… And being female predicts a substantially higher probability of admission.\n\nHere is the full paper.  For the pointer I thank various MR readers.\n\nThe post How Harvard makes admissions decisions appeared first on Marginal REVOLUTION.",
+    "cleaned_selection": "<p>Here are some new and very thorough results from Peter Arcidiacono, Josh Kinsler, and the excellent Tyler Ransom:</p><p>The lawsuit Students For Fair Admissions v. Harvard University provided an unprecedented look at how an elite school makes admissions decisions. Using publicly released reports, we examine the preferences Harvard gives for recruited athletes, legacies, those on the dean’s interest list, and children of faculty and staff (ALDCs). Among white admits, over 43% are ALDC. Among admits who are African American, Asian American, and Hispanic, the share is less than 16% each. Our model of admissions shows that roughly three quarters of white ALDC admits would have been rejected if they had been treated as white non-ALDCs. Removing preferences for athletes and legacies would significantly alter the racial distribution of admitted students, with the share of white admits falling and all other groups rising or remaining unchanged.</p><p>Am I allowed to observe that this seems wrong to me? And that our “liberal elite” (not my preferred term, but what you see in the discourse and I don’t know which other referent to use) has failed us?</p><p>And from Garett Jones:</p><p>Controlling for academic traits and much else, being Asian American predicts a substantially lower probability of Harvard admission… And being female predicts a substantially higher probability of admission.</p><p>Here is the full paper. For the pointer I thank various MR readers.</p><p>The post How Harvard makes admissions decisions appeared first on Marginal REVOLUTION.</p>",
+    "domain": "marginalrevolution.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.720508",
+  "updated_at": "2025-08-06T08:47:03.720509"
+}

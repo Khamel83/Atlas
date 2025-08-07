@@ -1,0 +1,40 @@
+{
+  "uid": "65718c5494da5913",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://kottke.org/19/02/buy-the-cheap-thing-first",
+  "title": "Buy the Cheap Thing First kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2019-02-08T18:03:01",
+  "error": null,
+  "content_path": "output/articles/markdown/65718c5494da5913.md",
+  "html_path": "output/articles/html/65718c5494da5913.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3248,
+    "selection_length": 2193,
+    "cleaned_selection_length": 2244,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "65718c5494da5913",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1549677781",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Beth Skwarecki has written the perfect Lifehacker post with the perfect headline (so perfect I had to use it for my aggregation headline too, which I try to never do):\n\nWhen you’re new to a sport, you don’t yet know what specialized features you will really care about. You probably don’t know whether you’ll stick with your new endeavor long enough to make an expensive purchase worth it. And when you’re a beginner, it’s not like beginner level equipment is going to hold you back…\n\nHow cheap is too cheap?\n\nFind out what is totally useless, and never worth your time. Garage sale ice skates with ankles that are so soft they flop over? Pass them up.\n\nWhat do most people do when starting out?\n\nIf you’re getting into powerlifting and you don’t have a belt and shoes, you can still lift with no belt and no shoes, or with the old pair of Chucks that you may already have in your closet. Ask people about what they wore when they were starting out, and it’s often one of those options…\n\nWhat’s your exit plan?\n\nHow will you decide when you’re done with your beginner equipment? Some things will wear out: Running shoes will feel flat and deflated. Some things may still be usable, but you’ll discover their limitations. Ask experienced people what the fancier gear can do that yours can’t, and you’ll get a sense of when to upgrade. (You may also be able to sell still-good gear to another beginner to recoup some of your costs.)\n\nWearing out your beginner gear is like graduating. You know that you’ve stuck with the sport long enough that you aren’t truly a beginner anymore. You may have managed to save up some cash for the next step. And you can buy the nicer gear now, knowing exactly what you want and need.\n\nThis is 100 percent the truth, and applies to way more than just sports equipment. Computers, cooking, fashion, cars, furniture, you name it. The key thing is to pick your spots, figure out where you actually know what you want and what you want to do with it, and optimize for those. Everywhere else? Don’t outwit yourself. Play it like the beginner that you are. And save some scratch in the process. Perfect, perfect advice.\n\nTags: computing   cooking   Lifehacker   sports",
+    "cleaned_selection": "<p>Beth Skwarecki has written the perfect Lifehacker post with the perfect headline (so perfect I had to use it for my aggregation headline too, which I try to never do):</p><p>When you’re new to a sport, you don’t yet know what specialized features you will really care about. You probably don’t know whether you’ll stick with your new endeavor long enough to make an expensive purchase worth it. And when you’re a beginner, it’s not like beginner level equipment is going to hold you back…</p><p>How cheap is too cheap?</p><p>Find out what is totally useless, and never worth your time. Garage sale ice skates with ankles that are so soft they flop over? Pass them up.</p><p>What do most people do when starting out?</p><p>If you’re getting into powerlifting and you don’t have a belt and shoes, you can still lift with no belt and no shoes, or with the old pair of Chucks that you may already have in your closet. Ask people about what they wore when they were starting out, and it’s often one of those options…</p><p>What’s your exit plan?</p><p>How will you decide when you’re done with your beginner equipment? Some things will wear out: Running shoes will feel flat and deflated. Some things may still be usable, but you’ll discover their limitations. Ask experienced people what the fancier gear can do that yours can’t, and you’ll get a sense of when to upgrade. (You may also be able to sell still-good gear to another beginner to recoup some of your costs.)</p><p>Wearing out your beginner gear is like graduating. You know that you’ve stuck with the sport long enough that you aren’t truly a beginner anymore. You may have managed to save up some cash for the next step. And you can buy the nicer gear now, knowing exactly what you want and need.</p><p>This is 100 percent the truth, and applies to way more than just sports equipment. Computers, cooking, fashion, cars, furniture, you name it. The key thing is to pick your spots, figure out where you actually know what you want and what you want to do with it, and optimize for those. Everywhere else? Don’t outwit yourself. Play it like the beginner that you are. And save some scratch in the process. Perfect, perfect advice.</p><p>Tags: computing cooking Lifehacker sports</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.796860",
+  "updated_at": "2025-08-06T08:47:03.796861"
+}

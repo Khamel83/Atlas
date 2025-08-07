@@ -1,0 +1,40 @@
+{
+  "uid": "99e09dab9b1b1303",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://kottke.org/18/12/mesmerizing-bw-animated-gifs",
+  "title": "Mesmerizing B&W Animated GIFs kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2018-12-20T19:43:33",
+  "error": null,
+  "content_path": "output/articles/markdown/99e09dab9b1b1303.md",
+  "html_path": "output/articles/html/99e09dab9b1b1303.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3296,
+    "selection_length": 231,
+    "cleaned_selection_length": 243,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "99e09dab9b1b1303",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1545363813",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Take a look at these black and white looping animated GIFs by Étienne Jacob. I would have posted these sooner, but those undulating stripes basically hypnotized me for three days and… woo, where was I? (via colossal)\n\nMore about...",
+    "cleaned_selection": "<p>Take a look at these black and white looping animated GIFs by Étienne Jacob. I would have posted these sooner, but those undulating stripes basically hypnotized me for three days and… woo, where was I? (via colossal)</p><p>More about...</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.811180",
+  "updated_at": "2025-08-06T08:47:03.811182"
+}

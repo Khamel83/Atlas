@@ -1,0 +1,40 @@
+{
+  "uid": "3ab8d66a6e31d2da",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://frequentmiler.boardingarea.com/2014/10/11/redcard-changes-everything/",
+  "title": "REDcard changes everything The Frequent Miler",
+  "status": "selection_content_extracted",
+  "date": "2014-10-11T13:11:24",
+  "error": null,
+  "content_path": "output/articles/markdown/3ab8d66a6e31d2da.md",
+  "html_path": "output/articles/html/3ab8d66a6e31d2da.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5091,
+    "selection_length": 500,
+    "cleaned_selection_length": 509,
+    "domain": "frequentmiler.boardingarea.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "3ab8d66a6e31d2da",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1413058284",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "My wife’s Target Prepaid REDcard finally arrived in the mail today.  I quickly activated the card online then sped out to my closest Target store to test it out.  The results were spectacular! First, a little background… REDcard is a new product that is so similar to Bluebird that some are calling it Redbird.  For details about the card please see: The Target Prepaid REDcard. In my first encounter with... Continue Reading\n\nThe post REDcard changes everything appeared first on The Frequent Miler.",
+    "cleaned_selection": "<p>My wife’s Target Prepaid REDcard finally arrived in the mail today. I quickly activated the card online then sped out to my closest Target store to test it out. The results were spectacular! First, a little background… REDcard is a new product that is so similar to Bluebird that some are calling it Redbird. For details about the card please see: The Target Prepaid REDcard. In my first encounter with... Continue Reading</p><p>The post REDcard changes everything appeared first on The Frequent Miler.</p>",
+    "domain": "frequentmiler.boardingarea.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.474074",
+  "updated_at": "2025-08-06T08:47:04.474075"
+}

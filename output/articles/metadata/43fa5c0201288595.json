@@ -1,0 +1,40 @@
+{
+  "uid": "43fa5c0201288595",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://fivethirtyeight.com/features/which-diet-will-help-you-lose-the-most-weight/",
+  "title": "Which Diet Will Help You Lose The Most Weight FiveThirtyEight » Life | FiveThirtyEight",
+  "status": "selection_content_extracted",
+  "date": "2014-10-14T05:05:13",
+  "error": null,
+  "content_path": "output/articles/markdown/43fa5c0201288595.md",
+  "html_path": "output/articles/html/43fa5c0201288595.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5090,
+    "selection_length": 312,
+    "cleaned_selection_length": 319,
+    "domain": "fivethirtyeight.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "43fa5c0201288595",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1413288313",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Almost 70 percent of American adults are overweight or obese. At any given time, 51 percent of Americans say they’d like to lose weight, and 25 percent say they’re actively trying to lose weight. It’s not surprising, then, that diets abound. In fact, it can sometimes seem like there are as many ways to lose […]",
+    "cleaned_selection": "<p>Almost 70 percent of American adults are overweight or obese. At any given time, 51 percent of Americans say they’d like to lose weight, and 25 percent say they’re actively trying to lose weight. It’s not surprising, then, that diets abound. In fact, it can sometimes seem like there are as many ways to lose […]</p>",
+    "domain": "fivethirtyeight.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.473436",
+  "updated_at": "2025-08-06T08:47:04.473437"
+}

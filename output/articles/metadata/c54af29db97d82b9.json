@@ -1,0 +1,40 @@
+{
+  "uid": "c54af29db97d82b9",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.vox.com/videos/2016/12/19/14002700/muslim-internet-dont-read-comments",
+  "title": "One helpful rule for being a Muslim on the internet don’t read the comments Vox - All",
+  "status": "selection_content_extracted",
+  "date": "2016-12-19T17:47:25",
+  "error": null,
+  "content_path": "output/articles/markdown/c54af29db97d82b9.md",
+  "html_path": "output/articles/html/c54af29db97d82b9.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4191,
+    "selection_length": 986,
+    "cleaned_selection_length": 1013,
+    "domain": "vox.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "c54af29db97d82b9",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1482198445",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "“Do not read the comments section. You will lose your mind.”\n\nIn the past, when curious people asked comedian Zahra Noorbakhsh questions about \"Muslimness,\" as she puts it, she would say, \"just Google it!” But later, as the internet evolved, her answer changed to: “Please don't Google that. Just come to dinner with me and my family.\"\n\nFellow comedian, Maz Jobrani echoes Noorbakhsh’s sentiment, “The internet was supposed to make us better and more intelligent,” Jobrani says, “but it's just shown how stupid we are.”\n\nSo, what does one do in the face of hate tweets, accusations of terrorist sympathy, or just general threats? The cast of The Secret Life of Muslims shares some of their online experiences.\n\nThis episode of The Secret Life of Muslims features Aman Ali, Wajahat Ali, Amani Al-Khatahtbeh, Reza Aslan, Negin Farsad, Mona Haydar, Maz Jobrani, Ibtihaj Muhammad, Zahra Noorbakhsh, Omar Regan, Sebastian Robins, Linda Sarsour, Layla Shaikley, Dena Takruri, and Iqbal Theba.",
+    "cleaned_selection": "<p>“Do not read the comments section. You will lose your mind.”</p><p>In the past, when curious people asked comedian Zahra Noorbakhsh questions about \"Muslimness,\" as she puts it, she would say, \"just Google it!” But later, as the internet evolved, her answer changed to: “Please don't Google that. Just come to dinner with me and my family.\"</p><p>Fellow comedian, Maz Jobrani echoes Noorbakhsh’s sentiment, “The internet was supposed to make us better and more intelligent,” Jobrani says, “but it's just shown how stupid we are.”</p><p>So, what does one do in the face of hate tweets, accusations of terrorist sympathy, or just general threats? The cast of The Secret Life of Muslims shares some of their online experiences.</p><p>This episode of The Secret Life of Muslims features Aman Ali, Wajahat Ali, Amani Al-Khatahtbeh, Reza Aslan, Negin Farsad, Mona Haydar, Maz Jobrani, Ibtihaj Muhammad, Zahra Noorbakhsh, Omar Regan, Sebastian Robins, Linda Sarsour, Layla Shaikley, Dena Takruri, and Iqbal Theba.</p>",
+    "domain": "vox.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.207708",
+  "updated_at": "2025-08-06T08:47:04.207709"
+}

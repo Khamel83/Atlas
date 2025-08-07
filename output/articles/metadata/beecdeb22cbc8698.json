@@ -1,0 +1,42 @@
+{
+  "uid": "beecdeb22cbc8698",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1649211601",
+  "title": "Ten strategies for replacing Twitter from people who used to work there",
+  "status": "success",
+  "date": "2025-08-05T13:39:52.244528",
+  "error": null,
+  "content_path": "output/articles/markdown/beecdeb22cbc8698.md",
+  "html_path": "output/articles/html/beecdeb22cbc8698.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "607c88f8ea03c95b0d2782ff5e8cbb22",
+  "type_specific": {
+    "bookmark_id": 1649211601,
+    "instapaper_time": 1701392544,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:39:52.244541",
+  "updated_at": "2025-08-05T13:39:52.244543"
+}

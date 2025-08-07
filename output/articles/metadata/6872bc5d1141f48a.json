@@ -1,0 +1,40 @@
+{
+  "uid": "6872bc5d1141f48a",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2015/08/award-booking-essentials-american-airlines-charts-regions-and-rules.html",
+  "title": "Award Booking Essentials American Airlines Charts, Regions and Rules Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2015-08-06T08:15:48",
+  "error": null,
+  "content_path": "output/articles/markdown/6872bc5d1141f48a.md",
+  "html_path": "output/articles/html/6872bc5d1141f48a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4785,
+    "selection_length": 320,
+    "cleaned_selection_length": 327,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "6872bc5d1141f48a",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1438874148",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Here at FrugalTravelGuy we are always thinking of ways to help our readers make sure they have as much information as possible at their disposal to be able to redeem their points and miles for the award booking of their dreams. Pursuant to these goals, we will be publishing a series of articles titled Award Booking […]",
+    "cleaned_selection": "<p>Here at FrugalTravelGuy we are always thinking of ways to help our readers make sure they have as much information as possible at their disposal to be able to redeem their points and miles for the award booking of their dreams. Pursuant to these goals, we will be publishing a series of articles titled Award Booking […]</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.389696",
+  "updated_at": "2025-08-06T08:47:04.389697"
+}

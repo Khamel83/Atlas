@@ -1,0 +1,40 @@
+{
+  "uid": "e2181b132c4691ed",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thepointsguy.com/2014/06/status-matcher-helps-travelers-attain-and-keep-elite-status/",
+  "title": "Status Matcher Helps Travelers Attain and Keep Elite Status The Points Guy",
+  "status": "selection_content_extracted",
+  "date": "2014-06-30T19:47:59",
+  "error": null,
+  "content_path": "output/articles/markdown/e2181b132c4691ed.md",
+  "html_path": "output/articles/html/e2181b132c4691ed.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5236,
+    "selection_length": 359,
+    "cleaned_selection_length": 366,
+    "domain": "thepointsguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "e2181b132c4691ed",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1404182879",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Yesterday I answered a reader question about airline status matches and challenges, and I mentioned a website called Status Matcher, which provides a bounty of information about the status match and challenge policies of most airlines, hotels, and even auto rental companies (hat tip to TPG reader Ali who introduced me to the site!). I think this website […]",
+    "cleaned_selection": "<p>Yesterday I answered a reader question about airline status matches and challenges, and I mentioned a website called Status Matcher, which provides a bounty of information about the status match and challenge policies of most airlines, hotels, and even auto rental companies (hat tip to TPG reader Ali who introduced me to the site!). I think this website […]</p>",
+    "domain": "thepointsguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.504860",
+  "updated_at": "2025-08-06T08:47:04.504861"
+}

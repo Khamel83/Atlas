@@ -1,0 +1,40 @@
+{
+  "uid": "503a56af1352392a",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/the-goods/2019/6/3/18647626/instagram-virtual-influencers-lil-miquela-ai-startups",
+  "title": "Lil Miquela and the virtual influencer hype, explained Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:43:16.817476",
+  "error": null,
+  "content_path": "output/articles/markdown/503a56af1352392a.md",
+  "html_path": "output/articles/html/503a56af1352392a.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "8b823edd8798781fc58d008341b39423",
+  "type_specific": {
+    "bookmark_id": 1199776706,
+    "instapaper_time": 1559603435,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:43:16.817522",
+  "updated_at": "2025-08-05T13:43:16.817526"
+}

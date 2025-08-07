@@ -1,0 +1,40 @@
+{
+  "uid": "68b313f54cfb37e0",
+  "content_type": "instapaper",
+  "source": "https://stratechery.com/2017/faceless-publishers-take-2-internet-trends-2017/",
+  "title": "Faceless Publishers, Take 2; Internet Trends 2017 Stratechery by Ben Thompson Member Feed",
+  "status": "success",
+  "date": "2025-08-05T14:03:15.414233",
+  "error": null,
+  "content_path": "output/articles/markdown/68b313f54cfb37e0.md",
+  "html_path": "output/articles/html/68b313f54cfb37e0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "fbad8650913924231c5286ddecb543ee",
+  "type_specific": {
+    "bookmark_id": 913904928,
+    "instapaper_time": 1496327810,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:03:15.414283",
+  "updated_at": "2025-08-05T14:03:15.414287"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "f470c470f6a40e8c",
+  "content_type": "instapaper",
+  "source": "https://thepointsguy.com/guide/boost-credit-score-in-30-days/",
+  "title": "3 Real Ways to Boost Your Credit Score in 30 Days The Points Guy",
+  "status": "success",
+  "date": "2025-08-05T13:43:04.287549",
+  "error": null,
+  "content_path": "output/articles/markdown/f470c470f6a40e8c.md",
+  "html_path": "output/articles/html/f470c470f6a40e8c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cc9492a12e7f4f75aefa6402e5564b00",
+  "type_specific": {
+    "bookmark_id": 1209940946,
+    "instapaper_time": 1562225510,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:43:04.287607",
+  "updated_at": "2025-08-05T13:43:04.287610"
+}

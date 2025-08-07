@@ -1,0 +1,42 @@
+{
+  "uid": "182f6c9c0a531c56",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1650341647",
+  "title": "Google unveils Gemini",
+  "status": "success",
+  "date": "2025-08-05T13:39:35.009665",
+  "error": null,
+  "content_path": "output/articles/markdown/182f6c9c0a531c56.md",
+  "html_path": "output/articles/html/182f6c9c0a531c56.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d3a355ba5ee8297d33b1d482c6b51107",
+  "type_specific": {
+    "bookmark_id": 1650341647,
+    "instapaper_time": 1701875145,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:39:35.009698",
+  "updated_at": "2025-08-05T13:39:35.009702"
+}

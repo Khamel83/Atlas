@@ -1,0 +1,40 @@
+{
+  "uid": "689150dc191ff9b0",
+  "content_type": "instapaper",
+  "source": "https://www.frugaltravelguy.com/2017/10/los-cabos-why-you-should-absolutely-go-and-where-to-stay.html",
+  "title": "Los Cabos Why You Should Absolutely Go and Where to Stay Frugal Travel Guy",
+  "status": "success",
+  "date": "2025-08-05T13:57:04.767027",
+  "error": null,
+  "content_path": "output/articles/markdown/689150dc191ff9b0.md",
+  "html_path": "output/articles/html/689150dc191ff9b0.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7e9ef171826e66f283390746a1dee81e",
+  "type_specific": {
+    "bookmark_id": 973182849,
+    "instapaper_time": 1509125884,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:57:04.767315",
+  "updated_at": "2025-08-05T13:57:04.767320"
+}

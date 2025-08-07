@@ -1,0 +1,40 @@
+{
+  "uid": "f290e99018a8b8fd",
+  "content_type": "instapaper",
+  "source": "https://thepointsguy.com/2017/04/at-the-airport-lost-passport-quora/",
+  "title": "What Should I Do If I Lose My Passport The Points Guy",
+  "status": "success",
+  "date": "2025-08-05T14:04:21.628754",
+  "error": null,
+  "content_path": "output/articles/markdown/f290e99018a8b8fd.md",
+  "html_path": "output/articles/html/f290e99018a8b8fd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "ee9153a2fbdcc92ac56600d27a20c276",
+  "type_specific": {
+    "bookmark_id": 898369072,
+    "instapaper_time": 1493062548,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:04:21.628783",
+  "updated_at": "2025-08-05T14:04:21.628786"
+}

@@ -1,0 +1,83 @@
+# Deal Alert LA to Australia or New Zealand From $707 Round-Trip The Points Guy
+
+**Source:** https://thepointsguy.com/deals/la-to-australia-new-zealand-from-707-round-trip/  
+**Domain:** thepointsguy.com  
+**Folder:** Feedly  
+**Added:** 2018-07-28T10:19:47  
+**Content Type:** Selection Content Extracted  
+**Selection Length:** 3,147 characters  
+
+
+---
+
+## Selected Content
+
+Want to see the latest flight deals as soon as they’re published? Follow The Points Guy on Facebook and Twitter, and subscribe to text message alerts from our deals feed, @tpg_alerts.
+
+Airfare deals are typically only available on limited dates. We recommend you use Google Flights to find dates to fly, then book through an online travel agency such as Orbitz or Expedia, which allows you to cancel flights without penalty by 11pm Eastern Time within one day of booking. However, if you’re using The Platinum Card® from American Express, you’ll need to book directly with the airline or through the Amex Travel portal to get 5x MR points. Remember: Fares may disappear quickly, so book right away and take advantage of Orbitz or Expedia’s courtesy cancellation if you’re unable to get the time away from work or family.
+
+Now’s a great time to plan your fall (technically spring) getaway to the South Pacific. Qantas and Virgin Australia are currently offering flights from Los Angeles (LAX) to major cities in Australia and New Zealand, such as Auckland (AKL), Brisbane (BNE) and Sydney (SYD), from $707 round-trip. The low fares are available for travel from August through December 2018 so you’ll get to enjoy comfortable temperatures and avoid larger summer crowds.
+
+You don’t need any tricks to get these prices, just head to Google Flights and plug in your desired departure city. After finding dates that work best for you, book with the airline directly or with an OTA such as Expedia or Priceline. As a reminder, if you’re an Amex cardholder, you may be eligible for discounts on Qantas flights by booking through The Travel Collection.
+
+Airlines: Qantas, Virgin Australia
+Routes: LAX to AKL/BNE/CHC/MEL/SYD
+Cost: $707+ round-trip in economy
+Dates: August – December 2018
+Booking Link: Orbitz, Expedia or directly with the airlinePay With: The Platinum Card® from American Express (5x on airfare), Chase Sapphire Reserve, Premier Rewards Gold Card from American Express, Citi Prestige (3x on airfare plus excellent trip delay insurance) or Chase Sapphire Preferred (2x on travel)
+
+Here are a few examples of what you can book:
+
+Los Angeles (LAX) to Auckland (AKL) in September for $707 round-trip on Qantas via Expedia:
+
+Los Angeles (LAX) to Auckland (AKL) in December for $707 round-trip on Qantas via Expedia:
+
+Los Angeles (LAX) to Melbourne (MEL) in December for $741 round-trip on Qantas via Expedia:
+
+Los Angeles (LAX) to Sydney (SYD) in November for $753 round-trip on Virgin Australia via Expedia:
+
+Los Angeles (LAX) to Brisbane (BNE) in December for $758 round-trip on Virgin Australia via Expedia:
+
+Maximize Your Purchase
+
+Don’t forget to use a credit card that earns additional points on airfare purchases, such as The Platinum Card® from American Express (5x on flights booked directly with airlines or American Express Travel), Chase Sapphire Reserve, American Express Premier Rewards Gold or Citi Prestige (3x on airfare) or the Chase Sapphire Preferred Card (2x on all travel purchases). Check out this post for more on maximizing airfare purchases.
+
+H/T: Scott’s Cheap Flights
+
+Featured image by Westend61 via Getty Images.
+
+---
+
+*This content was extracted from your Instapaper Selection field.*
+
+Airfare deals are typically only available on limited dates. We recommend you use Google Flights to find dates to fly, then book through an online travel agency such as Orbitz or Expedia, which allows you to cancel flights without penalty by 11pm Eastern Time within one day of booking. However, if you’re using The Platinum Card® from American Express, you’ll need to book directly with the airline or through the Amex Travel portal to get 5x MR points. Remember: Fares may disappear quickly, so book right away and take advantage of Orbitz or Expedia’s courtesy cancellation if you’re unable to get the time away from work or family.
+
+Now’s a great time to plan your fall (technically spring) getaway to the South Pacific. Qantas and Virgin Australia are currently offering flights from Los Angeles (LAX) to major cities in Australia and New Zealand, such as Auckland (AKL), Brisbane (BNE) and Sydney (SYD), from $707 round-trip. The low fares are available for travel from August through December 2018 so you’ll get to enjoy comfortable temperatures and avoid larger summer crowds.
+
+You don’t need any tricks to get these prices, just head to Google Flights and plug in your desired departure city. After finding dates that work best for you, book with the airline directly or with an OTA such as Expedia or Priceline. As a reminder, if you’re an Amex cardholder, you may be eligible for discounts on Qantas flights by booking through The Travel Collection.
+
+Airlines: Qantas, Virgin Australia
+Routes: LAX to AKL/BNE/CHC/MEL/SYD
+Cost: $707+ round-trip in economy
+Dates: August – December 2018
+Booking Link: Orbitz, Expedia or directly with the airlinePay With: The Platinum Card® from American Express (5x on airfare), Chase Sapphire Reserve, Premier Rewards Gold Card from American Express, Citi Prestige (3x on airfare plus excellent trip delay insurance) or Chase Sapphire Preferred (2x on travel)
+
+Here are a few examples of what you can book:
+
+Los Angeles (LAX) to Auckland (AKL) in September for $707 round-trip on Qantas via Expedia:
+
+Los Angeles (LAX) to Auckland (AKL) in December for $707 round-trip on Qantas via Expedia:
+
+Los Angeles (LAX) to Melbourne (MEL) in December for $741 round-trip on Qantas via Expedia:
+
+Los Angeles (LAX) to Sydney (SYD) in November for $753 round-trip on Virgin Australia via Expedia:
+
+Los Angeles (LAX) to Brisbane (BNE) in December for $758 round-trip on Virgin Australia via Expedia:
+
+Maximize Your Purchase
+
+Don’t forget to use a credit card that earns additional points on airfare purchases, such as The Platinum Card® from American Express (5x on flights booked directly with airlines or American Express Travel), Chase Sapphire Reserve, American Express Premier Rewards Gold or Citi Prestige (3x on airfare) or the Chase Sapphire Preferred Card (2x on all travel purchases). Check out this post for more on maximizing airfare purchases.
+
+H/T: Scott’s Cheap Flights
+
+Featured image by Westend61 via Getty Images.

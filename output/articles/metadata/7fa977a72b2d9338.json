@@ -1,0 +1,40 @@
+{
+  "uid": "7fa977a72b2d9338",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://kottke.org/17/11/the-best-panoramic-photos-of-2017",
+  "title": "The best panoramic photos of 2017 kottke.org",
+  "status": "selection_content_extracted",
+  "date": "2017-11-21T17:37:04",
+  "error": null,
+  "content_path": "output/articles/markdown/7fa977a72b2d9338.md",
+  "html_path": "output/articles/html/7fa977a72b2d9338.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 3708,
+    "selection_length": 338,
+    "cleaned_selection_length": 344,
+    "domain": "kottke.org",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7fa977a72b2d9338",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1511314624",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The winners of the 2017 Epson International Pano Awards have been announced. In Focus has a round-up of some of the best ones. It was tough to choose just three to feature here, so make sure and check out all the winners. Photos by Francisco Negroni, Paolo Lazzarotti, and Ray Jennings.\n\nTags: best of   best of 2017   lists   photography",
+    "cleaned_selection": "<p>The winners of the 2017 Epson International Pano Awards have been announced. In Focus has a round-up of some of the best ones. It was tough to choose just three to feature here, so make sure and check out all the winners. Photos by Francisco Negroni, Paolo Lazzarotti, and Ray Jennings.</p><p>Tags: best of best of 2017 lists photography</p>",
+    "domain": "kottke.org",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.960497",
+  "updated_at": "2025-08-06T08:47:03.960503"
+}

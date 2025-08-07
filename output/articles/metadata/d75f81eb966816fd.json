@@ -1,0 +1,40 @@
+{
+  "uid": "d75f81eb966816fd",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://thecable.foreignpolicy.com/posts/2011/09/22/bill_clinton_netanyahu_killed_the_peace_process",
+  "title": "Bill Clinton: Netanyahu killed the peace process | The Cable",
+  "status": "selection_content_extracted",
+  "date": "2011-09-24T21:55:20",
+  "error": null,
+  "content_path": "output/articles/markdown/d75f81eb966816fd.md",
+  "html_path": "output/articles/html/d75f81eb966816fd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5602,
+    "selection_length": 179,
+    "cleaned_selection_length": 186,
+    "domain": "thecable.foreignpolicy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d75f81eb966816fd",
+  "type_specific": {
+    "folder": "Starred",
+    "instapaper_timestamp": "1316926520",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "&quot;The Netanyahu government has received all of the assurances previous Israeli governments said they wanted but now won't accept those terms to make peace, Clinton said.&quot;",
+    "cleaned_selection": "<p>&quot;The Netanyahu government has received all of the assurances previous Israeli governments said they wanted but now won't accept those terms to make peace, Clinton said.&quot;</p>",
+    "domain": "thecable.foreignpolicy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.526008",
+  "updated_at": "2025-08-06T08:47:04.526009"
+}

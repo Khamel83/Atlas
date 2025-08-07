@@ -1,0 +1,26 @@
+{
+  "uid": "3b69c6b9d9df7003",
+  "content_type": "private_newsletter_batch_51_100",
+  "source": "instapaper://private-content/1752895933",
+  "title": "America This Week - Livestream Tonight at 8 PM ET/7 PM CT",
+  "status": "success",
+  "date": "2025-08-06T13:17:14.794758",
+  "error": null,
+  "content_path": "output/articles/markdown/3b69c6b9d9df7003.md",
+  "html_path": "output/articles/html/3b69c6b9d9df7003.html",
+  "fetch_method": "instapaper_api_batch_51_100_extraction",
+  "fetch_details": {
+    "bookmark_id": 1752895933,
+    "content_length": 13813,
+    "successful": true,
+    "extraction_batch": "batch_51_100"
+  },
+  "type_specific": {
+    "bookmark_id": 1752895933,
+    "instapaper_time": 1739206231,
+    "is_private_content": true,
+    "content_length": 13813
+  },
+  "created_at": "2025-08-06T13:17:14.794772",
+  "updated_at": "2025-08-06T13:17:14.794775"
+}

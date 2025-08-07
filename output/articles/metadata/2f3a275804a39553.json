@@ -1,0 +1,42 @@
+{
+  "uid": "2f3a275804a39553",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1686808503",
+  "title": "💥Vyaire Gets a Breathing Spell💥",
+  "status": "success",
+  "date": "2025-08-05T13:35:24.910215",
+  "error": null,
+  "content_path": "output/articles/markdown/2f3a275804a39553.md",
+  "html_path": "output/articles/html/2f3a275804a39553.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "accb760c65924e81a539fa93bbbdd89f",
+  "type_specific": {
+    "bookmark_id": 1686808503,
+    "instapaper_time": 1718107399,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:35:24.910233",
+  "updated_at": "2025-08-05T13:35:24.910234"
+}

@@ -1,0 +1,42 @@
+{
+  "uid": "08f8a0dfa55e5068",
+  "content_type": "instapaper",
+  "source": "instapaper://private-content/1648758187",
+  "title": "\"Anti-Disinformation\" Is a Partisan Con",
+  "status": "success",
+  "date": "2025-08-05T13:39:54.484483",
+  "error": null,
+  "content_path": "output/articles/markdown/08f8a0dfa55e5068.md",
+  "html_path": "output/articles/html/08f8a0dfa55e5068.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "cbaea7d37d3f4240cd5f1e80f747ac82",
+  "type_specific": {
+    "bookmark_id": 1648758187,
+    "instapaper_time": 1701219393,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Unread",
+      "Archive",
+      "Starred"
+    ],
+    "is_private_content": true,
+    "private_source": "email"
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:39:54.484517",
+  "updated_at": "2025-08-05T13:39:54.484520"
+}

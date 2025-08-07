@@ -1,0 +1,40 @@
+{
+  "uid": "93b4be12ccda2494",
+  "content_type": "web_bookmark_with_selection",
+  "source": "https://tywkiwdbi.blogspot.com/2020/08/thisis-worthlisteningto.html",
+  "title": "This.........is worth.........................listening.........to TYWKIWDBI (Tai",
+  "status": "selection_content_extracted",
+  "date": "2020-08-18T23:51:39",
+  "error": null,
+  "content_path": "output/articles/markdown/93b4be12ccda2494.md",
+  "html_path": "output/articles/html/93b4be12ccda2494.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 2782,
+    "selection_length": 460,
+    "cleaned_selection_length": 477,
+    "domain": "tywkiwdbi.blogspot.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "93b4be12ccda2494",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1597819899",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "A brief segment from last week's episode of This American Life.  I can't seem to find an embed for the blog (the sharing seems to be for social media only).\n\nThe segment entitled \"Time Bandit\" is 24 minutes in length; if you don't have that much time, try the first seven or eight minutes.  It's worth a listen.  Trust me.\n\nhttps://shortcut.thisamericanlife.org/#/clipping/713/650?_k=2jbfns\n\nThat doesn't seem to work.  Try this link.  (Image cropped for size)",
+    "cleaned_selection": "<p>A brief segment from last week's episode of This American Life. I can't seem to find an embed for the blog (the sharing seems to be for social media only).</p><p>The segment entitled \"Time Bandit\" is 24 minutes in length; if you don't have that much time, try the first seven or eight minutes. It's worth a listen. Trust me.</p><p>https://shortcut.thisamericanlife.org/#/clipping/713/650?_k=2jbfns</p><p>That doesn't seem to work. Try this link. (Image cropped for size)</p>",
+    "domain": "tywkiwdbi.blogspot.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:03.615178",
+  "updated_at": "2025-08-06T08:47:03.615180"
+}

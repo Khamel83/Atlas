@@ -1,0 +1,40 @@
+{
+  "uid": "b9b728ce2f5bfc58",
+  "content_type": "instapaper",
+  "source": "http://ritholtz.com/2017/05/whos-afraid-amazon-9-surprising-retail-winnerstraditional-retailing-far-dead-judge-success-best-buy-home-depot-wal-mart-others/",
+  "title": "Barrons Who’s Afraid of Amazon 9 Surprising Retail Winners The Big Picture",
+  "status": "success",
+  "date": "2025-08-05T14:03:23.760179",
+  "error": null,
+  "content_path": "output/articles/markdown/b9b728ce2f5bfc58.md",
+  "html_path": "output/articles/html/b9b728ce2f5bfc58.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "16ced0f4338a39620680bdcbec5b4e3e",
+  "type_specific": {
+    "bookmark_id": 910689238,
+    "instapaper_time": 1495645552,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:03:23.760261",
+  "updated_at": "2025-08-05T14:03:23.760264"
+}

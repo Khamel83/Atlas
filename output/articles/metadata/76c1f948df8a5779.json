@@ -1,0 +1,40 @@
+{
+  "uid": "76c1f948df8a5779",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/policy-and-politics/2018/7/26/17613844/racial-diversity-poll-twitter-white-people",
+  "title": "American white people really hate being called “white people” Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:48:36.308081",
+  "error": null,
+  "content_path": "output/articles/markdown/76c1f948df8a5779.md",
+  "html_path": "output/articles/html/76c1f948df8a5779.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "929c2463a5aea6753045d44ae96dfc57",
+  "type_specific": {
+    "bookmark_id": 1085306329,
+    "instapaper_time": 1532925946,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:48:36.308108",
+  "updated_at": "2025-08-05T13:48:36.308112"
+}

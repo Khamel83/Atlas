@@ -1,0 +1,40 @@
+{
+  "uid": "4aa0677e5bbef39f",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://grantland.com/the-triangle/five-minutes-with-bulls-coach-fred-hoiberg/",
+  "title": "Five Minutes With Bulls Coach Fred Hoiberg Grantland » Contributors » Zach Lowe",
+  "status": "selection_content_extracted",
+  "date": "2015-10-29T21:35:32",
+  "error": null,
+  "content_path": "output/articles/markdown/4aa0677e5bbef39f.md",
+  "html_path": "output/articles/html/4aa0677e5bbef39f.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 4705,
+    "selection_length": 110,
+    "cleaned_selection_length": 117,
+    "domain": "grantland.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "4aa0677e5bbef39f",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1446179732",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "Chicago's head coach talks about bringing Joakim Noah off the bench, team chemistry, fashion choices, and more",
+    "cleaned_selection": "<p>Chicago's head coach talks about bringing Joakim Noah off the bench, team chemistry, fashion choices, and more</p>",
+    "domain": "grantland.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.366657",
+  "updated_at": "2025-08-06T08:47:04.366659"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "0f0724ec93ed7bfd",
+  "content_type": "instapaper",
+  "source": "https://www.theverge.com/2017/9/6/16215562/evernote-app-organize-how-to-use-maximum-productivity",
+  "title": "How to use Evernote to organize your life The Verge",
+  "status": "success",
+  "date": "2025-08-05T14:00:22.358647",
+  "error": null,
+  "content_path": "output/articles/markdown/0f0724ec93ed7bfd.md",
+  "html_path": "output/articles/html/0f0724ec93ed7bfd.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "d336e4aca9b815616cc63d23cefd2e14",
+  "type_specific": {
+    "bookmark_id": 951861931,
+    "instapaper_time": 1504733894,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T14:00:22.358716",
+  "updated_at": "2025-08-05T14:00:22.358720"
+}

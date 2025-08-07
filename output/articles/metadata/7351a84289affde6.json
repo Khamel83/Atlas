@@ -1,0 +1,40 @@
+{
+  "uid": "7351a84289affde6",
+  "content_type": "web_bookmark_with_selection",
+  "source": "http://www.frugaltravelguy.com/2014/09/4-tips-to-know-before-you-go-to-machu-picchu.html",
+  "title": "4 Tips to Know Before You Go to Machu Picchu Frugal Travel Guy",
+  "status": "selection_content_extracted",
+  "date": "2014-09-15T13:43:54",
+  "error": null,
+  "content_path": "output/articles/markdown/7351a84289affde6.md",
+  "html_path": "output/articles/html/7351a84289affde6.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_selection_extraction",
+  "fetch_details": {
+    "source": "instapaper_csv_selection_field",
+    "csv_row": 5141,
+    "selection_length": 299,
+    "cleaned_selection_length": 306,
+    "domain": "frugaltravelguy.com",
+    "extraction_method": "enhanced_selection_processor"
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "7351a84289affde6",
+  "type_specific": {
+    "folder": "Feedly",
+    "instapaper_timestamp": "1410813834",
+    "is_private_content": false,
+    "private_source": "",
+    "selection": "The sacred Inca site of Machu Picchu in Peru is on most travelers’ bucket list and with the abundance of affordable flights popping up this year many have been able to make their dream of visiting the site come true. Fortunately my friend and I were lucky enough to be among that group. The trip […]",
+    "cleaned_selection": "<p>The sacred Inca site of Machu Picchu in Peru is on most travelers’ bucket list and with the abundance of affordable flights popping up this year many have been able to make their dream of visiting the site come true. Fortunately my friend and I were lucky enough to be among that group. The trip […]</p>",
+    "domain": "frugaltravelguy.com",
+    "has_substantial_content": true
+  },
+  "video_id": null,
+  "created_at": "2025-08-06T08:47:04.491377",
+  "updated_at": "2025-08-06T08:47:04.491378"
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "4b9dc8209c30408c",
+  "content_type": "instapaper",
+  "source": "https://www.vox.com/2018/4/6/17169448/trump-islamophobia-muslims-islam-black-lives-matter",
+  "title": "What most Americans get wrong about Islamophobia Vox - All",
+  "status": "success",
+  "date": "2025-08-05T13:50:41.586266",
+  "error": null,
+  "content_path": "output/articles/markdown/4b9dc8209c30408c.md",
+  "html_path": "output/articles/html/4b9dc8209c30408c.html",
+  "audio_path": null,
+  "transcript_path": null,
+  "tags": [],
+  "notes": [],
+  "fetch_method": "instapaper_api",
+  "fetch_details": {
+    "attempts": [],
+    "successful_method": "instapaper_api",
+    "is_truncated": false,
+    "total_attempts": 1,
+    "fetch_time": null
+  },
+  "category_version": null,
+  "last_tagged_at": null,
+  "source_hash": "52277db407582317d1844257b86e5cc7",
+  "type_specific": {
+    "bookmark_id": 1039685860,
+    "instapaper_time": 1523033394,
+    "starred": true,
+    "progress": 0.0,
+    "folders": [
+      "Feedly"
+    ],
+    "is_private_content": false,
+    "private_source": ""
+  },
+  "video_id": null,
+  "created_at": "2025-08-05T13:50:41.586318",
+  "updated_at": "2025-08-05T13:50:41.586322"
+}
